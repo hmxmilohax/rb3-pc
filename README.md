@@ -52,25 +52,25 @@ You will need:
 >## INSTALLATION:
 We’ll be downloading an older version of RPCS3 as it performs better at the moment. Although this guide is Windows-centric, I have linked Linux and Mac OS just in case you want to try it on those operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.
 
-| [![Microsoft Windows' logo](images/reqs/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/reqs/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") | [![Apple Computers' logo](images/reqs/mac.png)](https://github.com/RPCS3/rpcs3-binaries-mac/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_macos.dmg "Mac OS Version") |
+| [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") | [![Apple Computers' logo](images/inst/mac.png)](https://github.com/RPCS3/rpcs3-binaries-mac/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_macos.dmg "Mac OS Version") |
 |---|---|---|
 
 Once it downloads, extract the .7zip file  
-![A screenshot of the the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/reqs/extract.png "Extract Files")
+![A screenshot of the the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
 
 I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. I'd also untick the box that will create the massive sub-directory as shown highlighted in the picture. Avoid installing and running from an external drive as it can cause massive issues.  
-![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/reqs/extractdir.png "Extract")
+![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/inst/extractdir.png "Extract")
 
 Once that’s extracted, [download the PlayStation 3 system software from Sony’s website](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get to “**Update using a computer**”, **click that** to expand, then click on “**Download PS3 Update.**”  
   
 _**If you’re on a Chromium based browser like Chrome or Edge, MAKE SURE YOU RIGHT CLICK AND “Save link as”, or it MAY become stuck.**_
 
 Once again, the picture below links to the download page.
-[![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/reqs/firmware.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
+[![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/inst/firmware.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
 
 Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** you just downloaded from Sony’s website **into RPCS3** **then click Yes**.  
-![A of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/reqs/fwinstall.png)
+![A of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/inst/fwinstall.png)
 
 It will start compiling modules, which may take a few minutes. Let it do its thing.  
 ![](https://i.imgur.com/JucJcoD.png)
@@ -88,7 +88,7 @@ When that’s finished, drag the update file into RPCS3 and click Yes, just like
 ![](https://i.imgur.com/43mEOg8.png)
 
 >## _CONFIGURATION_:
-_**EXTRA: IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!**_
+_**IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!**_
 
 > _**CONTROLLERS**_
 
