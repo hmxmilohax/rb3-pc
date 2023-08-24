@@ -35,7 +35,7 @@ You will need:
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_
 	*   _Any Rock Band and Guitar Hero Drums (PS3, PS4, Wii, X360)_
-	*   _Any MIDI instrument compatible with the Rock Band 3 MIDI Pro Adapter(PS3 only)_<sup>a
+	*   _Any MIDI instrument compatible with the Rock Band 3 MIDI Pro Adapter (PS3 version only)_<sup>a
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>a b
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>a
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
@@ -292,8 +292,8 @@ We’ll go tab by tab, starting with:
 
 ## I/O
 This section is **for people playing with a Keyboard or a Pro Guitar**
-* **If you’re not playing with a wired Pro Guitar or a USB/MIDI keyboard, skip** over **this section**.  
-* **If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar, skip** over **this section**.  
+* **If you’re not playing with a wired Pro Guitar or a USB/MIDI keyboard,** [**skip** over **this section**.](#network)  
+* **If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [**skip** over **this section**.](#network)  
 
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 ![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](images/midi/usbkeys.png "USB Keyboard")  
