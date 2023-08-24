@@ -7,23 +7,23 @@ Video Version (Outdated):
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
 <br/>
 
-1. [_Requirements_](#Requirements)
-2. [_Installation_](#INSTALLATION)
-3. [_Configuration_](#config)
-4. [_Controllers (RB/GH Guitars, Drums, and Gamepads)_](#ctrl)
-5. [_User Account_](#useraccount)
-6. [_RPCN_](#rpcn)
-7. [_Custom Configuration_](#custconfig)
+1. [_Requirements_](#requirements)
+2. [_Installation_](#installation)
+3. [_Configuration_](#configuration)
+4. [_Controllers (RB/GH Guitars, Drums, and Gamepads)_](#controllers)
+5. [_User Account_](#user-account)
+6. [_RPCN_](#rpcn-account)
+7. [_Custom Configuration_](#custom-configuration)
 8. [_CPU_](#cpu)
 9. [_GPU_](#gpu)
 10. [_Audio_](#audio)
 11. [_I/O (Wired Pro Guitars and USB/MIDI Keyboards)_](#io)
 12. [_Network_](#network)
-13. [_Advanced_](#adv)
-14. [_Emulator_](#emu)
+13. [_Advanced_](#advanced)
+14. [_Emulator_](#emulator)
 15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#prodong)
-16. [_Troubleshooting_](#trsht)
-17. [_Conclusion_](#end)
+16. [_Troubleshooting_](#troubleshooting)
+17. [_Conclusion_](#conclusion)
 
 <br/>
 
@@ -248,6 +248,7 @@ This may seem overwhelming due to the sheer number of options but I have color c
 We’ll go tab by tab, starting with:
 
 <br/>
+
 ## CPU
 
 
@@ -262,15 +263,15 @@ We’ll go tab by tab, starting with:
 ## GPU
 ![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* Enable "Write Color Buffers" - Fixes 99% of the issues with characters not having textures.
+	* Enable "Write Color Buffers" - Fixes 99% of the issues with characters having glitched textures.
 * ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
 	* Change "ZCULL Accuracy" to "Relaxed" - Slight performance improvement which may cause graphical anomalies.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* Change "Frame Limit" to "Off" to use enable uncapped framerate (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank).
+	* Change "Frame Limit" to "Off" to use enable uncapped framerate (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). It is suggested to use your graphics card's driver settings for frame rate capping, or software like MSI Afterburner.
 	* Adjust "Shader Quality" depending on your system. Low and Medium will drastically reduce quality, Auto will use suggested RPCS3's setting, and High is the best option. Ultra looks similar to high.
 	* Adjust "Resolution Scale" to taste. Lower for a performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* Adjust "Resolution Scale Threshold" depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e. for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
-	> * ![A teal square.](images/cust/smallteal.png "Teal Square") OPTIONAL: 
+* ![A teal square.](images/cust/smallteal.png "Teal Square") OPTIONAL: 
 	* Enable "VSync" - Reduces screen tearing and may lead to a more stable framerate. Increases latency slightly.
 
 <br/>
@@ -288,19 +289,19 @@ We’ll go tab by tab, starting with:
 
 <br/>
 
-#I/O
+## I/O
 This section is for people playing with a Keyboard or a Pro Guitar
 * If you’re not playing with a wired Pro Guitar or a USB/MIDI keyboard**, **skip** over **this section**.  
 * If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar**, **skip** over **this section**.  
 
-*If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
+**If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 ![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](images/midi/usbkeys.png "USB Keyboard")  
 
 
-*If your keyboard only has a MIDI output**, you will need **a MIDI to USB interface**.
+**If your keyboard only has a MIDI output**, you will need **a MIDI to USB interface**.
 ![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output, and multiple pedal inputs.](images/midi/midikeys.png "MIDI Keyboard")  
 
-*The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs.
+**The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs.
 ![A picture of a Rock Band 3 Fender Mustang Pro Guitar, showing a 5-DIN MIDI output.](images/midi/midiprotar.png "Mustang Pro Guitar MIDI Output")  
 
 Here’s an example of a MIDI to USB interface. Most will come with a indicator LED to show activity. To check that you plugged it in correctly, **you should see “MIDI In” blinking when you press a key**.  
@@ -311,11 +312,11 @@ Do note that **some audio interfaces have MIDI inputs**, so if you have one, you
 >![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](images/midi/midifs.png "Focusrite Scarlett MIDI in/out")  
 
 
-If everything's connected, let's go ahead and focus on RPCS3's I/O tab.  
+**If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**  
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in teal.](images/cust/io.png "I/O")
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* Keyboard Players: Leave your "Emulated MIDI type on "Keyboard and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection.
-	* Pro Guitar Players: Change your "Emulated MIDI type from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection.
+	* 🎹 Keyboard Players: Leave your "Emulated MIDI type on "Keyboard and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection.
+	* 🎸 Pro Guitar Players: Change your "Emulated MIDI type from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection.
   
  **If your instrument isn’t detected in the drop down menu, save your configuration so far and restart RPCS3.**  
   
@@ -329,7 +330,9 @@ If everything's connected, let's go ahead and focus on RPCS3's I/O tab.
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
-	* Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
+	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
+
+<br/>
 
 ## ADVANCED
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
@@ -339,8 +342,9 @@ If everything's connected, let's go ahead and focus on RPCS3's I/O tab.
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
 	* Adjust VBlank Frequency if you want a higher internal framerate. This can make it easier to hit notes, but can cause graphical instability and connection issues while online. It's best left alone.
 
+<br/>
 
-## EMULATOR**
+## EMULATOR
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface".](images/cust/emulator.png "Emulator")
 You can leave this as is if you want, but I would consider changing the following options:
 * ![A teal square.](images/cust/smallteal.png "Teal Square") Optional tweaks: 
@@ -350,10 +354,9 @@ You can leave this as is if you want, but I would consider changing the followin
 	* “Start games in Fullscreen mode” - Obviously just switches to Fullscreen when you start Rock Band 3. I personally enable this.  
 	* “Use Native Interface” - Disabling this will remove RPCS3 notifications entirely while the game is launched.
     
+<br/>
 
-![](https://i.imgur.com/57y43gN.png)
-
-> _**Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle**_
+## Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
 **If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, skip** over **this section.**
 
@@ -362,32 +365,31 @@ To start with, **close out RPCS3** **and plug in the instrument’s dongle** to
 Now, [**\[go to Zadig’s website\]**](https://zadig.akeo.ie/) and **download the latest version.** **Open it** up.
 
 Click on **Options** then **List All Devices  
-![](https://i.imgur.com/570PDgY.png)**
+![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](images/pass/zadiglistall.png "Zadig: Options: List All Devices")
 
 You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we’re using the Mustang Pro Guitar, which shows up as “Harmonix RB3 Mustang Guitar for PlayStation® 3”.  
-![](https://i.imgur.com/hnMHcuG.png)
+![A screenshot of Zadig showing "Harmonix RB3 Mustang Guitar for PlayStation® 3" highlighted in the devices listed.](images/pass/zadigsel.png "Zadig: Harmonix RB3 Mustang Guitar for PlayStation® 3")
 
 After selecting the right device, you should see the option to replace the driver. **MAKE SURE YOU ARE REPLACING THE DRIVER ONLY FOR THE PRO GUITAR/KEYBOARD.** Click Replace Driver.  
-[![](https://i.imgur.com/fYHveYg.png)](https://imgur.com/fYHveYg)
+![A screenshot of Zadig with "Replace Driver" highlighted.](images/pass/zadigreplace.png "Zadig: Replace Driver")
 
 A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, click “**Yes”  
-![](https://i.imgur.com/9U0nl2H.png)**
+![A screenshot of Zadig warning the user that they're about to modify a system driver, with "Yes" highlighted](images/pass/zadigreplace.png "Zadig: Warning - System Driver")
 
 It will then install the driver. As the program says, it may take a few minutes.  
-[![](https://i.imgur.com/p280nGq.png)](https://imgur.com/p280nGq)
+![A screenshot of Zadig in the middle of a driver install.](images/pass/zadigprogress.png "Zadig: Installing Driver...")
+
 
 If everything goes well, you will get this message:  
-  
-![](https://i.imgur.com/AvGHA05.png)
+![A screenshot of Zadig telling the user that the driver was installed successfully with "Close" highlighted.](images/pass/zadigdone.png "Zadig: Success")
 
 **Close Zadig** and, **with the dongle** still **connected**, **open up RPCS3** and **open Rock Band 3**.
 
 Turn your controller on and you should see it automatically assign a player number.
-
-![](https://i.imgur.com/7htptfw.png)
+![A picture of a Mustang Pro Guitar with the second player LED lit up.](images/pass/protaron.png "Fender Mustang Pro Guitar: Player 2")
 
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
-![](https://i.imgur.com/GbI6yYp.png)
+![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](images/pass/protaron.png "Rock Band 3: Pro Guitar ready to join")
 
 > _**TROUBLESHOOTING**_
 
