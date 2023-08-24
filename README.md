@@ -205,7 +205,7 @@ Once you’re there, click on the default username (00000001 - User) and then cl
 
 ## RPCN ACCOUNT
 
-**If you don’t want to play online, [**you can skip this** part.](#custom-configuration)
+If you don’t want to play online, [you can skip this part.](#custom-configuration)
 
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
@@ -331,7 +331,7 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.**
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
-	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don’t enable UPNP while port forwarding** as this can cause crashes.**.
+	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don’t enable UPNP while port forwarding** as this can cause crashes.
 	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
 
 <br/>
@@ -363,7 +363,7 @@ That's the difficult part over with.
 
 #### Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
-**If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [skip over this section.**](#troubleshooting)
+If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [skip over this section.](#troubleshooting)
 
 To start with, **close out RPCS3** **and plug in the instrument’s dongle** to your computer.
 
@@ -378,7 +378,7 @@ You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrumen
 After selecting the right device, you should see the option to replace the driver. **MAKE SURE YOU ARE REPLACING THE DRIVER ONLY FOR THE PRO GUITAR/KEYBOARD.** Click Replace Driver.  
 ![A screenshot of Zadig with "Replace Driver" highlighted.](images/pass/zadigreplace.png "Zadig: Replace Driver")
 
-A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, click “**Yes”  
+A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, click “**Yes**”  
 ![A screenshot of Zadig warning the user that they're about to modify a system driver, with "Yes" highlighted](images/pass/zadigreplace.png "Zadig: Warning - System Driver")
 
 It will then install the driver. As the program says, it may take a few minutes.  
@@ -398,7 +398,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 <br/>
 
-## TROUBLESHOOTING*
+## TROUBLESHOOTING
 
 
 *   **_Stuttering Audio_**
