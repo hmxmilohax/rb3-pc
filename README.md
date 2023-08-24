@@ -118,7 +118,7 @@ Right click “Rock Band 3” and click on **“Create Custom Gamepad Configurat
 
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
-* If you are planning on plugging in multiple instruments, you must make profiles for each of them.
+* If you are planning on plugging in multiple instruments, _you must make profiles for each of them_.
 * PS3 standard guitar and drum controllers _should_ be plug and play. If, for some reason, they’re not, you will need to bind them as detailed below. 
 * If you’re using PS3, PS4, or Wii controllers, set the “Handlers” option to “MMJoyStick.” 
 * If you’re using Xbox controllers, set the “Handlers” option to “XInput”
@@ -179,7 +179,7 @@ Vocals use regular controllers. If you're using a PS4 controller, switch to DS4.
 | ![Cross Button](images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](images/btns/ctrls/xbox/a.png "A Button") | Select                          |
 | ![Circle Button](images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
 | ![Square Button](images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
-| ![Triangle Button](images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](images/btns/ctrls/xbox/y.png " Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Triangle Button](images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
 | ![Options Button](images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
 | ![Share Button](images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
 | ![L1 Button](images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
@@ -189,7 +189,7 @@ Vocals use regular controllers. If you're using a PS4 controller, switch to DS4.
 
   
 
-As an example, here’s what a _Wii The Beatles: Rock Band Hofner_ controller looks like when it’s setup. Note the "Handlers" being set to "MMJoystick" and "Devices" being set to the correct Joystick number.
+As an example, here’s what a _Wii The Beatles: Rock Band Hofner_ controller looks like when it’s set up. Note the "Handlers" being set to "MMJoystick" and "Devices" being set to the correct Joystick number. Also note that, since it's a Rock Band guitar controler, "Device Class" is set to 'Guitar" and the box next to that is set to "Rock Band".
 ![A screenshot of RPCS3's Gamepad Settings with a Hofner](images/conf/rpcs3padexm.png "Gamepad Settings with a Wii The Beatles: Rock Band Hofner guitar controller")
 
 <br/>
@@ -254,21 +254,21 @@ We’ll go tab by tab, starting with:
 
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in green.](images/cust/cpu.png "CPU")
-* ![A green square.](images/cust/smallgreen.png "Green Square") For low end CPUs (older 4 core/4 threads chips): 
-	* Change "SPU Block Size" to "Mega" - Ties smaller SPU compiled together, which requires less cores/threads.
-	* Change "Preferred SPU Threads" to "1" - Limiting to 1 thread helps prevent stutter caused by CPU overloads.
-	* **AS A LAST RESORT** "SPU XFloat Accuracy" to "Relaxed" - Changing this will gain a few frames but **will break practice mode!**
+* ![A green square.](images/cust/smallgreen.png "Green Square") **For low end CPUs** (older 4 core/4 threads chips): 
+	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requires less cores/threads.
+	* **Change "Preferred SPU Threads" to "1"** - Limiting to 1 thread helps prevent stutter caused by CPU overloads.
+	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames but **will break practice mode!**
 
 <br/>
 
 ## GPU
 ![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* Enable "Write Color Buffers" - Fixes 99% of the issues with characters having glitched textures.
+	* **Enable "Write Color Buffers"** - Fixes 99% of the issues with characters having glitched textures.
 * ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
 	* Change "ZCULL Accuracy" to "Relaxed" - Slight performance improvement which may cause graphical anomalies.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* Change "Frame Limit" to "Off" to use enable uncapped framerate (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). It is suggested to use your graphics card's driver settings for frame rate capping, or software like MSI Afterburner.
+	* Change "Frame Limit" to "Off" to use enable uncapped framerate (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). **It is suggested to use your graphics card's driver settings for frame rate capping, or software like MSI Afterburner.**
 	* Adjust "Shader Quality" depending on your system. Low and Medium will drastically reduce quality, Auto will use suggested RPCS3's setting, and High is the best option. Ultra looks similar to high.
 	* Adjust "Resolution Scale" to taste. Lower for a performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* Adjust "Resolution Scale Threshold" depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e. for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
@@ -280,11 +280,11 @@ We’ll go tab by tab, starting with:
 ## Audio
 ![A screenshot of Rock Band 3's Audio custom settings, showing Enable Buffering highlighted in yellow, Audio Out highlighted in green, Audio Buffer highlighted in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in teal.](images/cust/audio.png "Audio")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* Enable "Enable Buffering" - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, reenable it.
+	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, reenable it.
 * ![A green square.](images/cust/smallgreen.png "Green Square") For Windows users: 
-	* Change "Audio Out" to XAudio2" - Can help with with latency.
+	* **Change "Audio Out" to XAudio2"** - Can help with with latency.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* Adjust "Audio Buffer Duration" depending on system. Lower values mean less latency but more CPU required to keep stable audio. Higher values mean more stable audio due to less CPU stress. This can be changed while the game is running but will require re-calibrating in Rock Band 3's system settings.
+	* Adjust "Audio Buffer Duration" depending on system. **Lower values mean less latency but more CPU** required to keep stable audio. **Higher values mean more stable audio due to less CPU stress**. This can be changed while the game is running but **will require re-calibrating** in Rock Band 3's system settings.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For Vocalists: 
 	* Select an input device in "Mic1", "Mic2", and "Mic3" for vocals. If not playing vocals, they will be used for voice chat.
 
@@ -316,8 +316,8 @@ Do note that **some audio interfaces have MIDI inputs**, so if you have one, you
 **If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**  
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in teal.](images/cust/io.png "I/O")
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* 🎹 Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection.
-	* 🎸 Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection.
+	* 🎹 Keyboard Players: **Leave your "Emulated MIDI type" on "Keyboard" and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection**.
+	* 🎸 Pro Guitar Players: **Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection**.
   
  **If your instrument isn’t detected in the drop down menu, save your configuration so far and restart RPCS3.**  
   
@@ -329,9 +329,9 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 ## NETWORK
 ![A screenshot of Rock Band 3's Network custom settings, showing Network Status (Connected) highlighted in yellow, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in teal.](images/cust/network.png "Network")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.
+	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.**
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
-	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
+	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don’t enable UPNP while port forwarding** as this can cause crashes.**.
 	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
 
 <br/>
@@ -339,7 +339,7 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 ## ADVANCED
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
 * ![A green square.](images/cust/smallgreen.png "Green Square"): 
-	* Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen" to prevent potential crashes and desync when changing program focus constantly.
+	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and desync when changing program focus constantly.
 	* Change "Driver Wake-up Delay" to "20µ" if you experience rare freezing after a few songs. Increase to "40µ" if it still happens.
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
 	* Adjust VBlank Frequency if you want a higher internal framerate. This can make it easier to hit notes, but can cause graphical instability and connection issues while online. It's best left alone.
@@ -363,13 +363,13 @@ That's the difficult part over with.
 
 #### Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
-**If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [**skip** over **this section.**](#troubleshooting)
+**If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [skip over this section.**](#troubleshooting)
 
 To start with, **close out RPCS3** **and plug in the instrument’s dongle** to your computer.
 
 Now, [**\[go to Zadig’s website\]**](https://zadig.akeo.ie/) and **download the latest version.** **Open it** up.
 
-Click on **Options** then **List All Devices  
+Click on **Options** then **List All Devices**  
 ![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](images/pass/zadiglistall.png "Zadig: Options: List All Devices")
 
 You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we’re using the Mustang Pro Guitar, which shows up as “Harmonix RB3 Mustang Guitar for PlayStation® 3”.  
@@ -394,7 +394,7 @@ Turn your controller on and you should see it automatically assign a player numb
 ![A picture of a Mustang Pro Guitar with the second player LED lit up.](images/pass/protaron.png "Fender Mustang Pro Guitar: Player 2")
 
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
-![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](images/pass/protaron.png "Rock Band 3: Pro Guitar ready to join")
+![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](images/pass/rb3player.png "Rock Band 3: Pro Guitar ready to join")
 
 <br/>
 
@@ -430,9 +430,12 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 *   **_My PS3 instrument controller shows up as two_**
 	*   You did [controller configuration](#controllers) for a PS3 controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
+	
+*   **_[Pro Drums] Hitting two cymbals registers as a tom_**
+	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" I sadly do not know the solution as I don't play drums. Please feel free to ask around in the Milohax Discord server.
 
 *   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
-	*   In Rock Band 3’s Custom Configuration, [go to the network tab](#network) and make sure “Enable UPNP” is enabled. If for some reason you can’t do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don’t** **enable UPNP while port forwarding** as this can cause crashes.
+	*   In Rock Band 3’s Custom Configuration, [go to the network tab](#network) and make sure “Enable UPNP” is enabled. If for some reason you can’t do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don’t enable UPNP while port forwarding** as this can cause crashes.
 
 *   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to GoCentral_**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
