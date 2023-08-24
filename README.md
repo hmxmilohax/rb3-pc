@@ -241,7 +241,7 @@ We’ll go tab by tab, starting with:
 >	* **AS A LAST RESORT** "SPU XFloat Accuracy" to "Relaxed" - Changing this will gain a few frames but **will break practice mode!**
 
 > **GPU**
-![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/GPU.png "GPU")
+![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
 > * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 >	* Enable "Write Color Buffers" - Fixes 99% of the issues with characters not having textures.
 > * ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
@@ -258,12 +258,12 @@ We’ll go tab by tab, starting with:
 > **Audio**
 ![A screenshot of Rock Band 3's Audio custom settings, showing Enable Buffering highlighted in yellow, Audio Out highlighted in green, Audio Buffer highlighted in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in teal.](images/cust/audio.png "Audio")
 > * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
->	* Enable "Enable Buffering" - Absolutely required by Rock Band 3. If it's disabled, reenable it.
+>	* Enable "Enable Buffering" - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, reenable it.
 > * ![A green square.](images/cust/smallgreen.png "Green Square") For Windows users: 
 >	* Change "Audio Out" to XAudio2" - Can help with with latency.
 > * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
 >	* Adjust "Audio Buffer Duration" depending on system. Lower values mean less latency but more CPU required to keep stable audio. Higher values mean more stable audio due to less CPU stress. This can be changed while the game is running but will require re-calibrating in Rock Band 3's system settings.
->	> * ![A teal square.](images/cust/smallteal.png "Teal Square") For Vocalists: 
+> * ![A teal square.](images/cust/smallteal.png "Teal Square") For Vocalists: 
 >	* Select an input device in "Mic1", "Mic2", and "Mic3" for vocals. If not playing vocals, they will be used for voice chat.
 
 > **I/O**  
