@@ -21,7 +21,7 @@ Video Version (Outdated):
 12. [_Network_](#network)
 13. [_Advanced_](#advanced)
 14. [_Emulator_](#emulator)
-15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#prodong)
+15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](##wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
 16. [_Troubleshooting_](#troubleshooting)
 17. [_Conclusion_](#conclusion)
 
@@ -35,6 +35,7 @@ You will need:
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_
 	*   _Any Rock Band and Guitar Hero Drums (PS3, PS4, Wii, X360)_
+	*   _Any MIDI instrument compatible with the Rock Band 3 MIDI Pro Adapter(PS3 only)_<sup>a
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>a b
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>a
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
@@ -44,7 +45,7 @@ You will need:
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* This guide has been tested on specs as low as Intel Core i5-4460, Intel Core i5-6500, Intel Core i7-3770, and AMD Ryzen 3 3200G CPUs. It has also been tested on GPUs as low as NVIDIA GTX 1650, AMD Radeon RX 550. Although we suggest 16 GBs of RAM, it has worked on 8 GBs of RAM. This game also technically run on a SteamDeck but that's beyond the scope of this tutorial. 
-    You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart).
+    You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[7zip](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
 <sup>a</sup> <sub>Wii Rock Band instrument controllers and dongles can be converted for PS3, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
@@ -79,7 +80,7 @@ Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** you just downloaded fr
 ![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/inst/fwinstall.png "RPCS3 Firmware Installer")
 
 **Let it install.**  
-![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](images/inst/rpcs3fw.png "RPCS3 Firmware Installer")
+![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](images/inst/rpcs3fw.png "RPCS3 Firmware Installer progress")
 
 **When it finishes, click OK**  
 ![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](images/inst/rpcs3fwdone.png "Success!")
@@ -97,21 +98,21 @@ The filename will look something like this:
 
 [![Rock Band 3's PKG update in Edge's download tray.](images/inst/rb3pe.png)](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg "UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg")
 
-When that’s finished, drag the update file into RPCS3 and click Yes, just like you did earlier with the PS3UPDAT.PUP file.  
+When that’s finished, **drag the update file into RPCS3 and click Yes**, just like you did earlier with the PS3UPDAT.PUP file.  
 ![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 update package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
 
 <br/>
 
 # CONFIGURATION:
 
-_*IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!*_
+*IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!*
 
 <br/>
 
 ## CONTROLLERS:
 
-**This is for standard (five fret guitars, RB/GH drums) controllers.  
-Pro Guitars, or Keyboards are set up later.**
+**This is for standard (five fret guitars, RB/GH drums) controllers.**  
+Pro Guitars, or Keyboards are set up later.
 
 Right click “Rock Band 3” and click on **“Create Custom Gamepad Configuration”**
 
@@ -173,23 +174,23 @@ Vocals use regular controllers. If you're using a PS4 controller, switch to DS4.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](images/btns/ctrls/ps4/ls.png) | ![Left Stick](images/btns/ctrls/xbox/ls.png) | Navigation |
-| ![Left Stick](images/btns/ctrls/ps4/dp.png) | ![Left Stick](images/btns/ctrls/xbox/dp.png) | Navigation |
-| ![Cross Button](images/btns/ctrls/ps4/x.png) | ![A Button](images/btns/ctrls/xbox/a.png) | Select                          |
-| ![Circle Button](images/btns/ctrls/ps4/o.png) | ![B Button](images/btns/ctrls/xbox/b.png) | Back                            | Mic 3 Volume (Song) |
-| ![Square Button](images/btns/ctrls/ps4/s.png) | ![X Button](images/btns/ctrls/xbox/x.png) | Mic 1 Volume (Song) |
-| ![Triangle Button](images/btns/ctrls/ps4/t.png) | ![Y Button](images/btns/ctrls/xbox/y.png) | View More Info (Library)        | Mic 2 Volume (Song) |
-| ![Options Button](images/btns/ctrls/ps4/opt.png) | ![Options Button](images/btns/ctrls/xbox/opt.png) | Options                         | Pause (Song)        |
-| ![Share Button](images/btns/ctrls/ps4/shr.png) | ![View Button](images/btns/ctrls/xbox/viw.png) | Filters (Library)               | Overdrive (Song)    |
-| ![L1 Button](images/btns/ctrls/ps4/l1.png) | ![Left Bumper](images/btns/ctrls/xbox/lb.png) | Guide Part Selection (Practice) |
-| ![L2 Trigger](images/btns/ctrls/ps4/l2.png) | ![Left Trigger](images/btns/ctrls/xbox/lt.png) | Vocal Part Selection (Practice) |
-| ![R1 Button](images/btns/ctrls/ps4/r1.png) | ![Right Bumper](images/btns/ctrls/xbox/rb.png) | Vocal Track Volume (Song)       |
-| ![R2 Trigger](images/btns/ctrls/ps4/r2.png) | ![Right Trigger](images/btns/ctrls/xbox/rt.png) | Pitch Correction (Song)         |
+| ![Left Stick](images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![D-Pad](images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Cross Button](images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![Circle Button](images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![Square Button](images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Triangle Button](images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](images/btns/ctrls/xbox/y.png " Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Options Button](images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![Share Button](images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![L1 Button](images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![L2 Trigger](images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![R1 Button](images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![R2 Trigger](images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
   
 
 As an example, here’s what a _Wii The Beatles: Rock Band Hofner_ controller looks like when it’s setup. Note the "Handlers" being set to "MMJoystick" and "Devices" being set to the correct Joystick number.
-![A screenshot of RPCS3's Gamepad Settings with a Hofner](images/conf/rpcs3padexm.png "Gamepad Settings with a Wii The Beatles:Rock Band Hofner ")
+![A screenshot of RPCS3's Gamepad Settings with a Hofner](images/conf/rpcs3padexm.png "Gamepad Settings with a Wii The Beatles: Rock Band Hofner guitar controller")
 
 <br/>
 
@@ -204,7 +205,7 @@ Once you’re there, click on the default username (00000001 - User) and then cl
 
 ## RPCN ACCOUNT
 
-**If you don’t want to play online, you can skip this** part.
+**If you don’t want to play online, [**you can skip this** part.](#custom-configuration)
 
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
@@ -290,9 +291,9 @@ We’ll go tab by tab, starting with:
 <br/>
 
 ## I/O
-This section is for people playing with a Keyboard or a Pro Guitar
-* If you’re not playing with a wired Pro Guitar or a USB/MIDI keyboard**, **skip** over **this section**.  
-* If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar**, **skip** over **this section**.  
+This section is **for people playing with a Keyboard or a Pro Guitar**
+* **If you’re not playing with a wired Pro Guitar or a USB/MIDI keyboard, skip** over **this section**.  
+* **If you’re playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar, skip** over **this section**.  
 
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 ![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](images/midi/usbkeys.png "USB Keyboard")  
@@ -315,13 +316,13 @@ Do note that **some audio interfaces have MIDI inputs**, so if you have one, you
 **If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**  
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in teal.](images/cust/io.png "I/O")
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* 🎹 Keyboard Players: Leave your "Emulated MIDI type on "Keyboard and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection.
-	* 🎸 Pro Guitar Players: Change your "Emulated MIDI type from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection.
+	* 🎹 Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your your keyboard in the drop down menu next to it, or MIDI interface, depending on your connection.
+	* 🎸 Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop down menu next to it, or MIDI interface, depending on your connection.
   
  **If your instrument isn’t detected in the drop down menu, save your configuration so far and restart RPCS3.**  
   
- As **keyboards don’t have** **PS3 buttons**, **the first octave is** reserved **for mapped keys**. Use this picture as reference. I **strongly** suggest putting artist tape, masking tape, or painter’s tape on your keyboard and drawing the buttons for reference.
- >![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](images/midi/keysctrl.png "MIDI Keyboard Reference")  
+As **keyboards don’t have PS3 buttons, the first octave is** reserved **for mapped keys**. Use this picture as reference. I **strongly** suggest putting artist tape, masking tape, or painter’s tape on your keyboard and drawing the buttons for reference.
+![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](images/midi/keysctrl.png "MIDI Keyboard Reference")  
 
 <br/>
 
@@ -330,6 +331,7 @@ Do note that **some audio interfaces have MIDI inputs**, so if you have one, you
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
+	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
 	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
 
 <br/>
@@ -354,11 +356,14 @@ You can leave this as is if you want, but I would consider changing the followin
 	* “Start games in Fullscreen mode” - Obviously just switches to Fullscreen when you start Rock Band 3. I personally enable this.  
 	* “Use Native Interface” - Disabling this will remove RPCS3 notifications entirely while the game is launched.
     
+
+That's the difficult part over with.
+
 <br/>
 
-## Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
+#### Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
-**If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, skip** over **this section.**
+**If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [**skip** over **this section.**](#troubleshooting)
 
 To start with, **close out RPCS3** **and plug in the instrument’s dongle** to your computer.
 
@@ -391,18 +396,22 @@ Turn your controller on and you should see it automatically assign a player numb
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
 ![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](images/pass/protaron.png "Rock Band 3: Pro Guitar ready to join")
 
-> _**TROUBLESHOOTING**_
+<br/>
+
+## TROUBLESHOOTING*
+
 
 *   **_Stuttering Audio_**
 
-*   
-*   Increase “Audio Buffer Duration” as mentioned in [the Audio tab of Rock Band 3’s Custom Configuration](https://im.carlmylo.com/stream/rockband3#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
+	* [![A video thumbnail that reads "Click here for audio example."](images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
+	* Increase “Audio Buffer Duration” as mentioned in [the Audio tab of Rock Band 3’s Custom Configuration](#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
-	*   Go back and read the “**EXTRA**” messages in the [Custom Configuration setup section](https://im.carlmylo.com/stream/rockband3#cpu).
+	*   Go back and read the “**EXTRA**” messages in the [Custom Configuration setup section](#configuration).
+	*   Install [RB3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) and disable Post Effects in Deluxe Settings.
 
 *   **_Game doesn’t fill the_** **_screen_**
-	*   Enable Overscan in Rock Band 3’s System Settings
+	*   Enable Overscan in Rock Band 3’s System Settings.
 
 *   **_Game is delayed_**
 	*   Run Calibration in Rock Band 3’s System Settings if you haven’t for some reason. Disable “Dolby Digital” if you enabled it in the same menu.
@@ -411,19 +420,19 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Automatic Calibration only works for PS3 guitar controllers via passthrough.
 
 *   **_Game gets stuck when naming a character_**
-	*   This is an RPCS3 issue. You can fix it by changing the effects switch on a RB guitar controller. Otherwise, changing your controller’s Input Handler in “[Create Custom Gamepad Configuration](https://im.carlmylo.com/stream/rockband3#ctrl)” to “Keyboard” then back to whatever you had originally fixes it. This should work while the game is running.
+	*   This is an RPCS3 issue. You can fix it by changing the effects switch on a RB guitar controller. Otherwise, changing your controller’s Input Handler in “[Create Custom Gamepad Configuration](#controllers)” to “Keyboard” then back to whatever you had originally fixes it. This should work while the game is running.
 
 *   **_Characters have flying instruments and accessories_**
 	*   There is currently no fix for this. If you experience this, [please report your findings on RPCS3’s Github.](https://github.com/RPCS3/rpcs3/issues/8408)
 
 *   **_Scrolling through library has long pauses_**
-	*   You forgot to set the “Network Status” to “Connected” in the [Network tab when setting up the Custom Configuration](https://im.carlmylo.com/stream/rockband3#network) for Rock Band 3.
+	*   You forgot to set the “Network Status” to “Connected” in the [Network tab when setting up the Custom Configuration](#network) for Rock Band 3.
 
 *   **_My PS3 instrument controller shows up as two_**
-	*   You did [controller configuration](https://im.carlmylo.com/stream/rockband3#ctrl) for a PS3 controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
+	*   You did [controller configuration](#controllers) for a PS3 controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
 
 *   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
-	*   In Rock Band 3’s Custom Configuration, [go to the network tab](https://im.carlmylo.com/stream/rockband3#network) and make sure “Enable UPNP” is enabled. If for some reason you can’t do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don’t** **enable UPNP while port forwarding** as this can cause crashes.
+	*   In Rock Band 3’s Custom Configuration, [go to the network tab](#network) and make sure “Enable UPNP” is enabled. If for some reason you can’t do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don’t** **enable UPNP while port forwarding** as this can cause crashes.
 
 *   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to GoCentral_**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
@@ -431,13 +440,23 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_“I followed every step and my game is still crashing”_**
 	*   Double check to make sure you have followed every step correctly. This guide has been tested and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space, and 1% chance it’s a skill issue.
 
-> _**CONCLUSION**_
+<br/>
+
+## CONCLUSION
 
 That’s it! You now (hopefully) have a functional setup to play Rock Band 3 on your PC. While you’re here, why not join some communities that are helping keep the Rock Band community alive?
 
-*   **Rock Band 3 Deluxe/Milohax:** [![Rock Band 3 Deluxe Logo](https://i.imgur.com/bJ9x8k8.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")Developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download and setup instructions here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
-*   **RBEnhanced:  
-    **[![RBEnhanced Logo](https://i.imgur.com/DM9nTA8.png)](https://discord.gg/6rRUWXPYwb)Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced’s Discord here\]**](https://discord.gg/6rRUWXPYwb).
+**Rock Band 3 Deluxe/Milohax:** 
+
+[![Rock Band 3 Deluxe Logo](rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
+
+Developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
+
+**RBEnhanced:**
+
+[![RBEnhanced Logo](images/xtra/rbe.png "RBEnhanced")
+
+Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced’s Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
 Special thanks to:
 
@@ -445,5 +464,10 @@ Special thanks to:
 *   qfoxb, [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 20 hours via autoplay lmao), knvtva, and 1osks for reporting results.
 *   RPCS3 Wiki for having pretty decent information on controllers and USB passthrough.
 
+
+<div align="center">
+
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+</div>
