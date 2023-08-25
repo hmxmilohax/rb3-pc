@@ -401,71 +401,72 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 ## TROUBLESHOOTING
 
 
-*   **_Stuttering Audio_**
+*   **_Audio Entrecortado_**
 
 	* [![A video thumbnail that reads "Click here for audio example."](images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
-	* Increase “Audio Buffer Duration” as mentioned in [the Audio tab of Rock Band 3’s Custom Configuration](#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
+	* Aumenta el "Audio Buffer Duration" como se menciona en [la pestaña de Audio de la Configuracion Personalizada de Rock Band 3] (#Audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de bajo rendimiento.
 
-*   **_General performance issues_**
-	*   Go back and read the “**EXTRA**” messages in the [Custom Configuration setup section](#configuration).
-	*   Install [RB3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) and disable Post Effects in Deluxe Settings.
+*   **_Problemas Generales de Rendimiento_**
+	*   Regresa y Lee los“**EXTRA**” Mensajes de la [Seccion de Configuracion Personalizada](#configuration).
+	*   Instala [RB3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) y deshabilita los Efectos de Post Procesado en el apartado "Deluxe Settings"
 
-*   **_Game doesn’t fill the_** **_screen_**
-	*   Enable Overscan in Rock Band 3’s System Settings.
+*   **_El juego no se llena en toda la_****_pantalla_**
+	*   Activa la Opcion "Overscan" en el Menu de Opciones de RB3.
 
-*   **_Game is delayed_**
-	*   Run Calibration in Rock Band 3’s System Settings if you haven’t for some reason. Disable “Dolby Digital” if you enabled it in the same menu.
+*   **_El juego tiene retrao de Audio o Notas_**
+	*   Ejecuta la calibracion en el menu de ajustes de Sistema de Rock Band 3 si no lo has hecho. Deshabilita la opcion "Dolby Digital" en el mismo menu.
+	
+*   **_No puedo usar la Calibracion Automatica_**
+	*   La calibracion automatica solo funciona con las guitarras de PS3 via Traspaso/Conexion Directa .
 
-*   **_Cannot use Automatic Calibration in System Settings_**
-	*   Automatic Calibration only works for PS3 guitar controllers via passthrough.
+*   **_El juego se Traba al ponerle Nombre a un Personaje_**
+	*   Esto es un problema de RPCS3. Puedes solucionarlo cambiando el los efectos con el Interruptor de Efectos en una Guitarra de RB. De lo contrario,cambiando tu controlador de Entrada en "[Crear una Configuracion Personalizada para El Mando](#controllers)" a "Teclado" y luego regresarlo a donde lo tenias originalmente lo arregla. Esto deberia funcionar mientras el juego se esta ejecutando..
 
-*   **_Game gets stuck when naming a character_**
-	*   This is an RPCS3 issue. You can fix it by changing the effects switch on a RB guitar controller. Otherwise, changing your controller’s Input Handler in “[Create Custom Gamepad Configuration](#controllers)” to “Keyboard” then back to whatever you had originally fixes it. This should work while the game is running.
+*   **_Los Instrumentos o Accesorios de los Personajes flotan o los traspasan_**
+	*   Actualmente no hay ninguna solucion para esto. Si Experimentas esto, [Por favor reportar tus descubrimientos en el Github de RPCS3.](https://github.com/RPCS3/rpcs3/issues/8408)
 
-*   **_Characters have flying instruments and accessories_**
-	*   There is currently no fix for this. If you experience this, [please report your findings on RPCS3’s Github.](https://github.com/RPCS3/rpcs3/issues/8408)
-
-*   **_Scrolling through library has long pauses_**
-	*   You forgot to set the “Network Status” to “Connected” in the [Network tab when setting up the Custom Configuration](#network) for Rock Band 3.
+*   **_Al navegar por la biblioteca hay pausas largas_**
+	*   En ese caso,olvidaste poner el "Network Status" a "Connected" en la [Pestaña "Network" al hacer la Configuracion Personalizada](#network) para Rock Band 3.
 
 *   **_My PS3 instrument controller shows up as two_**
 	*   You did [controller configuration](#controllers) for a PS3 controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
 	
-*   **_[Pro Drums] Hitting two cymbals registers as a tom_**
-	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" I sadly do not know the solution as I don't play drums. Please feel free to ask around in the Milohax Discord server.
+*   **_[Pro Bateria] Golpear dos platillos se registra como un tambor_**
+	*   Este es un bug conocido de Rock Band 3 llamado "Glitch de los Platilos Dobles". Lastimosamente no se la solucion ya que no juego la Bateria. Por favor sientete libre de preguntar en el servidor de Discord de MiloHax.
 
-*   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
-	*   In Rock Band 3’s Custom Configuration, [go to the network tab](#network) and make sure “Enable UPNP” is enabled. If for some reason you can’t do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don’t enable UPNP while port forwarding** as this can cause crashes.
+*   **_\[ONLINE\] No puedo encontrar al Tercer o Cuarto jugador_**
+	*   En la Configuracion Personalizada de Rock Band 3, [ve a la pestaña de Network](#network) y asegurate de tener activado la opcion "Enable UPNP". Si por alguna razon no puedes activar el UPNP, tendras que redireccionar el puerto 9103 (UDP) en tu firewall. **No actives el UPNP mientras estas redireccionando el puerto** ya que esto puede causar crasheos.
+	
+*   **_\[ONLINE\] Al tratar de conectar a GoCentral el juego se queda en "Registering Account_**
+	*   Puede que hayas perdido la conexion a RPCN o GoCentral y tendras que reiniciar el Juego. Si continuas teniendo esto luego de haber reiniciado, ve al menu de arriba en RPCS3 a, "Configuration" > "RPCN" > "Account" > "Test Account" luego reinicia el juego para forzar una reconexion.
 
-*   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to GoCentral_**
-	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
-
-*   **_“I followed every step and my game is still crashing”_**
-	*   Double check to make sure you have followed every step correctly. This guide has been tested and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space, and 1% chance it’s a skill issue.
+*   **_“Segui todos los pasos y todavia tengo crasheos/mal rendimiento”_**
+	*   Revisa nuevamente para asegurarte de que has seguido cada paso correctamente. Esta guía ha sido probada y ha demostrado funcionar para muchas personas con diferentes tipos de hardware. Si estás absolutamente seguro de haber seguido cada paso correctamente, es muy probable que el archivo del juego que tienes esté dañado en un 90%, que haya un 9% de posibilidades de que tu computadora se haya quedado sin espacio en disco, y un 1% de que sea skill issue.
 
 <br/>
 
 ## CONCLUSION
 
-That’s it! You now (hopefully) have a functional setup to play Rock Band 3 on your PC. While you’re here, why not join some communities that are helping keep the Rock Band community alive?
+Eso es todo! Ahora (Con un poco de suerte) tienes un set-up funcional para jugar Rock Band 3 en Tu Computadora. Mientras estas aca, porque no te unes a algunas comunidades que estan ayudando a mantener viva la Comunidad de Rock Band?
 
 **Rock Band 3 Deluxe/Milohax:** 
 
 [![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
 
-Developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
+Desarroladores del imprescindible Mod Rock Band 3 Deluxe que no puedo recomendar lo suficiente.**[\[Descarga Aqui.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)**Además de agregar muchas características de calidad de vida como arranques más rápidos, escenarios a 60 fps y carga automática de contenido descargable, **también incluye RB3_Plus, que agrega Pro Keys adicionales y Pro Guitar/Bass a canciones que no las tenían.****¡Si tienes un instrumento Pro, esto es imprescindible!** Además de esto, hay varias opciones de personalización visual, como el uso de Apariencias de Rock Bands más antiguos (y más nuevos) e incluso de Guitar Hero.[You can**\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
 
+*
 **RBEnhanced:**
 
 [![RBEnhanced Logo](images/xtra/rbe.png "RBEnhanced")
 
-Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced’s Discord here\]**](https://discord.gg/6rRUWXPYwb).
+Desarrolladores del Increible mod RBEnhanced el cual solamente existe para Xbox 360 y Wii. Los mismos desarrolladores tambien ayudan y mantienen el servidor de GoCentral el cual es la unica manera de jugar Rock Band 3 en linea en Xbox,PS3 y Wii por el Momento. Puedes[**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb).
 
-Special thanks to:
+Agradecimientos especiales a:
 
-*   [DarkRTA](https://www.youtube.com/@darkrta), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and Rock Band 3.
-*   qfoxb, [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 20 hours via autoplay lmao), knvtva, and 1osks for reporting results.
-*   RPCS3 Wiki for having pretty decent information on controllers and USB passthrough.
+*   [DarkRTA](https://www.youtube.com/@darkrta), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) por informacion tecnica sobre RPCS3 y Rock Band 3.
+*   qfoxb, [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (el cual hizo pruebas por casi 20 horas en autoplay lmao), knvtva, y 1osks por reportar resultados.
+*   RPCS3 Wiki por tener una cantidad decente de informacion sobre los Controladores y los Traspasos Via USB.
 
 
 <div align="center">
