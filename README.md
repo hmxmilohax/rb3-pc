@@ -1,71 +1,71 @@
-Video Version (Outdated):  
-[![A thumbnail of the video version of this tutorial.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
+Versión Video (no actualizada):  
+[![Una mini-imagen de la versión vídeo de esta guía.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
 <br/>
 
->##### WARNING:
-<sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
+>##### ADVERTENCIA:
+<sub>_Esta guía **no** te va a dar links para descargar el juego ni el DLC. Ninguno de los servidores de Discord mencionades tampoco te los va a dar. Haga su propia copia o busque ayuda en Google. **La piratería es ilegal y atrae a los abogados de Tim Sweeney!**._
 <br/>
 
-1. [_Requirements_](#requirements)
-2. [_Installation_](#installation)
-3. [_Configuration_](#configuration)
-4. [_Controllers (RB/GH Guitars, Drums, and Gamepads)_](#controllers)
-5. [_User Account_](#user-account)
+1. [_Requisitos_](#requisitos)
+2. [_Instalación_](#installation)
+3. [__Configuración__](#configuration)
+4. [_Controladores (guitarras, baterías, y gamepads de RB o GH))_](#controllers)
+5. [_Cuenta de usuario_](#user-account)
 6. [_RPCN_](#rpcn-account)
-7. [_Custom Configuration_](#custom-configuration)
+7. [_Configuración Customizada_](#custom-configuration)
 8. [_CPU_](#cpu)
 9. [_GPU_](#gpu)
 10. [_Audio_](#audio)
-11. [_I/O (Wired Pro Guitars and USB/MIDI Keyboards)_](#io)
-12. [_Network_](#network)
-13. [_Advanced_](#advanced)
-14. [_Emulator_](#emulator)
-15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](##wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
-16. [_Troubleshooting_](#troubleshooting)
-17. [_Conclusion_](#conclusion)
+11. [_E/S (guitarras Pro y teclados con cable USB/MIDI)_](#io)
+12. [_Red_](#network)
+13. [_Avanzado_](#advanced)
+14. [_Emulador_](#emulator)
+15. [_Guitarras y teclados inalámbricos PS3 Mustang Pro con receptores_](##wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+16. [_Soluciónes de problemas_](#troubleshooting)
+17. [_Conclusión_](#conclusion)
 
 <br/>
 
-# REQUIREMENTS:
+# REQUISITOS:
 
-You will need:
-* _A ripped copy of Rock Band 3 for the PS3. (Ideally BLUS-30463)_
-* _11.12 GBs of space minimum. (145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports)_
-* _An instrument controller. You can use:_
-	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_
-	*   _Any Rock Band and Guitar Hero Drums (PS3, PS4, Wii, X360)_
-	*   _Rock Band 3 MIDI Pro Adapter and a compatible instrument (PS3 version only)_<sup>a
-	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>a b
-	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>a
-	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
-	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via via MIDI to USB adapter)_
-	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>b c
-	*   _MIDI Drumkits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy)_<sup>d
-	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
-*   _A computer_
-	* This guide has been tested on CPUs as low as Intel Core i5-4460, Intel Core i5-6500, Intel Core i7-3770, AMD Ryzen 2600, and AMD Ryzen 3 3200G CPUs. It has also been tested on GPUs as low as NVIDIA GeForce GT 730 NVIDIA GTX 1650, AMD Radeon RX 550. Although it's suggested to have 16 GBs of RAM, it works fine on 8 GBs. This game also technically run on a SteamDeck but that's beyond the scope of this tutorial. 
-    You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
-*   _[7zip](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
+Necesitarás:
+* _Una copia de Rock Band 3 para PS3 en tu compu. (Idealmente BLUS-30463)_
+* _11.12 GBs de espacio mínimo. (145.66 GBs para **todo** el contenido oficial desde RB1 hasta RB3, incluyendo DLC, RBN y exportes.)_
+* _Un control instrumento. Puedes usar:_
+	*   _Cualquier guitarra de Rock Band y Guitar Hero (PS3, PS4, Wii, X360)_
+	*   _Cualquier batería de Rock Band y Guitar Hero (PS3, PS4, Wii, X360)_
+	*   _Cualquier instrumento MIDI compatible junto con el adaptador MIDI Pro Rock Band 3 (solo la versión de PS3)_<sup>a
+	*   _Teclado Rock Band 3 (solo la versión de PS3 con receptor propio) _<sup>a b
+	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio)_<sup>a
+	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (versiónes de PS3, Wii, X360 con adaptador de MIDI a USB)_
+	*   _Guitarra PRO Rock Band 3 Squier Stratocaster (versiónes de PS3, Wii, X360 con adaptador de MIDI a USB)_
+	*   _Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB)_<sup>b c
+	*   _Batería MIDI (conectado por USB o por adaptador MIDI a USB y los programas MidiDrumHero and VJoy)_<sup>d
+	*   _Cualquier micrófono detectado por tu compu (el juego se puede controlado con la mayoría de mandos o con el teclado cuando juegas como vocalista)_
+*   _Una computadora_
+	* Esta guía ha sido probada con especificaciones tan bajas como los CPUs Intel Core i5-4460, Intel Core i5-6500, Intel Core i7-3770, AMD Ryzen 2600, y AMD Ryzen 3 3200G. También se ha probado en GPU tan bajas como NVIDIA GeForce GT 730, NVIDIA GTX 1650 y AMD Radeon RX 550. Eso que se sugiere 16 GB de RAM, funciona bien con 8 GB de RAM. Técnicamente, se puede usar un SteamDeck para jugar, pero eso está muy complejo para incluir en esta guía.
+    Puedes ver [la página de RPCS3 para sus especificaciones sugeridas](https://rpcs3.net/quickstart) pero están exageradas para este juego.
+*   _[7zip](https://www.7-zip.org/download.html) (o WinRAR si te odias a ti mismo)_
 
-<sup>a</sup> <sub>Wii Rock Band instrument controllers and dongles can be converted for PS3, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>b</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so are therefore exempt from this tutorial.</sub>  
-<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. This is known and a solution is being worked on.</sub>  
-<sup>d</sup> <sub>I don’t have a MIDI Drumkit so there is no set up tutorial for this. Apologies. If you have one and would like to help by sending in screenshots of the setup process, please contact me on the Milohax Discord.</sub>
+<sup>a</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
+<sup>b</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es lo ideal, asi que no está recomendado en esta guía.</sub>  
+<sup>c</sup> <sub>Ciertos teclados MIDI, especialmente los de Yamaha, pueden darte problemas por su implementación de MIDI. El equipo de RPCS3 conoce a este problema y se está trabajando en una solución.</sub>  
+<sup>d</sup> <sub>Así que no hay instrucciones para configurarlas. Si tienes uno y te gustaría ayudar enviar capturas la configuración, mandame un mensaje por el Milohax Discord.</sub>
 
 <br/>
 
-# INSTALLATION:
+# INSTALACIÓN:
 
-We’ll be downloading an older version of RPCS3 as it performs better at the moment. Although this guide is Windows-centric, I have linked Linux and Mac OS just in case you want to try it on those operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.
+Vamos a descargar una versión anterior de RPCS3 porque funciona mejor en este momento. Eso que está guía es para Windows, he incluido a Linux y Mac OS en caso de que quieras probar esta versión en esos sistemas operativos. Para los curiosos, esta es la última versión de RPCS3 antes de la inclusión de QT6, que tiene muchos problemas.
 
-| [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") | [![Apple Computers' logo](images/inst/mac.png)](https://github.com/RPCS3/rpcs3-binaries-mac/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_macos.dmg "Mac OS Version") |
+| [![Logo de Microsoft Windows](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Versión Windows") | [![Mascota de Linux, Tux ](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Versión Linux") | [![Logo de Apple Computers](images/inst/mac.png)](https://github.com/RPCS3/rpcs3-binaries-mac/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_macos.dmg "Versión Mac OS") |
 |---|---|---|
 
-**Once it downloads, extract the .7zip file.**  
+**Cuando se descargue, extrae el archivo .7zip..**  
 ![A screenshot of the the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
 
-I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. I'd also untick the box that will create a sub-directory as shown highlighted in the picture. Avoid installing and running from an external drive as it can cause massive issues.  
+Recomiendo extraer los archivos a “C:\\Games\\RPCS3” o otro disco interno para evitar problemas con permisos. También desactiva la opcion que creará el subdirectorio como en la imagen. No lo instales en un disco externo, porque puede causar problemas feos.  
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/inst/extractdir.png "Extract")
 
 Once that’s extracted, [**download the PlayStation 3 system software from Sony’s website**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get to “**Update using a computer**”, **click that** to expand, then **click on “Download PS3 Update.**”  
@@ -88,17 +88,17 @@ Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** you just downloaded fr
 It will start compiling modules, which may take a few minutes. **Let it do its thing.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it as you need it. Again, you're on your own when it comes to finding a copy. [I used “PS3 Disc Dumper” for this because it’s the easiest way.](https://youtu.be/mRxSKxoYt_g)
+Next, **go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Again, you're on your own here. [I used “PS3 Disc Dumper” for this because it’s the easiest way.](https://youtu.be/mRxSKxoYt_g)
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 is now in your game library in RPCS3, however it’s out of date. Let’s fix that. **You will need to download the update PKG file** which is linked below. This directly links to the same Sony servers the PS3 downloads from. You may get security warnings as said server lacks HTTPS.  
+Rock Band 3 is now in your game library in RPCS3, however it’s out of date. Let’s fix that. **You will need to download the update PKG file** which is linked below. This directly links to Sony’s official download. You may get security warnings as Sony’s update server lacks HTTPS.  
 [\[CLICK HERE TO DOWNLOAD ROCK BAND 3 UPDATE PKG\]](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg)
 
 The filename will look something like this:
 
 [![Rock Band 3's PKG update in Edge's download tray.](images/inst/rb3pe.png)](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg "UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg")
 
-When it's finished downloading, **drag the update file into RPCS3 and click Yes**, just like you did earlier with the PS3UPDAT.PUP file.  
+When that’s finished, **drag the update file into RPCS3 and click Yes**, just like you did earlier with the PS3UPDAT.PUP file.  
 ![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 update package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
 
 <br/>
@@ -237,12 +237,12 @@ You will be prompted for an **email address** so you can receive a **verificatio
 **Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration" highlighted](images/cust/rpcs3customconfig.png "Create Custom Gamepad Configuration")
 
-This may seem overwhelming due to the sheer number of options but I have color coded stuff that will need adjustment. Everything not colored should be on default options and left alone.
+This may seem overwhelming due to the sheer number of options but I have color coded stuff that will need adjustment. Everything not colored should be on default options.
 
 | COLOR | MEANING |
 |---|---|
 | ![A yellow square.](images/cust/bigyellow.png "Yellow Square") | *REQUIRED* |
-| ![A green square.](images/cust/biggreen.png "Green Square") | Low performance tweaks |
+| ![A green square.](images/cust/biggreen.png "Green Square") | Low performance fixes |
 | ![A pink square.](images/cust/bigpink.png "Pink Square") | Adjust depending on PC, or leave it alone |
 | ![A teal square.](images/cust/bigteal.png "Teal Square") | Optional |
 
@@ -332,7 +332,7 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.**
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
 	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don’t enable UPNP while port forwarding** as this can cause crashes.
-	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture above includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
+	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
 
 <br/>
 
@@ -390,7 +390,7 @@ If everything goes well, you will get this message:
 
 **Close Zadig** and, **with the dongle** still **connected**, **open up RPCS3** and **open Rock Band 3**.
 
-Turn your controller on and you should see it automatically assign a player number.  
+Turn your controller on and you should see it automatically assign a player number.
 ![A picture of a Mustang Pro Guitar with the second player LED lit up.](images/pass/protaron.png "Fender Mustang Pro Guitar: Player 2")
 
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
@@ -407,7 +407,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	* Increase “Audio Buffer Duration” as mentioned in [the Audio tab of Rock Band 3’s Custom Configuration](#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
-	*   Go back to the [Custom Configuration setup section](#configuration) and apply suggested low performance tweaks.
+	*   Go back and read the “**EXTRA**” messages in the [Custom Configuration setup section](#configuration).
 	*   Install [RB3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) and disable Post Effects in Deluxe Settings.
 
 *   **_Game doesn’t fill the_** **_screen_**
@@ -453,18 +453,18 @@ That’s it! You now (hopefully) have a functional setup to play Rock Band 3 on 
 
 [![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
 
-Developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
+Developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
 
 **RBEnhanced:**
 
-[![RBEnhanced Logo](images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+[![RBEnhanced Logo](images/xtra/rbe.png "RBEnhanced")
 
 Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced’s Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
 Special thanks to:
 
 *   [DarkRTA](https://www.youtube.com/@darkrta), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and Rock Band 3.
-*   [qfoxb](https://github.com/qfoxb), [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 20 hours via autoplay lmao), [knvtva](https://github.com/knvtva), and 1osks for reporting results.
+*   qfoxb, [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 20 hours via autoplay lmao), knvtva, and 1osks for reporting results.
 *   RPCS3 Wiki for having pretty decent information on controllers and USB passthrough.
 
 
