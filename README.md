@@ -17,17 +17,18 @@ Video Version (Outdated):
 4. [_Controllers (RB/GH Guitars, Drums, and Gamepads)_](#controllers)
 5. [_User Account_](#user-account)
 6. [_RPCN_](#rpcn-account)
-7. [_Custom Configuration_](#custom-configuration)
-8. [_CPU_](#cpu)
-9. [_GPU_](#gpu)
-10. [_Audio_](#audio)
-11. [_I/O (Wired Pro Guitars and USB/MIDI Keyboards)_](#io)
-12. [_Network_](#network)
-13. [_Advanced_](#advanced)
-14. [_Emulator_](#emulator)
-15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
-16. [_Troubleshooting_](#troubleshooting)
-17. [_Conclusion_](#conclusion)
+7. [_Quick Configuration_](#quick-configuration)
+8. [_Custom Configuration_](#custom-configuration)
+9. [_CPU_](#cpu)
+10. [_GPU_](#gpu)
+11. [_Audio_](#audio)
+12. [_I/O (Wired Pro Guitars and USB/MIDI Keyboards)_](#io)
+13. [_Network_](#network)
+14. [_Advanced_](#advanced)
+15. [_Emulator_](#emulator)
+16. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+17. [_Troubleshooting_](#troubleshooting)
+18. [_Conclusion_](#conclusion)
 
 <br/>
 
@@ -256,11 +257,12 @@ You *MUST* have [[Rock Band 3 Deluxe installed]](https://github.com/hmxmilohax/r
 To use these, click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3. It should combine folders automatically if you did it right.
 Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc#audio), on [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#io), or with [[wireless RB3 Mustang or RB3 keyboard controllers]](https://github.com/carlmylo/rb3-pc/edit/english-win/README.md#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to do configure those.
 
-* [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/recommended.zip)
-* [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/minimum.zip)
+* [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [requirements](#requirements).
+* [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [requirements](#requirements).
 
-For more info on these settings, [[check the readme for the settings repository.]](https://github.com/carlmylo/rb3-pc/tree/english-win/config/customconfig#about)
+For more info on these settings, [[check the readme for the settings repository]](https://github.com/carlmylo/rb3-pc/tree/english-win/config/customconfig#about).
 
+<br/>
 
 # CUSTOM CONFIGURATION:
 
