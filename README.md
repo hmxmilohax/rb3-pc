@@ -53,14 +53,14 @@ You will need:
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB
  		* Storage: 11.2 GBs (5400 RPM HDD)
-   		* Notes: Low quality 720p with no post-processing, 130ms audio, 60Hz with ocassional performance drops
+   		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130ms audio latency, 60Hz with occasional performance drops
 	* Recommended
 		* OS: Windows 10
 		* Processor: AMD Ryzen 5 2600
 		* Memory: 16 GBs
 		* Graphics: NVIDIA GeForce GTX 1650
  		* Storage: 145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD)
- 		* Notes: 1080p with full post-processing, 100ms audio (or lower), 75Hz with ample headroom for multitasking
+ 		* Notes: Great performance with ample headroom for multitasking. 1080p with full post-processing, 100ms audio (or lower), 75Hz.
 	* You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[7zip](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
@@ -249,6 +249,19 @@ You will be prompted for an **email address** so you can receive a **verificatio
 
 <br/>
 
+# QUICK CONFIGURATION:
+These are meant for users that quickly want to just start playing with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to your computer's optimal settings.  
+You *MUST* have [[Rock Band 3 Deluxe installed]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) otherwise these will not work to their full potential.  
+
+To use these, click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3. It should combine folders automatically if you did it right.
+Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc#audio), on [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#io), or with [[wireless RB3 Mustang or RB3 keyboard controllers]](https://github.com/carlmylo/rb3-pc/edit/english-win/README.md#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to do configure those.
+
+* [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/recommended.zip)
+* [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/minimum.zip)
+
+For more info on these settings, [[check the readme for the settings repository.]](https://github.com/carlmylo/rb3-pc/tree/english-win/config/customconfig#about)
+
+
 # CUSTOM CONFIGURATION:
 
 **Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”  
@@ -378,7 +391,7 @@ That's the difficult part over with.
 
 <br/>
 
-#### Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
+# Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
 If you’re not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles, [skip over this section.](#troubleshooting)
 
@@ -466,15 +479,23 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 That’s it! You now (hopefully) have a functional setup to play Rock Band 3 on your PC. While you’re here, why not join some communities that are helping keep the Rock Band community alive?
 
+<div align="center">
+
 **Rock Band 3 Deluxe/Milohax:** 
 
 [![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
 
+</div>
+
 Milohax are the developers of the must-have RB3DX mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn’t have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
+
+<div align="center">
 
 **RBEnhanced:**
 
 [![RBEnhanced Logo](images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+
+</div>
 
 Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced’s Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
