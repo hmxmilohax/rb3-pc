@@ -2,11 +2,11 @@
 These are meant for users that quickly want to just start playing with minimal setup. It is still strongly suggested that you do custom configuration to tweak to your computer's optimal settings.  
 You *MUST* have Rock Band 3 Deluxe installed otherwise these will not work to their full potential.  
 
-To install, extract the ZIP archives into the folder where you extracted RPCS3.
+To use these, click on the settings you want to download then extract the ZIP archives into the folder where you extracted RPCS3.
 
 </br>
 
-### Recommended settings
+### [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/recommended.zip)
 These are the settings used for the *recommended* specs.
 
 These files:
@@ -17,7 +17,7 @@ These files:
 * Enable "Debug Console Mode", Set Exclusive Fullscreen Mode to "Prefer borderless fullscreen", and Driver Wake-Up Delay to "20 µs"
 * Set Venue FPS to "60", disable "Motion Blur", "Camera Shake", and "Depth of Field"
 
-### Minimum settings
+### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/minimum.zip)
 These are the settings used for the *minimum* specs.
 
 These files:
@@ -35,10 +35,10 @@ These files:
 ## User settings
 These are settings used and confirmed working by Milohax Community members.
 
-### Sloth settings
+### [[Sloth settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/slothsettings.zip)
 These are used daily on an AMD Ryzen 2600 CPU, a NVIDIA GT 730 (2GB) GPU, 8 GBs of RAM.
 
-### Carl settings
+### [[Carl settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/carlsettings.zip)
 These settings are strictly here for me to download due to constant emulator resets due to writing tutorials. These are used daily on an AMD Ryzen 3900x CPU, a NVIDIA GTX 1660 GPU, 32 GBs of 3600 MHz RAM, a Samsung 980 Pro 2 M.2 PCIe x4 NVME SSD, and Focusrite Scarlett 18i20 interface. I'm strictly keeping these here for my use and suggest you use the recommended specs instead.  
 These files include an extra folder and file (\GuiConfigsCurrentSettings.ini) to enable a specific setting to fix issues with Turing microarchitecture GPUs.
 
@@ -53,7 +53,7 @@ These files:
 * Enables Debug Mode for "High-Precision Z Buffer"
 * Set Venue FPS to "60", enable "High Memory Mode", disable "Motion Blur", "Camera Shake", and "Depth of Field", and sets a custom theme.
 
-### Extremely low spec settings
+### [[Extremely low spec settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/extremelylowspec.zip)
 These are *emergency low-spec settings* for a laptop running an AMD E2-1800 APU (1.70 GHz) and 16 GBs of RAM. *This is an extremely not optimal experience and these settings are only here as an experiment.*
 
 These files:
