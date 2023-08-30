@@ -255,7 +255,7 @@ These are meant for users that quickly want to just start playing with minimal s
 You *MUST* have [[Rock Band 3 Deluxe installed]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) otherwise these will not work to their full potential.  
 
 To use these, click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3. It should combine folders automatically if you did it right.  
-Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc#audio), on [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#io), or with [[wireless RB3 Mustang or RB3 keyboard controllers]](https://github.com/carlmylo/rb3-pc/edit/english-win/README.md#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to do configure those.
+Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), on [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), or with [[wireless RB3 Mustang or RB3 keyboard controllers]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio) will still need to do configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [requirements](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/english-win/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [requirements](#requirements).
