@@ -3,6 +3,10 @@ Video Version (Outdated):
 
 <br/>
 
+> * _Linux Version_ (N/A)  
+> * _Mac Version_ (N/A)  
+> * [_Versión en español_(WIP)](https://github.com/carlmylo/rb3-pc/tree/espa%C3%B1ol-win#readme)  
+
 >##### WARNING:
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
 <br/>
@@ -21,7 +25,7 @@ Video Version (Outdated):
 12. [_Network_](#network)
 13. [_Advanced_](#advanced)
 14. [_Emulator_](#emulator)
-15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](##wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+15. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
 16. [_Troubleshooting_](#troubleshooting)
 17. [_Conclusion_](#conclusion)
 
@@ -30,8 +34,7 @@ Video Version (Outdated):
 # REQUIREMENTS:
 
 You will need:
-* _A ripped copy of Rock Band 3 for the PS3. (Ideally BLUS-30463)_
-* _11.12 GBs of space minimum. (145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports)_
+* _A ripped copy of Rock Band 3 for the PS3. (BLUS-30463 is strongly suggested)_
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_
 	*   _Any Rock Band and Guitar Hero Drums (PS3, PS4, Wii, X360)_
@@ -44,23 +47,37 @@ You will need:
 	*   _MIDI Drumkits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy)_<sup>d
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
-	* This guide has been tested on CPUs as low as Intel Core i5-4460, Intel Core i5-6500, Intel Core i7-3770, AMD Ryzen 2600, and AMD Ryzen 3 3200G CPUs. It has also been tested on GPUs as low as NVIDIA GeForce GT 730 NVIDIA GTX 1650, AMD Radeon RX 550. Although it's suggested to have 16 GBs of RAM, it works fine on 8 GBs. This game also technically run on a SteamDeck but that's beyond the scope of this tutorial. 
-    You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
+	* Minimum:
+		* OS: Windows 10
+		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
+		* Memory: 8 GBs
+		* Graphics: GeForce GT 730 2GB
+ 		* Storage: 11.2 GBs (5400 RPM HDD)
+   		* Notes: Low quality 720p with no post-processing, 130ms audio, 60Hz with ocassional performance drops
+	* Recommended
+		* OS: Windows 10
+		* Processor: AMD Ryzen 5 2600
+		* Memory: 16 GBs
+		* Graphics: NVIDIA GeForce GTX 1650
+ 		* Storage: 145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD)
+ 		* Notes: 1080p with full post-processing, 100ms audio (or lower), 75Hz with ample headroom for multitasking
+	* You can check [RPCS3’s page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[7zip](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
 <sup>a</sup> <sub>Wii Rock Band instrument controllers and dongles can be converted for PS3, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>b</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so are therefore exempt from this tutorial.</sub>  
-<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. This is known and a solution is being worked on.</sub>  
+<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [These builds require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
 <sup>d</sup> <sub>I don’t have a MIDI Drumkit so there is no set up tutorial for this. Apologies. If you have one and would like to help by sending in screenshots of the setup process, please contact me on the Milohax Discord.</sub>
 
 <br/>
 
 # INSTALLATION:
 
-We’ll be downloading an older version of RPCS3 as it performs better at the moment. Although this guide is Windows-centric, I have linked Linux and Mac OS just in case you want to try it on those operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.
+We’ll be downloading an older version of RPCS3 as it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>c  
+<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
 
-| [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") | [![Apple Computers' logo](images/inst/mac.png)](https://github.com/RPCS3/rpcs3-binaries-mac/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_macos.dmg "Mac OS Version") |
-|---|---|---|
+| [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") |
+|---|---|
 
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
