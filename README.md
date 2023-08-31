@@ -163,9 +163,9 @@ Switch the dropdown menu next to it to"Rock Band" if you’re using a Rock Band 
 | L1 | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: Left/Right | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: Up/Down (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
-| L2 (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | R1 | ![Tilt](images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
