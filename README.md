@@ -136,10 +136,10 @@ Right click “Rock Band 3” and click on **“Create Custom Gamepad Configurat
 
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
-* If you are planning on plugging in multiple instruments, _you must make profiles for each of them_.
-* PS3 standard guitar and drum controllers _should_ be plug and play. If, for some reason, they’re not, you will need to bind them as detailed below. 
-* If you’re using PS3, PS4, or Wii controllers, set the “Handlers” option to “MMJoyStick.” 
-* If you’re using Xbox controllers, set the “Handlers” option to “XInput”
+* If you are planning on plugging in multiple instruments, _you must set them on different ports_.
+* Standard PS3 guitar and drum controllers _should_ be plug and play. If, for some reason, they’re not, you will need to bind them as detailed below. 
+* If you’re using PS3, PS4, Wii guitar and drums, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.” 
+* If you’re using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
 
 Below are the buttons you should map in RPCS3’s Gamepad Settings. **[\[You can also check RPCS3’s website for reference as well\]](https://wiki.rpcs3.net/index.php?title=Help:Peripherals_and_accessories#Configuring_Instruments).**
 
@@ -163,8 +163,9 @@ Switch the dropdown menu next to it to"Rock Band" if you’re using a Rock Band 
 | L1 | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: Right | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
-| L2 | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| Right Stick: Left/Right | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: Up/Down (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | R1 | ![Tilt](images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
