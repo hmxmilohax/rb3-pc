@@ -239,12 +239,12 @@ Se mostrara una ventana pidiendo un **Correo Electronico** para asi recibir un *
 
 This may seem overwhelming due to the sheer number of options but I have color coded stuff that will need adjustment. Everything not colored should be on default options.
 
-| COLOR | MEANING |
+| COLOR | Significado |
 |---|---|
-| ![A yellow square.](images/cust/bigyellow.png "Yellow Square") | *REQUIRED* |
-| ![A green square.](images/cust/biggreen.png "Green Square") | Low performance fixes |
-| ![A pink square.](images/cust/bigpink.png "Pink Square") | Adjust depending on PC, or leave it alone |
-| ![A teal square.](images/cust/bigteal.png "Teal Square") | Optional |
+| ![A yellow square.](images/cust/bigyellow.png "Yellow Square") | *REQUERIDO* |
+| ![A green square.](images/cust/biggreen.png "Green Square") | Opciones para PC's Gama Baja |
+| ![A pink square.](images/cust/bigpink.png "Pink Square") | Ajustes dependiendo de tu pc o dejarlo por default |
+| ![A teal square.](images/cust/bigteal.png "Teal Square") | Opcional |
 
 We’ll go tab by tab, starting with:
 
@@ -255,9 +255,9 @@ We’ll go tab by tab, starting with:
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in green.](images/cust/cpu.png "CPU")
 * ![A green square.](images/cust/smallgreen.png "Green Square") **For low end CPUs** (older 4 core/4 threads chips): 
-	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requires less cores/threads.
-	* **Change "Preferred SPU Threads" to "1"** - Limiting to 1 thread helps prevent stutter caused by CPU overloads.
-	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames but **will break practice mode!**
+	* **Cambia el "SPU Block Size" a "Mega"** - Para juntar SPU más pequeños en un conjunto, lo que requiere menos núcleos/hilos.
+	* **Cambia el "Preferred SPU Threads" a "1"** - Limitarlo a 1 hilo ayuda a prevenir congelamientos causados por sobrecargas de la CPU.
+	* **Y COMO ULTIMA ALTERNATIVA** ** Cambia el "SPU XFloat Accuracy" a "Relaxed"** - Cambiar eso hara que tengas un par de Fotogramas pero, **rompera el Modo Practica!**
 
 <br/>
 
@@ -331,18 +331,18 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUERIDO: 
 	* **Cambia el Network Status a “Connected” como se remarca en la imagen. Si se deja en “Disconnected”, el juego se congelara temporalmente mientras navegas por la Biblioteca de Canciones.**
 * ![A teal square.](images/cust/smallteal.png "Teal Square") Para el Multijugador: 
-	* Activa **"Enable UPNP"** o ** Redirecciona el puerto 9103 (UDP) en tu firewall. No actives el UPNP mientas redireccionas el puerto** ya que esto puede causar crasheos.
-	* **Unete al \[[Servidor de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]**y**ve al**canal de**[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)**. **Sigue las Instrucciones para RPCS3**. Aunque la imagen de abajo include detalles, esto esta sujeto a cambios, y siempre **referirte al \[[Servidor de Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]para** esta **informacion**. Mientas estas ahi puedes organizar sesiones con otros jugadores.
+	* Activa **"Enable UPNP"** o **Redirecciona el puerto 9103 (UDP) en tu firewall. No actives el UPNP mientas redireccionas el puerto** ya que esto puede causar crasheos.
+	* **Unete al \[[Servidor de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]y ve al canal [\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)**. **Sigue las Instrucciones para RPCS3**. Aunque la imagen de abajo include detalles, esto esta sujeto a cambios, y siempre **referirte al \[[Servidor de Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]para** esta **informacion**. Mientas estas ahi puedes organizar sesiones con otros jugadores.
 
 <br/>
 
-## ADVANCED
+## Avanzado
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
 * ![A green square.](images/cust/smallgreen.png "Green Square"): 
-	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and desync when changing program focus constantly.
-	* Change "Driver Wake-up Delay" to "20µ" if you experience rare freezing after a few songs. Increase to "40µ" if it still happens.
+	* **Cambia el "Exclusive Fullscreen Mode" a "Prefer borderless fullscreen"** para prevenir posibles crasheos o desincronizacion al cambiar la prioridad del programa.
+	* Cambia el "Driver Wake-up Delay" a "20µ" si experimentas algunos congelamientos luego de algunas canciones. Incrementalo a "40µ" si sigue pasando. 
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* Adjust VBlank Frequency if you want a higher internal framerate. This can make it easier to hit notes, but can cause graphical instability and connection issues while online. It's best left alone.
+	* Ajusta el "VBlank Frequency" si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad grafica o problemas de conexion en linea. Es mejor dejarlo tal como esta.
 
 <br/>
 
@@ -354,7 +354,7 @@ Puedes dejar esto como quieras, pero yo consideraria cambiar las siguientes opci
 	* “Show PPU compilation hint” - Esto crea una notificacion cuando RPCS3 esta compilando los shaders PPU. Esto solo sale si tienes la opcion "Recompiler (LLVM)" activada en la pestaña de CPU.
 	* “Show shader compilation hint” - Esto crea una notificacion cuando RPCS3 esta compilando Shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los graficos de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabandose mientras esto pase** . **Esto Pasa en TODOS los PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rapidamente
 	* “Start games in Fullscreen mode” - Obviamente solo cambia el modo de Pantalla Completa cuando inicias Rock Band 3. Personalmente yo activo esto.
-	* “Use Native Interface” - Desactivar esto hara que se remuevan todas las notificaciones de RPCS3 mienras el juego es ejecutado.
+	* “Use Native Interface” - Desactivar esto hara que se remuevan todas las notificaciones de RPCS3 mientras el juego es ejecutado.
 
 
 
@@ -408,10 +408,10 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	* Aumenta el "Audio Buffer Duration" como se menciona en [la pestaña de Audio de la Configuracion Personalizada de Rock Band 3] (#Audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de bajo rendimiento.
 
 *   **_Problemas Generales de Rendimiento_**
-	*   Regresa y Lee los“**EXTRA**” Mensajes de la [Seccion de Configuracion Personalizada](#configuration).
+	*   Regresa y Lee los “**EXTRA**” Mensajes de la [Seccion de Configuracion Personalizada](#configuration).
 	*   Instala [RB3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) y deshabilita los Efectos de Post Procesado en el apartado "Deluxe Settings"
 
-*   **_El juego no se llena en toda la_****_pantalla_**
+*   **_El juego no se llena en toda la_**_pantalla_**
 	*   Activa la Opcion "Overscan" en el Menu de Opciones de RB3.
 
 *   **_El juego tiene retrao de Audio o Notas_**
@@ -454,14 +454,14 @@ Eso es todo! Ahora (Con un poco de suerte) tienes un set-up funcional para jugar
 
 [![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
 
-Desarroladores del imprescindible Mod Rock Band 3 Deluxe que no puedo recomendar lo suficiente.**[\[Descarga Aqui.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)**Además de agregar muchas características de calidad de vida como arranques más rápidos, escenarios a 60 fps y carga automática de contenido descargable, **también incluye RB3_Plus, que agrega Pro Keys adicionales y Pro Guitar/Bass a canciones que no las tenían.****¡Si tienes un instrumento Pro, esto es imprescindible!** Además de esto, hay varias opciones de personalización visual, como el uso de Apariencias de Rock Bands más antiguos (y más nuevos) e incluso de Guitar Hero.[You can**\[join Milohax’s Discord here\]**](https://discord.gg/xrba4CjdNC).
+Desarroladores del imprescindible Mod Rock Band 3 Deluxe que no puedo recomendar lo suficiente.[\[Descarga Aqui.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme) Además de agregar muchas características de calidad de vida como arranques más rápidos, escenarios a 60 fps y carga automática de contenido descargable, **también incluye RB3_Plus, que agrega Pro Keys adicionales y Pro Guitar/Bass a canciones que no las tenían.****¡Si tienes un instrumento Pro, esto es imprescindible!** Además de esto, hay varias opciones de personalización visual, como el uso de Apariencias de Rock Bands más antiguos (y más nuevos) e incluso de Guitar Hero.[Puedes \[Unirte al servidor de MiloHax\]](https://discord.gg/xrba4CjdNC).
 
 *
 **RBEnhanced:**
 
 [![RBEnhanced Logo](images/xtra/rbe.png "RBEnhanced")
 
-Desarrolladores del Increible mod RBEnhanced el cual solamente existe para Xbox 360 y Wii. Los mismos desarrolladores tambien ayudan y mantienen el servidor de GoCentral el cual es la unica manera de jugar Rock Band 3 en linea en Xbox,PS3 y Wii por el Momento. Puedes[**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb).
+Desarrolladores del Increible mod RBEnhanced el cual solamente existe para Xbox 360 y Wii. Los mismos desarrolladores tambien ayudan y mantienen el servidor de GoCentral el cual es la unica manera de jugar Rock Band 3 en linea en Xbox,PS3 y Wii por el Momento. Puedes [**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb).
 
 Agradecimientos especiales a:
 
