@@ -490,7 +490,7 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/Rock Band 3 Deluxe.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
 
 </div>
 
@@ -511,7 +511,7 @@ Special thanks to:
 *   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and Rock Band 3.
 *   [qfoxb](https://github.com/qfoxb), [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 20 hours via autoplay lmao), [knvtva](https://github.com/knvtva), and 1osks for reporting results.
 *   RPCS3 Wiki for having pretty decent information on controllers and USB passthrough.
-*   TheNathannator's PlasticBand GitHub for even better documentation on controllers.
+*   [TheNathannator's](https://github.com/TheNathannator) [PlasticBand GitHub](https://github.com/TheNathannator/PlasticBand) for even better documentation on controllers.
 
 
 <div align="center">
