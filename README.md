@@ -232,12 +232,12 @@ Se mostrara una ventana pidiendo un **Correo Electronico** para asi recibir un *
 
 <br/>
 
-# CUSTOM CONFIGURATION:
+# Configuracion Personalizada:
 
-**Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”  
+**Da Click Derecho en Rock Band 3** en RPCS3, luego presiona “**Create Custom Configuration**”  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration" highlighted](images/cust/rpcs3customconfig.png "Create Custom Gamepad Configuration")
 
-This may seem overwhelming due to the sheer number of options but I have color coded stuff that will need adjustment. Everything not colored should be on default options.
+Esto puede parecer abrumador debido a la gran cantidad de opciones, pero he codificado por colores las cosas que requerirán ciertos ajustes. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
 
 | COLOR | Significado |
 |---|---|
@@ -246,7 +246,7 @@ This may seem overwhelming due to the sheer number of options but I have color c
 | ![A pink square.](images/cust/bigpink.png "Pink Square") | Ajustes dependiendo de tu pc o dejarlo por default |
 | ![A teal square.](images/cust/bigteal.png "Teal Square") | Opcional |
 
-We’ll go tab by tab, starting with:
+Iremos pestaña por pestaña,asi que comencemos con:
 
 <br/>
 
@@ -254,7 +254,7 @@ We’ll go tab by tab, starting with:
 
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in green.](images/cust/cpu.png "CPU")
-* ![A green square.](images/cust/smallgreen.png "Green Square") **For low end CPUs** (older 4 core/4 threads chips): 
+* ![A green square.](images/cust/smallgreen.png "Green Square") **Para PC's Gama Baja** (4 Nucleos/4 Chips de Hilos): 
 	* **Cambia el "SPU Block Size" a "Mega"** - Para juntar SPU más pequeños en un conjunto, lo que requiere menos núcleos/hilos.
 	* **Cambia el "Preferred SPU Threads" a "1"** - Limitarlo a 1 hilo ayuda a prevenir congelamientos causados por sobrecargas de la CPU.
 	* **Y COMO ULTIMA ALTERNATIVA** ** Cambia el "SPU XFloat Accuracy" a "Relaxed"** - Cambiar eso hara que tengas un par de Fotogramas pero, **rompera el Modo Practica!**
@@ -279,14 +279,14 @@ We’ll go tab by tab, starting with:
 
 ## Audio
 ![A screenshot of Rock Band 3's Audio custom settings, showing Enable Buffering highlighted in yellow, Audio Out highlighted in green, Audio Buffer highlighted in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in teal.](images/cust/audio.png "Audio")
-* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, reenable it.
-* ![A green square.](images/cust/smallgreen.png "Green Square") For Windows users: 
-	* **Change "Audio Out" to XAudio2"** - Can help with with latency.
-* ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* Adjust "Audio Buffer Duration" depending on system. **Lower values mean less latency but more CPU** required to keep stable audio. **Higher values mean more stable audio due to less CPU stress**. This can be changed while the game is running but **will require re-calibrating** in Rock Band 3's system settings.
-* ![A teal square.](images/cust/smallteal.png "Teal Square") For Vocalists: 
-	* Select an input device in "Mic1", "Mic2", and "Mic3" for vocals. If not playing vocals, they will be used for voice chat.
+* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUERIDO: 
+	* **Activa la Opcion "Enable Buffering"** - Absolutamente requerido para Rock Band 3. Deberia estar habilitada por defecto,pero si esta deshabilitada,activala.
+* ![A green square.](images/cust/smallgreen.png "Green Square") Para Usuarios de Windows: 
+	* **Cambia el "Audio Out" a "XAudio2"** - Puede ayudar con la latencia.
+* ![A pink square.](images/cust/smallpink.png "Pink Square") Ajuste dependiendo de tu PC: 
+	* Ajusta el "Audio Buffer Duration" dependiendo de tu sistema. **Valores mas bajos significa menos latencia pero mas CPU** requerido para mantener estable el audio **Valores altos significan mas audio estable debido a menos forzamiento de la CPU**. Esto puede ser cambiado mientras el juego se ejecuta pero **requerira una recalibracion** en los ajustes del sistema de Rock Band 3
+* ![A teal square.](images/cust/smallteal.png "Teal Square") Para Vocalistas: 
+	* Selecciona un dispositivo de entrada en "Mic1", "Mic2" y "Mic3" para las voces. Si no se están utilizando para reproducir voces, se utilizarán para el chat de voz.
 
 <br/>
 
