@@ -194,40 +194,40 @@ As an example, here’s what a _Wii The Beatles: Rock Band Hofner_ controller lo
 
 <br/>
 
-## USER ACCOUNT:
-In RPCS3, go to **Manage > User Accounts**  
+## Cuenta de Usuario:
+En RPCS3,ve a **Manage > User Accounts**  
 ![RPCS3 showing "User Accounts" option under the "Manage" menu.](images/conf/rpcs3user.png "RPCS3: User Accounts")
 
-Once you’re there, click on the default username (00000001 - User) and then click **“Rename user”** and change it to whatever you want, then close it out.  
+Una vez que estes ahi,dale click en el Nombre de usuario Predeterminado (00000001 - User) y Luego click en **“Rename user”** y cambialo al nombre que quieras y luego lo cierras.
 ![RPCS3's "User Manager", showing the default username.](images/conf/rpcs3rename.png "RPCS3: User Accounts")
 
 <br/>
 
-## RPCN ACCOUNT
+## Cuenta de RPCN
 
-If you don’t want to play online, [you can skip this part.](#custom-configuration)
+Si no quieres jugar Online, [puedes saltarte esta parte.](#custom-configuration)
 
-Go to **Configuration > RPCN**
+Ve a **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
 
-Click on “**Account**”:  
+Da click en “**Account**”:  
 ![A screenshot of RPCS3's RPCN menu with "Account" highlighted](images/rpcn/rpcnpopup.png "RPCN")
 
-Click “**Create Account**”:  
+Click en “**Create Account**”:  
 ![A screenshot of RPCS3's RPCN: Account menu with "Create Account" highlighted](images/rpcn/account.png "RPCN: Account")
 
-Enter a **username** and **password**:  
+Pon un **Nombre de Usuario** Y **Contraseña**:  
 ![A screenshot of RPCS3's RPCN: Username menu with a username set and "OK" highlighted](images/rpcn/user.png "RPCN: User")  
 ![A screenshot of RPCS3's RPCN: Password menu with an obscured password set (twice for verification) and "OK" highlighted](images/rpcn/password.png "RPCN: Password")  
 
-You will be prompted for an **email address** so you can receive a **verification token**:  
+Se mostrara una ventana pidiendo un **Correo Electronico** para asi recibir un **Token de Verificacion**:  
 ![A screenshot of RPCS3's RPCN: Email menu with an email (twice for verification) set and "OK" highlighted](images/rpcn/email.png "RPCN: Email")  
 
-**Click “Yes”** and go to your email inbox. You may have to wait a few minutes to get it. If you’re still waiting, check your spam inbox. The email will be called **“Your token for RPCN.” Copy the token**:
+**Click en “Ok”** y ve a la bandeja de entrada de tu correo electronico. Puede que tengas que esperar un par de minutos para que llegue el correo. Si todavia sigues esperando,checa la pestaña de **"Spam"**. El Email se llama **“Your token for RPCN.” Copy the token**:
 
 ![A screenshot of an email labeled "Your Token for RPCN" with a token below what username it's for](images/rpcn/emailtoken.png "Your token for RPCN")
 
-**Paste the token** into RPCS3 and click OK:  
+**Pega el token** a RPCS3 Y presiona Ok:  
 ![A screenshot RPCS3 telling the user an account was successfully created.](images/rpcn/created.png "RPCN: Username")
 
 <br/>
@@ -326,13 +326,13 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 
 <br/>
 
-## NETWORK
+## Red
 ![A screenshot of Rock Band 3's Network custom settings, showing Network Status (Connected) highlighted in yellow, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in teal.](images/cust/network.png "Network")
-* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.**
-* ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
-	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don’t enable UPNP while port forwarding** as this can cause crashes.
-	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture below includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you’re there, you can also organize sessions with other players.  
+* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUERIDO: 
+	* **Cambia el Network Status a “Connected” como se remarca en la imagen. Si se deja en “Disconnected”, el juego se congelara temporalmente mientras navegas por la Biblioteca de Canciones.**
+* ![A teal square.](images/cust/smallteal.png "Teal Square") Para el Multijugador: 
+	* Activa **"Enable UPNP"** o ** Redirecciona el puerto 9103 (UDP) en tu firewall. No actives el UPNP mientas redireccionas el puerto** ya que esto puede causar crasheos.
+	* **Unete al \[[Servidor de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]**y**ve al**canal de**[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)**. **Sigue las Instrucciones para RPCS3**. Aunque la imagen de abajo include detalles, esto esta sujeto a cambios, y siempre **referirte al \[[Servidor de Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\]para** esta **informacion**. Mientas estas ahi puedes organizar sesiones con otros jugadores.
 
 <br/>
 
@@ -346,18 +346,19 @@ As **keyboards don’t have PS3 buttons, the first octave is** reserved **for ma
 
 <br/>
 
-## EMULATOR
+## EMULADOR
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface".](images/cust/emulator.png "Emulator")
-You can leave this as is if you want, but I would consider changing the following options:
-* ![A teal square.](images/cust/smallteal.png "Teal Square") Optional tweaks: 
-	* “Show trophy popups” - Mimics the way Trophy notifications appeared on the PS3. I personally disable this as the game has its own pop-ups.
-	* “Show PPU compilation hint” - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as "Recompiler (LLVM)" in the CPU tab does this when launching the game.
-	* “Show shader compilation hint” - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The** **best way to deal with this is** just **to** **play the game** as it will quickly go away.
-	* “Start games in Fullscreen mode” - Obviously just switches to Fullscreen when you start Rock Band 3. I personally enable this.  
-	* “Use Native Interface” - Disabling this will remove RPCS3 notifications entirely while the game is launched.
-    
+Puedes dejar esto como quieras, pero yo consideraria cambiar las siguientes opciones:
+* ![A teal square.](images/cust/smallteal.png "Teal Square") Cambios Opcionales: 
+	* “Show trophy popups” - Simula la notificacion de trofeos de la PS3. Personamente desactivo esto ya que el juego tiene sus propias notificaciones.
+	* “Show PPU compilation hint” - Esto crea una notificacion cuando RPCS3 esta compilando los shaders PPU. Esto solo sale si tienes la opcion "Recompiler (LLVM)" activada en la pestaña de CPU.
+	* “Show shader compilation hint” - Esto crea una notificacion cuando RPCS3 esta compilando Shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los graficos de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabandose mientras esto pase** . **Esto Pasa en TODOS los PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rapidamente
+	* “Start games in Fullscreen mode” - Obviamente solo cambia el modo de Pantalla Completa cuando inicias Rock Band 3. Personalmente yo activo esto.
+	* “Use Native Interface” - Desactivar esto hara que se remuevan todas las notificaciones de RPCS3 mienras el juego es ejecutado.
 
-That's the difficult part over with.
+
+
+Y con eso termina la parte dificil.
 
 <br/>
 
