@@ -75,42 +75,42 @@ You will need:
 
 # INSTALLATION:
 
-We'll be downloading an older version of RPCS3 as it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>c  
+We'll be downloading an older version of RPCS3 because it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>c  
 <sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
 
 | [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") |
 |---|---|
 
 **Once it downloads, extract the .7zip file.**  
-![A screenshot of the the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
+![A screenshot of the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
 
-I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. I'd also untick the box that will create a sub-directory as shown highlighted in the picture. Avoid installing to and running from an external drive as those typically do not have enough bandwidth to work properly.  
+I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. Avoid installing to and running from an external drive, as those typically do not have enough bandwidth to work properly.  
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/inst/extractdir.png "Extract")
 
 Once that's extracted, [**download the PlayStation 3 system software from Sony's website**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**”, **click that** to expand, **then click on “Download PS3 Update.**”  
   
-_**If you're on a Chromium based browser like Chrome or Edge, MAKE SURE YOU RIGHT CLICK AND “Save link as”, or your download MAY become stuck.**_
+_**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND “Save link as,” or your download MAY become stuck.**_
 
 Once again, the picture below links to the download page.
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
 
-Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** you just downloaded from Sony's website **into RPCS3** **then click Yes**.  
+Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** **then click "Yes"**.  
 ![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/inst/fwinstall.png "RPCS3 Firmware Installer")
 
 **Let it install.**  
 ![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](images/inst/rpcs3fw.png "RPCS3 Firmware Installer progress")
 
-**When it finishes, click OK**  
+**When it finishes, click "OK"**  
 ![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](images/inst/rpcs3fwdone.png "Success!")
 
 It will start compiling modules, which may take a few minutes. **Let it do its thing.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it as you need it. Again, you're on your own when it comes to finding a copy. [I used “PS3 Disc Dumper” for this because it's the easiest way.](https://youtu.be/mRxSKxoYt_g)
+Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [I used “PS3 Disc Dumper” for this because it's the easiest way.](https://youtu.be/mRxSKxoYt_g)
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 is now in your game library in RPCS3, however it's out of date. Let's fix that. **You will need to download the update PKG file** which is linked below. This directly links to the same Sony servers the PS3 downloads from. You may get security warnings as said server lacks HTTPS.  
+Rock Band 3 is now in your game library in RPCS3, but it's out of date. Let's fix that. **You will need to download the update PKG file** which is linked below. This link directly connects to the same Sony servers that the PS3 downloads from. You may receive security warnings because the server lacks HTTPS.  
 [\[CLICK HERE TO DOWNLOAD ROCK BAND 3 UPDATE PKG\]](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg)
 
 The filename will look something like this:
@@ -130,23 +130,24 @@ The filename will look something like this:
 
 ## CONTROLLERS:
 
-**This is for standard (five fret guitars, RB/GH drums) controllers.**  
-Pro Guitars, or Keyboards are set up later.
+**This section is for standard controllers (five-fret guitars, RB/GH drums).**  
+Pro Guitars and/or Keyboards are set up later.
 
-**Right click “Rock Band 3” and click on “Create Custom Gamepad Configuration”**
+**Right click on “Rock Band 3” and select “Create Custom Gamepad Configuration”**
 
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_.
-* Standard PS3 guitar and drum controllers _should_ be plug and play. If, for some reason, they're not, you will need to bind them as detailed below. 
-* If you're using PS3, PS4, Wii guitar or drum controllers, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.” 
+* Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
+* If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
+*  If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
 
 Below are the buttons you should map in RPCS3's Gamepad Settings.
 
-**If your controller isn't being detected, hit “Refresh”. If that doesn't solve it, restart RPCS3.**
+**If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
 
-When you're finished, **remember to click “Save”.**
+Once you've finished configuring, **remember to click “Save”.**
 
   
 **Guitar**:  
@@ -175,7 +176,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 Make sure you **set “Device Class” to “Drum”.**
 
-**Switch the drop-down menu next to it to"Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+**Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
 | **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
 |:--------:|:---------------:|:-------------------:|:-----------------:|
@@ -191,7 +192,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 
 **Vocals**:  
-Vocals use regular controllers. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. You don't have to remap anything. You can also use a typing keyboard and use this guide as reference to change the mapping to your liking.
+*Vocals use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. You don't have to remap anything. You can also use a typing keyboard and use this guide as reference to change the mapping to your liking.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
