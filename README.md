@@ -257,23 +257,23 @@ Iremos pestaña por pestaña,asi que comencemos con:
 * ![A green square.](images/cust/smallgreen.png "Green Square") **Para PC's Gama Baja** (4 Nucleos/4 Chips de Hilos): 
 	* **Cambia el "SPU Block Size" a "Mega"** - Para juntar SPU más pequeños en un conjunto, lo que requiere menos núcleos/hilos.
 	* **Cambia el "Preferred SPU Threads" a "1"** - Limitarlo a 1 hilo ayuda a prevenir congelamientos causados por sobrecargas de la CPU.
-	* **Y COMO ULTIMA ALTERNATIVA** ** Cambia el "SPU XFloat Accuracy" a "Relaxed"** - Cambiar eso hara que tengas un par de Fotogramas pero, **rompera el Modo Practica!**
+	* **Y COMO ULTIMA ALTERNATIVA** **Cambia el "SPU XFloat Accuracy" a "Relaxed"** - Cambiar eso hara que tengas un par de Fotogramas pero, **rompera el Modo Practica!**
 
 <br/>
 
 ## GPU
 ![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
-* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* **Enable "Write Color Buffers"** - Fixes 99% of the issues with characters having glitched textures.
-* ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
-	* Change "ZCULL Accuracy" to "Relaxed" - Slight performance improvement which may cause graphical anomalies.
-* ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* Change "Frame Limit" to "Off" to use enable uncapped framerate (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). **It is suggested to use your graphics card's driver settings for frame rate capping, or software like MSI Afterburner.**
-	* Adjust "Shader Quality" depending on your system. Low and Medium will drastically reduce quality, Auto will use suggested RPCS3's setting, and High is the best option. Ultra looks similar to high.
-	* Adjust "Resolution Scale" to taste. Lower for a performance gains at a drastic cost in quality. Increase for sharper graphics.
-	* Adjust "Resolution Scale Threshold" depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e. for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
-* ![A teal square.](images/cust/smallteal.png "Teal Square") OPTIONAL: 
-	* Enable "VSync" - Reduces screen tearing and may lead to a more stable framerate. Increases latency slightly.
+* ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUUERIDO: 
+	* **Enable "Write Color Buffers"** - Arregla el 99% de los problemas con los personajes teniendo texturas Bugueadas.
+* ![A green square.](images/cust/smallgreen.png "Green Square") Para GPU's Gama Baja: 
+	* Cambia el "ZCULL Accuracy" a "Relaxed" - Mejora ligera en el rendimiento que puede causar anomalías gráficas.
+* ![A pink square.](images/cust/smallpink.png "Pink Square") Ajuste dependiendo de tu PC: 
+	* Cambia el "Frame Limit" a "Off" Para habilitar una frecuencia de cuadros sin límites (puede introducir agitacion de camara en el juego), establezca en 60 si desea una frecuencia de cuadros bloqueada de 60 FPS (redundante con 60Hz de La Sincronizacion Vertical). **Se sugiere utilizar la configuración del controlador de su tarjeta gráfica para limitar la frecuencia de cuadros o utilizar software como MSI Afterburner.**
+	* Ajustar el "Shader Quality" dependiendo de tu sistema. "Low" y Medium" reducira drásticamente la calidad, "Auto" usará la configuración sugerida por RPCS3, y "High" es la mejor opción. "Ultra" se ve similar a Alta.
+	* Ajusta el "Resolution Scale" a tu gusto. Bajalo para obtener mas rendimiento a costa de una drástica pérdida de calidad. Aumentala para obtener gráficos más nítidos.
+	* Ajusta el "Resolution Scale Threshold" dependiendo de la "Resolution Scale" de arriba. Ajusta el número al porcentaje en el que aumentaste tu resolución (por ejemplo, para 1920x1080, que es un 150%, calcularías cuál es el 150% de 16, lo que sería 24).
+* ![A teal square.](images/cust/smallteal.png "Teal Square") OPCIONAL: 
+	* Activar el "VSync" - Reduce el efecto de rasgado de pantalla y da unos Fotogramas mas estables. Incrementa la latencia Ligeramente.
 
 <br/>
 
