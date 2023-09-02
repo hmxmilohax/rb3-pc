@@ -293,20 +293,20 @@ We'll go tab by tab, starting with:
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in green.](images/cust/cpu.png "CPU")
 * ![A green square.](images/cust/smallgreen.png "Green Square") **For low end CPUs** (older 4 core/4 threads chips): 
-	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requires less cores/threads.
+	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads.
 	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - Can help prevent stutter caused by CPU overloads. Start from 4 and lower until it improves.
 	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames but **will break practice mode!**
 
 <br/>
 
 ## GPU
-![A screenshot of Rock Band 3's GPU  custom settings, showing Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in yellow, ZCULL Accuracy highlighted in green, Resolution Scale, Resolution Scale Threshold, Frame Limit, and Shader Quality highlighted in pink, and VSync highlighted in teal.](images/cust/gpu.png "GPU")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* **Enable "Write Color Buffers"** - Fixes 99% of the issues with characters having glitched textures.
+	* **Enable "Write Color Buffers"** - This fixes 99% of the issues with characters having glitched textures.
 * ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
-	* **Change "ZCULL Accuracy" to "Relaxed"** - Slight performance improvement which may cause graphical anomalies.
+	* **Change "ZCULL Accuracy" to "Relaxed"** - This provides a slight performance improvement but may cause graphical anomalies.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* **Change "Frame Limit" to "Off" to use use higher VBlank Frequencies** (may introduce jitter), set to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). **It is suggested to use your graphics card's driver settings or software like MSI Afterburner for frame rate capping.**
+	* **Change "Frame Limit" to "Off" to use higher VBlank Frequencies** (which may introduce jitter). Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
 	* **Adjust "Shader Quality"** depending on your system. Low and Medium will drastically reduce quality, Auto will use suggested settings, and High is the best option. Ultra looks similar to high.
 	* **Adjust "Resolution Scale"** to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* **Adjust "Resolution Scale Threshold"** depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e., for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
@@ -316,15 +316,15 @@ We'll go tab by tab, starting with:
 <br/>
 
 ## Audio
-![A screenshot of Rock Band 3's Audio custom settings, showing Enable Buffering highlighted in yellow, Audio Out highlighted in green, Audio Buffer highlighted in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in teal.](images/cust/audio.png "Audio")
+![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in yellow, Audio Out in green, Audio Buffer in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 in teal.](images/cust/audio.png "Audio")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
 	* **Adjust "Audio Buffer Duration"** depending on system.
-		* Lower values lead to less audio latency but higher CPU usage.
-		* Higher values lead to more audio latency but higher CPU usage.
-		* Vocalists are the ones affected by this the most as a higher latency will create a distracting echo. Instrument players can use calibration to compensate.
-		* This can be changed while the game is running but will require re-calibrating in Rock Band 3's system settings.
+		* Lower values give you less audio latency but higher CPU usage.
+		* Higher values give you more audio latency but lower CPU usage.
+		* Vocalists are affected the most by this, as higher latency creates a distracting echo. Instrument players can use calibration to compensate.
+		* You can change this while the game is running, but it will require re-calibrating in Rock Band 3's system settings.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For Vocalists: 
 	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
 
@@ -345,7 +345,7 @@ We'll go tab by tab, starting with:
 **The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs.
 ![A picture of a Rock Band 3 Fender Mustang Pro Guitar, showing a 5-DIN MIDI output.](images/midi/midiprotar.png "Mustang Pro Guitar MIDI Output")  
 
-Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you plugged it in correctly, you should see “MIDI In” blinking when you press a key**.  
+Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see “MIDI In” blinking when you press a key**.  
 ![A picture of a MIDI to USB interface.](images/midi/miditousb.png "MIDI to USB interface")  
 
 
@@ -361,15 +361,15 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
   
  **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work restart RPCS3.**  
   
-As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges.
+As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as a reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges.
 ![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](images/midi/keysctrl.png "MIDI Keyboard Reference")  
 
 <br/>
 
 ## NETWORK
-![A screenshot of Rock Band 3's Network custom settings, showing Network Status (Connected) highlighted in yellow, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in teal.](images/cust/network.png "Network")
+![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in yellow, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) in teal](images/cust/network.png "Network")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
-	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected”, the game will freeze temporarily when browsing the song library.**
+	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
 * ![A teal square.](images/cust/smallteal.png "Teal Square") For online multiplayer: 
 	* Enable **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don't enable UPNP while port forwarding** as this can cause crashes.
 	* **Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\]** and **go to** the **[\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)** channel. **Follow the instructions for RPCS3**. Although the picture above includes details, this is subject to change, and you should **always refer to the \[[RBEnhanced Discord](https://discord.gg/6rRUWXPYwb)\] for** this **information**. While you're there, you can also organize sessions with other players.  
@@ -380,10 +380,10 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
 * ![A green square.](images/cust/smallgreen.png "Green Square"): 
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing program focus constantly.
-	* **Change "Driver Wake-up Delay" to "20µ"** if you experience rare freezing after a few songs. Increase to "40µ" if it still happens.
+	* **Change "Driver Wake-up Delay" to "20µ"** if you experience rare freezing after a few songs. Increase it to "40µ" if the issue persists.
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
 	* **Enable "Debug Console Mode"** - Rock Band 3 Deluxe can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability.
-	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes, but can cause graphical instability and connection issues while online. It's best left alone.
+	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. It's best left alone.
 <br/>
 
 ## EMULATOR
@@ -497,7 +497,7 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many of quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
 
 <div align="center">
 
