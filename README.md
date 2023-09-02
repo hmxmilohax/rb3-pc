@@ -178,6 +178,8 @@ Make sure you **set “Device Class” to “Drum”.**
 
 **Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
+If you're using a 360 MPA with a drum kit, please ask **\[the Milohax discord\]**](https://discord.gg/xrba4CjdNC for the mapping as they know more about this.
+
 | **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
 |:--------:|:---------------:|:-------------------:|:-----------------:|
 | Cross | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/gh/gp.png "Green Pad") |
@@ -192,7 +194,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 
 **Vocals**:  
-*Vocals use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. You don't have to remap anything. You can also use a typing keyboard and use this guide as reference to change the mapping to your liking.
+*For vocals*, you can *use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
@@ -211,13 +213,13 @@ Make sure you **set “Device Class” to “Drum”.**
 
   
 
-As an example, here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note the "Handlers" being set to "MMJoystick" and "Devices" being set to the correct Joystick number. Also note that, since it's a Rock Band guitar controller, "Device Class" is set to 'Guitar" and the box next to that is set to "Rock Band".
+Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note "Handlers" being set to "MMJoystick" and "Devices" being set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to 'Guitar" and the box next to that is set to "Rock Band".
 ![A screenshot of RPCS3's Gamepad Settings with a Höfner](images/conf/rpcs3padexm.png "Gamepad Settings with a Wii The Beatles: Rock Band Höfner guitar controller")
 
 <br/>
 
 ## USER ACCOUNT:
-In RPCS3, go to **Manage > User Accounts**  
+In RPCS3, go to **Manage > User Accounts** 
 ![RPCS3 showing "User Accounts" option under the "Manage" menu.](images/conf/rpcs3user.png "RPCS3: User Accounts")
 
 Once you're there, **click on the default username (00000001 - User) and then click “Rename user” and change it** to whatever you want, then close it out.  
@@ -227,7 +229,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 ## RPCN ACCOUNT
 
-If you don't want to play online, [you can skip this part.](#custom-configuration)
+If you don't want to play online, [you can skip to the next part.](#custom-configuration)
 
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
@@ -255,11 +257,11 @@ You will be prompted for an **email address** so you can receive a **verificatio
 <br/>
 
 # QUICK CONFIGURATION:
-These are meant for users that want to just start playing with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to what's best for your computer.  
+These files are meant for users that want to just start playing with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to what's best for your computer.  
 **You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) otherwise these will not work to their full potential.  
 
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
-Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), on [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), or with [[wireless RB3 Mustang or RB3 keyboard controllers]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio) will still need to configure those.
+Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/english-win/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [requirements](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/english-win/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [requirements](#requirements).
@@ -273,7 +275,7 @@ For more info on these settings, [[check the Readme for the settings repository]
 **Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration" highlighted](images/cust/rpcs3customconfig.png "Create Custom Gamepad Configuration")
 
-This may seem overwhelming due to the sheer number of options but I have color coded stuff that will need adjustment. Everything not colored should be on default options and left alone.
+This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Everything not colored should remain on the default options and left unchanged.
 
 | COLOR | MEANING |
 |---|---|
