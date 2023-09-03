@@ -6,6 +6,7 @@ Video Version (Outdated):
 
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
+> * _SteamDeck Version_ (N/A)  
 > * [_Versión en español_  (WIP)](https://github.com/carlmylo/rb3-pc/tree/espa%C3%B1ol-win#readme)  
 
 >##### WARNING:
