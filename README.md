@@ -84,7 +84,9 @@ We'll be downloading an older version of RPCS3 because it performs better at the
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
 
-I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. Avoid installing to and running from an external drive, as those typically do not have enough bandwidth to work properly.  
+I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+
+Avoid installing to and running from an external drive, as those typically do not have enough bandwidth to work properly.  
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/inst/extractdir.png "Extract")
 
 Once that's extracted, [**download the PlayStation 3 system software from Sony's website**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**”, **click that** to expand, **then click on “Download PS3 Update.**”  
@@ -229,7 +231,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 ## RPCN ACCOUNT
 
-If you don't want to play online, [you can skip to the next part.](#custom-configuration)
+If you don't want to play online, [you can skip to the next part.](#quick-configuration)
 
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
@@ -257,11 +259,11 @@ You will be prompted for an **email address** so you can receive a **verificatio
 <br/>
 
 # QUICK CONFIGURATION:
-These files are meant for users that want to just start playing with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to what's best for your computer.  
+These files are meant for people that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to what's best for your computer.  
 **You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) otherwise these will not work to their full potential.  
 
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
-Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio) will still need to configure those.
+Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/english-win/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [requirements](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/english-win/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [requirements](#requirements).
@@ -306,8 +308,8 @@ We'll go tab by tab, starting with:
 * ![A green square.](images/cust/smallgreen.png "Green Square") For low end GPUs: 
 	* **Change "ZCULL Accuracy" to "Relaxed"** - This provides a slight performance improvement but may cause graphical anomalies.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
-	* **Change "Frame Limit" to "Off" to use higher VBlank Frequencies** (which may introduce jitter). Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
-	* **Adjust "Shader Quality"** depending on your system. Low and Medium will drastically reduce quality, Auto will use suggested settings, and High is the best option. Ultra looks similar to high.
+	* **Change "Frame Limit" to "Off" to use higher VBlank Frequencies** (which may introduce jitter). Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). Leave on Auto if you're just gonna play at 60 FPS. It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
+	* **Adjust "Shader Quality"** depending on your system. Low and Medium will drastically reduce quality, Auto will use default settings, and High is the best option. Ultra looks similar to high.
 	* **Adjust "Resolution Scale"** to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* **Adjust "Resolution Scale Threshold"** depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e., for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") OPTIONAL: 
@@ -357,7 +359,7 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in teal.](images/cust/io.png "I/O")
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
 	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it.**.
-	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then set your MIDI interface in the drop-down menu next to it**.
+	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it**.
   
  **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work restart RPCS3.**  
   
@@ -382,8 +384,10 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing program focus constantly.
 	* **Change "Driver Wake-up Delay" to "20µ"** if you experience rare freezing after a few songs. Increase it to "40µ" if the issue persists.
 * ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* **Enable "Debug Console Mode"** - Rock Band 3 Deluxe can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability.
 	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. It's best left alone.
+* ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
+	* **Enable "Debug Console Mode"** - With this option enabled and Rock Band 3 Deluxe installed, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability.
+
 <br/>
 
 ## EMULATOR
