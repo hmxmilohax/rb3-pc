@@ -98,7 +98,17 @@ Once again, the picture below links to the download page.
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
 
-Now **open up RPCS3**, and **drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** **then click "Yes"**.  
+Now **open up RPCS3**. **Check "I have read the Quickstart guide" and "Do not show again".**  
+![A screenshot of RPCS3 welcoming the user to RPCS3.](images/inst/rpcs3init.png "Welcome to RPCS3")
+
+As mentioned earlier, this an outdated build of RPCS3, and you'll be warned about this.
+**MAKE SURE YOU CLICK "NO"**
+![A screenshot of alerting the user RPCS3 has an update available.](images/inst/rpcs3updwrn.png "Update Available")
+
+**Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** 
+![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
+
+**Click "Yes"** when the firmware installer prompts you.  
 ![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/inst/fwinstall.png "RPCS3 Firmware Installer")
 
 **Let it install.**  
@@ -130,6 +140,15 @@ The filename will look something like this:
 ***IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!***
 
 <br/>
+
+## DISABLE UPDATES
+
+As current versions of RPCS3 perform worse for Rock Band 3 and other rhythm games, it is currently suggested to stay on an older version and disable the update nag popup.
+To do this, look at the top menu bar of RPCS3, **click on Configuration > GUI**
+![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3gui.png "RPCS3 > Configuration > GUI")
+
+**In "Check for updates on startup", change the option to "No", then click "Apply" then "Save**
+![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3disupd.png "RPCS3 > Configuration > GUI")
 
 ## CONTROLLERS:
 
