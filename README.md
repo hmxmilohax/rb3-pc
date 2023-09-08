@@ -7,30 +7,31 @@ Video Version (Outdated):
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
-> * [_Versión en español_  (WIP)](https://github.com/carlmylo/rb3-pc/tree/espa%C3%B1ol-win#readme)  
+> * [_[Versión en español]_  (WIP)](https://github.com/carlmylo/rb3-pc/tree/espa%C3%B1ol-win#readme)  
 
 >##### WARNING:
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
 <br/>
 
-1. [_Requirements_](#requirements)
-2. [_Installation_](#installation)
-3. [_Configuration_](#configuration)
-4. [_Controllers (RB/GH Guitars, Drums, and Gamepads)_](#controllers)
-5. [_User Account_](#user-account)
-6. [_RPCN_](#rpcn-account)
-7. [_Quick Configuration_](#quick-configuration)
-8. [_Custom Configuration_](#custom-configuration)
-9. [_CPU_](#cpu)
-10. [_GPU_](#gpu)
-11. [_Audio_](#audio)
-12. [_I/O (Wired Pro Guitars and USB/MIDI Keyboards)_](#io)
-13. [_Network_](#network)
-14. [_Advanced_](#advanced)
-15. [_Emulator_](#emulator)
-16. [_Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
-17. [_Troubleshooting_](#troubleshooting)
-18. [_Conclusion_](#conclusion)
+1. [_[Requirements]_](#requirements)
+2. [_[Installation]_](#installation)
+3. [_[Configuration]_](#configuration)
+4. [_[Disable Updates]_](#disable-updates)
+5. [_[Controllers (RB/GH Guitars, Drums, and Gamepads)]_](#controllers)
+6. [_[User Account]_](#user-account)
+7. [_[RPCN]_](#rpcn)
+8. [_[Quick Configuration]_](#quick-configuration)
+9. [_[Custom Configuration]_](#custom-configuration)
+10. [_[CPU]_](#cpu)
+11. [_[GPU]_](#gpu)
+12. [_[Audio]_](#audio)
+13. [_[I/O (Wired Pro Guitars and USB/MIDI Keyboards)]_](#io)
+14. [_[Network]_](#network)
+15. [_[Advanced]_](#advanced)
+16. [_[Emulator]_](#emulator)
+17. [_[Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles]_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+18. [_[Troubleshooting]_](#troubleshooting)
+19. [_[Conclusion]_](#conclusion)
 
 <br/>
 
@@ -64,12 +65,12 @@ You will need:
 		* Graphics: NVIDIA GeForce GTX 1650
  		* Storage: 145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD)
  		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
-	* You can check [RPCS3's page for suggested specifications here](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
+	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[7zip](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
 <sup>a</sup> <sub>Wii Rock Band instrument controllers and dongles can be converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>b</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so are therefore exempt from this tutorial.</sub>  
-<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
+<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
 <sup>d</sup> <sub>I don't have a MIDI Drumkit so there is no set up tutorial for this. Apologies. If you have one and would like to help by sending in screenshots of the setup process, please contact me on the Milohax Discord.</sub>
 
 <br/>
@@ -77,20 +78,20 @@ You will need:
 # INSTALLATION:
 
 We'll be downloading an older version of RPCS3 because it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>c  
-<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
+<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3](https://rpcs3.net/download).</sub>  
 
 | [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") |
 |---|---|
 
 **Once it downloads, extract the .7zip file.**  
-![A screenshot of the right click menu from Windows exploring highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
+![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
 
-I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid  permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
-Avoid installing to and running from an external drive, as those typically do not have enough bandwidth to work properly.  
+**Avoid installing to and running from an external drive**, as they typically lack the stability to work properly.  
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](images/inst/extractdir.png "Extract")
 
-Once that's extracted, [**download the PlayStation 3 system software from Sony's website**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**”, **click that** to expand, **then click on “Download PS3 Update.**”  
+Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**”, **click that** to expand, **then click on “Download PS3 Update.**”  
   
 _**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND “Save link as,” or your download MAY become stuck.**_
 
@@ -98,11 +99,11 @@ Once again, the picture below links to the download page.
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
 
-Now **open up RPCS3**. **Check "I have read the Quickstart guide" and "Do not show again".**  
+Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3.](images/inst/rpcs3init.png "Welcome to RPCS3")
 
 As mentioned earlier, this an outdated build of RPCS3, and you'll be warned about this.
-**MAKE SURE YOU CLICK "NO"**
+**Make sure you click "No."**
 ![A screenshot of alerting the user RPCS3 has an update available.](images/inst/rpcs3updwrn.png "Update Available")
 
 **Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** 
@@ -114,13 +115,13 @@ As mentioned earlier, this an outdated build of RPCS3, and you'll be warned abou
 **Let it install.**  
 ![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](images/inst/rpcs3fw.png "RPCS3 Firmware Installer progress")
 
-**When it finishes, click "OK"**  
+**When it finishes, click "OK."**  
 ![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](images/inst/rpcs3fwdone.png "Success!")
 
 It will start compiling modules, which may take a few minutes. **Let it do its thing.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [I used “PS3 Disc Dumper” for this because it's the easiest way.](https://youtu.be/mRxSKxoYt_g)
+Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way.]](https://youtu.be/mRxSKxoYt_g)
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
 Rock Band 3 is now in your game library in RPCS3, but it's out of date. Let's fix that. **You will need to download the update PKG file** which is linked below. This link directly connects to the same Sony servers that the PS3 downloads from. You may receive security warnings because the server lacks HTTPS.  
@@ -137,17 +138,17 @@ The filename will look something like this:
 
 # CONFIGURATION:
 
-***IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT FOR ROCK BAND 3 BEFORE FOLLOWING THIS TUTORIAL!***
+***IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT BEFORE FOLLOWING THIS TUTORIAL!***
 
 <br/>
 
 ## DISABLE UPDATES
 
-As current versions of RPCS3 perform worse for Rock Band 3 and other rhythm games, it is currently suggested to stay on an older version and disable the update nag popup.
-To do this, look at the top menu bar of RPCS3, **click on Configuration > GUI**
-![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3gui.png "RPCS3 > Configuration > GUI")
+As current versions of RPCS3 perform worse for Rock Band 3 and other rhythm games, **it is currently suggested to stay on an older version and disable the update nag popup**.
+To do this, look at the top menu bar of RPCS3, then **click on Configuration > GUI**  
+![A screenshot of RPCS3's right click menu, showing "GUI" in the Configuration menu highlighted](images/conf/rpcs3gui.png "RPCS3 > Configuration > GUI")
 
-**In "Check for updates on startup", change the option to "No", then click "Apply" then "Save**
+**In "Check for updates on startup", change the option to "No", then click "Apply" then "Save."**  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3disupd.png "RPCS3 > Configuration > GUI")
 
 ## CONTROLLERS:
@@ -249,7 +250,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 <br/>
 
-## RPCN ACCOUNT
+## RPCN
 
 If you don't want to play online, [you can skip to the next part.](#quick-configuration)
 
@@ -330,7 +331,7 @@ We'll go tab by tab, starting with:
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
 	* **Change "Frame Limit" to "Off" to use higher VBlank Frequencies** (which may introduce jitter). Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). Leave on Auto if you're just gonna play at 60 FPS. It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
 	* **Adjust "Shader Quality"** depending on your system. Low and Medium will drastically reduce quality, Auto will use default settings, and High is the best option. Ultra looks similar to high.
-	* **Adjust "Resolution Scale"** to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics.
+	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* **Adjust "Resolution Scale Threshold"** depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e., for 1920x1080, which is 150%, you'd calculate what 150% of 16 is, which would be 24.
 * ![A teal square.](images/cust/smallteal.png "Teal Square") OPTIONAL: 
 	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases latency.
@@ -338,7 +339,7 @@ We'll go tab by tab, starting with:
 <br/>
 
 ## Audio
-![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in yellow, Audio Out in green, Audio Buffer in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 in teal.](images/cust/audio.png "Audio")
+![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in yellow, Audio Buffer in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 in teal.](images/cust/audio.png "Audio")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it.
 * ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
@@ -418,8 +419,10 @@ You can leave this as is if you want, but I would consider changing the followin
 	* **“Show PPU compilation hint”** - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as "Recompiler (LLVM)" in the CPU tab does this when launching the game.
 	* **“Show shader compilation hint”** - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The best way to deal with this is** just **to** **play the game** as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in a party shuffle and let it compile a decent amount of shaders.
 	* **“Start games in Fullscreen mode”** - Obviously just switches to Fullscreen when you start Rock Band 3. I personally enable this.  
-	* **“Use Native Interface”** - Disabling this will remove RPCS3 notifications entirely while the game is launched.
+	* **“Use Native Interface”** - Disabling this will remove RPCS3's fancy popups while in-game, including the keyboard.
     
+
+**After all of that, remember to click "Apply" then "Save custom configuration"**
 
 That's the difficult part over with.
 
@@ -504,8 +507,11 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to GoCentral_**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
 
+*   **_\[ONLINE\] I keep disconnecting constantly while playing_**
+	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable is possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz.
+
 *   **_“I followed every step and my game is crashing or performing horribly”_**
-	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space, and 1% chance it's a skill issue.
+	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue.
 
 <br/>
 
