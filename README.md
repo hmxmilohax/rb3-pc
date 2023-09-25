@@ -302,10 +302,10 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 | COLOR | MEANING |
 |---|---|
-| ![A yellow square.](images/cust/bigyellow.png "Yellow Square") | *REQUIRED* |
-| ![A green square.](images/cust/biggreen.png "Green Square") | Low performance tweaks |
-| ![A pink square.](images/cust/bigpink.png "Pink Square") | Hardware Dependent |
-| ![A teal square.](images/cust/bigteal.png "Teal Square") | Optional |
+| ![A yellow square.](images/cust/bigyellow.png "Yellow Square") | **REQUIRED** |
+| ![A green square.](images/cust/biggreen.png "Green Square") | **Low performance tweaks** |
+| ![A pink square.](images/cust/bigpink.png "Pink Square") | **Hardware Dependent** |
+| ![A teal square.](images/cust/bigteal.png "Teal Square") | **Optional** |
 
 We'll go tab by tab, starting with:
 
@@ -315,8 +315,8 @@ We'll go tab by tab, starting with:
 
 
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in green.](images/cust/cpu.png "CPU")
-* ![A green square.](images/cust/smallgreen.png "Green Square") **For low end CPUs** (older 4 core/4 threads chips): 
-	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads.
+* ![A green square.](images/cust/smallgreen.png "Green Square") **Improved CPU performance, at the cost of bottlenecking on certain machines**: 
+	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads. Drastically speeds up boot time on certain machines.
 	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - Can help prevent stutter caused by CPU overloads. Start from 4 and lower it until it improves.
 	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames but **will break practice mode!**
 
@@ -342,7 +342,7 @@ We'll go tab by tab, starting with:
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in yellow, Audio Buffer in pink, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 in teal.](images/cust/audio.png "Audio")
 * ![A yellow square.](images/cust/smallyellow.png "Yellow Square") REQUIRED: 
 	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it.
-* ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on computer: 
+* ![A pink square.](images/cust/smallpink.png "Pink Square") Tweak depending on audio hardware: 
 	* **Adjust "Audio Buffer Duration"** depending on system.
 		* Lower values give you less audio latency but higher CPU usage.
 		* Higher values give you more audio latency but lower CPU usage.
@@ -378,13 +378,13 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 
 **If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**  
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in teal.](images/cust/io.png "I/O")
-* ![A teal square.](images/cust/smallteal.png "Teal Square"): 
+* ![A teal square.](images/cust/smallteal.png "Teal Square") For third party Keyboard and wired Pro Guitar players: 
 	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it.**.
 	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it**.
   
  **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work, restart RPCS3.**  
   
-As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as a reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges.
+As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as a reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges. **The** keyboard's **pitch knob should be mapped to the touch strip and modulation wheel and sustain pedal should be mapped to Overdrive deployment.**
 ![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](images/midi/keysctrl.png "MIDI Keyboard Reference")  
 
 <br/>
@@ -401,13 +401,13 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 
 ## ADVANCED
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
-* ![A green square.](images/cust/smallgreen.png "Green Square"): 
+* ![A green square.](images/cust/smallgreen.png "Green Square") Depending on machines: 
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing program focus constantly.
 	* **Change "Driver Wake-up Delay" to "20µ"** if you experience rare freezing after a few songs. Increase it to "40µ" if the issue persists.
-* ![A teal square.](images/cust/smallteal.png "Teal Square"): 
-	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz.
-* ![A pink square.](images/cust/smallpink.png "Pink Square") Hardwarde dependent: 
-	* **Enable "Debug Console Mode"** - With this option enabled and Rock Band 3 Deluxe installed, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. Most people should enable this unless you have low or unstable memory in your computer.
+* ![A teal square.](images/cust/smallteal.png "Teal Square") For higher framerates: 
+	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz if adjusting it for online play.
+* ![A pink square.](images/cust/smallpink.png "Pink Square") Depending on memory: 
+	* **Enable "Debug Console Mode"** - With this option enabled and Rock Band 3 Deluxe installed, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. Most people should enable this unless they have atrociously memory usage.
 
 <br/>
 
@@ -474,9 +474,10 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	* Increase “Audio Buffer Duration” as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
-	*	Set your computer to the High Performance power plan.
+	*	Set your computer to the [[High Performance power plan.]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-)
 	*   Go back to the [[Custom Configuration setup section]](#configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#-installing-on-rpcs3) and disable Post Effects in Deluxe Settings.
+	*	Close out the dedicated Discord client and open it up un your browser or phone.
 
 *   **_Game doesn't fill the screen_**
 	*   Enable "Overscan" in Rock Band 3's System Settings.
