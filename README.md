@@ -1,4 +1,5 @@
 
+
 Video Version (Outdated):  
 [![A thumbnail of the video version of this tutorial.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
@@ -403,8 +404,8 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 * ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") For online multiplayer: 
 	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don't enable UPNP while port forwarding** as this can cause crashes.
 	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
-		* **Join \[[Milohax Discord server](https://discord.gg/6rRUWXPYwb)\]**and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
-		* Join the \[[RBEnhanced Discord server](https://discord.gg/6rRUWXPYwb)\] and go to the \[[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984\) channel. Follow the instructions for RPCS3.  
+		* **Join the** [[**Milohax Discord server**]](https://discord.gg/6rRUWXPYwb) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
+		* Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
 
 <br/>
 
