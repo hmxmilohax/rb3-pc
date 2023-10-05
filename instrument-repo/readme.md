@@ -1,0 +1,136 @@
+# Instrument Repo
+
+A repository of premade controller profiles for RPCS3 to help Rock Band 3 players.
+
+These are specifically for version [["v0.0.28-15417-9b3a878c Alpha | master"]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z) of RPCS3, which at the moment is the currently suggested version for playing Rock Band 3.
+
+These files are formatted for single players. If you need to use a combination of various controllers, for local multiplayer or want to have multiple instruments ready, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
+
+Alternatively, you can combine multiple files if you have the knowledge for editing files. 
+Select everything from line 2 to the end of line 79 in the `Default.yml` file of the instrument you want to add then copy it. 
+Paste it in:
+* Line 81 to 158 for Player 2
+* Line 160 to 237 for Player 3
+* Line 239 to 158 for Player 4
+
+## Missing Instruments:
+
+#### TODO:
+* [TODO] Wii Rock Band MIDI Pro Adapter Drums
+* [TODO] Wii Rock Band Drums
+* [TODO] Wii Guitar Hero Genericaster Guitar
+* [TODO] PS3 Guitar Hero Les Paul
+* [TODO] PS2 Guitar Hero SG
+* [TODO] PS2 Guitar Hero Kramer Striker
+* [TODO] Arduino Guitars
+* [TODO] Arduino Drums
+
+If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]]]](https://discord.gg/xrba4CjdNC) for information.
+
+#### REJECTED:
+* Rock Band 3 Fender Mustang Pro Guitar
+	* PS3 version works via passthrough (Zadig), and PS3, X360, and Wii versions work via a MIDI to USB interface with the Emulated Midi Device in RPCS3 in the I/O tab.
+* Rock Band 3 Squier Stratocaster Pro Guitar
+	* PS3 version works via passthrough (Zadig), and PS3, X360, and Wii versions work via a MIDI to USB interface with the Emulated Midi Device in RPCS3 in the I/O tab.
+* Rock Band 3 Keyboard
+	* PS3 version works via passthrough (Zadig).
+* Rock Band Guitars (PS3 Versions)
+	* They work via passthrough natively.
+* Rock Band Drums (PS3 Versions)
+	* They work via passthrough natively.
+* Rock Band 4 Drum Kit (PS4 Version)
+	* Bluetooth latency is unacceptable.
+	* Pro Cymbals refuse to work due to the format they're in.
+* Rock Band 4 Drum Kit (Xbox One Version)
+	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
+* Rock Band 4 Guitar Controllers (PS4 Version)
+	* Bluetooth latency is unacceptable.
+	* Whammy, tilt, and effects switch are unmappable.
+* Rock Band 4 Guitar Controllers (Xbox One Version)
+	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
+
+## Mapping:
+![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
+
+* If you are planning on plugging in multiple instruments, _you must set them on different ports_.
+* Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
+* If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
+* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
+*  If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+
+Below are the buttons you should map in RPCS3's Gamepad Settings.
+
+**If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
+
+Once you've finished configuring, **remember to click “Save”.**
+
+  
+**Guitar**:  
+Make sure you **set “Device Class” to “Guitar”.**
+
+**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
+ 
+**Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+” or something similar on every button, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+
+| **RPCS3**          | **Rock Band Guitars** | **Guitar Hero Guitars** |
+|:------------------:|:---------------------:|:-----------------------:|
+| Cross | ![Green Fret](images/btns/gtrs/gf.png "Green Fret") | ![Green Fret](images/btns/gtrs/gf.png "Green Fret") |
+| Circle | ![Red Fret](images/btns/gtrs/rf.png "Red Fret") | ![Red Fret](images/btns/gtrs/rf.png "Red Fret") |
+| Square | ![Blue Fret](images/btns/gtrs/bf.png "Blue Fret") | ![Yellow Fret](images/btns/gtrs/yf.png "Yellow Fret") |
+| Triangle | ![Yellow Fret](images/btns/gtrs/yf.png "Yellow Fret") | ![Blue Fret](images/btns/gtrs/bf.png "Blue Fret") |
+| L1 | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") |
+| D-Pad: Up | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") |
+| D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| R1 | ![Tilt](images/btns/gtrs/ts.png "Tilt") | Does not work |
+
+
+**Drums**:
+
+Make sure you **set “Device Class” to “Drum”.**
+
+**Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+
+| **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
+|:--------:|:---------------:|:-------------------:|:-----------------:|
+| Cross | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 |  | ![Second Foot Pedal](images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](images/btns/drms/gh/oc.png "Orange Cymbal") |
+| R3 |  | Cymbal Modifier | |
+| L3 |  | Pad Modifier | |
+
+
+**Vocals**:  
+*For vocals*, you can *use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
+
+| **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
+|:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
+| ![Left Stick](images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![D-Pad](images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Cross Button](images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![Circle Button](images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![Square Button](images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Triangle Button](images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Options Button](images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![Share Button](images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![L1 Button](images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![L2 Trigger](images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![R1 Button](images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![R2 Trigger](images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
+
+
+## CREDITS:
+* [[TheNathannator's]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) for outstanding documentation on controllers.
+* [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter Profiles
+* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDIDrum Hero Drums Profile 
+* [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer Profile
+* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox 360 Rock Band Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, Xbox 360 Guitar Hero Genericaster, 
+* [[cameron44251]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, Wii Guitar Hero Drums,
+* [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster Profiles
+* [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
