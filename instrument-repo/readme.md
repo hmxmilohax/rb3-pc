@@ -5,11 +5,11 @@ A repository of premade controller profiles for RPCS3 to help Rock Band 3 player
 These are specifically for version [["v0.0.28-15417-9b3a878c Alpha | master"]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z) of RPCS3, which at the moment is the currently suggested version for playing Rock Band 3.
 
 ## How to install:
-1. Download the .ZIP file in the folder for the instrument(s) you want to use.
-2. Extract the .ZIP file.
-3. Drag `config` folder into the folder you have RPCS3 in.
+Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
 
-**If you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
+1. Download the .7z file in the folder for the instrument(s) you want to use.
+2. Extract the .7z file.
+3. Drag `config` folder into the folder you have RPCS3 in.
 
 Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives input.
 
