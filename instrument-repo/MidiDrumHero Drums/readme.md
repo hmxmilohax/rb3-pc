@@ -17,9 +17,10 @@
 
 #### Additional Setup:
 Map your drum kit in MidiDrum Hero.
+
 An example MidiDrumhero mapping for an Alesis Nitro Mesh on default settings:
 ![MIDI Drum Hero](mididrumhero.png "MIDI Drum Hero") 
 
-In vJoy, it's sugggested to turn off all Axes **except** "X/Y/Z" and change the bumber of buttons to 10.
+In vJoy, it's sugggested to turn off all Axes **except** "X/Y/Z" and change the number of buttons to 10.
 Hit "Apply" and "Reset All" when finished.
 ![vJoy](vjoy.png "vJoy") 
