@@ -1,5 +1,7 @@
 ## NOTES:
 
+* Tilt is reported at not working at the moment.
+
 <div align="center">
 
 ![Platform](platform.png "Platform") 
@@ -9,5 +11,3 @@
 ![Mapping](mapping.png "Mapping") 
 
 </div>
-
-* Tilt is reported at not working at the moment.

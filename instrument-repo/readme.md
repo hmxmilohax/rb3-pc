@@ -4,10 +4,20 @@ A repository of premade controller profiles for RPCS3 to help Rock Band 3 player
 
 These are specifically for version [["v0.0.28-15417-9b3a878c Alpha | master"]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z) of RPCS3, which at the moment is the currently suggested version for playing Rock Band 3.
 
-These files are formatted for single players. If you need to use a combination of various controllers, for local multiplayer or want to have multiple instruments ready, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
+## How to install:
+1. Download the .ZIP file in the folder for the instrument(s) you want to use.
+2. Extract the .ZIP file.
+3. Drag `config` folder into the folder you have RPCS3 in.
 
-Alternatively, you can combine multiple files if you have the knowledge for editing files. 
-Select everything from line 2 to the end of line 79 in the `Default.yml` file of the instrument you want to add then copy it. 
+**If you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
+
+Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives input.
+
+
+The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
+
+Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ and Sublime Text.
+Select everything from line 2 to the end of line 79 in the `Default.yml` file of the instrument you want to add, then copy it. 
 Paste it in:
 * Line 81 to 158 for Player 2
 * Line 160 to 237 for Player 3
@@ -34,6 +44,7 @@ If you own any of these instruments and wish to help, please contact me on the [
 	* PS3 version works via passthrough (Zadig), and PS3, X360, and Wii versions work via a MIDI to USB interface with the Emulated Midi Device in RPCS3 in the I/O tab.
 * Rock Band 3 Keyboard
 	* PS3 version works via passthrough (Zadig).
+	* X360 and Wii versions have too little keys to work via Emulated Midi Device.
 * Rock Band Guitars (PS3 Versions)
 	* They work via passthrough natively.
 * Rock Band Drums (PS3 Versions)
