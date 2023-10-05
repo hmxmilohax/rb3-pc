@@ -10,4 +10,4 @@
 
 </div>
 
-* Tilt is reported at not working at the moment.
+* Tilt is reported as not working at the moment.
