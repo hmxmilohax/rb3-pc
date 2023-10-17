@@ -285,7 +285,7 @@ You will be prompted for an **email address** so you can receive a **verificatio
 
 # QUICK CONFIGURATION:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/english-win#custom-configuration) to tweak to what's best for your computer.  
-**You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) otherwise these will not work to their full potential.  
+**You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://rb3dx.neocities.org/) otherwise these will not work to their full potential.  
 
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/english-win#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
@@ -487,7 +487,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan.]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-)
 	*   Go back to the [[Custom Configuration setup section]](#configuration) and apply suggested low performance tweaks.
-	*   Install [[Rock Band 3 Deluxe]](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#-installing-on-rpcs3) and disable Post Effects in Deluxe Settings.
+	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone.
 
 *   **_Game doesn't fill the screen_**
@@ -545,11 +545,11 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://github.com/hmxmilohax/rock-band-3-deluxe#readme)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
 
 <div align="center">
 
