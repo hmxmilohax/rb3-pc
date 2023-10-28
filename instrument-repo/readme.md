@@ -61,7 +61,7 @@ If you own any of these instruments and wish to help, please contact me on the [
 	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 
 ## Mapping:
-![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/english-win/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
+![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/main/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_.
 * Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
@@ -85,17 +85,17 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 | **RPCS3**          | **Rock Band Guitars** | **Guitar Hero Guitars** |
 |:------------------:|:---------------------:|:-----------------------:|
-| Cross | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/gf.png "Green Fret") | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/gf.png "Green Fret") |
-| Circle | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/rf.png "Red Fret") | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/bf.png "Blue Fret") | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/yf.png "Yellow Fret") |
-| Triangle | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/yf.png "Yellow Fret") | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/bf.png "Blue Fret") |
-| L1 | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad: Up | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/fx.png "Effects Switch") | |
-| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/fx.png "Effects Switch") | |
-| R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/gtrs/ts.png "Tilt") | Does not work |
+| Cross | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") |
+| Circle | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") |
+| Square | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") |
+| Triangle | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") |
+| L1 | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
+| D-Pad: Up | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") |
+| D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
+| R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
 **Drums**:
@@ -106,13 +106,13 @@ Make sure you **set “Device Class” to “Drum”.**
 
 | **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
 |:--------:|:---------------:|:-------------------:|:-----------------:|
-| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/kp.png "Foot Pedal") |
-| D-Pad | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 |  | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/drms/gh/oc.png "Orange Cymbal") |
+| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 |  | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 |  | Cymbal Modifier | |
 | L3 |  | Pad Modifier | |
 
@@ -122,18 +122,18 @@ Make sure you **set “Device Class” to “Drum”.**
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
-| ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
-| ![Cross Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
-| ![Circle Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
-| ![Square Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
-| ![Triangle Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
-| ![Options Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
-| ![Share Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
-| ![L1 Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
-| ![L2 Trigger](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
-| ![R1 Button](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
-| ![R2 Trigger](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](https://github.com/carlmylo/rb3-pc/blob/english-win/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
+| ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Cross Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![Circle Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![Square Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Triangle Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Options Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![Share Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![L1 Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![L2 Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![R1 Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![R2 Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
 
 ## CREDITS:
