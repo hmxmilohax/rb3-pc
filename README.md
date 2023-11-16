@@ -122,21 +122,22 @@ As mentioned earlier, this is an outdated build of RPCS3, and you'll be warned a
 **When it finishes, click "OK."**  
 ![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](images/inst/rpcs3fwdone.png "Success!")
 
-It will start compiling modules, which may take a few minutes. **Let it do its thing.**  
+It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
 Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way.]](https://youtu.be/mRxSKxoYt_g)
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 is now in your game library in RPCS3, but it's out of date. Let's fix that. **You will need to download the update PKG file** which is linked below. This link directly connects to the same Sony servers that the PS3 downloads from. You may receive security warnings because the server lacks HTTPS.  
-[\[CLICK HERE TO DOWNLOAD ROCK BAND 3 UPDATE PKG\]](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg)
+Rock Band 3 is now in your game library in RPCS3, now you can [**[download and install *Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/), it's highly recommended in order to get the most out of your RB3 experience. There's no reason to not have it installed.
 
 The filename will look something like this:
 
 [![Rock Band 3's PKG update in Edge's download tray.](images/inst/rb3pe.png)](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg "UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg")
 
 **When it's finished downloading, drag the update file into RPCS3 and click Yes**, just like you did earlier with the PS3UPDAT.PUP file.  
-![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 update package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
+![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 Deluxe package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
+
+**You can also rename the game in the list to "*Rock Band 3 Deluxe*" if you wish.** To do this, right-click on "Rock Band 3" and select "Rename In Game List".
 
 <br/>
 
@@ -205,7 +206,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 **Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
-If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://discord.gg/xrba4CjdNC) for the mapping as they know more about this.
+If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for the mapping as they know more about this.
 
 | **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
 |:--------:|:---------------:|:-------------------:|:-----------------:|
@@ -549,7 +550,7 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://discord.gg/xrba4CjdNC).
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
 
 <div align="center">
 
