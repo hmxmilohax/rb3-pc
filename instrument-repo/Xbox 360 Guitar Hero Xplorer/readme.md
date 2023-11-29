@@ -1,5 +1,6 @@
 ## NOTES:
 
+* This controller requires advanced configuration.
 * For the best experience:
 	* 1. Go to the Start menu and look for "Set up USB game controllers," then open it.
 	* 2. Right click on "Guitar Hero X-plorer"
