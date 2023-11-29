@@ -92,7 +92,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 | L1 | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on some Wii guitars) | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
 | R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
