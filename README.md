@@ -41,15 +41,15 @@ Video Version (Outdated):
 You will need:
 * _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 is strongly suggested)_
 * _An instrument controller. You can use:_
-	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_
-	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>a
-	*   _Rock Band 3 MIDI Pro Adapter and a compatible instrument (PS3 version only)_<sup>b
-	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>b c
-	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>b
+	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_<sup>a
+	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
+	*   _Rock Band 3 MIDI Pro Adapter and a compatible instrument (PS3 version only)_<sup>c
+	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c c
+	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via via MIDI to USB adapter)_
-	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>c d
-	*   _MIDI Drum Kits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy)_<sup>e
+	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d d
+	*   _MIDI Drum Kits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy)_
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* Minimum:
@@ -69,18 +69,18 @@ You will need:
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
-<sup>a</sup> <sub>Although you can use PS4 Rock Band kits via Bluetooth, Pro Cymbals will refuse to work so they are exempt from this tutorial.</sub>  
-<sup>b</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>c</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial.</sub>  
-<sup>d</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
-<sup>e</sup> <sub>I don't have a MIDI Drumkit so there is no set up tutorial for this. Apologies. If you have one and would like to help by sending in screenshots of the setup process, please contact me on the Milohax Discord.</sub>
+<sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible. Xbox One guitars are exempt as they require multiple separate programs to work.</sub>  
+<sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible. Xbox One drum kits are exempt as they require multiple separate programs to work.</sub>  
+<sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
+<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial.</sub>  
+<sup>e</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
 
 <br/>
 
 # INSTALLATION:
 
-We'll be downloading an older version of RPCS3 because it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>c  
-<sup>c</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
+We'll be downloading an older version of RPCS3 because it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>d  
+<sup>d</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
 
 [[Click here to download RPCS3.]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z)
 
