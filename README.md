@@ -48,7 +48,7 @@ You will need:
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via via MIDI to USB adapter)_
-	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d d
+	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
 	*   _MIDI Drum Kits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy)_
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
@@ -57,14 +57,16 @@ You will need:
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB
- 		* Storage: 11.2 GBs (5400 RPM HDD)
+ 		* Storage: 11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
    		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
 		* OS: Windows 10
 		* Processor: AMD Ryzen 5 2600
 		* Memory: 16 GBs
 		* Graphics: NVIDIA GeForce GTX 1650
- 		* Storage: 145.66 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD)
+ 		* Storage:
+ 			* 146.32 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
+ 			* 67.4 GBs for all DLC and exports (SSD).
  		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
@@ -73,19 +75,28 @@ You will need:
 <sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible. Xbox One drum kits are exempt as they require multiple separate programs to work.</sub>  
 <sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial.</sub>  
-<sup>e</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
+  
 
 <br/>
 
 # INSTALLATION:
 
-We'll be downloading an older version of RPCS3 because it performs better at the moment. Although this guide is Windows-centric, I have linked Linux just in case you want to try it on Linux based operating systems. For those curious (nerds), this is the last RPCS3 build before the QT6 merge which has various problems.<sup>d  
-<sup>d</sup> <sub>Certain MIDI keyboards, notably Yamaha ones, may exhibit problems due to their MIDI implementation. [[These keyboards require the latest version of RPCS3]](https://rpcs3.net/download).</sub>  
+Before starting the installation process, **make sure your drivers and operating system is up to date**.
 
-[[Click here to download RPCS3.]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z)
+**Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to check.
 
-| [![Microsoft Windows' logo](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Windows Version") | [![Linux's Tux Mascot](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Linux Version") |
-|---|---|
+[[Click here to download Microsoft Visual C++ 2019 Redistributable]](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
+**Once it finishes downloading**, open it up and **install it**.  
+![A screenshot of the Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](images/inst/mvcpp.png "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+
+**Next**, let's **download RPCS3**.
+
+[[Click here to go to RPCS3's download site.]](https://rpcs3.net/download)
+
+Scroll down a bit and download the Windows version.
+
+![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](images/inst/rpcs3dl.png "RPCS3 - Download")
 
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
