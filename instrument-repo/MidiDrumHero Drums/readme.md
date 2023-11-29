@@ -4,6 +4,7 @@
 * Requires [[vJoy]](https://github.com/jshafer817/vJoy/releases)
 * Requires [[MidiDrumHero]](https://github.com/ejj28/mididrumhero/releases/latest)
 * Velocity sensitivity doesn't seem to work.
+* Faster fills tend have dropped notes.
 
 #### Additional Setup:
 Map your drum kit in MidiDrum Hero.
