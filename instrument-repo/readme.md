@@ -35,7 +35,7 @@ Paste it in:
 * [TODO] Arduino Guitars
 * [TODO] Arduino Drums
 
-If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]]]](https://discord.gg/xrba4CjdNC) for information.
+If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://discord.gg/xrba4CjdNC) for information.
 
 #### REJECTED:
 * Rock Band 3 Fender Mustang Pro Guitar
