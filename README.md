@@ -223,7 +223,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 | D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
 | D-Pad: Left | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
-| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars on Linux) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down <br/> (PS3/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
