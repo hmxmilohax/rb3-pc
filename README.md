@@ -544,15 +544,15 @@ Once it launches, **go the main options menu.**
 
 ![A screenshot of Rock Band 3, with extras being highlighted.](images/ash/extras.png "Rock Band 3: Extras")
 
-**Go to "Account-linking code.**
+**Go to "Account-linking code".**
 
 ![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
 
-**Go to "Account-linking code.**
+**You should see a code now.**
 
 ![A screenshot of Rock Band 3, telling the user to copy the code at the bottom into AshCentral.](images/ash/code.png "Rock Band 3: Code Here")
 
-Now, **copy the code into Gocentral.Rocks then click "Link." After that, restart Rock Band 3.**
+Now, **copy the code into Gocentral.Rocks, then click "Link." After that, restart Rock Band 3.**
 
 ![A screenshot of AshCentral's website, GoCentral.rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png "GoCentral - Link Account")
 
@@ -564,7 +564,7 @@ If you did everything correctly, **you should see more information for your acco
 
 ![A screenshot of AshCentral's website, GoCentral.rocks, in the account information subpage, showing new details under Rock Band 3 account.](images/ash/linked.png "GoCentral - Settings")
 
-If the website didn't find anything, you may have mistyped the code. Rock Band 3's font may be a bit hard to read so try again.
+If the website didn't find anything, you may have mistyped the code. Rock Band 3's font may be a bit hard to read so you may have to try again.
 
 Now, let's go over hosting or joining sessions.
 
@@ -608,7 +608,7 @@ Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral
 
 ![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
 
-You should connect to the lobby you were invited into.
+You should connect to the lobby you were invited to.
 ![A screenshot of Rock Band 3, in an online lobby.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
 
 Again, **remember to press "Play on AshCentral" in Rock Band 3 before joining or hosting a session on GoCentral.Rocks.**
