@@ -1,5 +1,3 @@
-
-
 Video Version (Outdated):  
 [![A thumbnail of the video version of this tutorial.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
@@ -30,9 +28,10 @@ Video Version (Outdated):
 13. [_[Network]_](#network)
 14. [_[Advanced]_](#advanced)
 15. [_[Emulator]_](#emulator)
-16. [_[Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles]_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
-17. [_[Troubleshooting]_](#troubleshooting)
-18. [_[Conclusion]_](#conclusion)
+16. [_[AshCentral Room Codes]_](#ashcentral-room-codes)
+17. [_[Wireless PS3 Mustang Pro Guitars and Keyboards with Dongles]_](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+18. [_[Troubleshooting]_](#troubleshooting)
+19. [_[Conclusion]_](#conclusion)
 
 <br/>
 
@@ -500,6 +499,118 @@ That's the difficult part over with.
 
 <br/>
 
+# AshCentral Room Codes:
+
+Video Version:  
+[![A thumbnail of the video version of this section of the tutorial.](images/ash/vidthumb.jpg)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
+
+**If you're not playing on AshCentral**, [[**skip over this section**]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+
+To use the room code system on AshCentral, **make sure you're connected to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
+
+**Copy the information into RPCS3** like mentioned in the [[network]](#network) section of the guide.
+
+Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.rocks/) **to register an account**.
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Register" option from the "Account" subsection being moused over.](images/ash/splash.png)](https://gocentral.rocks/ "GoCentral")
+
+**Register your account.**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, in the register subpage, with "Register" being moused over.](images/ash/register.png)](https://gocentral.rocks/register "GoCentral - Register")
+
+**When you register your account**, you'll be prompted to **login**. Do so.
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, in the login subpage, with "Login" being moused over.](images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
+
+You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
+
+**In the settings page, you'll see a "Link Account" option. Click on that.**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, in the account information subpage, with "Link Account" being moused over](images/ash/settings.png)](https://gocentral.rocks/link "GoCentral")
+
+You'll be taken to a page to type in an account linking code. **Leave this page open.**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png)](https://gocentral.rocks/link "GoCentral")
+
+**Start up Rock Band 3**
+
+Once it launchers, **go the main options menu.**
+
+![A screenshot of Rock Band 3, with Options being highlighted.](images/ash/options.png "Rock Band 3: Options")
+**Go to the extras menu.**
+
+![A screenshot of Rock Band 3, with extras being highlighted.](images/ash/extras.png "Rock Band 3: Extras")
+**Go to "Account-linking code.**
+
+![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
+**Go to "Account-linking code.**
+
+![A screenshot of Rock Band 3, telling the user to copy the code at the bottom into AshCentral.](images/ash/code.png "Rock Band 3: Code Here")
+
+Now, **copy the code into Gocentral.Rocks then click "Link." After that, restart Rock Band 3.**
+
+![A screenshot of AshCentral's website, GoCentral.rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png "GoCentral - Link Account")
+
+You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
+
+If you did everything correctly, **you should see more information for your account, including your account name, console, band name, and fans**.
+
+![A screenshot of AshCentral's website, GoCentral.rocks, in the account information subpage, showing new details under Rock Band 3 account.](images/ash/linked.png "GoCentral - Settings")
+
+If the website didn't find anything, you may have mistyped the code. Rock Band 3's font may be a bit hard to read so try again.
+
+Now, let's go over hosting or joining sessions.
+
+**First, launch Rock Band 3.**
+
+**On the front page of AshCentral, click on "Join Game"**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Join Game" being moused over.](images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
+
+**Before clicking either "Host Session" or "Join Session", make sure to press "Play on AshCentral" in Rock Band 3's options menu.**
+
+![A screenshot of Rock Band 3, with "Play on AshCentral" being highlighted.](images/ash/ashcentral.png "Rock Band 3: Play on AshCentral")
+
+
+### Hosting Sessions:
+
+**Click on "Host Session"** on GoCentral.rocks.
+[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Game" subpage, with "Host Session" being moused over.](images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
+
+You will get a code. **Send this code to those you want to join your session.**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Host Session" subpage, with a session code and a countdown displayed.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
+
+Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
+
+![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
+
+You should see invited players connected to your lobby.
+![A screenshot of Rock Band 3, in an online lobby.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
+
+### Joining Sessions:
+
+**Click on "Join Session"** on GoCentral.rocks.
+[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Game" subpage, with "Join Session" being moused over.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
+
+**Enter the session code you were sent.**
+
+[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Session" subpage, asking the user for a session code.](images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
+
+Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
+
+![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
+
+You should see invited players connected to your lobby.
+![A screenshot of Rock Band 3, in an online lobby.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
+Again, **it is important that you press "Play on AshCentral" before joining or hosting a session on GoCentral.Rocks.**
+
+<br/>
+
 # Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
 **If you're not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles**, [[**skip over this section**]](#troubleshooting)
@@ -558,7 +669,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Run Calibration in Rock Band 3's System Settings if you haven't for some reason. Disable “Dolby Digital” if you enabled it in the same menu.
 
 *   **_Game occasionally crashes when practicing on regular guitar/bass_**
-	*   This is a known bug which currently has no solution.
+	*   You didn't read the guide and did not install Rock Band 3 Deluxe, which fixes this bug.
 
 *   **_Cannot use Automatic Calibration in System Settings_**
 	*   Automatic Calibration only works for PS3 guitar controllers with passthrough.
@@ -576,18 +687,18 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   You did [[controller configuration](#controllers) for a PS3 controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
 
 *   **_[Rock Band 3 Deluxe] I crash in the intro video_**
-	*   You have incompatible files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
+	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
 	
 *   **_[Pro Drums] Hitting two cymbals registers as a tom_**
-	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch". I sadly do not know the solution to this as I don't own a drum kit. Please feel free to ask around in the Milohax Discord server.
+	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even on console. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs. Please feel free to ask around in the Milohax Discord server.
 
 *   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
-	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **don't enable UPNP while port forwarding** as this can cause crashes.
+	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
 
   *   **_\[ONLINE\] I crash when searching for players_**
 	*   If you have UPNP enabled in Rock Band 3's Custom Configuration [[Network section]](#network), you will need to disable it and [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
-*   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to GoCentral_**
+*   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to online servers._**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
  
 *   **_\[ONLINE\] I keep disconnecting constantly while playing_**
@@ -595,6 +706,9 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 *   **_“I followed every step and my game is crashing or performing horribly”_**
 	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue.
+
+*	**_"You didn't mention changing (setting) in the guide. It helped my performance_**
+	* Open an issue or contact me on the Milohax Discord for your findings. If your suggestion checks out, it may be added to this guide.
 
 <br/>
 
