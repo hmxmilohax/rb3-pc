@@ -469,6 +469,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") Depending on your computer: 
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing program focus constantly.
 	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz if adjusting it for online play.
+	* **Change "Maximum Number of SPURS Threads"** - May improve performance on systems with less cores and threads [[(like 4th gen Intel i5 CPUs with 4 cores and 4 threads)]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 	* **Enable "Silence All Logs"** - **Not suggested** but can help reduce drive usage on computers with slower drives. This is a non-issue for most people. **If you disable this, neither the RPCS3 team or the Milohax team will be able to help you with troubleshooting and crashes**.
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") For most people: 
 	* **Enable "Debug Console Mode"** - With Rock Band 3 Deluxe installed and this option enabled, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. If your computer is within the minimum (or higher) requirements, there's no reason you shouldn't enable this.
