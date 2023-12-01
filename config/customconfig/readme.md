@@ -4,7 +4,7 @@ You *MUST* have [[Rock Band 3 Deluxe installed]](https://github.com/hmxmilohax/r
 
 To use these, click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3. It should combine folders automatically if you did it right.
 
-If you're on build 0.0.28-15417 of RPCS3, [[use the older version of this page]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/_old/readme.md)
+If you're on build 0.0.28-15417 of RPCS3, [[use the older version of this page]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/_old#readme)
 
 </br>
 
@@ -12,12 +12,13 @@ If you're on build 0.0.28-15417 of RPCS3, [[use the older version of this page]]
 These are the settings used for the *recommended* specs.
 
 These files:
+* Set SPU Block Size to "Mega"
 * Set Anisotropic Filtering to "16x", enable "Write Color Buffers" and "VSync", increase Resolution Scale to 150% (1920x1080), and increase Resolution Scale Threshold to 24x24.
-* Decrease Audio Buffer Duration to "60 ms"
-* Sets Pad Handler Mode to "Multi-threaded"
-* Set Network Status to "Connected", configure RPCS3 for GoCentral, connect to RPCN, and enable UPNP
+* Decrease Audio Buffer Duration to "60 ms."
+* Sets Pad Handler Mode to "Multi-threaded" and disables all extra I/O settings.
+* Set Network Status to "Connected", configure RPCS3 for AshCentral, connect to RPCN, and enable UPNP
 * Enable "Debug Console Mode", Set Exclusive Fullscreen Mode to "Prefer borderless fullscreen", and Driver Wake-Up Delay to "20 µs"
-* Set Venue FPS to "60", disable "Motion Blur", "Camera Shake", and "Depth of Field"
+* Enable "Large Heap", set Venue FPS to "60", disable "Camera Shake", "Depth of Field", and enables "HD Characters."
 
 ### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/minimum.zip)
 These are the settings used for the *minimum* specs.
