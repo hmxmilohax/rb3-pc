@@ -5,7 +5,7 @@ Video Version (Outdated):
 
 <br/>
 
-> * [_[Older Version of the guide]_ (DO NOT USE UNLESS YOU KNOW WHAT YOU'RE DOING!)](https://github.com/carlmylo/rb3-pc/blob/main/README_EN_028.md)  
+> * [_[Older Version of the guide]_ (DO NOT USE UNLESS YOU KNOW WHAT YOU'RE DOING!)](README_EN_028.md)  
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
@@ -216,9 +216,13 @@ Make sure you **set “Device Class” to “Guitar”.**
 | L1 | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right <br/> (ignore Left on some Wii guitars) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| D-Pad: Left | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
+| D-Pad: Right | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
+| L3 <br/> (Xbox 360 guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
 | R1 | ![Tilt](images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
