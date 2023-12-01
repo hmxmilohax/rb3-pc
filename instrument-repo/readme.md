@@ -2,7 +2,9 @@
 
 A repository of premade controller profiles for RPCS3 to help Rock Band 3 players.
 
-These are specifically for version [["v0.0.28-15417-9b3a878c Alpha | master"]](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z) of RPCS3, which at the moment is the currently suggested version for playing Rock Band 3.
+These are specifically for the latest version of RPCS3. 
+
+If you're using v0.0.28-15417-9b3a878c, [**[please refer to the older version]**](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/_old#readme).
 
 ## How to install:
 Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
@@ -16,12 +18,15 @@ Most of the time, these controller profiles should work out of the box but if th
 
 The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
 
-Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ and Sublime Text.
-Select everything from line 2 to the end of line 79 in the `Default.yml` file of the instrument you want to add, then copy it. 
-Paste it in:
-* Line 81 to 158 for Player 2
-* Line 160 to 237 for Player 3
-* Line 239 to 158 for Player 4
+Alternatively, you can combine multiple files if you know your way around text editors like Notepad++ or Sublime Text.
+Select everything from line 2 to the end of line 86 in the `Default.yml` file of the instrument you want to add, then copy it. 
+Paste it into:
+* Line 88 to 172 for Player 2
+* Line 174 to 258 for Player 3
+* Line 260 to 344 for Player 4
+* Line 346 to 430 for Player 5
+* Line 432 to 516 for Player 6
+* Line 518 to 602 for Player 7
 
 ## Missing Instruments:
 
@@ -92,9 +97,13 @@ Make sure you **set “Device Class” to “Guitar”.**
 | L1 | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right <br/> (ignore Left on some Wii guitars) | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| D-Pad: Left | ![D-Pad: Left](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpl.png "D-Pad: Left") |
+| D-Pad: Right | ![D-Pad: Right](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpr.png "D-Pad: Right") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
+| L3 <br/> (Xbox 360 guitars only) | ![Solo Buttons](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
 | R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
