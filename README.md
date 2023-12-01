@@ -329,12 +329,13 @@ Copy the token**:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/main#custom-configuration) to tweak to what's best for your computer.  
 **You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://rb3dx.neocities.org/) otherwise these will not work.  
 
-To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/main#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](#requirements).
 
+
+To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 In the GIF example below, Recommended Requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](images/cust/quickconf.gif "Recommended.zip")
