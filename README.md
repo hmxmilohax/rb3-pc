@@ -41,7 +41,7 @@ Video Version (Outdated):
 You will need:
 * _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 is strongly suggested)_
 * _An instrument controller. You can use:_
-	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_<sup>a
+	*   _Any Rock Band and Guitar Hero Guitar (PS3, Wii, X360)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar and MIDI keyboard (PS3 version only)_<sup>c
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (X360, PS3)_<sup>c
@@ -192,10 +192,11 @@ If not, keep reading.
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
-* Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
-* If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
+* PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
+* If you're using PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
-*  If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
 Below are the buttons you should map in RPCS3's Gamepad Settings.
 
@@ -223,7 +224,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 | D-Pad: Left | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
+| Right Stick: <br/> Up/Down <br/> (PS3/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
 | L3 <br/> (Xbox 360 guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
@@ -234,25 +235,25 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 Make sure you **set “Device Class” to “Drum”.**
 
-**Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
 If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for the mapping as they know more about this.
 
-| **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
-|:--------:|:---------------:|:-------------------:|:-----------------:|
-| Cross | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](images/btns/drms/gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/gh/kp.png "Foot Pedal") |
-| D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 |  | ![Second Foot Pedal](images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](images/btns/drms/gh/oc.png "Orange Cymbal") |
-| R3 |  | Cymbal Modifier | |
-| L3 |  | Pad Modifier | |
+| **RPCS3**    | **Rock Band Pro Drums** | **Guitar Hero Drums** |
+|:--------:|:-------------------:|:-----------------:|
+| Cross | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 | ![Second Foot Pedal](images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](images/btns/drms/gh/oc.png "Orange Cymbal") |
+| R3 | Cymbal Modifier | |
+| L3 | Pad Modifier | |
 
 
 **Vocals**:  
-*For vocals*, you can *use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
+*For vocals*, you can *use regular controllers*. If you're using a PS3 controller, switch "Handlers" to DS4. If you're using a PS4 controller, switch "Handlers" to DS4. If you're using an Xbox 360, Xbox One, or Xbox Series controller, switch "Handlers" to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
