@@ -268,7 +268,7 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
   
 
 Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to 'Guitar" and the box next to that is set to "Rock Band".
-![A screenshot of RPCS3's Gamepad Settings with a Höfner](images/conf/rpcs3padexm.png "Gamepad Settings with a Wii The Beatles: Rock Band Höfner guitar controller")
+![A screenshot of RPCS3's Gamepad Settings with a Höfner](instrument-repo/Wii%20Rock%20Band%20Guitars/mapping.png "Gamepad Settings with a Wii The Beatles: Rock Band Höfner guitar controller")
 
 <br/>
 
