@@ -267,7 +267,7 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 
   
 
-Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to 'Guitar" and the box next to that is set to "Rock Band".
+Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to "Guitar" and the box next to that is set to "Rock Band".
 ![A screenshot of RPCS3's Gamepad Settings with a Höfner](instrument-repo/Wii%20Rock%20Band%20Guitars/mapping.png "Gamepad Settings with a Wii The Beatles: Rock Band Höfner guitar controller")
 
 <br/>
@@ -576,7 +576,7 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of adding many quality-of-life features like faster bootups, 60fps venues, and automatic DLC loading, **it also includes RB3\_Plus, which adds extra Pro Keys and Pro Guitar/Bass to songs that didn't have them.** **If you have a Pro instrument, this is a must-have**! On top of this, there are various visual customization options, like using themes from older (and newer) Rock Bands and even Guitar Hero. [You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) [You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
 
 <div align="center">
 
@@ -590,7 +590,8 @@ Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360
 
 Special thanks to:
 
-*   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and Rock Band 3.
+*   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and/or Rock Band 3.
+* [knvtva](https://github.com/knvtva) for running and maintaining AshCentral, the best way to play Rock Band 3 online.
 *   [qfoxb](https://github.com/qfoxb), [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva), and 1osks for reporting results.
 *   RPCS3 Wiki for having pretty decent information on controllers and USB passthrough.
 *   [TheNathannator's](https://github.com/TheNathannator) [PlasticBand GitHub](https://github.com/TheNathannator/PlasticBand) for even better documentation on controllers.
