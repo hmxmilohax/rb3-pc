@@ -183,11 +183,15 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 **This section is for standard controllers (five-fret guitars, RB/GH drums).**  
 Pro Guitars and/or Keyboards are set up later.
 
+If you're playing with a single instrument controller, consider the [[Instrument Repo]](instrument-repo#readme) which has easy drag and drop profiles for various rhythm game instruments.
+
+If not, keep reading.
+
 **Right click on “Rock Band 3” and select “Create Custom Gamepad Configuration”**
 
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
-* If you are planning on plugging in multiple instruments, _you must set them on different ports_.
+* If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
 * If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
@@ -276,8 +280,13 @@ Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it
 In RPCS3, go to **Manage > User Accounts** 
 ![RPCS3 showing "User Accounts" option under the "Manage" menu.](images/conf/rpcs3user.png "RPCS3: User Accounts")
 
-Once you're there, **click on the default username (00000001 - User) and then click “Rename user” and change it** to whatever you want, then close it out.  
+Once you're there, **click on the default username (00000001 - User) and then click “Rename user”.** 
+
 ![RPCS3's "User Manager", showing the default username.](images/conf/rpcs3rename.png "RPCS3: User Accounts")
+
+Now change it** to whatever you want, then close it out.  
+
+![RPCS3's "Rename User", showing the user changing the name.](images/conf/rpcs3namepanel.png "RPCS3: Rename User")
 
 <br/>
 
@@ -301,12 +310,17 @@ Enter a **username** and **password**:
 You will be prompted for an **email address** so you can receive a **verification token**:  
 ![A screenshot of RPCS3's RPCN: Email menu with an email (twice for verification) set and "OK" highlighted](images/rpcn/email.png "RPCN: Email")  
 
-**Click “Yes”** and go to your email inbox. You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox. The email will be called **“Your token for RPCN.” Copy the token**:
+You will next be asked to confirm your account's creation. **Click “Yes”**.
+
+![A screenshot of RPCS3's RPCN: Account Creation popup, asking the user if they're ready to create their account, with "Yes" highlighted](images/rpcn/confirm.png "RPCN: Account Creation")
+
+Now go to your email inbox to check for your verification token. You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox. The email will be called **“Your token for RPCN.”  
+Copy the token**:
 
 ![A screenshot of an email labeled "Your Token for RPCN" with a token below what username it's for](images/rpcn/emailtoken.png "Your token for RPCN")
 
 **Paste the token** into RPCS3 and click OK:  
-![A screenshot RPCS3 telling the user an account was successfully created.](images/rpcn/created.png "RPCN: Username")
+![A screenshot RPCS3 telling the user an account was successfully created. They are also prompted for the verification token to reset their password in the future.](images/rpcn/created.png "RPCN: Username")
 
 <br/>
 
@@ -576,7 +590,9 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) [You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) 
+
+[You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
 
 <div align="center">
 
@@ -586,7 +602,9 @@ Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot
 
 </div>
 
-Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, there is an active offshoot that has crossplay with Wii and PS3 players. You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
+Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, [[there is an active offshoot that has crossplay with Wii and PS3 players]](https://gocentral.rocks/).
+
+You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
 Special thanks to:
 
