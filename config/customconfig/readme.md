@@ -8,7 +8,7 @@ If you're on build 0.0.28-15417 of RPCS3, [[use the older version of this page]]
 
 </br>
 
-### [[Recommended settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/recommended.zip)
+### [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip)
 These are the settings used for the *recommended* specs.
 
 These files:
@@ -20,7 +20,7 @@ These files:
 * Enable "Debug Console Mode", Set Exclusive Fullscreen Mode to "Prefer borderless fullscreen", and Driver Wake-Up Delay to "20 µs"
 * Enable "Large Heap", set Venue FPS to "60", disable "Camera Shake", "Depth of Field", and enables "HD Characters."
 
-### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/minimum.zip)
+### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip)
 These are the settings used for the *minimum* specs.
 
 These files:
