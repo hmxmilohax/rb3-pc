@@ -72,7 +72,8 @@ If you own any of these instruments and wish to help, please contact me on the [
 * Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
 * If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
-*  If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
 Below are the buttons you should map in RPCS3's Gamepad Settings.
 
