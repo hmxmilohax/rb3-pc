@@ -536,15 +536,18 @@ You'll be taken to a page to type in an account linking code. **Leave this page 
 
 **Start up Rock Band 3**
 
-Once it launchers, **go the main options menu.**
+Once it launches, **go the main options menu.**
 
 ![A screenshot of Rock Band 3, with Options being highlighted.](images/ash/options.png "Rock Band 3: Options")
+
 **Go to the extras menu.**
 
 ![A screenshot of Rock Band 3, with extras being highlighted.](images/ash/extras.png "Rock Band 3: Extras")
+
 **Go to "Account-linking code.**
 
 ![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
+
 **Go to "Account-linking code.**
 
 ![A screenshot of Rock Band 3, telling the user to copy the code at the bottom into AshCentral.](images/ash/code.png "Rock Band 3: Code Here")
@@ -605,9 +608,10 @@ Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral
 
 ![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
 
-You should see invited players connected to your lobby.
+You should connect to the lobby you were invited into.
 ![A screenshot of Rock Band 3, in an online lobby.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
-Again, **it is important that you press "Play on AshCentral" before joining or hosting a session on GoCentral.Rocks.**
+
+Again, **remember to press "Play on AshCentral" in Rock Band 3 before joining or hosting a session on GoCentral.Rocks.**
 
 <br/>
 
