@@ -43,8 +43,9 @@ You will need:
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, PS4, Wii, X360)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
-	*   _Rock Band 3 MIDI Pro Adapter and a compatible instrument (PS3 version only)_<sup>c
-	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c c
+	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar and MIDI keyboard (PS3 version only)_<sup>c
+	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (X360, PS3)_<sup>c
+	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via via MIDI to USB adapter)_
@@ -53,14 +54,14 @@ You will need:
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* Minimum:
-		* OS: Windows 10
+		* OS: Windows 10 or higher
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB
  		* Storage: ~11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
    		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
-		* OS: Windows 10
+		* OS: Windows 10 or higher
 		* Processor: AMD Ryzen 5 2600
 		* Memory: 16 GBs
 		* Graphics: NVIDIA GeForce GTX 1650
@@ -69,7 +70,7 @@ You will need:
  			* ~67.4 GBs for all DLC and exports (SSD).
  		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
-*   _[[7zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
+*   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
 <sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible. Xbox One guitars are exempt as they require multiple separate programs to work.</sub>  
 <sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible. Xbox One drum kits are exempt as they require multiple separate programs to work.</sub>  
@@ -83,6 +84,12 @@ You will need:
 
 Before starting the installation process, **make sure your drivers and operating system is up to date**.
 
+**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or WinRAR already installed, you can **skip to the next steps.**
+
+[**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html)
+![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](images/inst/7zip.png "7-zip.org/download")
+
+
 **Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to check.
 
 [[Click here to download Microsoft Visual C++ 2019 Redistributable]](https://aka.ms/vs/17/release/vc_redist.x64.exe)
@@ -92,14 +99,14 @@ Before starting the installation process, **make sure your drivers and operating
 
 **Next**, let's **download RPCS3**.
 
-[[Click here to go to RPCS3's download site.]](https://rpcs3.net/download)
+[**[Click here to go to RPCS3's download site.]**](https://rpcs3.net/download)
 
 Scroll down a bit and download the Windows version.
 
 ![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](images/inst/rpcs3dl.png "RPCS3 - Download")
 
 **Once it downloads, extract the .7zip file.**  
-![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](images/inst/extract.png "Extract Files")
+![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](images/inst/extractrpcs3.png "Extract Files")
 
 I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
@@ -115,13 +122,11 @@ Once again, the picture below links to the download page.
 
 
 Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
-![A screenshot of RPCS3 welcoming the user to RPCS3.](images/inst/rpcs3init.png "Welcome to RPCS3")
+![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue".](images/inst/rpcs3init.png "Welcome to RPCS3")
 
-As mentioned earlier, this is an outdated build of RPCS3, and you'll be warned about this.
-**Make sure you click "No."**
-![A screenshot of alerting the user RPCS3 has an update available.](images/inst/rpcs3updwrn.png "Update Available")
 
 **Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** 
+
 ![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
 **Click "Yes"** when the firmware installer prompts you.  
@@ -137,18 +142,33 @@ It will start compiling modules to load the PS3 XMB into the emulator, which may
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
 Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way.]](https://youtu.be/mRxSKxoYt_g)
+
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 is now in your game library in RPCS3, now you can [**[download and install *Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/), it's highly recommended in order to get the most out of your RB3 experience. There's no reason to not have it installed.
+Rock Band 3 is now in your game library in RPCS3, but it's not quite ready yet. Next, go get [**[*Rock Band 3 Deluxe*.]**](https://rb3dx.neocities.org/)
 
-The filename will look something like this:
+This is a must-have mod for Rock Band 3, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.neocities.org/features).
 
-[![Rock Band 3's PKG update in Edge's download tray.](images/inst/rb3pe.png)](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg "UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg")
+[**[Click here to download Rock Band 3 Deluxe.]**](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip)
 
-**When it's finished downloading, drag the update file into RPCS3 and click Yes**, just like you did earlier with the PS3UPDAT.PUP file.  
+[![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](images/inst/rb3dxdl.png)](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip "RB3DX-PS3.zip")
+
+**When it's finished downloading, extract the archive**.  
+
+![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](images/inst/rb3dxext.png) "RB3DX-PS3.zip")
+
+**When it finishes extracting, drag the PKG file into RPCS3 and click Yes** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
+
+![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
+
 ![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 Deluxe package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
 
+If it installed successfully, you should see that the Rock Band 3 icon has changed.
+
+![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
+
 **You can also rename the game in the list to "*Rock Band 3 Deluxe*" if you wish.** To do this, right-click on "Rock Band 3" and select "Rename In Game List".
+
 
 <br/>
 
