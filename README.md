@@ -5,6 +5,7 @@ Video Version (Outdated):
 
 <br/>
 
+> * [_[Older Version of the guide]_ (DO NOT USE UNLESS YOU KNOW WHAT YOU'RE DOING!)](https://github.com/carlmylo/rb3-pc/blob/main/README_EN_028.md)  
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
@@ -92,7 +93,7 @@ Before starting the installation process, **make sure your drivers and operating
 
 **Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to check.
 
-[[Click here to download Microsoft Visual C++ 2019 Redistributable]](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+[**[Click here to download Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 **Once it finishes downloading**, open it up and **install it**.  
 ![A screenshot of the Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](images/inst/mvcpp.png "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
@@ -155,7 +156,7 @@ This is a must-have mod for Rock Band 3, which also fixes some critical bugs RPC
 
 **When it's finished downloading, extract the archive**.  
 
-![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](images/inst/rb3dxext.png) "RB3DX-PS3.zip")
+![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](images/inst/rb3dxext.png "RB3DX-PS3.zip")
 
 **When it finishes extracting, drag the PKG file into RPCS3 and click Yes** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
 
@@ -177,15 +178,6 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 ***IF YOU HAVE CHANGED SETTINGS FOR RPCS3, SET THEM BACK TO DEFAULT BEFORE FOLLOWING THIS TUTORIAL!***
 
 <br/>
-
-## DISABLE UPDATES
-
-As current versions of RPCS3 perform worse for Rock Band 3 and other rhythm games, **it is currently suggested to stay on an older version and disable the updates**.
-To do this, look at the top menu bar of RPCS3, then **click on Configuration > GUI**  
-![A screenshot of RPCS3's right click menu, showing "GUI" in the Configuration menu highlighted](images/conf/rpcs3gui.png "RPCS3 > Configuration > GUI")
-
-**In "Check for updates on startup", change the option to "No", then click "Apply" then "Save."**  
-![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3disupd.png "RPCS3 > Configuration > GUI")
 
 ## CONTROLLERS:
 
