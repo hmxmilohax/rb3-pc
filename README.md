@@ -81,20 +81,20 @@ You will need:
 
 # INSTALLATION:
 
-Before starting the installation process, **make sure your drivers and operating system is up to date**.
+Before starting the installation process, **make sure your drivers and operating system are up to date**.
 
 **Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or WinRAR already installed, you can **skip to the next steps.**
 
 [**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html)
-![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](images/inst/7zip.png "7-zip.org/download")
 
+[![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](images/inst/7zip.png)](https://www.7-zip.org/download.html "7-zip.org/download")
 
 **Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to check.
 
 [**[Click here to download Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 **Once it finishes downloading**, open it up and **install it**.  
-![A screenshot of the Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](images/inst/mvcpp.png "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+[![A screenshot of Microsoft Visual C++ 2019 Redistributable's installer prompting the user to accept the license terms and conditions and to install.](images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
 
 **Next**, let's **download RPCS3**.
 
@@ -102,7 +102,7 @@ Before starting the installation process, **make sure your drivers and operating
 
 Scroll down a bit and download the Windows version.
 
-![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](images/inst/rpcs3dl.png "RPCS3 - Download")
+[![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](images/inst/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download")
 
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](images/inst/extractrpcs3.png "Extract Files")
@@ -327,7 +327,7 @@ Copy the token**:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/main#custom-configuration) to tweak to what's best for your computer.  
 **You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://rb3dx.neocities.org/) otherwise these will not work.  
 
-Players who want to use [[microphones]](https://github.com/carlmylo/rb3-pc/tree/main#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](https://github.com/carlmylo/rb3-pc/#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://github.com/carlmylo/rb3-pc/#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
+Players who want to use [[microphones]](#audio), [[#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](#requirements).
@@ -454,7 +454,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") For online multiplayer: 
 	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall.
-		* Don't enable UPNP while port forwarding** as this can cause crashes.
+		* **Don't enable UPNP while port forwarding** as this can cause crashes.
 	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
 		* **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
 		* Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
@@ -491,7 +491,7 @@ You can leave this as is if you want, but I would consider changing the followin
 
 If everything seems to be working, **I'd also strongly suggest changing RPCS3's log to only display fatal errors** as it gets flooded by excess messages otherwise.
 
-To do this, **right click in RPCS3's log at the bottom and click on "Fatal"**.
+To do this, **right click in RPCS3's log at the bottom and then left click on "Fatal"**.
 
 ![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](images/cust/logging.png "RPCS3 Fatal Logging")
 
@@ -688,7 +688,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   You forgot to set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
 
 *   **_My PS3 instrument controller shows up as two_**
-	*   You did [[controller configuration](#controllers) for a PS3 controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
+	*   You did [[controller configuration]](#controllers) for a PS3 controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
 
 *   **_[Rock Band 3 Deluxe] I crash in the intro video_**
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
@@ -699,7 +699,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
 	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
 
-  *   **_\[ONLINE\] I crash when searching for players_**
+*   **_\[ONLINE\] I crash when searching for players_**
 	*   If you have UPNP enabled in Rock Band 3's Custom Configuration [[Network section]](#network), you will need to disable it and [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
 *   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to online servers._**
