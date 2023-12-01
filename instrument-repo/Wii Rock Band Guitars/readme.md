@@ -20,7 +20,7 @@
 | D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
 | D-Pad: Left | ![D-Pad: Left](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpl.png "D-Pad: Right") |
-| Right Stick: <br/> Right | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") |
 | L2 | ![Solo Buttons](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
 | R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
