@@ -694,7 +694,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
 	
 *   **_[Pro Drums] Hitting two cymbals registers as a tom_**
-	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even on console. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs. Please feel free to ask around in the Milohax Discord server.
+	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even on console. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs. Please feel free to ask around in the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) server.
 
 *   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
 	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
@@ -705,14 +705,14 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to online servers._**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
  
-*   **_\[ONLINE\] I keep disconnecting constantly while playing_**
+*   **_\[ONLINE\] I keep disconnecting constantly while playing online._**
 	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable is possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, you may have connection issues.
 
-*   **_“I followed every step and my game is crashing or performing horribly”_**
+*   **_“I followed every step and my game is crashing or performing horribly!”_**
 	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue.
 
-*	**_"You didn't mention changing (setting) in the guide. It helped my performance_**
-	* Open an issue or contact me on the Milohax Discord for your findings. If your suggestion checks out, it may be added to this guide.
+*	**_"You didn't mention changing (setting) in the guide. It helped my performance."_**
+	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for your findings. If your suggestion checks out, it may be added to this guide.
 
 <br/>
 
