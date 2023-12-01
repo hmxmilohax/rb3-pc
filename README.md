@@ -502,7 +502,7 @@ That's the difficult part over with.
 # AshCentral Room Codes:
 
 Video Version:  
-[![A thumbnail of the video version of this section of the tutorial.](images/ash/vidthumb.jpg)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
+[![A thumbnail of the video version of this section of the tutorial.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
 **If you're not playing on AshCentral**, [[**skip over this section**]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
 
