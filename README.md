@@ -167,8 +167,7 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 
 ![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-**You can also rename the game in the list to "*Rock Band 3 Deluxe*" if you wish.** To do this, right-click on "Rock Band 3" and select "Rename In Game List".
-
+You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List".
 
 <br/>
 
@@ -353,9 +352,9 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 | COLOR | MEANING |
 |---|---|
-| ![A red square with a dashed outline.](images/cust/bigred.png "Red Square") | **REQUIRED** |
-| ![A yellow square with a dotted outline.](images/cust/bigyellow.png "Yellow Square") | **Performance Tweaks** |
-| ![A blue square with a solid outline.](images/cust/bigblue.png "Blue Square") | **Optional** |
+| ![A green square with a dashed outline.](images/cust/biggreen.png "Green Square") | **REQUIRED** |
+| ![A blue square with a dotted outline.](images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
+| ![A tan square with a solid outline.](images/cust/bigtan.png "Tan Square") | **Recommended** |
 
 We'll go tab by tab, starting with:
 
@@ -364,20 +363,21 @@ We'll go tab by tab, starting with:
 ## CPU
 
 
-![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in yellow with a dotted outline.](images/cust/cpu.png "CPU")
-* ![A yellow square with a dotted outline.](images/cust/smallyellow.png "Yellow Square") **Improved CPU performance, at the cost of bottlenecking on certain machines**: 
+![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, and Preferred SPU Threads highlighted in blue with a dotted outline.](images/cust/cpu.png "CPU")
+* ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") **Improved CPU performance, at the cost of bottlenecking on certain machines**: 
 	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads. Drastically speeds up game startup time on certain machines.
 	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - Can help prevent stutter caused by CPU overloads. **Start from 4 and lower it until it improves**.
+	* **Change "Thread Scheduler" to "RPCS3 Scheduler", or "RPCS3 Alternative Scheduler"** - **FOR CPUs WITH 12+ THREADS ONLY!** May help with thread distribution to prevent microstutters.
 	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames but **will break practice mode and possibly other features!**
 
 <br/>
 
 ## GPU
-![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in red with a dashed outline, ZCULL Accuracy, Resolution Scale, Resolution Scale Threshold, Frame Limit, Shader Quality, and VSync highlighted in yellow with a dotted outline.](images/cust/gpu.png "GPU")
-* ![A light red square with a dashed outline.](images/cust/smallred.png "Light Red Square") REQUIRED: 
-	* **Enable "Write Color Buffers"** - This fixes 99% of the issues with characters having glitched textures.
-* ![A yellow square with a dotted outline.](images/cust/smallyellow.png "Yellow Square") Performance Tweaks: 
-	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases latency.
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, ZCULL Accuracy, Resolution Scale, Resolution Scale Threshold, Frame Limit, Shader Quality, and VSync highlighted in blue with a dotted outline.](images/cust/gpu.png "GPU")
+* ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") REQUIRED: 
+	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
+* ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") Performance Tweaks: 
+	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency.
 	* **Change "Frame Limit"** 
 		* Set it to "Off" to use higher VBlank Frequencies (which may introduce jitter).
 		* Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). 
@@ -385,25 +385,26 @@ We'll go tab by tab, starting with:
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
 	* **Adjust "Shader Quality"** depending on your system.
 		* Low and Medium will drastically reduce quality at certain frame rates with little performance gains.
-		* High is the best option. Ultra looks similar to high.
+		* High is the best option. Ultra looks and performs similar to high.
 		* Auto will use default RPCS3 settings. This is the suggested setting. 
 	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics.
 	* **Adjust "Resolution Scale Threshold"** depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e., for 1920x1080, which is 150% of 1280x720, you'd calculate what 150% of 16 is, which would be 24.
-	* **Change "ZCULL Accuracy" to "Relaxed"** - For low end GPUs. Provides a slight performance improvement but may cause graphical anomalies.
-
+	* **Change "ZCULL Accuracy" to "Relaxed"** - For low end GPUs. Provides a slight performance improvement but may cause graphical anomalies
+.
 <br/>
 
 ## Audio
-![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in red with a dashed outline, Audio Buffer highlighted in yellow with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in blue with a solid outline.](images/cust/audio.png "Audio")
-* ![A light red square with a dashed outline.](images/cust/smallred.png "Light Red Square") REQUIRED: 
-	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it.
-* ![A light yellow square with a dotted outline.](images/cust/smallyellow.png "Light Yellow Square") Tweak depending on audio hardware: 
+![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](images/cust/audio.png "Audio")
+* ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") REQUIRED: 
+	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it. You should set your global settings to default while you're at it because you should've done that to begin with.
+* ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") Tweak depending on audio hardware: 
 	* **Adjust "Audio Buffer Duration"** depending on system.
-		* Lower values give you less audio latency but higher CPU usage.
-		* Higher values give you more audio latency but lower CPU usage.
-		* Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate either way.
+		* Lower values give you less audio latency but use more CPU.
+		* Higher values give you more audio latency but use less CPU.
+		* Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate regardless of audio buffer setting.
 		* You can change this while the game is running, but it will require re-calibrating in Rock Band 3's system settings.
-* ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") For Vocalists: 
+	* **Change "Audio Out" to "XAudio2"** - Has helped performance on lower end systems. Experiment with setting to make sure it actually helps. As this allegedly breaks audio buffering, **this should be used as a last resort.**
+* ![A tan square with a solid outline.](images/cust/smalltan.png "T Squarean") For Vocalists: 
 	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
 
 <br/>
@@ -418,7 +419,7 @@ We'll go tab by tab, starting with:
 
 
 **If your keyboard only has a MIDI output, you will need a MIDI to USB interface**.
-![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output, and multiple pedal inputs.](images/midi/midikeys.png "MIDI Keyboard")  
+![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output highlighted in yellow with a solid white outline, and multiple pedal inputs.](images/midi/midikeys.png "MIDI Keyboard")  
 
 **The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs.
 ![A picture of a Rock Band 3 Fender Mustang Pro Guitar, showing a 5-DIN MIDI output.](images/midi/midiprotar.png "Mustang Pro Guitar MIDI Output")  
@@ -431,11 +432,15 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 >![A picture of a Focusrite Scarlett's rear, showing a USB port, and 5-DIN MIDI input and output.](images/midi/midifs.png "Focusrite Scarlett MIDI in/out")  
 
 
-**If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**  
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in blue with a solid outline.](images/cust/io.png "I/O")
-* ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") For third party Keyboard and wired Pro Guitar players: 
+**If everything's connected**, let's go ahead and **focus on RPCS3's I/O tab.**
+**YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!**
+![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline.](images/cust/io.png "I/O")
+* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") For third party Keyboard and wired Pro Guitar players: 
 	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it.**.
 	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it**.
+
+* ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") Tweak depending on CPU: 
+	* **Change "Pad Handler Mode" to "Multi-threaded"** if you have a CPU **with more than 12 threads.**
   
  **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work, restart RPCS3.**  
   
@@ -445,11 +450,12 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 <br/>
 
 ## NETWORK
-![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in red with a dashed outline IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in blue with a solid outline.](images/cust/network.png "Network")
-* ![A light red square with a dashed outline.](images/cust/smallred.png "Light Red Square") REQUIRED: 
+![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](images/cust/network.png "Network")
+* ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") REQUIRED: 
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
-* ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") For online multiplayer: 
-	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don't enable UPNP while port forwarding** as this can cause crashes.
+* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") For online multiplayer: 
+	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall.
+		* Don't enable UPNP while port forwarding** as this can cause crashes.
 	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
 		* **Join the** [[**Milohax Discord server**]](https://discord.gg/6rRUWXPYwb) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
 		* Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
@@ -458,13 +464,14 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 
 ## ADVANCED
 ![A screenshot of Rock Band 3's Advanced custom settings, showing "Exclusive Fullscreen Mode (Automatic (Default)), and Driver Wake-Up Delay (1µ) in green.](images/cust/advanced.png "Advanced")
-* ![A yellow square with a dotted outline.](images/cust/smallyellow.png "Yellow Square") Depending on your computer: 
-	* **Change "Driver Wake-up Delay" to "20µ"** if you experience crashing after a few songs. Increase it to "40µ" if the issue persists.
+* ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") REQUIRED: 
+	* **Change "Driver Wake-up Delay" to "20µ"** to avoid crashing after a few songs. Increase it to "40µ" if the issue persists.
+* ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") Depending on your computer: 
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing program focus constantly.
 	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz if adjusting it for online play.
 	* **Enable "Silence All Logs"** - **Not suggested** but can help reduce drive usage on computers with slower drives. This is a non-issue for most people. **If you disable this, neither the RPCS3 team or the Milohax team will be able to help you with troubleshooting and crashes**.
-* ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") For higher framerates: 
-	* **Enable "Debug Console Mode"** - With this option enabled and Rock Band 3 Deluxe installed, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. Most people should enable this.
+* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") For most people: 
+	* **Enable "Debug Console Mode"** - With Rock Band 3 Deluxe installed and this option enabled, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. If your computer is within the minimum (or higher) requirements, there's no reason you shouldn't enable this.
 	
 
 <br/>
@@ -472,7 +479,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 ## EMULATOR
 ![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface".](images/cust/emulator.png "Emulator")
 You can leave this as is if you want, but I would consider changing the following options:
-* ![A blue square with a solid outline.](images/cust/smallblue.png "Blue Square") Optional tweaks: 
+* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") Optional tweaks: 
 	* **“Show trophy popups”** - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.
 	* **“Show PPU compilation hint”** - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as "Recompiler (LLVM)" in the CPU tab does this when launching the game.
 	* **“Show shader compilation hint”** - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The best way to deal with this is** just **to** **play the game** as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in a party shuffle and let it compile a decent amount of shaders.
@@ -481,6 +488,12 @@ You can leave this as is if you want, but I would consider changing the followin
     
 
 **After all of that, remember to click "Apply" then "Save custom configuration"**
+
+If everything seems to be working, **I'd also strongly suggest changing RPCS3's log to only display fatal errors** as it gets flooded by excess messages otherwise.
+
+To do this, **right click in RPCS3's log at the bottom and click on "Fatal"**.
+
+![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](images/cust/logging.png "RPCS3 Fatal Logging")
 
 That's the difficult part over with.
 
