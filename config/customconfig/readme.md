@@ -24,11 +24,11 @@ These files:
 These are the settings used for the *minimum* specs.
 
 These files:
-* Change the SPU Block Size to "Mega" and Preferred SPU Threads to "2"
+* Set SPU Block Size to "Mega" and Preferred SPU Threads to "2"
 * Disable Anti-aliasing, enable "Write Color Buffers", set ZCULL Accuracy to "Relaxed (Fastest)", and Shader Quality to "Low"
-* Increase Audio Buffer Duration to "130 ms"
+* Sets the Audio Out to "XAudio2" and increase Audio Buffer Duration to "100 ms"
 * Set Network Status to "Connected", configure RPCS3 for GoCentral, connect to RPCN, and enable UPNP
-* Set Exclusive Fullscreen Mode to "Prefer borderless fullscreen", and Driver Wake-Up Delay to "40 µs"
+* Enable "Debug Console Mode", Set Exclusive Fullscreen Mode to "Prefer borderless fullscreen", and Driver Wake-Up Delay to "40 µs"
 * Disable post-processing and various in-game effects, and set the game to only load smaller venues.
 
 
