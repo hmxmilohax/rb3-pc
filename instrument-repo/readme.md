@@ -40,7 +40,7 @@ Paste it into:
 * [TODO] Arduino Guitars
 * [TODO] Arduino Drums
 
-If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://discord.gg/xrba4CjdNC) for information.
+If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://rb3dx.neocities.org/downloads.html) for information.
 
 #### REJECTED:
 * Rock Band 3 Fender Mustang Pro Guitar
@@ -148,10 +148,11 @@ Make sure you **set “Device Class” to “Drum”.**
 
 ## CREDITS:
 * [[TheNathannator's]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) for outstanding documentation on controllers.
-* [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter Profiles
-* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDIDrum Hero Drums Profile 
-* [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer Profile
-* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox 360 Rock Band Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, Xbox 360 Guitar Hero Genericaster, 
-* [[cameron44251]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, Wii Guitar Hero Drums,
-* [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster Profiles
+* [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter profiles
+* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDIDrum Hero Drums profile 
+* [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer profile
+* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox 360 Rock Band Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, and Xbox 360 Guitar Hero Genericaster profiles
+* [[cameron44251]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, and Wii Guitar Hero Drums profiles
+* [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster profiles
+* [Uzny] - Roll Limitless profile
 * [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
