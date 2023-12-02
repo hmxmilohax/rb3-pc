@@ -288,7 +288,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 <br/>
 
-## RPCN
+## RPCN:
 
 If you don't want to play online, [[you can skip to the next part]](#quick-configuration).
 
@@ -392,7 +392,7 @@ We'll go tab by tab, starting with:
 .
 <br/>
 
-## Audio
+## AUDIO
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline.](images/cust/audio.png "Audio")
 * ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") REQUIRED: 
 	* **Enable "Enable Buffering"** - Absolutely required by Rock Band 3. It should be enabled by default but if it's disabled, re-enable it. You should set your global settings to default while you're at it because you should've done that to begin with.
@@ -652,7 +652,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 <br/>
 
-## TROUBLESHOOTING
+# TROUBLESHOOTING:
 
 
 *   **_Stuttering audio_**
@@ -716,7 +716,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 <br/>
 
-## CONCLUSION
+# CONCLUSION:
 
 That's it! You now (hopefully) have a functional setup to play Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
 
