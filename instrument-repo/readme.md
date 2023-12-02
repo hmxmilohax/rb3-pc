@@ -1,6 +1,6 @@
-# Instrument Repo
+# What is this?
 
-A repository of premade controller profiles for RPCS3 to help Rock Band 3 players.
+A repository of premade controller profiles for RPCS3 to help newcomers to Rock Band 3. These files should be simple drag and drop configurations for controllers.
 
 These are specifically for the latest version of RPCS3. 
 
@@ -15,7 +15,7 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 
 ![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://github.com/carlmylo/rb3-pc/blob/main/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
 
-Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives input.
+Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
 
 The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
 
@@ -28,6 +28,30 @@ Paste it into:
 * Line 346 to 430 for Player 5
 * Line 432 to 516 for Player 6
 * Line 518 to 602 for Player 7
+
+## Instrument List:
+
+#### Drums:
+* [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
+	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#readme)
+* [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms.
+	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
+* [[Xbox 360 Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
+* [[Xbox 360 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums#notes)
+* [[PS3 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Drums#notes)
+* [[Wii Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Drums#notes)
+
+#### Guitars:
+* [[Xbox 360 Rock Band Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar#notes)
+* [[Wii Rock Band Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Guitars#notes)
+* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
+	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
+* [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/carlmylo/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul#notes)
+* [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D#notes)
+* [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster#notes)
+* [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar#notes)
+* [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
+
 
 ## Missing Instruments:
 
