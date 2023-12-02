@@ -34,7 +34,7 @@ Paste it into:
 #### Drums:
 * [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
 	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#notes)
-* [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms.
+* [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Must be a MIDI drum kit.
 	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
 * [[Xbox 360 Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
 * [[Xbox 360 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums#notes)
