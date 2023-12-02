@@ -662,9 +662,12 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
-	*   Go back to the [[Custom Configuration setup section]](#configuration) and apply suggested low performance tweaks.
+	*   Go back to the [[Custom Configuration setup section]](#custom-configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone.
+
+*   **_"Characters have glitchy flying instruments and accessories."_**
+	*   There is currently no fix for this. If you experience this, [[please report your findings on RPCS3's GitHub].](https://github.com/RPCS3/rpcs3/issues/8408)
 
 *   **_"My game doesn't fill the screen."_**
 	*   Enable "Overscan" in Rock Band 3's System Settings.
@@ -679,16 +682,13 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Automatic Calibration only works for PS3 guitar controllers with passthrough.
 
 *   **_"My game gets stuck when naming a character or band."_**
-	*   This is an RPCS3 issue when using guitars or drum controllers to name things. I would strongly suggest using a regular controller for any customization. You can try to fix it by changing the effects switch on a RB guitar controller. Otherwise, changing your controller's Input Handler in “[[Create Custom Gamepad Configuration]](#controllers)” to “Keyboard” then back to whatever you had originally fixes it, but your mapping may get deleted. This should work while the game is running.
-
-*   **_"Characters have flying instruments and accessories."_**
-	*   There is currently no fix for this. If you experience this, [[please report your findings on RPCS3's GitHub].](https://github.com/RPCS3/rpcs3/issues/8408)
+	*   This is shouldn't be happening on the latest version of RPCS3. That being said, I'd suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers lack the required amount of buttons to use the on-screen keyboard.
 
 *   **_"Scrolling through the library has long pauses."_**
 	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
 
-*   **_"My PS3 instrument controller shows up as two controllers."_**
-	*   You did [[controller configuration]](#controllers) for a PS3 controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
+*   **_"My PS3 Rock Band instrument controller shows up as two controllers."_**
+	*   You did [[controller configuration]](#controllers) for a PS3 Rock Band controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
 
 *   **_[Rock Band 3 Deluxe] "I crash in the intro video."_**
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
@@ -696,20 +696,20 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_[Pro Drums] "Hitting two cymbals registers as a tom."_**
 	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even on console. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs. Please feel free to ask around in the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) server.
 
-*   **_\[ONLINE\] "I cannot find a 3rd or 4th player"_**
+*   **_\[ONLINE\] "I cannot find a 3rd or 4th player when searching."_**
 	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
 
 *   **_\[ONLINE\] "I crash when searching for players"_**
 	*   If you have UPNP enabled in Rock Band 3's Custom Configuration [[Network section]](#network), you will need to disable it and [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
 *   **_\[ONLINE\] "I'm stuck on “Registering Account” when trying to connect to online servers."_**
-	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
+	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
  
 *   **_\[ONLINE\] "I keep disconnecting constantly while playing online."_**
-	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable is possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, you may have connection issues.
+	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable if possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, there's not much that can be done aside from just getting better internet.
 
 *   **_“I followed every step and my game is crashing/performing horribly!”_**
-	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue.
+	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for advice.
 
 *	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**
 	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, it'll probably added to this guide.
@@ -718,7 +718,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 # CONCLUSION:
 
-That's it! You now (hopefully) have a functional setup to play Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
+That's it! You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
 
 <div align="center">
 

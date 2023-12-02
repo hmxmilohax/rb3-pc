@@ -33,7 +33,7 @@ Paste it into:
 
 #### Drums:
 * [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
-	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#readme)
+	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#notes)
 * [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms.
 	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
 * [[Xbox 360 Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
@@ -93,11 +93,11 @@ If you own any of these instruments and wish to help, please contact me on the [
 ## Mapping:
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/main/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
-* If you are planning on plugging in multiple instruments, _you must set them on different ports_.
-* Standard PS3 guitar and drum controllers _should_ be plug and play. If they aren't, follow the binding instructions below. 
-* If you're using PS3, PS4, or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
-* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
-* If you're using PS3, PS4, Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
+* PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
+* If you're using PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
+* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
+* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
 Below are the buttons you should map in RPCS3's Gamepad Settings.
@@ -112,7 +112,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 **Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
  
-**Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+” or something similar on every button, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+**Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+”, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
 | **RPCS3**          | **Rock Band Guitars** | **Guitar Hero Guitars** |
 |:------------------:|:---------------------:|:-----------------------:|
@@ -137,19 +137,21 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 Make sure you **set “Device Class” to “Drum”.**
 
-**Switch the drop-down menu next to it to "Rock Band" if you're using Rock Band drums, “Rock Band Pro” if you're using Rock Band Drums with Pro expansions, or leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. Do **NOT** use the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
-| **RPCS3**    | **Rock Band Drums** | **Rock Band Pro Drums** | **Guitar Hero Drums** |
-|:--------:|:---------------:|:-------------------:|:-----------------:|
-| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/kp.png "Foot Pedal") |
-| D-Pad | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 |  | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/oc.png "Orange Cymbal") |
-| R3 |  | Cymbal Modifier | |
-| L3 |  | Pad Modifier | |
+If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for the mapping as they know more about this.
+
+| **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
+|:--------:|:-------------------:|:-----------------:|
+| Cross | ![Green Pad](images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 | ![Second Foot Pedal](images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](images/btns/drms/gh/oc.png "Orange Cymbal") |
+| R3 | Cymbal Modifier | |
+| L3 | Pad Modifier | |
 
 
 **Vocals**:  
