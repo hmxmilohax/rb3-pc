@@ -13,8 +13,9 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 2. Extract the .7z file.
 3. Drag `config` folder into the folder you have RPCS3 in.
 
-Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives input.
+![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/gf.png "Installing a configuration from the Instrument Repo")
 
+Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives input.
 
 The profiles are formatted for single players. If you need to use a combination of various controllers for local multiplayer or want to quickly swap between multiple instruments, you can try the guide below for manually [[#mapping]](#mapping) additional controllers.
 
