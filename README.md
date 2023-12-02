@@ -83,13 +83,13 @@ You will need:
 
 Before starting the installation process, **make sure your drivers and operating system are up to date**.
 
-**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or WinRAR already installed, you can **skip to the next steps.**
+**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next steps.**
 
 [**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html)
 
 [![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](images/inst/7zip.png)](https://www.7-zip.org/download.html "7-zip.org/download")
 
-**Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to check.
+**Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to double check.
 
 [**[Click here to download Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
@@ -98,7 +98,7 @@ Before starting the installation process, **make sure your drivers and operating
 
 **Next**, let's **download RPCS3**.
 
-[**[Click here to go to RPCS3's download site.]**](https://rpcs3.net/download)
+[**[Click here to go to RPCS3's download site]**](https://rpcs3.net/download)
 
 Scroll down a bit and download the Windows version.
 
@@ -121,15 +121,15 @@ Once again, the picture below links to the download page.
 
 
 Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
-![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue".](images/inst/rpcs3init.png "Welcome to RPCS3")
+![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](images/inst/rpcs3init.png "Welcome to RPCS3")
 
 
-**Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3** 
+**Drag** the **PS3UPDAT.PUP** file you just downloaded from Sony's website **into RPCS3**. 
 
 ![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
 **Click "Yes"** when the firmware installer prompts you.  
-![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP".](images/inst/fwinstall.png "RPCS3 Firmware Installer")
+![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP."](images/inst/fwinstall.png "RPCS3 Firmware Installer")
 
 **Let it install.**  
 ![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](images/inst/rpcs3fw.png "RPCS3 Firmware Installer progress")
@@ -140,15 +140,15 @@ Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not sho
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way.]](https://youtu.be/mRxSKxoYt_g)
+Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 is now in your game library in RPCS3, but it's not quite ready yet. Next, go get [**[*Rock Band 3 Deluxe*.]**](https://rb3dx.neocities.org/)
+Rock Band 3 is now in your game library in RPCS3, but it's not quite ready yet. Next, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/).
 
 This is a must-have mod for Rock Band 3, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.neocities.org/features).
 
-[**[Click here to download Rock Band 3 Deluxe.]**](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip)
+[**[Click here to download Rock Band 3 Deluxe]**](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip).
 
 [![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](images/inst/rb3dxdl.png)](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip "RB3DX-PS3.zip")
 
@@ -156,7 +156,7 @@ This is a must-have mod for Rock Band 3, which also fixes some critical bugs RPC
 
 ![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](images/inst/rb3dxext.png "RB3DX-PS3.zip")
 
-**When it finishes extracting, drag the PKG file into RPCS3 and click Yes** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
+**When it finishes extracting, drag the PKG file into RPCS3 and click "Yes"** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
 
 ![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
 
@@ -166,7 +166,7 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 
 ![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List".
+You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List."
 
 <br/>
 
@@ -178,7 +178,7 @@ You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To
 
 ## CONTROLLERS:
 
-**This section is for standard controllers (five-fret guitars, RB/GH drums).**  
+**This section is for standard guitar controls, standard drums, and Pro Drums.**  
 Pro Guitars and/or Keyboards are set up later.
 
 If you're playing with a single instrument controller, consider the [[Instrument Repo]](instrument-repo#readme) which has easy drag and drop profiles for various rhythm game instruments.
@@ -192,16 +192,15 @@ If not, keep reading.
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
 * If you're using PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
-* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput”
+* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
 * If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
-
-Below are the buttons you should map in RPCS3's Gamepad Settings.
 
 **If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
 
 Once you've finished configuring, **remember to click “Save”.**
 
+Below are the buttons you should map in RPCS3's Gamepad Settings.
   
 **Guitar**:  
 Make sure you **set “Device Class” to “Guitar”.**
@@ -221,7 +220,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 | D-Pad: Down | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](images/btns/gtrs/sbd.png "Strumbar Down") |
 | D-Pad: Left | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
-| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars on Linux) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on RB Wii guitars on Linux) | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down <br/> (PS3/Wii guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](images/btns/gtrs/solo.png "Solo Buttons") | |
@@ -270,7 +269,7 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 
   
 
-Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to "Guitar" and the box next to that is set to "Rock Band".
+Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to "Guitar" and the box next to that is set to "Rock Band."
 ![A screenshot of RPCS3's Gamepad Settings with a Höfner](instrument-repo/Wii%20Rock%20Band%20Guitars/mapping.png "Gamepad Settings with a Wii The Beatles: Rock Band Höfner guitar controller")
 
 <br/>
@@ -283,7 +282,7 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 
 ![RPCS3's "User Manager", showing the default username.](images/conf/rpcs3rename.png "RPCS3: User Accounts")
 
-Now change it** to whatever you want, then close it out.  
+**Now change it** to whatever you want, then close it out.  
 
 ![RPCS3's "Rename User", showing the user changing the name.](images/conf/rpcs3namepanel.png "RPCS3: Rename User")
 
@@ -327,14 +326,14 @@ Copy the token**:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/main#custom-configuration) to tweak to what's best for your computer.  
 **You *MUST* have** [[**Rock Band 3 Deluxe installed**]](https://rb3dx.neocities.org/) otherwise these will not work.  
 
-Players who want to use [[microphones]](#audio), [[#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
+Players who want to use [[microphones]](#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](#requirements).
 
 
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
-In the GIF example below, Recommended Requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
+In the GIF example below, the "Recommended" requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](images/cust/quickconf.gif "Recommended.zip")
 
@@ -344,10 +343,10 @@ For more info on these settings, [[check the Readme for the settings repository]
 
 # CUSTOM CONFIGURATION:
 
-**Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”  
+**Right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration**”.  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration" highlighted](images/cust/rpcs3customconfig.png "Create Custom Gamepad Configuration")
 
-This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Everything not colored should remain on the default options and left unchanged.
+This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored should be left alone.
 
 | COLOR | MEANING |
 |---|---|
@@ -477,7 +476,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 <br/>
 
 ## EMULATOR
-![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface".](images/cust/emulator.png "Emulator")
+![A screenshot of Rock Band 3's Emulator custom settings, showing "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", "Use native user interface."](images/cust/emulator.png "Emulator")
 You can leave this as is if you want, but I would consider changing the following options:
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") Optional tweaks: 
 	* **“Show trophy popups”** - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.
@@ -504,7 +503,7 @@ That's the difficult part over with.
 Video Version:  
 [![A thumbnail of the video version of this section of the tutorial.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
-**If you're not playing on AshCentral**, [[**skip over this section**]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle)
+**If you're not playing on AshCentral**, [[**skip over this section**]](#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-dongle).
 
 To use the room code system on AshCentral, **make sure you're connected to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
 
@@ -512,29 +511,29 @@ To use the room code system on AshCentral, **make sure you're connected to AshCe
 
 Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.rocks/) **to register an account**.
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Register" option from the "Account" subsection being moused over.](images/ash/splash.png)](https://gocentral.rocks/ "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Register" option from the "Account" subsection being moused over.](images/ash/splash.png)](https://gocentral.rocks/ "GoCentral")
 
 **Register your account.**
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, in the register subpage, with "Register" being moused over.](images/ash/register.png)](https://gocentral.rocks/register "GoCentral - Register")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, in the register subpage, with "Register" being moused over.](images/ash/register.png)](https://gocentral.rocks/register "GoCentral - Register")
 
 **When you register your account**, you'll be prompted to **login**. Do so.
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, in the login subpage, with "Login" being moused over.](images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, in the login subpage, with "Login" being moused over.](images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
 
 You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
 
 **In the settings page, you'll see a "Link Account" option. Click on that.**
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, in the account information subpage, with "Link Account" being moused over](images/ash/settings.png)](https://gocentral.rocks/link "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, in the account information subpage, with "Link Account" being moused over](images/ash/settings.png)](https://gocentral.rocks/link "GoCentral")
 
 You'll be taken to a page to type in an account linking code. **Leave this page open.**
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png)](https://gocentral.rocks/link "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png)](https://gocentral.rocks/link "GoCentral")
 
-**Start up Rock Band 3**
+**Start up Rock Band 3**.
 
 Once it launches, **go the main options menu.**
 
@@ -544,7 +543,7 @@ Once it launches, **go the main options menu.**
 
 ![A screenshot of Rock Band 3, with extras being highlighted.](images/ash/extras.png "Rock Band 3: Extras")
 
-**Go to "Account-linking code".**
+**Go to "Account-linking code."**
 
 ![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
 
@@ -554,15 +553,15 @@ Once it launches, **go the main options menu.**
 
 Now, **copy the code into Gocentral.Rocks, then click "Link." After that, restart Rock Band 3.**
 
-![A screenshot of AshCentral's website, GoCentral.rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png "GoCentral - Link Account")
+![A screenshot of AshCentral's website, GoCentral.Rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png "GoCentral - Link Account")
 
 You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
 
 If you did everything correctly, **you should see more information for your account, including your account name, console, band name, and fans**.
 
-![A screenshot of AshCentral's website, GoCentral.rocks, in the account information subpage, showing new details under Rock Band 3 account.](images/ash/linked.png "GoCentral - Settings")
+![A screenshot of AshCentral's website, GoCentral.Rocks, in the account information subpage, showing new details under Rock Band 3 account.](images/ash/linked.png "GoCentral - Settings")
 
 If the website didn't find anything, you may have mistyped the code. Rock Band 3's font may be a bit hard to read so you may have to try again.
 
@@ -570,9 +569,9 @@ Now, let's go over hosting or joining sessions.
 
 **First, launch Rock Band 3.**
 
-**On the front page of AshCentral, click on "Join Game"**
+**On the front page of AshCentral, click on "Join Game"**.
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, with the "Join Game" being moused over.](images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Join Game" being moused over.](images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
 
 **Before clicking either "Host Session" or "Join Session", make sure to press "Play on AshCentral" in Rock Band 3's options menu.**
 
@@ -581,12 +580,12 @@ Now, let's go over hosting or joining sessions.
 
 ### Hosting Sessions:
 
-**Click on "Host Session"** on GoCentral.rocks.
-[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Game" subpage, with "Host Session" being moused over.](images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
+**Click on "Host Session"** on GoCentral.Rocks.
+[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Host Session" being moused over.](images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
 
 You will get a code. **Send this code to those you want to join your session.**
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Host Session" subpage, with a session code and a countdown displayed.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Host Session" subpage, with a session code and a countdown displayed.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
 
 Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
 
@@ -597,12 +596,12 @@ You should see invited players connected to your lobby.
 
 ### Joining Sessions:
 
-**Click on "Join Session"** on GoCentral.rocks.
-[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Game" subpage, with "Join Session" being moused over.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
+**Click on "Join Session"** on GoCentral.Rocks.
+[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Join Session" being moused over.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
 
 **Enter the session code you were sent.**
 
-[![A screenshot of AshCentral's website, GoCentral.rocks, on the "Join Session" subpage, asking the user for a session code.](images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
+[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Session" subpage, asking the user for a session code.](images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
 
 Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
 
@@ -617,13 +616,13 @@ Again, **remember to press "Play on AshCentral" in Rock Band 3 before joining or
 
 # Wireless PS3 Mustang Pro Guitar and PS3 Rock Band 3 Keyboard with dongle
 
-**If you're not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles**, [[**skip over this section**]](#troubleshooting)
+**If you're not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles**, [[**skip over this section**]](#troubleshooting).
 
 To start with, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
 
 Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the latest version. then open it** up.
 
-Click on **Options** then **List All Devices**  
+Click on **Options** then **List All Devices**.  
 ![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](images/pass/zadiglistall.png "Zadig: Options: List All Devices")
 
 You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we're using the Mustang Pro Guitar, which shows up as “Harmonix RB3 Mustang Guitar for PlayStation® 3”.  
@@ -655,64 +654,64 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 ## TROUBLESHOOTING
 
 
-*   **_Stuttering Audio_**
+*   **_Stuttering audio_**
 
 	* [![A video thumbnail that reads "Click here for audio example."](images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
 	* Increase “Audio Buffer Duration” as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
-	*	Set your computer to the [[High Performance power plan.]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-)
+	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
 	*   Go back to the [[Custom Configuration setup section]](#configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone.
 
-*   **_Game doesn't fill the screen_**
+*   **_"My game doesn't fill the screen."_**
 	*   Enable "Overscan" in Rock Band 3's System Settings.
 
-*   **_Game feels off_**
+*   **_"My game feels off."_**
 	*   Run Calibration in Rock Band 3's System Settings if you haven't for some reason. Disable “Dolby Digital” if you enabled it in the same menu.
 
-*   **_Game occasionally crashes when practicing on regular guitar/bass_**
-	*   You didn't read the guide and did not install Rock Band 3 Deluxe, which fixes this bug.
+*   **_"My game crashes when practicing on regular guitar/bass."_**
+	*   You didn't read the guide and did not install Rock Band 3 Deluxe, which fixes this.
 
-*   **_Cannot use Automatic Calibration in System Settings_**
+*   **_"I cannot use Automatic Calibration in System Settings."_**
 	*   Automatic Calibration only works for PS3 guitar controllers with passthrough.
 
-*   **_Game gets stuck when naming a character or band_**
+*   **_"My game gets stuck when naming a character or band."_**
 	*   This is an RPCS3 issue when using guitars or drum controllers to name things. I would strongly suggest using a regular controller for any customization. You can try to fix it by changing the effects switch on a RB guitar controller. Otherwise, changing your controller's Input Handler in “[[Create Custom Gamepad Configuration]](#controllers)” to “Keyboard” then back to whatever you had originally fixes it, but your mapping may get deleted. This should work while the game is running.
 
-*   **_Characters have flying instruments and accessories_**
+*   **_"Characters have flying instruments and accessories."_**
 	*   There is currently no fix for this. If you experience this, [[please report your findings on RPCS3's GitHub].](https://github.com/RPCS3/rpcs3/issues/8408)
 
-*   **_Scrolling through library has long pauses_**
-	*   You forgot to set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
+*   **_"Scrolling through the library has long pauses."_**
+	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
 
-*   **_My PS3 instrument controller shows up as two_**
+*   **_"My PS3 instrument controller shows up as two controllers."_**
 	*   You did [[controller configuration]](#controllers) for a PS3 controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
 
-*   **_[Rock Band 3 Deluxe] I crash in the intro video_**
+*   **_[Rock Band 3 Deluxe] "I crash in the intro video."_**
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
 	
-*   **_[Pro Drums] Hitting two cymbals registers as a tom_**
+*   **_[Pro Drums] "Hitting two cymbals registers as a tom."_**
 	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even on console. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs. Please feel free to ask around in the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) server.
 
-*   **_\[ONLINE\] Cannot find a 3rd or 4th player_**
+*   **_\[ONLINE\] "I cannot find a 3rd or 4th player"_**
 	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
 
-*   **_\[ONLINE\] I crash when searching for players_**
+*   **_\[ONLINE\] "I crash when searching for players"_**
 	*   If you have UPNP enabled in Rock Band 3's Custom Configuration [[Network section]](#network), you will need to disable it and [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
-*   **_\[ONLINE\] Stuck on “Registering Account” when trying to connect to online servers._**
+*   **_\[ONLINE\] "I'm stuck on “Registering Account” when trying to connect to online servers."_**
 	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
  
-*   **_\[ONLINE\] I keep disconnecting constantly while playing online._**
+*   **_\[ONLINE\] "I keep disconnecting constantly while playing online."_**
 	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable is possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, you may have connection issues.
 
-*   **_“I followed every step and my game is crashing or performing horribly!”_**
+*   **_“I followed every step and my game is crashing/performing horribly!”_**
 	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been tested thoroughly and has been proven to work for plenty of people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, and 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue.
 
-*	**_"You didn't mention changing (setting) in the guide. It helped my performance."_**
-	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for your findings. If your suggestion checks out, it may be added to this guide.
+*	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**
+	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, it'll probably added to this guide.
 
 <br/>
 
@@ -728,7 +727,7 @@ That's it! You now (hopefully) have a functional setup to play Rock Band 3 on yo
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here.\]](https://rb3dx.neocities.org/)** On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) 
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here\]](https://rb3dx.neocities.org/)**. On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) 
 
 [You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
 
@@ -740,7 +739,7 @@ Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot
 
 </div>
 
-Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the only way to play Rock Band 3 on PS3 online at the moment. As of writing this, [[there is an active offshoot that has crossplay with Wii and PS3 players]](https://gocentral.rocks/).
+Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the original revival online server for Rock Band 3. Without this, this game would be dead and the entirely online portion of this guide wouldn't exist.
 
 You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
