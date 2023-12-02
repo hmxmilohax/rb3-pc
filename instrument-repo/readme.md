@@ -143,13 +143,13 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|
-| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/kp.png "Foot Pedal") |
+| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/kp.png "Foot Pedal") |
 | D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs//gh/oc.png "Orange Cymbal") |
+| R1 | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 | Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
