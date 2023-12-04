@@ -1,4 +1,4 @@
-Versión Vídeo (no actualizada):  
+Versión Vídeo en Ingles (no actualizada):  
 [![Una mini-imagen de la versión vídeo de esta guía.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
 <br/>
@@ -10,81 +10,103 @@ Versión Vídeo (no actualizada):
 1. [_[Requisitos]_](#requisitos)
 2. [_[Instalación]_](#instalación)
 3. [_[Configuración]_](#configuración)
-4. [_[Desactivar Actualizaciones]_](#desactivar-actualizaciones)
-5. [_[Controladores (guitarras, baterías de RB o GH y controles)]_](#controladores)
-6. [_[Cuenta de usuario]_](#cuenta-de-usuario)
-7. [_[RPCN]_](#rpcn)
-8. [_[Configuración Rápida]_](#configuración-rápida)
+4. [_[Controladores (guitarras, baterías de RB o GH y controles)]_](#controladores)
+5. [_[Cuenta de usuario]_](#cuenta-de-usuario)
+6. [_[RPCN]_](#rpcn)
+7. [_[Configuración Rápida]_](#configuración-rápida)
 8. [_[Configuración Personalizada]_](#configuración-personalizada)
-10. [_[CPU]_](#cpu)
-11. [_[GPU]_](#gpu)
-12. [_[Audio]_](#audio)
-13. [_[I/O (guitarras Pro y teclados con cable USB/MIDI)]_](#io)
-14. [_[Network]_](#network)
-15. [_[Advanced]_](#advanced)
-16. [_[Emulator]_](#emulator)
+9. [_[CPU]_](#cpu)
+10. [_[GPU]_](#gpu)
+11. [_[Audio]_](#audio)
+12. [_[I/O (guitarras Pro y teclados con cable USB/MIDI)]_](#io)
+13. [_[Network]_](#network)
+14. [_[Advanced]_](#advanced)
+15. [_[Emulator]_](#emulator)
+16. [_[AshCentral]_](#ashcentral)
 17. [_[Guitarras Mustang PRO y teclados inalámbricos de PS3 con receptores]_](#guitarras-mustang-pro-y-teclados-inalámbricos-de-ps3-con-receptores)
-18. [_[Soluciones de problemas]_](#soluciones-de-problemas)
+18. [_[Problemas y Soluciones]_](#problemas-y-soluciones)
 19. [_[Conclusión]_](#conclusión)
 
 <br/>
 
-# Requisitos:
+# REQUISITOS:
 
 Necesitarás:
-* _Una copia de Rock Band 3 para PS3 en tu computadora. (Idealmente BLUS-30463)_
+* _Una copia de Rock Band 3 para PS3 en tu computadora. (versión BLUS-30463)_
 * _Un instrumento. Puedes usar:_
-	*   _Cualquier guitarra de Rock Band y Guitar Hero (PS3, PS4, Wii, X360)_
-	*   _Cualquier batería de Rock Band y Guitar Hero (PS3, PS4, Wii, X360)_
-	*   _Cualquier instrumento con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3)_<sup>a
-	*   _Cualquier batería electrónica con salida MIDI con el adaptador MIDI Pro de Rock Band 3 (PS3, Wii, X360)_
-	*   _Teclado inalámbrico Rock Band 3 (solo la versión de PS3 con receptor propio)_<sup>a b
-	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio)_<sup>a
+	*   _Cualquier guitarra de Rock Band y Guitar Hero (PS3, Wii, X360)_<sup>a
+	*   _Cualquier batería de Rock Band y Guitar Hero (PS3, Wii, X360)_<sup>b
+	*   _Cualquier guitarra o teclado con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3)_<sup>c
+	*   _Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (X360, PS3)_<sup>c
+	*   _Teclado de Rock Band 3 (solo la versión de PS3 con receptor propio)_<sup>c
+	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio)_<sup>c
 	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)_
 	*   _Guitarra PRO Rock Band 3 Squier Stratocaster (PS3, Wii, X360 con adaptador de MIDI a USB)_
-	*   _Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB)_<sup>b c
+	*   _Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB)_<sup>d
 	*   _Batería MIDI (conectado por USB o por adaptador MIDI a USB y los programas MidiDrumHero and VJoy)_<sup>d
 	*   _Cualquier micrófono detectado por tu computadora (el juego se puede controlar con la mayoría de mandos o con el teclado cuando juegas como vocalista)_
 *   _Una computadora_
 	* Mínimo:
-		* SO: Windows 10
+		* SO: Windows 10 o mejor
 		* Procesador: Intel Core i5-4460 (o equivalente con una puntuación de CPUMark de 4872 y AVX2)
 		* Memoria: 8 GBs
 		* Gráficos: GeForce GT 730 2GB (o equivalente)
- 		* Almacenamiento: 11.2 GBs (5400 RPM HDD)
+ 		* Almacenamiento: ~11.2 GBs para Rock Band 3 con Rock Band 3 Deluxe sin DLC. (5400 RPM HDD)
    		* Notas adicionales: La configuración más básica. Tendrás resolución de 720p sin efectos adicionales, latencia de audio de 130 ms, y frecuencia de actualización de 60 Hz, con posibles inestabilidades en el rendimiento.
 	* Recomendado:
-		* SO: Windows 10
+		* SO: Windows 10 o mejor
 		* Procesador: AMD Ryzen 5 2600 (o equivalente)
 		* Memoria: 16 GBs
 		* Gráficos: NVIDIA GeForce GTX 1650 (o equivalente)
- 		* Notas: 145.66 GBs para **todo** el contenido oficial lanzado desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (en un SSD).
+ 		* Notas:
+ 			* ~145.66 GBs para **todo** el contenido oficial lanzado desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (SSD).
+ 			* ~67.4 GBs para todo el DLC y expansiones (SSD).
  		* Notas adicionales: Excelente rendimiento. 1080p con todos los efectos, audio de 100 ms (o menos), y 75 Hz (o mas).
-	* Puedes verificar [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart), aunque estan exagerado para este juego.
+	* Puedes verificar [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart), aunque están exagerado para este juego.
  
 *   _[[7zip]](https://7zip-es.updatestar.com/) (o WinRAR si odias tu vida)_
 
-<sup>a</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasíado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>b</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es lo ideal, así que no está recomendado en esta guía.</sub>  
-<sup>c</sup> <sub>Algunos teclados MIDI, especialmente los de Yamaha, pueden tener problemas por su implementación de MIDI. [[Estos teclados requieren la versión nueva de RPCS3]](https://rpcs3.net/download).</sub>   
-<sup>d</sup> <sub>No tengo una batería, así que no hay instrucciones para configurarlas. Si tienes una y te gustaría ayudar, mándame un mensaje por el Discord de Milohax con capturas de la configuración.</sub>
+<sup>a</sup> <sub>Guitarras de PS4 no están incluidas porque RPCS3 no toma whammy, ladeo, o switch de efectos. También tiene latencia terrible. Guitarras de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
+<sup>b</sup> <sub>Baterías/tambores de PS4 no están incluidas porque los platillos no son compatible con RPCS3. También tiene latencia terrible. Baterías/tambores de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
+<sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasíado complejo para incluir en esta guía. Google es tu amigo.</sub>  
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es lo ideal, así que no está recomendado en esta guía.</sub> 
 
 <br/>
 
-# Instalación:
+# INSTALACIÓN:
 
-Vamos a descargar una versión anterior de RPCS3 porque es mejor para Rock Band 3. Aunque esta guía es para Windows, también puse un link para Linux por si deseas probarlo en esos sistemas.<sup>c  
-<sup>c</sup> <sub>Algunos teclados MIDI, especialmente los de Yamaha, pueden tener problemas por su implementación de MIDI. [[Estos teclados requieren la versión nueva de RPCS3]](https://rpcs3.net/download).</sub>  
+Antes de empezar con la instalación, **asegúrate tus drivers y sistema operativo estén actualizados.**
 
-| [![Logo de Microsoft Windows](images/inst/windows.png)](https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z "Versión para Windows") | [![Mascota Tux de Linux](images/inst/linux.png)](https://github.com/RPCS3/rpcs3-binaries-linux/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_linux64.AppImage "Versión para Linux") |
-|---|---|
+**Empezamos descargando 7-Zip**, que es lo que necesitas para abrir mayoría de los archivos que usamos bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
+
+[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**.
+
+En la captura de pantalla de la página de descarga de 7-zip.org, verás que el cursor está sobre el instalador .exe de 64 bits.
+
+[![Una captura de la pagina para descargar 7-Zip.](images/inst/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com")
+
+**Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, que es necesario para RPCS3. Mayoría ya lo tienen, pero no está malo estar seguro.
+
+[**[Haz clic aquí para descargar Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+
+**Cuando se descargue**, ábrelo y instálalo (Install). 
+
+[Una captura de pantalla del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+
+Después, vamos descargar RPCS3.
+
+[**[Haz clic aquí para ir al sitio de descarga de RPCS3]**](https://rpcs3.net/download).
+
+Baja un poco y descarga la versión para Windows.
+
+[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](images/inst/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download")
 
 **Cuando se descargue, extrae el archivo .7zip.**  
-![Una captura del menú contextual de Windows destacando "Extract files..." (Extraer archivos...) en la categoría de 7-Zip.](images/inst/extract.png "Extract Files (Extraer archivos)")
+![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](images/inst/extractrpcs3es.png "Extraer ficheros...")
 
 Recomiendo que extraigas los archivos en "C:\\Juegos\\RPCS3" o en una unidad interna separada para evitar problemas de permisos. También desactiva la opción que creará un subdirectorio, como en la imagen.
 
-**Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tienen suficiente poder para correr el juego.  
+**Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tiene estabilidad para jugar sin interrupciones.  
 ![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdir.png "Extract")
 
 Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 de el sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar mediante una computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar actualización de PS3**".
@@ -92,17 +114,17 @@ Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 de el 
 _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE HACER click DERECHO Y "Guardar enlace como..." o tu descarga PUEDE FALLAR.**_
 
 Como antes, la imagen de abajo va directa a la página de descarga.
-[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](images/inst/fwpage.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
+[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](images/inst/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
 
 Ahora, **abre RPCS3**. **Marca a "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again" (No volver a mostrar), y, por fin, haz clic en "Continue"** (Continuar).  
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](images/inst/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
-Como se mencionó antes, esta es una versión anterior de RPCS3, y te fastidiar sobre esto.
-**Asegúrate hacer clic en "No" en esta advertencia.**
-![Una captura alertando al usuario que RPCS3 tiene una actualización disponible.](images/inst/rpcs3updwrn.png "Update Available (Actualización disponible)")
 
+**Arrastra el archivo PS3UPDAT.PUP** que acabas de descargar del sitio de Sony **a RPCS3**.
 
-Ahora, **abre RPCS3** y **arrastra el archivo PS3UPDAT.PUP que acabas de descargar del sitio de Sony a RPCS3** y luego haz click en "Yes" (Si).  
+![Una GIF de PS3UPDAT.PUP siendo instalado en RPCS3.](images/inst/rpcs3fwdnd.gif "PST3UPDAT.PUP")
+
+**Haz click en "Yes" (Si)** cuando el programa te pregunta si quieres instalar el archivo.  
 ![[Una captura del instalador de software del sistema de RPCS3 preguntándole al usuario si quiere instalar la software del sistema llamado "PS3UPDAT.PUP".]](images/inst/fwinstall.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3)")
 
 **Déjalo instalar.**  
@@ -111,21 +133,39 @@ Ahora, **abre RPCS3** y **arrastra el archivo PS3UPDAT.PUP que acabas de descarg
 **Cuando termine, haz click en "OK"**  
 ![Una captura del instalador de firmware de RPCS3 después de una exitosa instalación del firmware de PS3 y los módulos LLE.](images/inst/rpcs3fwdone.png "Success (Completo)!")
 
-Comenzará a compilar módulos. Va a tardar unos minutos. **Deja que haga su trabajo.**  
+Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador, esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
 ![Una captura de RPCS3 compilando módulos PPU con una barra de progreso en 1/8 de finalización.](images/inst/rpcs3fwcomp.png "Compiling PPU modules... (Compilando módulos de PPU...)")
 
 Después, **ve a la carpeta donde tienes tu copia de Rock Band 3 y arrastra la carpeta a RPCS3**. Pon esta carpeta en un lugar donde no la vas a borrar por accidente, porque la necesitas. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Ahora que Rock Band 3 está en tu biblioteca en RPCS3, necesita ser actualizado. **Necesitas descargar el archivo PKG con la actualización**. La link de abajo va a bajar directamente del servidor de Sony. Es posible que recibas advertencias de seguridad porque el servidor de Sony no utiliza HTTPS.  
-[**[¡CLICK AQUÍ PARA DESCARGAR EL PKG DE ACTUALIZACIÓN DE ROCK BAND 3!]**](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg)
+Rock Band 3 está en tu biblioteca en RPCS3, pero todavía no esta listo. **Vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/).
 
-El nombre de archivo sera algo así:
+Rock Band 3 Deluxe es un mod que arregla problemas importante con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.neocities.org/features).
 
-[![Actualización PKG de Rock Band 3 en la bandeja de descarga de Edge.](images/inst/rb3pe.png)](http://b0.ww.np.dl.playstation.net/tppkg/np/BLUS30463/BLUS30463_T4/e52d21c696ed0fcf/UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg "UP8802-BLUS30463_00-ROCKBAND3PATCH05-A0105-V0100-PE.pkg")
 
-Cuando se baje, **arrastra el archivo a RPCS3 y haz click en "Yes" (Si)**, como con el archivo PS3UPDAT.PUP.  
-![Una captura de Decrypter/Installer de RPCS3 preguntando si el usuario desea instalar el archivo de paquete de actualización de Rock Band 3.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer (Descifrador/Instalador)")
+[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip).
+
+[![Carpeta .zip de Rock Band 3 Deluxe en la bandeja de descarga de Edge.](images/inst/rb3dxdles.png)](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip "RB3DX-PS3.zip")
+
+
+Cuando se baje, **extrae el archivo**.
+
+![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](images/inst/rb3dxextes.png "Extraer ficheros...")
+
+
+
+**Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en "Yes" (Si)**, como con el archivo PS3UPDAT.PUP.  
+
+![Una GIF de el archivo PKG siendo arrastrato en RPCS3.](images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG")
+
+![Una captura de Decrypter/Installer de RPCS3 preguntando si el usuario desea instalar el archivo de paquete de Rock Band 3 Deluxe.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer (Descifrador/Instalador)")
+
+Si se instala correctamente, el icono de Rock Band 3 vas a cambiar.
+
+![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
+
+Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. So necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist [Renombrar en lista de juegos]"
 
 <br/>
 
@@ -136,42 +176,36 @@ Cuando se baje, **arrastra el archivo a RPCS3 y haz click en "Yes" (Si)**, como 
 
 <br/>
 
-## Desactivar Actualizaciones:
+# Controladores:
 
-Dado que las versiones actuales de RPCS3 funcionan peor para Rock Band 3 y otros juegos musicales, **se sugiere quedarse en una versión más un poco vieja y desactivar actualizaciones**.
-Para hacer esto, mira la barra de menú de RPCS3, luego **haz clic en Configuration > GUI** (Configuración > GUI).  
-![Una captura de pantalla del menú de clic derecho de RPCS3, mostrando "GUI" en el menú de Configuración resaltado](images/conf/rpcs3gui.png "RPCS3 > Configuration > GUI")
+**Esta sección es para controladores regulares, como guitarras de cinco botones, baterías, y baterías PRO.**  
+La configuración de guitarras Pro y/o teclados piano es más adelante.
 
-**En el menú "Check for updates on startup"** (Buscar actualizaciones en inicio), **cámbialo a "No", luego haz clic en "Apply"** (Aplicar) **y luego en "Save"** (Guardar).  
-![Una captura de pantalla del menú de clic derecho de RPCS3, mostrando "Crear configuración personalizada de controlador de juego" resaltado](images/conf/rpcs3disupd.png "RPCS3 > Configuración > GUI")
+Si estas jugando con un controlador, puedes usar el [[Repositorio de Instrumentos]](#instrument-repo-es) que tiene perfiles que ya están configurados. Los perfiles se instalan arrastrando archivos, como todo lo que has instalado anteriormente.
 
-
-## Controladores:
-
-**Esta sección es para controladores regulares (guitarras de cinco botones RB/GH, baterías RB/GH).**  
-Las guitarras Pro y/o teclados piano se configuran más adelante.
+Si no, sigue leyendo.
 
 **Haz click con el botón derecho en "Rock Band 3" y selecciona "Create Custom Gamepad Configuration"** (Crear configuración de controladores personalizada)
 
 ![Una captura del menú contextual de RPCS3, mostrando "Create Custom Gamepad Configuration" resaltado](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * Si planeas conectar varios instrumentos, _debes configurarlos en diferentes puertos (Port)_.
-* Las guitarras y baterías estándar de PS3 _deberían_ funcionar directamente. Si no, sigue las instrucciones de asígnación que se detallan a continuación. 
-* Si estás utilizando guitarras de PS3, PS4, o Wii, configura la opción "Handlers" (Manipuladores) en "MMJoystick (Controlador)". 
+* Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para el PS3 funcionar sin configuración.
+* Si estás utilizando guitarras de PS3 (Guitar Hero) o Wii, configura la opción "Handlers" (Manipuladores) en "MMJoystick". 
 * Si estás utilizando guitarras de Xbox 360, configura la opción "Handlers" (Manipuladores) en "XInput".
-* Si estás utilizando baterías de PS3, PS4, Wii, o Xbox 360, configura la opción "Handlers" (Manipuladores) en "MMJoystick (Controlador)".
-
-Abajo esta una guía de como asígnar los botones en RPCS3.
+* Si estás utilizando baterías de PS3 (Guitar Hero), Wii, o Xbox 360, configura la opción "Handlers" (Manipuladores) en "MMJoystick".
+* Si estas usando una batería con el adaptador MIDI Pro para el Xbox 360, configura la opción "Handlers" (Manipuladores) en "XInput".
 
 **Si tu controlador no se detecta, haz click en "Refresh" (Actualizar). Si eso no soluciona el problema, reinicia RPCS3.**
 
-Una vez que hayas terminado de configurar, **recuerda hacer click en "Save" (Guardar).**
+Cuando termines de configurar, **recuerda hacer click en "Save" (Guardar).**
 
-  
+Abajo esta una guía de como asignar los botones en RPCS3.
+
 **Guitarra**:  
-**Asegúrate que "Device Class" (Clase de controlador) este en "Guitar".**
+**Asegúrate que "Device Class" (Clase de controlador) este en "Guitar" (Guitarra).**
 
-**Cambia el menú desplegable junto a él a "Rock Band" si estás usando una guitarra de Rock Band o déjalo en "Guitar Hero" si estás usando una guitarra de Guitar Hero**. 
+**Cambia el menú desplegable, junto a "Device Class", a "Rock Band" si estás usando una guitarra de Rock Band o déjalo en "Guitar Hero" si estás usando una guitarra de Guitar Hero**. 
  
 **Algunas guitarras** (especialmente las de Guitar Hero) aveces tienen problemas y **no quieren asígnar botones. Si tratas de asígnar un botón y todo sale con "U+", haz click en "Filter Noise"** en la parte inferior izquierda de la ventana de configuración **y luego intenta asígnar nuevamente**.
 
