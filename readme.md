@@ -7,7 +7,7 @@ Video Version (Outdated):
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
-> * [_[Versión en español]_  (WIP)](https://github.com/carlmylo/rb3-pc/tree/espa%C3%B1ol-win#readme)  
+> * [_[Versión en español]_  (WIP)](#readme_es)  
 
 >##### WARNING:
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
@@ -38,11 +38,11 @@ Video Version (Outdated):
 # REQUIREMENTS:
 
 You will need:
-* _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 is strongly suggested)_
+* _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 version)_
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, Wii, X360)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
-	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar and MIDI keyboard (PS3 version only)_<sup>c
+	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (X360, PS3)_<sup>c
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
@@ -56,14 +56,14 @@ You will need:
 		* OS: Windows 10 or higher
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
-		* Graphics: GeForce GT 730 2GB
+		* Graphics: GeForce GT 730 2GB (or equivalent)
  		* Storage: ~11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
    		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
 		* OS: Windows 10 or higher
-		* Processor: AMD Ryzen 5 2600
+		* Processor: AMD Ryzen 5 2600 (or equivalent)
 		* Memory: 16 GBs
-		* Graphics: NVIDIA GeForce GTX 1650
+		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent)
  		* Storage:
  			* ~146.32 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
  			* ~67.4 GBs for all DLC and exports (SSD).
@@ -158,7 +158,7 @@ This is a must-have mod for Rock Band 3, which also fixes some critical bugs RPC
 
 **When it finishes extracting, drag the PKG file into RPCS3 and click "Yes"** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
 
-![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
+![A GIF of Rock Band 3 Deluxe's PKG file being dragged into RPCS3.](images/inst/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
 
 ![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 Deluxe package file.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer")
 
@@ -176,7 +176,7 @@ You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To
 
 <br/>
 
-## CONTROLLERS:
+# CONTROLLERS:
 
 **This section is for standard guitar controls, standard drums, and Pro Drums.**  
 Pro Guitars and/or Keyboards are set up later.
@@ -191,7 +191,7 @@ If not, keep reading.
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
-* If you're using PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
+* If you're using PS3 (Guitar Hero) or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
 * If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
@@ -205,7 +205,7 @@ Below are the buttons you should map in RPCS3's Gamepad Settings.
 **Guitar**:  
 Make sure you **set “Device Class” to “Guitar”.**
 
-**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
+**Switch the drop-down menu, next to "Device Class", to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
  
 **Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+”, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
