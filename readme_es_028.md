@@ -525,7 +525,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <br/>
 
-## Conclusión
+# Conclusión
 
 Eso es todo! Ahora (Con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en Tu computadora. Mientras estas acá, porque no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
 
