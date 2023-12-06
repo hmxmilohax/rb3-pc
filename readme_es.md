@@ -327,8 +327,8 @@ Estos archivos son para personas que quieren jugar sin hacer tanta configuració
 
 Los jugadores que desean utilizar [[micrófonos]](#audio), [[guitarras Pro con cable, teclados USB/MIDI]](#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](#conexión-directa) todavía requieren configuración adicional.
 
-* [[Configuración recomendada]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/recommended_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](#requisitos).
-* [[Configuración mínima]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/minimum_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](#requisitos).
+* [[Configuración recomendada]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](#requisitos).
+* [[Configuración mínima]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](#requisitos).
 
 Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
 El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
