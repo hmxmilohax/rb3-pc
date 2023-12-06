@@ -91,7 +91,7 @@ En la captura de pantalla de la página de descarga de 7-zip.org, verás que el 
 
 **Cuando se descargue**, ábrelo y instálalo (Install). 
 
-[Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
+[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](images/inst/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130")
 
 Después, vamos descargar RPCS3.
 
@@ -104,7 +104,7 @@ Baja un poco y descarga la versión para Windows.
 **Cuando se descargue, extrae el archivo .7zip.**  
 ![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](images/inst/extractrpcs3es.png "Extraer ficheros...")
 
-Recomiendo que extraigas los archivos en "C:\\Juegos\\RPCS3" o en una unidad interna separada para evitar problemas de permisos. También desactiva la opción que creará un subdirectorio, como en la imagen.
+Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en una unidad interna separada para evitar problemas de permisos. También desactiva la opción que creará un subdirectorio, como en la imagen.
 
 **Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tiene estabilidad para jugar sin interrupciones.  
 ![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdir.png "Extract")
@@ -165,7 +165,7 @@ Si se instala correctamente, el icono de Rock Band 3 vas a cambiar.
 
 ![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. So necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist [Renombrar en lista de juegos]"
+Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. So necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
 
 <br/>
 
@@ -218,8 +218,8 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 | L1 | ![Botón Naranja](images/btns/gtrs/of.png "Botón Naranja") | ![Botón Naranja](images/btns/gtrs/of.png "Botón Naranja") |
 | D-Pad: Up (Arriba) | ![Rasguear Arriba](images/btns/gtrs/sbu.png "Rasguear Arriba") | ![Rasguear Arriba](images/btns/gtrs/sbu.png "Rasguear Arriba") |
 | D-Pad: Down (Abajo) | ![Rasguear Abajo](images/btns/gtrs/sbd.png "Rasguear Abajo") | ![Rasguear Abajo](images/btns/gtrs/sbd.png "Rasguear Abajo") |
-| D-Pad: Left | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
-| D-Pad: Right | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
+| D-Pad: Left (Izquierda) | ![D-Pad: Left](images/btns/gtrs/dpl.png "D-Pad: Left") |
+| D-Pad: Right (Derecha) | ![D-Pad: Right](images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left+Right (izquierda+derecha) | ![Palanca de trémolo/Whammy](images/btns/gtrs/wb.png "Palanca de trémolo/Whammy") | ![Palanca de trémolo/Whammy](images/btns/gtrs/wb.png "Palanca de trémolo/Whammy") |
 | Right Stick: <br/> Up/Down (Arriba/Abajo) <br/> (Para guitarras de PS3/Wii) | ![Switch de Efectos](images/btns/gtrs/fx.png "Switch de Efectos") | |
 | L2 <br/> (Para guitarras de Xbox 360) | ![Switch de Efectos](images/btns/gtrs/fx.png "Switch de Efectos") | |
@@ -361,7 +361,7 @@ Iremos pestaña por pestaña, así que comencemos con:
 
 
 ![Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU XFloat Accuracy, Thread Scheduler, SPU Block Size, y Preferred SPU Threads resaltados en cuadros azules con contornos punteados.](images/cust/cpu.png "CPU")
-* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Rendimiento mejorado, dependiendo en tu sistema**): 
+* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Rendimiento mejorado, dependiendo en tu sistema**: 
 	* **Cambia el "SPU Block Size"** (Tamaño de bloques del SPU) **a "Mega"** - Para juntar hilos de SPU a ser más pequeños , requiriendo menos núcleos/hilos. Acelera el tiempo que tarda el juego para iniciar, dependiendo en tu sistema.
 	* **Cambia el "Preferred SPU Threads"** (Hilos preferidos del SPU) **a "1", "2", "3", or "4"** - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. **Empieza con 4 y bájalo si no mejora**.
 	- **Cambia "Thread Scheduler" (Programador de hilos) a "Programador RPCS3" (RPCS3 Scheduler) o "RPCS3 Alternative Scheduler" (Programador alternativo RPCS3)**. - **¡SOLO PARA CPUs CON MÁS DE 12 HILOS!** Esto puede ayudar con la distribución de procesos para ayudar con rendimiento.
@@ -371,9 +371,9 @@ Iremos pestaña por pestaña, así que comencemos con:
 
 ## GPU
 ![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Settings" en un cuadro verde con una línea discontinua, "ZCULL Accuracy", "Resolution Scale", "Resolution Scale Threshold", "Anti-Alising", "Frame Limit" y "Shader Quality", "VSync" resaltados en un cuadro azul con contorno punteado.](images/cust/gpu.png "GPU")
-* ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") REQUERIDO: 
+* ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Personajes tendrán rendimiento corrupto sin esta opción.
-* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") Dependiendo de tu GPU: 
+* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente.
 	* **Cambia "Frame Limit** (Limite de fotogramas)":
 		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego.
@@ -391,18 +391,18 @@ Iremos pestaña por pestaña, así que comencemos con:
 
 <br/>
 
-## Audio
+## **Audio**
 ![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Enable Buffering" resaltado en un cuadro verde con una línea discontinua, "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type: Standard", Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido.](images/cust/audio.png "Audio")
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") REQUERIDO: 
 	* **Activa "Enable Buffering"** (Activar Búfer) - Absolutamente requerido para Rock Band 3. Debería estar activado por defecto, pero si no, actívalo de vuelta.
-* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") Ajuste dependiendo de tu PC: 
+* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* Ajusta el "Audio Buffer Duration" (duración de búferes de audio) dependiendo de tu sistema. 
 		* Valores bajos resulta en menos latencia pero menos CPU
 		* Valores altos resulta en mas latencia pero menos CPU.
 		* Los que juegan vocales son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.
 		* Esto se puede cambiar mientras el juego esta abierto pero **requiere recalibración** en los ajustes del sistema de Rock Band 3.
 	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - **No mas se recomienda cambiar esto para computadoras de baja gama**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con sonido.
-* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") Para Vocalistas: 
+* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
 	* Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.
 
 <br/>
@@ -450,9 +450,9 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 
 ## Network
 ![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, los interruptores de IP/Hosts (rb3ps3live.hmxservices.com=45.33.48.123), el estado de PSN (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](images/cust/network.png "Network")
-* ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") REQUERIDO: 
+* ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Cambia Network Status** (estado de red) **a "Connected"** (conectado) **como se remarca en la imagen. Si la dejas en "Disconnected"** (desconectado), **el juego se conjelara mientras navegas por la biblioteca de canciones.**
-* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") Para el Multijugador: 
+* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
 	* Activa **"Enable UPNP"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** ya que esto puede causar crasheos.
 	* En este tiempo, existen dos servidores para jugar Rock Band 3 a los que te puedes conectar. Cambiando a cual te conectas es muy facil.
 		* **Para AshCentral: Unete al** \[[**[Discord de Milohax]**](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
@@ -466,12 +466,12 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si experimentas algunos congelamientos luego de algunas canciones. Incrementalo a "40µ" si sigue pasando.** 
-* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul"): 
+* ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, [[CPUs de Intel i5 de la cuarta generación]]([[(like 4th gen Intel i5 CPUs with 4 cores and 4 threads)]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 	* **Activa "Silence All Logs"** - **ESTO NO ESTA SUGERIDO** pero puede ayudar con rendimiento en sistemas que tengas discos de almacenamiento antiguos, como discos duros (HDD) . **SI ACTIVAS ESTO, NI LA COMODIDAD DE RPCS3 O DE MILOHAX TE PODRÁN AYUDAR con problemas porque no va existir un registro de errores**!
-* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado"): Recomendado:
+* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
 	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - **Con Rock Band 3 Deluxe instalado, esto aumenta cuanta memoria Rock Band 3 puede usar. Esto va a ayudar tener sesiones mas largas. mejor estabilidad, mas tener mas canciones en tu librería de música.** Si tu computadora esta en el requisitos mínimos (o mejor), no hay razón para no activar esto.
 
 <br/>
@@ -504,7 +504,7 @@ Y con eso termina la parte difícil.
 Versión Vídeo de esta sección con subtitulos en Español:  
 [![Una mini-imagen de la versión vídeo de esta sección de la guía.](](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
-**Si no estas jugando en AshCentral**, [[**puedes seguir a la siguiente sección**]](#passthrough-devices).
+**Si no estas jugando en AshCentral**, [[**puedes seguir a la siguiente sección**]](#conexión-directa).
 
 ### Preparaciones para AshCentral:
 
@@ -564,7 +564,7 @@ Te va a regresar a la pagina principal. **Se va ver tu usuario en el rincón der
 
 Si hiciste todo bien, **la pagina de va ensenar el usuario de tu cuenta RPCN, que estas usando RPCS3, Band Name (nombre de banda), y fans.**
 
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de información de la cuenta, con nuevos detalles.](images/ash/linked.png "GoCentral - Settings")
+![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de información de la cuenta, con nuevos detalles.](images/ash/linked.png "GoCentral - Settings")
 
 Si no vez nada nuevo, no entraste el código correcto. Las letras de Rock Band 3 pueden ser un poco difícil para leer así que aveces se necesita tratar otra vez. 
 
@@ -595,6 +595,7 @@ Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Play
 ![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
 
 Ahora debes de ver que se conecten los que fueron invitados.
+
 ![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
 
 ### Entrando a Sesiones:
@@ -611,6 +612,7 @@ Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Play
 ![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
 
 Te vas a conectar a la session donde fuiste invitado.
+
 ![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
 
 Acuérdate, necesitas que presionar "Play on AshCentral" en Rock Band 3 antes de que te unas o creas una sesiona en GoCentral.Rocks.
