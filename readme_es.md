@@ -335,7 +335,7 @@ El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo 
 
 ![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](images/cust/quickconf.gif "Recommended.zip")
 
-Para obtener más información sobre estas configuraciones, [[consulta la pagina de configuraciones rápidas]](https://github.com/carlmylo/rb3-pc/tree/español-win/config/customconfig#about).
+Para obtener más información sobre estas configuraciones, [[consulta la pagina de configuraciones rápidas]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/readme_es.md#informacion).
 
 <br/>
 
