@@ -23,7 +23,7 @@ Versión Vídeo en Ingles (no actualizada):
 14. [_[Advanced]_](#advanced)
 15. [_[Emulator]_](#emulator)
 16. [_[AshCentral]_](#ashcentral)
-17. [_[Conexion Directa (Guitarras Mustang PRO y teclados inalámbricos de PS3 con receptores)]_](#conexion-directa)
+17. [_[Conexion Directa (Guitarras Mustang PRO y teclados inalámbricos de PS3 con receptores)]_](#conexión-directa)
 18. [_[Problemas y Soluciones]_](#problemas-y-soluciones)
 19. [_[Conclusión]_](#conclusión)
 
@@ -202,7 +202,7 @@ Cuando termines de configurar, **recuerda hacer click en "Save" (Guardar).**
 
 Abajo esta una guía de como asignar los botones en RPCS3.
 
-### GUITARRAS:
+### Guitarras:
 **Asegúrate que "Device Class" (Clase de controlador) este en "Guitar" (Guitarra).**
 
 **Cambia el menú desplegable, junto a "Device Class", a "Rock Band" si estás usando una guitarra de Rock Band o déjalo en "Guitar Hero" si estás usando una guitarra de Guitar Hero**. 
@@ -227,7 +227,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 | L3 <br/> (Para guitarras de Xbox 360) | ![Botones de Solo](images/btns/gtrs/solo.png "Botones de Solo") | |
 | R1 | ![Ladear](images/btns/gtrs/ts.png "Ladear") | No funciona |
 
-### BATERÍAS
+### Baterías:
 
 **Asegúrate que "Device Class" (Clase de controlador) este en "Drums" (Batería).**
 
@@ -248,7 +248,7 @@ Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por
 | L3 | Modificador de Pads | |
 
 
-### VOCALES:
+### Vocales:
 *Para vocales*, puedes *utilizar controladores regulares*. Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia.
 
 
@@ -655,7 +655,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <br/>
 
-# Soluciones De Problemas
+# Problemas y Soluciones
 
 
 *   **_Audio Corrupto_**
