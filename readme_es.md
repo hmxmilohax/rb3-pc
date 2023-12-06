@@ -43,7 +43,7 @@ Necesitarás:
 	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)_
 	*   _Guitarra PRO Rock Band 3 Squier Stratocaster (PS3, Wii, X360 con adaptador de MIDI a USB)_
 	*   _Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB)_<sup>d
-	*   _Batería MIDI (conectado por USB o por adaptador MIDI a USB y los programas MidiDrumHero and VJoy)_<sup>d
+	*   _Batería MIDI (conectado por USB o por adaptador MIDI a USB y los programas MidiDrumHero and VJoy)_<sup>
 	*   _Cualquier micrófono detectado por tu computadora (el juego se puede controlar con la mayoría de mandos o con el teclado cuando juegas como vocalista)_
 *   _Una computadora_
 	* Mínimo:
@@ -59,7 +59,7 @@ Necesitarás:
 		* Memoria: 16 GBs
 		* Gráficos: NVIDIA GeForce GTX 1650 (o equivalente)
  		* Notas:
- 			* ~145.66 GBs para **todo** el contenido oficial lanzado desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (SSD).
+ 			* ~145.66 GBs para **todo** el contenido oficial que salio desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (SSD).
  			* ~67.4 GBs para todo el DLC y expansiones (SSD).
  		* Notas adicionales: Excelente rendimiento. 1080p con todos los efectos, audio de 100 ms (o menos), y 75 Hz (o mas).
 	* Puedes verificar [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart), aunque están exagerado para este juego.
@@ -69,23 +69,21 @@ Necesitarás:
 <sup>a</sup> <sub>Guitarras de PS4 no están incluidas porque RPCS3 no toma whammy, ladeo, o switch de efectos. También tiene latencia terrible. Guitarras de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
 <sup>b</sup> <sub>Baterías/tambores de PS4 no están incluidas porque los platillos no son compatible con RPCS3. También tiene latencia terrible. Baterías/tambores de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
 <sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasíado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es lo ideal, así que no está recomendado en esta guía.</sub> 
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es ideal, así que no está recomendado en esta guía.</sub> 
 
 <br/>
 
 # Instalación:
 
-Antes de empezar con la instalación, **asegúrate tus drivers y sistema operativo estén actualizados.**
+Antes de empezar con la instalación, **asegúrate que tus controladores y sistema operativo estén actualizados.**
 
-**Empezamos descargando 7-Zip**, que es lo que necesitas para abrir mayoría de los archivos que usamos bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
+**Empezamos descargando 7-Zip**, que es lo que necesitas para abrir mayoría de los archivos que bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
 
-[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**.
+[**[Haz clic aquí para ir a la página de descarga de 7-Zip]**](https://7zip-es.updatestar.com/).
 
-En la captura de pantalla de la página de descarga de 7-zip.org, verás que el cursor está sobre el instalador .exe de 64 bits.
+[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](images/inst/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com")
 
-[![Una captura de la pagina para descargar 7-Zip.](images/inst/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com")
-
-**Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, que es necesario para RPCS3. Mayoría ya lo tienen, pero no está malo estar seguro.
+**Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, porque es necesario para RPCS3. Mayoría ya lo tienen, pero no está malo estar seguro.
 
 [**[Haz clic aquí para descargar Microsoft Visual C++ 2019 Redistributable]**](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 
@@ -104,12 +102,13 @@ Baja un poco y descarga la versión para Windows.
 **Cuando se descargue, extrae el archivo .7zip.**  
 ![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](images/inst/extractrpcs3es.png "Extraer ficheros...")
 
-Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en una unidad interna separada para evitar problemas de permisos. También desactiva la opción que creará un subdirectorio, como en la imagen.
+Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicional para evitar problemas de permisos. También desactiva la opción para crear un subdirectorio, como en la imagen.
 
 **Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tiene estabilidad para jugar sin interrupciones.  
+
 ![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdir.png "Extract")
 
-Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 de el sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar mediante una computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar actualización de PS3**".
+Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 de el sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar por computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar la actualización de la PS3**".
 
 _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE HACER click DERECHO Y "Guardar enlace como..." o tu descarga PUEDE FALLAR.**_
 
@@ -133,15 +132,15 @@ Ahora, **abre RPCS3**. **Marca a "I have read the Quickstart guide"** (He leído
 **Cuando termine, haz click en "OK"**  
 ![Una captura del instalador de firmware de RPCS3 después de una exitosa instalación del firmware de PS3 y los módulos LLE.](images/inst/rpcs3fwdone.png "Success (Completo)!")
 
-Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador, esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
+Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
 ![Una captura de RPCS3 compilando módulos PPU con una barra de progreso en 1/8 de finalización.](images/inst/rpcs3fwcomp.png "Compiling PPU modules... (Compilando módulos de PPU...)")
 
 Después, **ve a la carpeta donde tienes tu copia de Rock Band 3 y arrastra la carpeta a RPCS3**. Pon esta carpeta en un lugar donde no la vas a borrar por accidente, porque la necesitas. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Rock Band 3 está en tu biblioteca en RPCS3, pero todavía no esta listo. **Vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/).
+Ahora, Rock Band 3 está en tu biblioteca en RPCS3, pero todavía no esta listo. **Vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/).
 
-Rock Band 3 Deluxe es un mod que arregla problemas importante con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.neocities.org/features).
+Rock Band 3 Deluxe es una modificación que arregla problemas importante con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.neocities.org/features).
 
 
 [**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip).
@@ -161,7 +160,7 @@ Cuando se baje, **extrae el archivo**.
 
 ![Una captura de Decrypter/Installer de RPCS3 preguntando si el usuario desea instalar el archivo de paquete de Rock Band 3 Deluxe.](images/inst/rpcs3pkg.png "PKG Decrypter/ Installer (Descifrador/Instalador)")
 
-Si se instala correctamente, el icono de Rock Band 3 vas a cambiar.
+Si se instala correctamente, el icono de Rock Band 3 va a cambiar.
 
 ![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
@@ -190,7 +189,7 @@ Si no, sigue leyendo.
 ![Una captura del menú contextual de RPCS3, mostrando "Create Custom Gamepad Configuration" resaltado](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * Si planeas conectar varios instrumentos, _debes configurarlos en diferentes puertos (Port)_.
-* Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para el PS3 funcionar sin configuración.
+* Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para el PS3 funcionan en directo sin configuración.
 * Si estás utilizando guitarras de PS3 (Guitar Hero) o Wii, configura la opción "Handlers" (Manipuladores) en "MMJoystick". 
 * Si estás utilizando guitarras de Xbox 360, configura la opción "Handlers" (Manipuladores) en "XInput".
 * Si estás utilizando baterías de PS3 (Guitar Hero), Wii, o Xbox 360, configura la opción "Handlers" (Manipuladores) en "MMJoystick".
@@ -207,7 +206,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 **Cambia el menú desplegable, junto a "Device Class", a "Rock Band" si estás usando una guitarra de Rock Band o déjalo en "Guitar Hero" si estás usando una guitarra de Guitar Hero**. 
  
-**Algunas guitarras** (especialmente las de Guitar Hero) aveces tienen problemas y **no quieren asígnar botones. Si tratas de asígnar un botón y todo sale con "U+", haz click en "Filter Noise"** en la parte inferior izquierda de la ventana de configuración **y luego intenta asígnar nuevamente**.
+**Algunas guitarras** (especialmente las de Guitar Hero) aveces tienen problemas y **no quieren asígnar botones. Si tratas de asígnar un botón y todo sale con "U+", haz click en "Filter Noise"** (filtrar ruido) en la parte inferior izquierda de la ventana de configuración **y luego intenta asígnar nuevamente**.
 
 | **RPCS3**          | **Guitarras Rock Band** | **Guitarras Guitar Hero** |
 |:------------------:|:---------------------:|:-----------------------:|
@@ -231,9 +230,9 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 **Asegúrate que "Device Class" (Clase de controlador) este en "Drums" (Batería).**
 
-**Cambia el menú desplegable junto a él a "Rock Band Pro" si estás usando baterías de Rock Band, sin o con expansiones Pro. Déjalo en "Guitar Hero" si estás usando baterías de Guitar Hero.**
+**Cambia el menú desplegable junto a él a "Rock Band Pro" si estás usando baterías de Rock Band, sin, o con, expansiones Pro. Déjalo en "Guitar Hero" si estás usando baterías de Guitar Hero.**
 
-Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por favor consulta [**\[el discord de Milohax\]**](https://discord.gg/xrba4CjdNC) para obtener la configuración porque saben mas de esto.
+Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por favor consulta [**\[el discord de Milohax\]**](https://rb3dx.neocities.org/discord) para obtener la configuración porque saben mas de esto.
 
 | **RPCS3**    | **Batería Rock Band** | **Batería Guitar Hero** |
 |:--------:|:-------------------:|:-----------------:|
@@ -270,7 +269,7 @@ Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por
 
   
 
-Abajo esta una guitarra _Höfner de The Beatles: Rock Band para el Wii_ configurada como un ejemplo. Mira como "Handlers" (Manipuladores) está configurado en "MMJoystick (Controlador)" y "Devices" (Controladores) esta en el número de Joystick (Controlador) correcto. Como la guitarra es de Rock Band, "Device Class" (Clase de controlador) en Guitar" y la casílla junto a eso se configura en "Rock Band".
+Abajo esta una guitarra _Höfner de The Beatles: Rock Band para el Wii_ configurada como un ejemplo. Mira como "Handlers" (Manipuladores) está configurado en "MMJoystick" y "Devices" (Controladores) esta en el número de Joystick (Controlador) correcto. Como la guitarra es de Rock Band, "Device Class" (Clase de controlador) esta en "Guitar" y la caja junto a eso esta en "Rock Band".
 ![Una captura de Gamepad Settings de RPCS3 con un controlador Höfner de Wii The Beatles: Rock Band](instrument-repo/Wii%20Rock%20Band%20Guitars/mapping.png "Gamepad Settings con un controlador de guitarra Höfner de Wii The Beatles: Rock Band")
 
 
@@ -280,7 +279,8 @@ Abajo esta una guitarra _Höfner de The Beatles: Rock Band para el Wii_ configur
 En RPCS3, ve a **Manage > User Accounts** (Administrar > Cuentas de usuario)  
 ![RPCS3 mostrando "User Accounts" abajo del menú de "Manage".](images/conf/rpcs3user.png "RPCS3: User Accounts")
 
-Una vez que estés ahí, dale click en el nombre de usuario predeterminado (00000001 - User) y luego click en **"Rename user"** (Renombrar usuario). y cámbialo al nombre que quieras y luego haz click en "Close" (Cerrar).  
+Una vez que estés ahí, dale click en el nombre de usuario predeterminado (00000001 - User) y luego click en **"Rename user"** (Renombrar usuario).
+
 !["User Manager" de RPCS3, mostrando usuario predeterminado.](images/conf/rpcs3rename.png "RPCS3: User Accounts")
 
 **Ahora cámbialo** al nombre que quieras y luego haz click en "Close" (Cerrar).  
@@ -294,10 +294,10 @@ Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](#confi
 Ve a **Configuration > RPCN** (Configuración > RPCN)
 ![Una captura de la configuración de RPCS3 con "RPCN" resaltado](images/rpcn/rpcn.png "RPCS3: RPCN")
 
-Haz click en "**Account**":  
+Haz click en "**Account**" (Cuenta):  
 ![Una captura de la configuración de RPCS3 con "Account" resaltado](images/rpcn/rpcnpopup.png "RPCN")
 
-Haz click en "**Create Account**" (Cuenta):  
+Haz click en "**Create Account**" (Crear Cuenta):  
 ![Una captura de la configuración de RPCS3 con "RPCN" resaltado](images/rpcn/account.png "RPCN: Account")
 
 Pon un **Nombre de Usuario (Username)** y **Contraseña (Password)**:    
@@ -312,7 +312,7 @@ Vas a tener que confirmar que quieres crear tu cuenta. **Haz clic en “Yes” (
 ![Una captura RPCS3 preguntando si el usuario quiere crear una cuenta de RPCN nueva.](images/rpcn/confirm.png "RPCN: Account Creation")
 
 
-Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te llegue el correo. Si todavía sigues esperando, checa la pestaña de **"Spam"**. El Email se llama **"Your token for RPCN"** (Tu código para RPCN). **Copia los números y letras abajo de "Your token for username [tu usuario] is:"** (Tu codigo para [tu usuario] es):
+Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te llegue el correo. Si todavía sigues esperando, checa la pestaña de **"Spam"**. El Email se llama **"Your token for RPCN"** (Tu código para RPCN). **Copia los números y letras abajo de "Your token for username" [tu usuario] is:"** (Tu codigo para [tu usuario] es):
 
 ![Una captura del mensaje Email con la etiqueta "Your token for RPCN" (Tu codigo para RPCN) con un token debajo del nombre de usuario para el que es.](images/rpcn/emailtoken.png "Your token for RPCN (Tu codigo para RPCN)")
 
@@ -323,15 +323,15 @@ Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te ll
 
 # Configuración Rápida:
 Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](#configuración-personalizada) para ajustar todo a lo mejor que pueda tu computadora.  
-**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) no funciona a su máximo potencial.
+**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) o no funcionaran a su máximo potencial.
 
-Los jugadores que deseen utilizar [[micrófonos]](https://github.com/carlmylo/rb3-pc/tree/español-win#audio), [[guitarras Pro con cable, teclados USB/MIDI]](https://github.com/carlmylo/rb3-pc/#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://github.com/carlmylo/rb3-pc/#wireless-ps3-mustang-pro-guitar-and-ps3-rock-band-3-keyboard-with-receptor) todavía requieren configuración adicional.
+Los jugadores que desean utilizar [[micrófonos]](#audio), [[guitarras Pro con cable, teclados USB/MIDI]](#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](#conexión-directa) todavía requieren configuración adicional.
 
-* [[Configuración recomendada]](https://github.com/carlmylo/rb3-pc/raw/español-win/config/customconfig/recommended.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](#requisitos).
-* [[Configuración mínima]](https://github.com/carlmylo/rb3-pc/raw/español-win/config/customconfig/minimum.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](#requisitos).
+* [[Configuración recomendada]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/recommended_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](#requisitos).
+* [[Configuración mínima]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/minimum_es.zip) - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](#requisitos).
 
-Para usar estos archivos, **haz click en las configuraciones que deseas descargar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si hiciste bien.
-El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada. Los contenidos se arrastran a la carpeta de RPCS3.
+Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
+El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
 
 ![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](images/cust/quickconf.gif "Recommended.zip")
 
@@ -345,15 +345,15 @@ Para obtener más información sobre estas configuraciones, [[consulta la pagina
 **Haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration**" (Crear configuración personalizada)  
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration" resaltado](images/cust/rpcs3customconfig.png "Create Custom Configuration")
 
-Esto puede parecer abrumador debido a la gran cantidad de opciones, pero he codificado por colores las cosas que requerirán ciertos ajustes. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
+Esto puede parecer abrumador debido a la gran cantidad de opciones, pero he codificado las cosas que vas a ajustar con colores. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
 
 | COLOR | SIGNIFICADO |
 |---|---|
 | ![Un cuadro verde con una línea discontinua.](images/cust/biggreen.png "Cuadro verde") | **REQUERIDO** |
 | ![Un cuadro azul con contorno punteado.](images/cust/bigblue.png "Cuadro azul") | **Para Rendimiento** |
-| ![Un cuadro bronceado con un contorno solido.](images/cust/bigtan.png "Cuadro bronceado") | **Recomendados** |
+| ![Un cuadro bronceado con un contorno solido.](images/cust/bigtan.png "Cuadro bronceado") | **Recomendado** |
 
-Iremos pestaña por pestaña, así que comencemos con:
+Iremos pestaña por pestaña, comenzando con:
 
 <br/>
 
@@ -362,10 +362,10 @@ Iremos pestaña por pestaña, así que comencemos con:
 
 ![Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU XFloat Accuracy, Thread Scheduler, SPU Block Size, y Preferred SPU Threads resaltados en cuadros azules con contornos punteados.](images/cust/cpu.png "CPU")
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Rendimiento mejorado, dependiendo en tu sistema**: 
-	* **Cambia el "SPU Block Size"** (Tamaño de bloques del SPU) **a "Mega"** - Para juntar hilos de SPU a ser más pequeños , requiriendo menos núcleos/hilos. Acelera el tiempo que tarda el juego para iniciar, dependiendo en tu sistema.
+	* **Cambia el "SPU Block Size"** (Tamaño de bloques del SPU) **a "Mega"** - Para juntar hilos de SPU a ser más pequeños, requiriendo menos núcleos/hilos. También tardara menos tiempo para iniciar el juego, dependiendo en tu sistema.
 	* **Cambia el "Preferred SPU Threads"** (Hilos preferidos del SPU) **a "1", "2", "3", or "4"** - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. **Empieza con 4 y bájalo si no mejora**.
 	- **Cambia "Thread Scheduler" (Programador de hilos) a "Programador RPCS3" (RPCS3 Scheduler) o "RPCS3 Alternative Scheduler" (Programador alternativo RPCS3)**. - **¡SOLO PARA CPUs CON MÁS DE 12 HILOS!** Esto puede ayudar con la distribución de procesos para ayudar con rendimiento.
-	* **SI NADA AYUDA,** **Cambia el "SPU XFloat Accuracy"** (Precisión de Flotante x del SPU) **a "Relaxed"** (Relajada) - Cambiar eso ayuda un poco con rendimiento pero, **romperá el modo de practica!**
+	* **SI NADA AYUDA, cambia el "SPU XFloat Accuracy"** (Precisión de Flotante x del SPU) **a "Relaxed"** (Relajada) - Cambiar eso ayuda un poco con rendimiento pero, **romperá el modo de practica!**
 
 <br/>
 
@@ -375,17 +375,17 @@ Iremos pestaña por pestaña, así que comencemos con:
 	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Personajes tendrán rendimiento corrupto sin esta opción.
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente.
-	* **Cambia "Frame Limit** (Limite de fotogramas)":
+	* **Cambia "Frame Limit"** (Limite de fotogramas):
 		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego.
 		* A "60" si quieres fotogramas limitadas a 60 FPS (redundante con Vblank de 60 Hz).
 		* **Es sugerido utilizar la configuración de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.**
-		* Aumentando las fotogramas después de 60 utiliza muchos mas recursos. No es recomendando para sistemas de baja gama.
+		* Aumentando las fotogramas después de 60 utiliza muchos mas recursos. No es recomendado para sistemas de baja gama.
 	* **Ajusta "Shader Quality"** (Calidad de Shaders) dependiendo de tu sistema. 
 		* "Low" (Bajo) y "Medium" (Medio) reducirá la calidad drásticamente.
-		* "High" (Alto) es la mejor opción. "Ultra" se ve similar a alta.
+		* "High" (Alto) es la mejor opción. "Ultra" se ve similar a alto.
 		* "Auto" usará la configuración sugerida por RPCS3,
 	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto. Bájalo para obtener mas rendimiento a costa de una drástica pérdida de calidad. Auméntala para obtener gráficos más nítidos.
-	* **Ajusta el "Resolution Scale Threshold"** (Límite de nivel de resolución) dependiendo de la "Resolution Scale" de arriba. Usa el número de porcentaje con el que aumentaste tu resolución (por ejemplo, para 1920x1080, que es un 150%, calcularías cuál es el 150% de 16, lo que sería 24).
+	* **Ajusta el "Resolution Scale Threshold"** (Límite de nivel de resolución) dependiendo de la "Resolution Scale" de arriba. Usa el número de porcentaje con el que aumentaste tu resolución (por ejemplo, para 1920x1080, que es un 150% de 1280x720, calcularías cuál es el 150% de 16, lo que sería 24).
 	* **Cambia "ZCULL Accuracy"** (Precisión de ZCull) a "Relaxed" (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.
 
 
@@ -394,7 +394,7 @@ Iremos pestaña por pestaña, así que comencemos con:
 ## **Audio**
 ![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Enable Buffering" resaltado en un cuadro verde con una línea discontinua, "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type: Standard", Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido.](images/cust/audio.png "Audio")
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") REQUERIDO: 
-	* **Activa "Enable Buffering"** (Activar Búfer) - Absolutamente requerido para Rock Band 3. Debería estar activado por defecto, pero si no, actívalo de vuelta.
+	* **Activa "Enable Buffering"** (Activar Búfer) - Absolutamente requerido para Rock Band 3. Debería estar activado por defecto, pero si no, actívalo.
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* Ajusta el "Audio Buffer Duration" (duración de búferes de audio) dependiendo de tu sistema. 
 		* Valores bajos resulta en menos latencia pero menos CPU
@@ -451,9 +451,9 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 ## Network
 ![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, los interruptores de IP/Hosts (rb3ps3live.hmxservices.com=45.33.48.123), el estado de PSN (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](images/cust/network.png "Network")
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-	* **Cambia Network Status** (estado de red) **a "Connected"** (conectado) **como se remarca en la imagen. Si la dejas en "Disconnected"** (desconectado), **el juego se conjelara mientras navegas por la biblioteca de canciones.**
+	* **Cambia Network Status** (estado de red) **a "Connected"** (conectado) **como en la imagen. Si la dejas en "Disconnected"** (desconectado), **el juego se congelara mientras navegas por la biblioteca de canciones.**
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
-	* Activa **"Enable UPNP"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** ya que esto puede causar crasheos.
+	* Activa **"Enable UPNP"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
 	* En este tiempo, existen dos servidores para jugar Rock Band 3 a los que te puedes conectar. Cambiando a cual te conectas es muy facil.
 		* **Para AshCentral: Unete al** \[[**[Discord de Milohax]**](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
 		* Para el servidor de RBEnhanced: Únete al \[[Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\] y ve al canal [\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)**. **Sigue las Instrucciones para RPCS3**.
@@ -465,7 +465,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 ![Una captura de la configuración personalizada avanzada, con "Driver Wake-Up Delay (1µ)" resaltado en un cuadro verde con una línea discontinua, "Exclusive Fullscreen Mode", "VBlank Frequency", "Maximum Number of SPURS Threads", y "Silence All Logs" resaltados en cuadros azules con contornos punteados, y "Debug Console Mode" resaltado en un cuadro bronceado con un contorno solido.](images/cust/advanced.png "Advanced")
 
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si experimentas algunos congelamientos luego de algunas canciones. Incrementalo a "40µ" si sigue pasando.** 
+	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.** 
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
@@ -733,7 +733,7 @@ Eso es todo! Ahora (Con un poco de suerte) tienes un manera funcional para jugar
 
 </div>
 
-Milohax son los desarrolladores Rock Band 3, que es esencial para jugar Rock Band 3. **[\[Descárgalo aquí\]](https://rb3dx.neocities.org/)**. Además de [[todas la funciones que agrega]](https://rb3dx.neocities.org/features), también han desarrollado mods para [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (para Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) y tambien [para el PS2](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe) y [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe). [Puedes \[Unirte al servidor de MiloHax\]](https://discord.gg/xrba4CjdNC) aqui.
+Milohax son los desarrolladores Rock Band 3, que es esencial para jugar Rock Band 3. **[\[Descárgalo aquí\]](https://rb3dx.neocities.org/)**. Además de [[todas la funciones que agrega]](https://rb3dx.neocities.org/features), también han desarrollado mods para [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (para Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) y tambien [para el PS2](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe) y [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe). [Puedes \[Unirte al servidor de MiloHax\]](https://rb3dx.neocities.org/discord) aqui.
 
 
 <div align="center">
