@@ -164,7 +164,7 @@ Si se instala correctamente, el icono de Rock Band 3 va a cambiar.
 
 ![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](images/inst/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. So necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
+Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
 
 <br/>
 
@@ -455,8 +455,8 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
 	* Activa **"Enable UPNP"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
 	* En este tiempo, existen dos servidores para jugar Rock Band 3 a los que te puedes conectar. Cambiando a cual te conectas es muy facil.
-		* **Para AshCentral: Unete al** \[[**[Discord de Milohax]**](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
-		* Para el servidor de RBEnhanced: Únete al \[[Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\] y ve al canal [\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984)**. **Sigue las Instrucciones para RPCS3**.
+		* **Para AshCentral: Unete al** \[**[Discord de Milohax]**](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**. **Copia la informacion para RPCS3.** Este es el servidor recomendado porque tiene actualizaciones mas frecuentes y mas funciones.
+		* Para el servidor de RBEnhanced: Únete al \[[Discord de RBEnhanced](https://discord.gg/6rRUWXPYwb)\] y ve al canal [\[#gocentral-connecting\]](https://discord.com/channels/953085263008129064/1076031372185042984). **Sigue las Instrucciones para RPCS3**.
 
 <br/>
 
@@ -469,7 +469,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo de tu sistema**: 
 	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
-	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, [[CPUs de Intel i5 de la cuarta generación]]([[(like 4th gen Intel i5 CPUs with 4 cores and 4 threads)]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
+	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 	* **Activa "Silence All Logs"** - **ESTO NO ESTA SUGERIDO** pero puede ayudar con rendimiento en sistemas que tengas discos de almacenamiento antiguos, como discos duros (HDD) . **SI ACTIVAS ESTO, NI LA COMODIDAD DE RPCS3 O DE MILOHAX TE PODRÁN AYUDAR con problemas porque no va existir un registro de errores**!
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
 	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - **Con Rock Band 3 Deluxe instalado, esto aumenta cuanta memoria Rock Band 3 puede usar. Esto va a ayudar tener sesiones mas largas. mejor estabilidad, mas tener mas canciones en tu librería de música.** Si tu computadora esta en el requisitos mínimos (o mejor), no hay razón para no activar esto.
@@ -502,7 +502,7 @@ Y con eso termina la parte difícil.
 # AshCentral
 
 Versión Vídeo de esta sección con subtitulos en Español:  
-[![Una mini-imagen de la versión vídeo de esta sección de la guía.](](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
+[![Una mini-imagen de la versión vídeo de esta sección de la guía.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
 **Si no estas jugando en AshCentral**, [[**puedes seguir a la siguiente sección**]](#conexión-directa).
 
