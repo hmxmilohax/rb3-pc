@@ -562,7 +562,7 @@ Te va a regresar a la pagina principal. **Se va ver tu usuario en el rincón der
 
 [![Captura del sitio web de AshCentral, GoCentral.Rocks, con la opción "Settings" de la subsección del nombre de usuario resaltada.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
 
-Si hiciste todo bien, **la pagina de va ensenar el usuario de tu cuenta RPCN, que estas usando RPCS3, Band Name (nombre de banda), y fans.**
+Si hiciste todo bien, **la pagina de va enseñar el usuario de tu cuenta RPCN, que estas usando RPCS3, Band Name (nombre de banda), y fans.**
 
 ![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de información de la cuenta, con nuevos detalles.](images/ash/linked.png "GoCentral - Settings")
 
