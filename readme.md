@@ -7,7 +7,7 @@ Video Version (Outdated):
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
-> * [_[Versión en español]_  (WIP)](#readme_es)  
+> * [_[Versión en español]_  (WIP)](https://github.com/carlmylo/rb3-pc/blob/main/readme_es.md)  
 
 >##### WARNING:
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
