@@ -29,7 +29,7 @@ Versión Vídeo en Ingles (no actualizada):
 
 <br/>
 
-# REQUISITOS:
+# Requisitos:
 
 Necesitarás:
 * _Una copia de Rock Band 3 para PS3 en tu computadora. (versión BLUS-30463)_
@@ -73,7 +73,7 @@ Necesitarás:
 
 <br/>
 
-# INSTALACIÓN:
+# Instalación:
 
 Antes de empezar con la instalación, **asegúrate tus drivers y sistema operativo estén actualizados.**
 
@@ -176,7 +176,7 @@ Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. So necesitas hacer 
 
 <br/>
 
-# Controladores:
+## Controladores:
 
 **Esta sección es para controladores regulares, como guitarras de cinco botones, baterías, y baterías PRO.**  
 La configuración de guitarras Pro y/o teclados piano es más adelante.
@@ -202,7 +202,7 @@ Cuando termines de configurar, **recuerda hacer click en "Save" (Guardar).**
 
 Abajo esta una guía de como asignar los botones en RPCS3.
 
-**Guitarra**:  
+### GUITARRAS:
 **Asegúrate que "Device Class" (Clase de controlador) este en "Guitar" (Guitarra).**
 
 **Cambia el menú desplegable, junto a "Device Class", a "Rock Band" si estás usando una guitarra de Rock Band o déjalo en "Guitar Hero" si estás usando una guitarra de Guitar Hero**. 
@@ -227,7 +227,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 | L3 <br/> (Para guitarras de Xbox 360) | ![Botones de Solo](images/btns/gtrs/solo.png "Botones de Solo") | |
 | R1 | ![Ladear](images/btns/gtrs/ts.png "Ladear") | No funciona |
 
-**Batería**:
+### BATERÍAS
 
 **Asegúrate que "Device Class" (Clase de controlador) este en "Drums" (Batería).**
 
@@ -248,7 +248,7 @@ Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por
 | L3 | Modificador de Pads | |
 
 
-**Vocales**:  
+### VOCALES:
 *Para vocales*, puedes *utilizar controladores regulares*. Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia.
 
 
@@ -340,7 +340,7 @@ Para obtener más información sobre estas configuraciones, [[consulta la pagina
 <br/>
 
 
-# CONFIGURACIÓN PERSONALIZADA:
+# Configuración Personalizada:
 
 **Haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration**" (Crear configuración personalizada)  
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration" resaltado](images/cust/rpcs3customconfig.png "Create Custom Configuration")
@@ -597,7 +597,7 @@ Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Play
 Ahora debes de ver que se conecten los que fueron invitados.
 ![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
 
-### Joining Sessions:
+### Entrando a Sesiones:
 
 **Haz clic en "Join Session"** (Unirse a sesión) en GoCentral.Rocks.
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Game", con "Join Session" resaltado.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
@@ -617,7 +617,7 @@ Acuérdate, necesitas que presionar "Play on AshCentral" en Rock Band 3 antes de
 
 <br/>
 
-# Guitarras Mustang PRO y Teclados inalámbricos de PS3 con Receptores
+# Conexión Directa
 
 Si no estás utilizando una Guitarra Mustang Pro de PS3 y un Teclado Rock Band 3 de PS3 con sus receptores respectivos, [[puedes avanzar a la siguiente sección.]](#conexion-directa)
 
@@ -655,7 +655,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <br/>
 
-## Soluciones De Problemas
+# Soluciones De Problemas
 
 
 *   **_Audio Corrupto_**
@@ -719,7 +719,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <br/>
 
-## Conclusión
+# Conclusión
 
 Eso es todo! Ahora (Con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en Tu computadora. Mientras estas acá, porque no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
 
