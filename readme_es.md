@@ -232,14 +232,14 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 **Cambia el menú desplegable junto a él a "Rock Band Pro" si estás usando baterías de Rock Band, sin, o con, expansiones Pro. Déjalo en "Guitar Hero" si estás usando baterías de Guitar Hero.**
 
-Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por favor consulta [**\[el discord de Milohax\]**](https://rb3dx.neocities.org/discord) para obtener la configuración porque saben mas de esto.
+Si estás utilizando un adaptador de MIDI PRO para 360 con un kit de batería, por favor consulta [**\[el discord de Milohax\]**](https://rb3dx.neocities.org/discord) para obtener la configuración porque saben mas de esto.
 
 | **RPCS3**    | **Batería Rock Band** | **Batería Guitar Hero** |
 |:--------:|:-------------------:|:-----------------:|
-| Cross (Cruz) | ![Parche Verde](images/btns/drms/rb/gp.png "Parche Verde") | ![Parche Verde](images/btns/drms/gh/gp.png "Parche Verde") |
-| Circle (Circulo) | ![Parche Rojo](images/btns/drms/rb/rp.png "Parche Rojo") | ![Parche Rojo](images/btns/drms/gh/rp.png "Parche Rojo") |
-| Square (Cuadro) | ![Parche Azul](images/btns/drms/rb/bp.png "Parche Azul") | ![Parche Azul](images/btns/drms/gh/bp.png "Parche Azul") |
-| Triangle (Triangulo) | ![Parche Amarillo](images/btns/drms/rb/yp.png "Parche Amarillo") | ![Platillo Amarillo](images/btns/drms/gh/yc.png "Platillo Amarillo") |
+| Cross (Cruz) | ![Tambor Verde](images/btns/drms/rb/gp.png "Tambor Verde") | ![Tambor Verde](images/btns/drms/gh/gp.png "Tambor Verde") |
+| Circle (Circulo) | ![Tambor Rojo](images/btns/drms/rb/rp.png "Tambor Rojo") | ![Tambor Rojo](images/btns/drms/gh/rp.png "Tambor Rojo") |
+| Square (Cuadro) | ![Tambor Azul](images/btns/drms/rb/bp.png "Tambor Azul") | ![Tambor Azul](images/btns/drms/gh/bp.png "Tambor Azul") |
+| Triangle (Triangulo) | ![Tambor Amarillo](images/btns/drms/rb/yp.png "Tambor Amarillo") | ![Platillo Amarillo](images/btns/drms/gh/yc.png "Platillo Amarillo") |
 | L1 | ![Pedal](images/btns/drms/rb/kp.png "Pedal") | ![Pedal](images/btns/drms/gh/kp.png "Pedal") |
 | D-Pad | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](images/btns/ctrls/xbox/dp.png "D-Pad") |
 | R1 | ![Segundo Pedal](images/btns/drms/rb/kp.png "Segundo Pedal") | ![Platillo Naranja](images/btns/drms/gh/oc.png "Platillo Naranja") |
