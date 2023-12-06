@@ -236,7 +236,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 Si estás utilizando un adaptor de MIDI PRO para 360 con un kit de batería, por favor consulta [**\[el discord de Milohax\]**](https://discord.gg/xrba4CjdNC) para obtener la configuración porque saben mas de esto.
 
 | **RPCS3**    | **Batería Rock Band** | **Batería Guitar Hero** |
-|:--------:|:---------------:|:-------------------:|:-----------------:|
+|:--------:|:-------------------:|:-----------------:|
 | Cross (Cruz) | ![Parche Verde](images/btns/drms/rb/gp.png "Parche Verde") | ![Parche Verde](images/btns/drms/gh/gp.png "Parche Verde") |
 | Circle (Circulo) | ![Parche Rojo](images/btns/drms/rb/rp.png "Parche Rojo") | ![Parche Rojo](images/btns/drms/gh/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](images/btns/drms/rb/bp.png "Parche Azul") | ![Parche Azul](images/btns/drms/gh/bp.png "Parche Azul") |
