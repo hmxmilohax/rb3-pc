@@ -100,7 +100,7 @@ Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicio
 
 **Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tiene estabilidad para jugar sin interrupciones.  
 
-![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdir.png "Extract")
+![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdires.png "Extract")
 
 Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 de el sitio de Sony]**](https://www.playstation.com/support/hardware/ps3/system-software/). **Mira un poco abajo en la página** hasta que llegues a "**Actualizar por computadora**", haz click en eso para expandirlo y luego haz click en "**Descargar la actualización de la PS3**".
 
@@ -319,7 +319,7 @@ Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te ll
 
 # Configuración Rápida:
 Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](#configuración-personalizada) para ajustar todo a lo mejor que pueda tu computadora.  
-**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://github.com/hmxmilohax/rock-band-3-deluxe#-installing-on-rpcs3) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, también no estas leyendo la guía.
+**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3dx.neocities.org/install) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, también no estas leyendo la guía.
 
 Los jugadores que desean utilizar [[micrófonos]](#audio), [[guitarras Pro con cable, teclados USB/MIDI]](#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](#conexión-directa) todavía requieren configuración adicional.
 
@@ -497,7 +497,7 @@ Y con eso termina la parte difícil.
 
 # AshCentral
 
-Versión Vídeo de esta sección con subtitulo en Español:  
+Versión Vídeo de esta sección subtitulada en Español:  
 [![Una mini-imagen de la versión vídeo de esta sección de la guía.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
 **Si no estas jugando en AshCentral**, [[**puedes seguir a la siguiente sección**]](#conexión-directa).
@@ -617,12 +617,12 @@ Acuérdate, necesitas que presionar "Play on AshCentral" en Rock Band 3 antes de
 
 # Conexión Directa
 
-Si no estás utilizando una Guitarra Mustang Pro de PS3 y un Teclado Rock Band 3 de PS3 con sus receptores respectivos, [[puedes avanzar a la siguiente sección.]](#conexion-directa)
+Si no estás utilizando una Guitarra Mustang Pro de PS3 y un Teclado Rock Band 3 de PS3 con sus receptores respectivos, [[puedes avanzar a la siguiente sección.]](#problemas-y-soluciones)
 
 Para comenzar, **cierra RPCS3** y conecta el receptor del instrumento a tu computadora.
 
 Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/) y **descárgalo**. Cuando termine de bajar, **ábrelo**.
-[![Una captura de la pagina de Zadig](images/pass/zadigdl.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
+[![Una captura de la pagina de Zadig](images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
 
 
 Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar dispositivos).  
@@ -664,7 +664,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 *   **_Problemas generales de rendimiento_**
 	* Cambia el plan de energía de tu computadora a "Máximo rendimiento"
 	*   Regresa y Lee las sugerencias para PCs de gama baja en la [[sección de configuración personalizada]](#cpu).
-	*   Instala [[Rock Band 3 Deluxe](https://github.com/hmxmilohax/rock-band-3-deluxe/tree/main#playstation-3) y deshabilita efectos adicionales en el apartado "Deluxe Settings". Si no lo tienes, no seguiste la guía.
+	*   Instala [[Rock Band 3 Deluxe]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip) y deshabilita efectos adicionales en el apartado "Deluxe Settings". Si no lo tienes, no seguiste la guía.
 	*	Cierra el cliente de Discord y abre Discord en tu navegador o tu celular.
 
 *   **_Los instrumentos o accesorios de los personajes flotan o los traspasan_**
@@ -725,7 +725,7 @@ Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://github.com/hmxmilohax/rock-band-3-deluxe#readme "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
 
 </div>
 
@@ -746,7 +746,7 @@ Agradecimientos especiales a:
 
 *	[SlothDemon](https://www.youtube.com/@SlothDemon1991) por ayudar a traducir esta guía y ayudarme a recordar como escribir Español.
 *   [DarkRTA](https://www.youtube.com/@darkrta), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasíc](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) por informacion tecnica sobre RPCS3 y Rock Band 3.
-* [knvtva](https://github.com/knvtva) por crear y mantener a AshCentral, la mejor manera de jugar Rock Band 3 por linea.
+* [knvtva](https://github.com/knvtva) por crear y mantener a AshCentral, la mejor manera de jugar Rock Band 3 en linea.
 *   qfoxb, [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (el cual hizo pruebas por 40 horas xd), knvtva, y 1osks por reportar resultados.
 *   RPCS3 Wiki por tener una cantidad decente de información sobre los Controladores y los Traspasos Via USB.
 *   [TheNathannator](https://github.com/TheNathannator) por su [GitHub de PlasticBand](https://github.com/TheNathannator/PlasticBand) por la mejor documentación de controladores.
