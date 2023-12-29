@@ -1,5 +1,6 @@
 
 
+
 Video Version (Outdated):  
 [![A thumbnail of the video version of this tutorial.](images/old/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
@@ -258,28 +259,29 @@ Once you're there, **click on the default username (00000001 - User) and then cl
 ## RPCN
 
 If you don't want to play online, [you can skip to the next part.](#quick-configuration)
+As of December 29, 2023, RPCN for RPCS3 **requires** `0.0.29-15857` or later. You will not be able to connect to RPCN otherwise.
 
-Go to **Configuration > RPCN**
+~~Go to **Configuration > RPCN**~~
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/old/rpcn/rpcn.png "RPCS3: RPCN")
 
-Click on “**Account**”:  
+~~Click on “**Account**”:~~  
 ![A screenshot of RPCS3's RPCN menu with "Account" highlighted](images/old/rpcn/rpcnpopup.png "RPCN")
 
-Click “**Create Account**”:  
+~~Click “**Create Account**”:~~  
 ![A screenshot of RPCS3's RPCN: Account menu with "Create Account" highlighted](images/old/rpcn/account.png "RPCN: Account")
 
-Enter a **username** and **password**:  
+~~Enter a **username** and **password**:~~  
 ![A screenshot of RPCS3's RPCN: Username menu with a username set and "OK" highlighted](images/old/rpcn/user.png "RPCN: User")  
 ![A screenshot of RPCS3's RPCN: Password menu with an obscured password set (twice for verification) and "OK" highlighted](images/old/rpcn/password.png "RPCN: Password")  
 
-You will be prompted for an **email address** so you can receive a **verification token**:  
+~~You will be prompted for an **email address** so you can receive a **verification token**:~~  
 ![A screenshot of RPCS3's RPCN: Email menu with an email (twice for verification) set and "OK" highlighted](images/old/rpcn/email.png "RPCN: Email")  
 
-**Click “Yes”** and go to your email inbox. You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox. The email will be called **“Your token for RPCN.” Copy the token**:
+~~**Click “Yes”** and go to your email inbox. You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox. The email will be called **“Your token for RPCN.” Copy the token**:~~
 
 ![A screenshot of an email labeled "Your Token for RPCN" with a token below what username it's for](images/old/rpcn/emailtoken.png "Your token for RPCN")
 
-**Paste the token** into RPCS3 and click OK:  
+~~**Paste the token** into RPCS3 and click OK:~~  
 ![A screenshot RPCS3 telling the user an account was successfully created.](images/old/rpcn/created.png "RPCN: Username")
 
 <br/>
@@ -402,11 +404,11 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 ![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in red with a dashed outline IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in blue with a solid outline.](images/old/cust/network.png "Network")
 * ![A light red square with a dashed outline.](images/old/cust/smallred.png "Light Red Square") REQUIRED: 
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
-* ![A blue square with a solid outline.](images/old/cust/smallblue.png "Blue Square") For online multiplayer: 
-	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don't enable UPNP while port forwarding** as this can cause crashes.
-	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
-		* **Join the** [[**Milohax Discord server**]](https://discord.gg/6rRUWXPYwb) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
-		* Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
+* ![A blue square with a solid outline.](images/old/cust/smallblue.png "Blue Square") ~~For online multiplayer~~ As of December 29, 2023, RPCN for RPCS3 **requires** `0.0.29-15857` or later. You will not be able to connect to RPCN otherwise.: 
+	* ~~Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall. Don't enable UPNP while port forwarding** as this can cause crashes.~~
+	* ~~As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.~~
+		* ~~**Join the**~~ [[**~~Milohax Discord server~~**]](https://discord.gg/6rRUWXPYwb) ~~and **go to** the~~ **[\[~~#ashcentral-status~~\]](https://discord.com/channels/961352072140324924/1153056600030973992)** ~~channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.~~  
+		* ~~Join the~~ [[~~RBEnhanced Discord server~~]](https://discord.gg/6rRUWXPYwb) ~~and go to the~~ [[#~~gocentral-connecting~~]](https://discord.com/channels/953085263008129064/1076031372185042984) ~~channel. Follow the instructions for RPCS3~~.  
 
 <br/>
 
