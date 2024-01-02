@@ -54,7 +54,7 @@ Paste it into:
 * [[PS2 Guitar Hero SG Guitar]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar#notes)
 * [[PS3 Guitar Hero Les Paul]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar#notes)
 * [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
-* [[PS3 Dualshock 3 Controller (Padtar)]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20DualShock%203#notes) - Does not include a profile but does have isntructions.
+* [[PS3 Dualshock 3 Controller (Padtar)]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20DualShock%203#notes) - Does not include a profile but does have instructions.
 
 
 ## Missing Instruments:
@@ -87,7 +87,7 @@ If you own any of these instruments and wish to help, please contact me on the [
 	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 * Rock Band 4 Guitar Controllers (PS4 Version)
 	* Bluetooth latency is unacceptable.
-	* Whammy, tilt, and effects switch are unmappable.
+	* Whammy, tilt, and effects switch can't be mapped.
 * Rock Band 4 Guitar Controllers (Xbox One Version)
 	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 
