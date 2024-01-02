@@ -449,7 +449,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para cambiar el lenguaje del juego**: 
 	* Cambia **Console Language** (Lenguaje de Sistema) a **Spanish** (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.
-	* Cambia **Keyboard Typoe** (Tipo de teclado) a **Spanish Keyboard** (Teclado Español) para cambiar el teclado virtual de Ingles a Español.
+	* Cambia **Keyboard Type** (Tipo de teclado) a **Spanish Keyboard** (Teclado Español) para cambiar el teclado virtual de Ingles a Español.
 
 <br/>
 
