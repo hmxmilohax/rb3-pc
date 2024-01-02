@@ -445,7 +445,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 
 
 ## System
-![Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando el lenguaje de consola (Console Language) y tipo de teclado (Keyboard Type) resaltados en cafe con una linea blanca solida.](images/cust/network.png "Network")
+![Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando el lenguaje de consola (Console Language) y tipo de teclado (Keyboard Type) resaltados en cafe con una linea blanca solida.](images/cust/system.png "System")
 
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para cambiar el lenguaje del juego**: 
 	* Cambia **Console Language** (Lenguaje de Sistema) a **Spanish** (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.
