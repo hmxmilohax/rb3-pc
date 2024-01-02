@@ -54,6 +54,7 @@ Paste it into:
 * [[PS2 Guitar Hero SG Guitar]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar#notes)
 * [[PS3 Guitar Hero Les Paul]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar#notes)
 * [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
+* [[PS3 Dualshock 3 Controller (Padtar)]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20DualShock%203#notes) - Does not include a profile but does have isntructions.
 
 
 ## Missing Instruments:
@@ -186,4 +187,5 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 * [heartworthbreaking] - Wii Guitar Hero Ardwiino PI Pico Guitar profile
 * [[cas]](https://www.youtube.com/channel/UCw2JKh7_Zt65kjENqjnvm_g) - PS2 Guitar Hero SG Guitar profile
 * [[scott0852]](https://twitter.com/scott0852) - Wii Rock Band Drums
+* [SlothDemon](https://www.youtube.com/@SlothDemon1991) - DS3 Padtar instructions
 * [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
