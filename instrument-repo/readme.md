@@ -184,5 +184,6 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 * [Uzny] - Roll Limitless profile
 * [16bitblastprocessing] - PS3 Guitar Hero Les Paul
 * [heartworthbreaking] - Wii Guitar Hero Ardwiino PI Pico Guitar profile
-* [scott0852](https://twitter.com/scott0852) - Wii Rock Band Drums
+* [[cas]](https://www.youtube.com/channel/UCw2JKh7_Zt65kjENqjnvm_g) - PS2 Guitar Hero SG Guitar profile
+* [[scott0852]](https://twitter.com/scott0852) - Wii Rock Band Drums
 * [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
