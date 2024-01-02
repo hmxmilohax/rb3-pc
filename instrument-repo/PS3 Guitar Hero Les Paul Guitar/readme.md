@@ -1,5 +1,6 @@
 ## NOTES:
 
+* Please note that this controller is known for having horrible latency.
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 
 <div align="center">
@@ -13,4 +14,4 @@
 </div>
 
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by 16bitblastprocessing

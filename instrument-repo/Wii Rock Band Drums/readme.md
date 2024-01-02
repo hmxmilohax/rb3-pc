@@ -16,4 +16,4 @@
 </div>
 
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by [[scott0852]](https://twitter.com/scott0852) - Wii Rock Band Drums

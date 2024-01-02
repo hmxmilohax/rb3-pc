@@ -11,3 +11,6 @@
 ![Mapping](mapping.png "Mapping") 
 
 </div>
+
+
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

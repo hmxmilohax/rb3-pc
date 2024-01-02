@@ -405,8 +405,8 @@ Iremos pestaña por pestaña, comenzando con:
 
 ## I/O
 **Esta sección es para teclados USB/MIDI o guitarras Pro con cable.**
-* **Si no estás jugando con una guitarra Pro con cable o un teclado USB/MIDI,** [[puedes avanzar a la siguiente sección.]](#network)  
-* **Si estás jugando con un Teclado Rock Band 3 para PS3 o una Guitarra Pro Mustang para PS3 inalámbrica,** [[puedes avanzar a la siguiente sección.]](#network)  
+* **Si no estás jugando con una guitarra Pro con cable o un teclado USB/MIDI,** [[puedes avanzar a la siguiente sección.]](#system)  
+* **Si estás jugando con un Teclado Rock Band 3 para PS3 o una Guitarra Pro Mustang para PS3 inalámbrica,** [[puedes avanzar a la siguiente sección.]](#system)  
 
 **Si tu teclado tiene salida USB**, solo necesitas **conectarlo a tu computadora**.  
 ![Una imagen atrás de un controlador MIDI, mostrando un puerto USB y un pedal de sostenido.](images/midi/usbkeys.png "Teclado USB")  
@@ -440,6 +440,16 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
   
 **Teclados no tienen botones de PS3, así que el primer octavo esta emulando botones de PS3**. Utiliza la siguiente imagen como referencia. **Te recomiendo poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores**.
 ![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](images/midi/keysctrl.png "Referencia del Teclado MIDI")  
+
+<br/>
+
+
+## System
+![Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando el lenguaje de consola (Console Language) y tipo de teclado (Keyboard Type) resaltados en cafe con una linea blanca solida.](images/cust/network.png "Network")
+
+* ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para cambiar el lenguaje del juego**: 
+	* Cambia **Console Language** (Lenguaje de Sistema) a **Spanish** (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.
+	* Cambia **Keyboard Typoe** (Tipo de teclado) a **Spanish Keyboard** (Teclado Español) para cambiar el teclado virtual de Ingles a Español.
 
 <br/>
 

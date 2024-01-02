@@ -7,14 +7,34 @@
 * Faster fills tend have dropped notes.
 
 #### Additional Setup:
-Map your drum kit in MidiDrum Hero.
+
+* [Follow the install process for MidiDrumHero](https://github.com/ejj28/mididrumhero)
+* Map your drum kit in MidiDrum Hero.
 
 An example MidiDrumhero mapping for an Alesis Nitro Mesh on default settings:
 ![MIDI Drum Hero](mididrumhero.png "MIDI Drum Hero") 
 
-In vJoy, it's sugggested to turn off all Axes **except** "X/Y/Z" and change the number of buttons to 10.
-Hit "Apply" and "Reset All" when finished.
+
+* Open "Configure vJoy" and:
+	* Turn off everything udner "Axes" and "Force Feedback"
+	* Change the number of buttons to "10"
+	* Click "Apply" then "Reset All" when finished.
 ![vJoy](vjoy.png "vJoy") 
+* For the mapping, here is the format:
+	* Red pad = O + L3
+	* Yellow Pad = Triangle + L3
+	* Blue Pad = Square + L3
+	* Green Pad = X + L3
+	* Yellow Cymbal = Triangle + R3 + Up Dpad
+	* Blue Cymbal = Square + R3 + Down Dpad
+	* Green Cymbal = X + R3
+	* Foot Pedal = L1
+	* Hi-hat Pedal = R1
+You want to Shift+Click to add extra bindings in the emulator.
+
+If you want to map Start/Select for navigation, you can unmap R1 and use:
+* Hi-Hat Pedal (with a high trigger velocity) to Start
+* Hi-Hat Pedal (Lightly Pressed) + Hi-Hat to Select
 
 <div align="center">
 
@@ -25,3 +45,5 @@ Hit "Apply" and "Reset All" when finished.
 ![Mapping](mapping.png "Mapping") 
 
 </div>
+
+Mapped by [[Linos]](https://www.youtube.com/@LinosMelendi)

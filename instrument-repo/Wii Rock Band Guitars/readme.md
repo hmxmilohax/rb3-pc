@@ -29,3 +29,6 @@
 ![Mapping](mapping.png "Mapping") 
 
 </div>
+
+
+Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)

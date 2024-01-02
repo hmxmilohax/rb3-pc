@@ -39,6 +39,7 @@ Paste it into:
 * [[Xbox 360 Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
 * [[Xbox 360 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums#notes)
 * [[PS3 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Drums#notes)
+* [[Wii Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Drums/Wii%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Drums#notes)
 * [[Wii Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Drums#notes)
 
 #### Guitars:
@@ -50,6 +51,8 @@ Paste it into:
 * [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D#notes)
 * [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster#notes)
 * [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar#notes)
+* [[PS2 Guitar Hero SG Guitar]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar#notes)
+* [[PS3 Guitar Hero Les Paul]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar#notes)
 * [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
 
 
@@ -59,10 +62,7 @@ Paste it into:
 * [TODO] Wii Rock Band MIDI Pro Adapter Drums
 * [TODO] Wii Rock Band Drums
 * [TODO] Wii Guitar Hero Genericaster Guitar
-* [TODO] PS3 Guitar Hero Les Paul
-* [TODO] PS2 Guitar Hero SG
 * [TODO] PS2 Guitar Hero Kramer Striker
-* [TODO] Arduino Guitars
 * [TODO] Arduino Drums
 
 If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://rb3dx.neocities.org/downloads.html) for information.
@@ -182,4 +182,7 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 * [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, and Wii Guitar Hero Drums profiles
 * [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster profiles
 * [Uzny] - Roll Limitless profile
+* [16bitblastprocessing] - PS3 Guitar Hero Les Paul
+* [heartworthbreaking] - Wii Guitar Hero Ardwiino PI Pico Guitar profile
+* [scott0852](https://twitter.com/scott0852) - Wii Rock Band Drums
 * [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.

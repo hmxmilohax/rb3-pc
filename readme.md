@@ -3,11 +3,10 @@ Video Version (Outdated):
 
 <br/>
 
-> * [_[Versión en español]_](https://github.com/carlmylo/rb3-pc/blob/main/readme_es.md)  
+> * [_[Versión en español latino]_](https://github.com/carlmylo/rb3-pc/blob/main/readme_es.md)  
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
-> * [_[Older Version of the guide]_ (DO NOT USE UNLESS YOU KNOW WHAT YOU'RE DOING!)](https://github.com/carlmylo/rb3-pc/blob/main/readme_en_028.md)  
 
 >##### WARNING:
 <sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
@@ -36,30 +35,32 @@ You will need:
 	*   _Any Rock Band and Guitar Hero Guitar (PS3, Wii, X360)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
-	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (X360, PS3)_<sup>c
+	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (PS3, Wii, X360)_<sup>c
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
-	*   _MIDI Drum Kits (via USB, Roll Limitless, or MIDI to USB adapter with MidiDrumHero and VJoy)_
+	*   _MIDI Drum Kits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy, or MIDI to Roll Limitless)_
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* Minimum:
-		* OS: Windows 10 or higher
+		* OS: Windows 10
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB (or equivalent)
  		* Storage: ~11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
+ 			* Additional customs require more space.
    		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
 		* OS: Windows 10 or higher
-		* Processor: AMD Ryzen 5 2600 (or equivalent)
-		* Memory: 16 GBs
-		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent)
+		* Processor: AMD Ryzen 5 2600 (or equivalent) or higher
+		* Memory: 16 GBs or higher
+		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or higher
  		* Storage:
  			* ~146.32 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
  			* ~67.4 GBs for all DLC and exports (SSD).
+ 			* Additional customs require more space.
  		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
@@ -67,7 +68,7 @@ You will need:
 <sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible. Xbox One guitars are exempt as they require multiple separate programs to work.</sub>  
 <sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible. Xbox One drum kits are exempt as they require multiple separate programs to work.</sub>  
 <sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial.</sub>  
+<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial. Check the instrument repo for more help.</sub>  
   
 
 <br/>
@@ -184,7 +185,7 @@ If not, keep reading.
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
-* PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
+* PS3 guitar, drum controllers, and MIDI Pro Adapters **for the Rock Band series** are plug and play.
 
 **If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
 
@@ -246,7 +247,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 ### Vocals: 
 
-*For vocals*, you can *use regular controllers*. If you're using a PS3 controller, switch "Handlers" to DS4. If you're using a PS4 controller, switch "Handlers" to DS4. If you're using an Xbox 360, Xbox One, or Xbox Series controller, switch "Handlers" to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
+*For vocals*, you can *use regular controllers*. If you're using an actual PS3 controller, switch "Handlers" to DS3. If you're using a PS4 controller (DualShock 4), switch "Handlers" to DS4. If you're using an Xbox 360, Xbox One, or Xbox Series controller, switch "Handlers" to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences. PS3 and PS4 controllers may need additional drivers installed for this. [[DualShock 3 controllers]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) and [[DualShock 4 controllers](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) may require additional setup.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
@@ -371,9 +372,9 @@ We'll go tab by tab, starting with:
 * ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") **Tweak depending on graphics card**: 
-	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency.
+	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with frame limiter**.
 	* **Change "Frame Limit"** 
-		* Set it to "Off" to use higher VBlank Frequencies (which may introduce jitter).
+		* Set it to "Off" to use higher VBlank Frequencies (which may introduce jitter). **Use this setting if using VSync.**
 		* Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). 
 		* Auto will use default RPCS3 settings.
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
@@ -480,7 +481,7 @@ You can leave this as is if you want, but I would consider changing the followin
 	* **“Show PPU compilation hint”** - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the "Recompiler (LLVM)" setting in the CPU tab does this when launching the game.
 	* **“Show shader compilation hint”** - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The best way to deal with this is** just **to** **play the game** as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.
 	* **“Start games in Fullscreen mode”** - Switches to Fullscreen when you start Rock Band 3.
-	* **“Use Native Interface”** - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups for keyboard prompts. This used to fix an issue with instrument controllers soft locking the game when the keyboard came up but it seems to no longer be necessary. The native interface does cause frame rate drops, so keep this in mind.
+	* **“Use Native Interface”** - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups for keyboard prompts. This can also fix a problem with instrument controllers using MMJoystick soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.
     
 
 **After all of that, remember to click "Apply" then "Save custom configuration"**
@@ -617,7 +618,7 @@ Again, **remember to press "Play on AshCentral" in Rock Band 3 before joining or
 
 # Passthrough Devices: 
 
-**If you're not playing with a PS3 Mustang Pro Guitar and PS3 Keyboard with their respective dongles**, [[**skip over this section**]](#troubleshooting).
+**If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](#troubleshooting).
 
 To start with, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
 
@@ -664,7 +665,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
 	*   Go back to the [[Custom Configuration setup section]](#custom-configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
-	*	Close out the dedicated Discord client and open it up in your browser or on your phone.
+	*	Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client [[like Vesktop]](https://github.com/Vencord/Vesktop), but I claim no responsibility for your Discord account.
 
 *   **_"Characters have glitchy flying instruments and accessories."_**
 	*   There is currently no fix for this. If you experience this, [[please report your findings on RPCS3's GitHub].](https://github.com/RPCS3/rpcs3/issues/8408)
@@ -679,10 +680,10 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   You didn't read the guide and did not install Rock Band 3 Deluxe, which fixes this.
 
 *   **_"I cannot use Automatic Calibration in System Settings."_**
-	*   Automatic Calibration only works for PS3 guitar controllers with passthrough.
+	*   Automatic Calibration only works for PS3 Rock Band guitar/bass controllers with passthrough.
 
 *   **_"My game gets stuck when naming a character or band."_**
-	*   This shouldn't be happening on the latest version of RPCS3. That being said, I'd suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard.
+	*   This seems to vary by controller. Try using the whammy or effects switch if you have it. I'd also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard. You can try disabling the Native Interface as mentioned in [[the Emulator section of Custom Configuration]](#emulator).
 
 *   **_"Scrolling through the library has long pauses."_**
 	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
@@ -692,6 +693,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 *   **_[Rock Band 3 Deluxe] "I crash in the intro video."_**
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.
+		* If you still have this issue, redownload Rock Band 3 Deluxe as Github sometimes doesn't download correctly.
 	
 *   **_[Pro Drums] "Hitting two cymbals registers as a tom."_**
 	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even console versions. You can buy a Roll Limitless for your drums which fix this, or try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs.
@@ -712,7 +714,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for advice.
 
 *	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**
-	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, I'll probably added to this guide.
+	* [[Open an issue]](https://github.com/carlmylo/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
 
 <br/>
 
@@ -740,7 +742,7 @@ Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot
 
 </div>
 
-Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the original online revival server for Rock Band 3. Without this, this game would be dead and the entire online portion of this guide wouldn't exist.
+Developers of the amazing RBEnhanced mod that currently only exists for Xbox 360 and Wii. The same developers also help run and maintain the GoCentral server that is the original online revival server for Rock Band 3. Without this, this game would be more or less dead and the entire online portion of this guide wouldn't exist.
 
 You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
