@@ -4,7 +4,7 @@
 * This controller requires advanced configuration.
 * To play Guitar on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick guitar parts.
 * This setup has only been tested on on DsHidMini. **AVOID ScpToolKit AS IT IS OUTDATED!**
-	* Installation for these are instructions are on [[RPCS3's Help page]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
+	* More information is available on [[RPCS3's Help page]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
