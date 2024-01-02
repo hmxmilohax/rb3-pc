@@ -2,10 +2,6 @@
 
 A repository of premade controller profiles for RPCS3 to help newcomers to Rock Band 3. These files should be simple drag and drop configurations for controllers.
 
-These are specifically for the latest version of RPCS3. 
-
-If you're using v0.0.28-15417-9b3a878c, [**[please refer to the older version]**](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/_old#readme).
-
 ## How to install:
 Before you install, **if you have any bindings in `config\input_configs\BLUS30463`, you should back them up because they will be overwritten.**
 
