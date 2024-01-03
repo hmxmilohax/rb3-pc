@@ -4,8 +4,6 @@ You *MUST* have [[Rock Band 3 Deluxe installed]](https://github.com/hmxmilohax/r
 
 To use these, click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3. It should combine folders automatically if you did it right.
 
-If you're on build 0.0.28-15417 of RPCS3, [[use the older version of this page]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/_old#readme)
-
 </br>
 
 ### [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip)
