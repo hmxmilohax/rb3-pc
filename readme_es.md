@@ -27,10 +27,10 @@ Versión Vídeo en Ingles (no actualizada):
 Necesitarás:
 * _Una copia de Rock Band 3 para PS3 en tu computadora. (versión BLUS-30463)_
 * _Un instrumento. Puedes usar:_
-	*   _Cualquier guitarra de Rock Band y Guitar Hero (PS3, Wii, X360)_<sup>a
+	*   _Cualquier guitarra de Rock Band y Guitar Hero (PS2, PS3, Wii, X360)_<sup>a
 	*   _Cualquier batería de Rock Band y Guitar Hero (PS3, Wii, X360)_<sup>b
 	*   _Cualquier guitarra o teclado con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3)_<sup>c
-	*   _Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (X360, PS3)_<sup>c
+	*   _Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (PS3, Wii, X360)_<sup>c
 	*   _Teclado de Rock Band 3 (solo la versión de PS3 con receptor propio)_<sup>c
 	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio)_<sup>c
 	*   _Guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)_
@@ -40,20 +40,22 @@ Necesitarás:
 	*   _Cualquier micrófono detectado por tu computadora (el juego se puede controlar con la mayoría de mandos o con el teclado cuando juegas como vocalista)_
 *   _Una computadora_
 	* Mínimo:
-		* SO: Windows 10 o mejor
+		* SO: Windows 10
 		* Procesador: Intel Core i5-4460 (o equivalente con una puntuación de CPUMark de 4872 y AVX2)
 		* Memoria: 8 GBs
-		* Gráficos: GeForce GT 730 2GB (o equivalente)
+		* Gráficas: GeForce GT 730 2GB (o equivalente) con Vulkan
  		* Almacenamiento: ~11.2 GBs para Rock Band 3 con Rock Band 3 Deluxe sin DLC. (5400 RPM HDD)
+ 			* Canciones personalizadas (customs) requieren espacio adicional
    		* Notas adicionales: La configuración más básica. Tendrás resolución de 720p sin efectos adicionales, latencia de audio de 130 ms, y frecuencia de actualización de 60 Hz, con posibles inestabilidades en el rendimiento.
 	* Recomendado:
 		* SO: Windows 10 o mejor
-		* Procesador: AMD Ryzen 5 2600 (o equivalente)
-		* Memoria: 16 GBs
-		* Gráficos: NVIDIA GeForce GTX 1650 (o equivalente)
+		* Procesador: AMD Ryzen 5 2600 (o equivalente) o mejor
+		* Memoria: 16 GBs o mas
+		* Gráficas: NVIDIA GeForce GTX 1650 (o equivalente) o mejor con Vulkan
  		* Notas:
- 			* ~145.66 GBs para **todo** el contenido oficial que salio desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (SSD).
- 			* ~67.4 GBs para todo el DLC y expansiones (SSD).
+ 			* ~145.66 GBs para Rock Band 3, Rock Band 3 Deluxe y **todo** el contenido oficial que salio desde RB1 hasta RB3, incluyendo DLC, RBN y expansiones (SSD).
+ 			* ~67.4 GBs para Rock Band 3, Rock Band 3 Deluxe y todo el DLC y expansiones sin RBN (SSD).
+ 			* Canciones personalizadas (customs) requieren espacio adicional
  		* Notas adicionales: Excelente rendimiento. 1080p con todos los efectos, audio de 100 ms (o menos), y 75 Hz (o mas).
 	* Puedes verificar [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart), aunque están exagerado para este juego.
  
@@ -61,7 +63,7 @@ Necesitarás:
 
 <sup>a</sup> <sub>Guitarras de PS4 no están incluidas porque RPCS3 no toma whammy, ladeo, o switch de efectos. También tiene latencia terrible. Guitarras de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
 <sup>b</sup> <sub>Baterías/tambores de PS4 no están incluidas porque los platillos no son compatible con RPCS3. También tiene latencia terrible. Baterías/tambores de Xbox One no están incluidas porque requieren tres/cuatro programas para funcionar.</sub>  
-<sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasíado complejo para incluir en esta guía. Google es tu amigo.</sub>  
+<sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
 <sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es ideal, así que no está recomendado en esta guía.</sub> 
 
 <br/>
@@ -193,7 +195,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 ### Guitarras:
 
-* Si estás utilizando guitarras de PS3 (Guitar Hero) o Wii, configura la opción "Handlers" (Manipuladores) en "MMJoystick". 
+* Si estás utilizando guitarras de PS2 (Guitar Hero), PS3 (Guitar Hero) o Wii, configura la opción "Handlers" (Manipuladores) en "MMJoystick". 
 * Si estás utilizando guitarras de Xbox 360, configura la opción "Handlers" (Manipuladores) en "XInput".
 
 **Asegúrate que "Device Class" (Clase de controlador) este en "Guitar" (Guitarra).**
@@ -244,7 +246,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 
 ### Vocales:
-*Para vocales*, puedes *utilizar controladores regulares*. Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia.
+*Para vocales*, puedes *utilizar controladores regulares*. Si estás usando un control de PS3, cambia "Handlers" (Manipuladores) a "DS3". Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia. Mandos de [[PS3 (DualShock 3)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) y [[PS4 (DualShock 4)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) necesitan configuración adicional con controlador instalado.
 
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Uso**                         | **Uso Alternativo**        |
@@ -370,17 +372,18 @@ Iremos pestaña por pestaña, comenzando con:
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Personajes tendrán rendimiento corrupto sin esta opción.
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
-	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente.
+	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. **No uses esto con "Frame Limit" activado!**
 	* **Cambia "Frame Limit"** (Limite de fotogramas):
-		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego.
+		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.
 		* A "60" si quieres fotogramas limitadas a 60 FPS (redundante con Vblank de 60 Hz).
 		* **Es sugerido utilizar la configuración de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.**
 		* Aumentando las fotogramas después de 60 utiliza muchos mas recursos. No es recomendado para sistemas de baja gama.
+		* Fotogramas mas alta que 60 pueden causar problemas con la detección de vocales.
 	* **Ajusta "Shader Quality"** (Calidad de Shaders) dependiendo de tu sistema. 
 		* "Low" (Bajo) y "Medium" (Medio) reducirá la calidad drásticamente.
 		* "High" (Alto) es la mejor opción. "Ultra" se ve similar a alto.
 		* "Auto" usará la configuración sugerida por RPCS3,
-	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto. Bájalo para obtener mas rendimiento a costa de una drástica pérdida de calidad. Auméntala para obtener gráficos más nítidos.
+	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto. Bájalo para obtener mas rendimiento a costa de una drástica pérdida de calidad. Auméntala para obtener Gráficas más nítidos.
 	* **Ajusta el "Resolution Scale Threshold"** (Límite de nivel de resolución) dependiendo de la "Resolution Scale" de arriba. Usa el número de porcentaje con el que aumentaste tu resolución (por ejemplo, para 1920x1080, que es un 150% de 1280x720, calcularías cuál es el 150% de 16, lo que sería 24).
 	* **Cambia "ZCULL Accuracy"** (Precisión de ZCull) a "Relaxed" (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.
 
@@ -399,7 +402,9 @@ Iremos pestaña por pestaña, comenzando con:
 		* Esto se puede cambiar mientras el juego esta abierto pero **requiere recalibración** en los ajustes del sistema de Rock Band 3.
 	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - **No mas se recomienda cambiar esto para computadoras de baja gama**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con sonido.
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
+	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**. "Standard" dejara que tu micrófono se pueda usar para cantar y la chat de voz. "Rocksmith" solo te dejara cantar.
 	* Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.
+	* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
 
 <br/>
 
@@ -475,6 +480,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 * ![Un cuadro azul con contorno punteado.](images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
+		* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 	* **Activa "Silence All Logs"** - **ESTO NO ESTA SUGERIDO** pero puede ayudar con rendimiento en sistemas que tengas discos de almacenamiento antiguos, como discos duros (HDD) . **SI ACTIVAS ESTO, NI LA COMODIDAD DE RPCS3 O DE MILOHAX TE PODRÁN AYUDAR con problemas porque no va existir un registro de errores**!
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
@@ -488,7 +494,7 @@ Puedes dejar esto como quieras, pero consideraría cambiar las siguientes opcion
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Opcional**: 
 	* **"Show trophy popups"** (Enseñar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3. Personalmente desactivo esto ya que el juego tiene sus propias notificaciones.
 	* **"Show PPU compilation hint"** (Enseñar notificaciones de PPUs compilándose) - Esto crea una notificación cuando RPCS3 esta compilando unidades del PPU. Esto solo sale si tienes la opción "Recompiler (LLVM)" activada en la pestaña de CPU.
-	* **"Show shader compilation hint"** (Enseñar notificaciones de shaders compilándose) - Esto crea una notificación cuando RPCS3 esta compilando shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los gráficos de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabándose mientras esto pase** . **Esto Pasa en TODOS los PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.
+	* **"Show shader compilation hint"** (Enseñar notificaciones de shaders compilándose) - Esto crea una notificación cuando RPCS3 esta compilando shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los Gráficas de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabándose mientras esto pase** . **Esto Pasa en TODOS los PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.
 	* **"Start games in Fullscreen mode"** (Empezar juego en pantalla llena) - Obviamente solo cambia el modo de pantalla completa cuando inicias Rock Band 3. Personalmente yo activo esto.
 	* **"Use Native Interface"** (Usar interfaz nativa) - Desactivar esto hará que se remuevan todas las notificaciones de RPCS3 mientras estás jugando, incluyendo el teclado y fondo mientra el juego cargue. En su lugar, verás una interfaz más antigua. Antes ayudaba antes porque RPCS3 se trababa cuando estabas nombrando algo en el juego con un controlador instrumento. Esto ya no es necesario pero la interfaz nativa si causa problemas con rendimiento en ciertas computadores en los momentos raros que sale
 

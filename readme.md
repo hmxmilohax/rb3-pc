@@ -32,7 +32,7 @@ Video Version (Outdated):
 You will need:
 * _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 version)_
 * _An instrument controller. You can use:_
-	*   _Any Rock Band and Guitar Hero Guitar (PS3, Wii, X360)_<sup>a
+	*   _Any Rock Band and Guitar Hero Guitar (PS2, PS3, Wii, X360)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (PS3, Wii, X360)_<sup>c
@@ -48,18 +48,18 @@ You will need:
 		* OS: Windows 10
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
-		* Graphics: GeForce GT 730 2GB (or equivalent)
+		* Graphics: GeForce GT 730 2GB (or equivalent) with Vulkan support
  		* Storage: ~11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
  			* Additional customs require more space.
    		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
 		* OS: Windows 10 or higher
-		* Processor: AMD Ryzen 5 2600 (or equivalent) or higher
+		* Processor: AMD Ryzen 5 2600 (or equivalent) or better
 		* Memory: 16 GBs or higher
-		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or higher
+		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or better with Vulkan support
  		* Storage:
- 			* ~146.32 GBs for **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
- 			* ~67.4 GBs for all DLC and exports (SSD).
+ 			* ~146.32 GBs for Rock Band 3, Rock Band 3 Deluxe, and **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
+ 			* ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, and all DLC and exports without RBN (SSD).
  			* Additional customs require more space.
  		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
@@ -185,7 +185,7 @@ If not, keep reading.
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
-* PS3 guitar, drum controllers, and MIDI Pro Adapters **for the Rock Band series** are plug and play.
+* PS3 guitar, drum controllers, and MIDI Pro Adapters **for the Rock Band series** are plug and play and require no additional setup.
 
 **If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
 
@@ -195,7 +195,7 @@ Below are the buttons you should map in RPCS3's Gamepad Settings.
   
 ### Guitars:
 
-* If you're using PS3 (Guitar Hero) or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
+* If you're using PS2 (Guitar Hero), PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
 
 Make sure you **set “Device Class” to “Guitar”.**
@@ -247,7 +247,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 ### Vocals: 
 
-*For vocals*, you can *use regular controllers*. If you're using an actual PS3 controller, switch "Handlers" to DS3. If you're using a PS4 controller (DualShock 4), switch "Handlers" to DS4. If you're using an Xbox 360, Xbox One, or Xbox Series controller, switch "Handlers" to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences. PS3 and PS4 controllers may need additional drivers installed for this. [[DualShock 3 controllers]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) and [[DualShock 4 controllers](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) may require additional setup.
+*For vocals*, you can *use regular controllers*. If you're using an actual PS3 controller, switch "Handlers" to DS3. If you're using a PS4 controller (DualShock 4), switch "Handlers" to DS4. If you're using an Xbox 360, Xbox One, or Xbox Series controller, switch "Handlers" to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences. [[DualShock 3 controllers]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) and [[DualShock 4 controllers]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) may require additional setup.
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
@@ -372,13 +372,14 @@ We'll go tab by tab, starting with:
 * ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") **Tweak depending on graphics card**: 
-	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with frame limiter**.
+	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with the frame limiter**.
 	* **Change "Frame Limit"** 
-		* Set it to "Off" to use higher VBlank Frequencies (which may introduce jitter). **Use this setting if using VSync.**
+		* Set it to "Off" to use higher VBlank Frequencies, which may introduce jitter, **or if you're using VSync.**
 		* Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). 
 		* Auto will use default RPCS3 settings.
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
 		* Adjusting the frame rate to be higher than 60 exponentially uses more GPU and CPU, so this is not recommended for low end machines.
+		* Framerates higher than 60 can also cause the vocal pitch detection to fail.
 	* **Adjust "Shader Quality"** depending on your system.
 		* Low and Medium will reduce quality at certain frame rates with little performance gains.
 		* High is the best option. Ultra looks and performs similar to high.
@@ -401,7 +402,9 @@ We'll go tab by tab, starting with:
 		* You can change this while the game is running, but it will require re-calibrating in Rock Band 3's system settings.
 	* **Change "Audio Out" to "XAudio2"** - This is only recommended for users on extremely low end machines as it causes weird audio problems overtime. Experiment with this setting to make sure it actually helps on your end. **Most users should stay on Cubeb!**
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For Vocalists**: 
+	* **Set Microphone type to Standard or Rocksmith**. Standard will allow you to use mics for voice chat and singing. Rocksmith will only work for singing.
 	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
+	* Once again, keep in mind that playing with framerates higher than 60 can cause issues with vocal detection.
 
 <br/>
 
@@ -464,6 +467,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 	* **Change "Driver Wake-up Delay" to "20µ"** to avoid crashing after a few songs. Increase it to "40µ" if the issue persists.
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") **Depending on your computer**: 
 	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
+		* Once again, having a higher VBlank can cause issues with vocal detection.
 	* **Change "Maximum Number of SPURS Threads"** - May improve performance on systems with less cores and threads [[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 	* **Enable "Silence All Logs"** - **Not suggested** but can help reduce drive usage on computers with slower drives. This is a non-issue for most people. **DISABLING THIS MEANS NEITHER THE RPCS3 TEAM NOR THE MILOHAX TEAM WILL BE ABLE TO HELP YOU with troubleshooting and crashes as no log will exist**!
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **Strongly Suggested**: 
