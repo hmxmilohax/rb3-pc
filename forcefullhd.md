@@ -1,14 +1,14 @@
 We'll be forcing Rock Band 3 to run in full HD (1920x1080). Please be aware that this requires more graphical power so if you experience degraded performance, undo these changes.
 
-Please note that this mostly affects post processing, shadows, and aliasing with venue FPS set below 30.
+Please note that this mostly affects post processing, shadows, and aliasing with venue FPS set below 35. Most people won't be able to tell the difference.
 
-Here is a comparison. Rock Band 3 was targeting 1080p with "Resolution Scale" adjusted to match.
+Here is a comparison. Rock Band 3 was targeting 1080p with "Resolution Scale" adjusted to match, so both are outputting 1080p.
 
 ![A screenshot Rock Band 3, with the left screenshot showing severe aliasing labeled 720p, and a cleaner screenshot labeled 1080p.](images/xtra/fullhd/comparison.png "Comparison")
 
 There are two ways to do this. We'll go over the easy way first.
 
-### The Easy Way:
+### The easy way:
 
 Click on "View" > "Game Categories" and then enable "Game Data."
 
@@ -23,7 +23,7 @@ In the GPU tab of the Custom Configuration Window, change "Default Resolution" t
 
 ![A screenshot Rock Band 3's Custom Configuration settings in the GPU tab, with the user's cursor hovering over "1920x080".](images/xtra/fullhd/gpu1080.png "Game Data")
 
-### The "Hard" Way:
+### The "hard" way:
 
 In RPCS3, right click on Rock Band 3 and click on "Open Custom Config Folder."  
 
