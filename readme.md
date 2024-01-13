@@ -115,7 +115,7 @@ Once again, the picture below links to the download page.
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
 
-Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
+Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](images/inst/rpcs3init.png "Welcome to RPCS3")
 
 
@@ -135,9 +135,13 @@ Now **open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not sho
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **navigate to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3**. Keep this folder somewhere safe where you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
+Next, **open a new file browser window and go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Keep this folder somewhere safe where you won't accidentally delete it, as you'll need it. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
 
-![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3, which updates RPCS3 to display Rock Band 3 in the game list.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
+![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
+
+After dragging it in, click "Refresh" in RPCS3. This should make Rock Band 3 appear in your library.  
+
+![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
 Rock Band 3 is now in your game library in RPCS3, but it's not quite ready yet. Next, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.neocities.org/).
 
@@ -368,7 +372,7 @@ We'll go tab by tab, starting with:
 <br/>
 
 ## GPU
-![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, ZCULL Accuracy, Resolution Scale, Resolution Scale Threshold, Frame Limit, Shader Quality, and VSync highlighted in blue with a dotted outline.](images/cust/gpu.png "GPU")
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline, and "Default Resolution" highlighted in tan with a solid outline.](images/cust/gpu.png "GPU")
 * ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") **Tweak depending on graphics card**: 
@@ -378,16 +382,19 @@ We'll go tab by tab, starting with:
 		* Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). 
 		* Auto will use default RPCS3 settings.
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
-		* Adjusting the frame rate to be higher than 60 exponentially uses more GPU and CPU, so this is not recommended for low end machines.
-		* Framerates higher than 60 can also cause the vocal pitch detection to fail.
-	* **Adjust "Shader Quality"** depending on your system.
-		* Low and Medium will reduce quality at certain frame rates with little performance gains.
-		* High is the best option. Ultra looks and performs similar to high.
-		* Auto will use default RPCS3 settings. This is the suggested setting. 
-	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics at the cost of higher GPU requirements.
-	* **Adjust "Resolution Scale Threshold"** depending on "Resolution Scale" above. Set the number to whatever percent you increased your resolution (i.e., for 1920x1080, which is 150% of 1280x720, you'd calculate what 150% of 16 is, which would be 24.
-	* **Change "ZCULL Accuracy" to "Relaxed"** - For low end GPUs. Provides a slight performance improvement but may cause graphical anomalies.
-.
+		* Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.
+		* Framerates higher than 60 can also cause the vocal pitch detection to behave incorrectly.
+	* **Change "ZCULL Accuracy" to "Relaxed"** - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.
+	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution.
+	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale at 100% and playing on a monitor larger than 1280x720.
+		* Nearest is completely unfiltered and gives you an unmodified image.
+		* Bilinear filter uses smoothing to scale the image up. This may cause the game to look blurry.
+		* FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image.
+			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
+	* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For high-end GPUs and advanced users**: 
+		* **Change "Default Resolution" to "1920x1080"**. While Rock Band 3 officially caps out at 720p, 1080p can be forced on by manually editing the configuration file or editing the game data configuration. Please refer to [the relevant guide on how to do this](forcefullhd.md) after finishing up with everything else.
+
+
 <br/>
 
 ## Audio
