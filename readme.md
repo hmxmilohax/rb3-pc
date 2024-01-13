@@ -365,7 +365,7 @@ We'll go tab by tab, starting with:
 ![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline.](images/cust/cpu.png "CPU")
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") **Improved performance, depending on machine**: 
 	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads. Drastically speeds up game startup time on certain machines.
-	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - Can help prevent stutter caused by CPU overloads on systems with fewer cores/threads. **Start at 4 and lower it one by one until it improves**.
+	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - May help prevent stutter caused by CPU overloads on systems with fewer cores/threads. **Start at 4 and lower it one by one until it improves**.
 	* **Change "Thread Scheduler" to "RPCS3 Scheduler", or "RPCS3 Alternative Scheduler"** - **FOR CPUs WITH 12+ THREADS ONLY!** May help with thread distribution to prevent microstutters.
 	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames on low end systems but **will break practice mode and possibly other features!**
 
@@ -383,7 +383,7 @@ We'll go tab by tab, starting with:
 		* Auto will use default RPCS3 settings.
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to cap your framerate instead.
 		* Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.
-		* Framerates higher than 60 can also cause the vocal pitch detection to behave incorrectly.
+		* Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.
 	* **Change "ZCULL Accuracy" to "Relaxed"** - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.
 	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution.
 	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale at 100% and playing on a monitor larger than 1280x720.
@@ -392,7 +392,7 @@ We'll go tab by tab, starting with:
 		* FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image.
 			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
 	* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For high-end GPUs and advanced users**: 
-		* **Change "Default Resolution" to "1920x1080"**. While Rock Band 3 officially caps out at 720p, 1080p can be forced on by manually editing the configuration file or editing the game data configuration. Please refer to [the relevant guide on how to do this](forcefullhd.md) after finishing up with everything else.
+		* **Change "Default Resolution" to "1920x1080"**. While Rock Band 3 officially caps out at 720p, 1080p can be forced on by manually editing the configuration file or editing the game data configuration. Please refer to [the relevant guide on how to do this and what benefits there are](forcefullhd.md) after finishing up with everything else.
 
 
 <br/>
@@ -411,7 +411,7 @@ We'll go tab by tab, starting with:
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For Vocalists**: 
 	* **Set Microphone type to Standard or Rocksmith**. Standard will allow you to use mics for voice chat and singing. Rocksmith will only work for singing.
 	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
-	* Once again, keep in mind that playing with framerates higher than 60 can cause issues with vocal detection.
+	* Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.
 
 <br/>
 
