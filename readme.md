@@ -514,7 +514,7 @@ Video Version:
 
 **If you're not playing on AshCentral**, [[**skip over this section**]](#passthrough-devices).
 
-Although **you don't need to set up room codes to play online in AshCentral**, it's strongly suggested to set this up beforehand just in case.
+Although <h2> you don't need to set up room codes to play online in AshCentral, </h2>  it's still suggested to set this up beforehand just in case.
 
 ### Setting Up AshCentral:
 
