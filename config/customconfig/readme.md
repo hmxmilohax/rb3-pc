@@ -32,24 +32,6 @@ These are the settings used for the *recommended* specs.
 - **Emulator**:
 	- Show trophy popups: Off
 
-*Deluxe Settings*:  
-- **Main Menu**: Music Library BG's
-- **Music Library**: Music Store
-- **Venues**: Small Club Venues
-- **Venue Intro**: Off
-- **Rotate Venues**: On
-- **Rotate Bandmates**: On
-- **Venue FPS**: 60
-- **Detail Level**: High
-- **Motion Blur**: On
-- **Camera Shake**: Off
-- **Depth of Field**: Off
-- **Film Grain**: On
-- **Full Combo SFX**: RB4 New
-- **Menu Theme**: Rivals (PS3)
-- **AshCentral Welcome**: Off
-- **High Song Count Warning**: Off
-
 
 ### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip)
 These are the settings used for the *minimum* specs.
@@ -75,19 +57,6 @@ These are the settings used for the *minimum* specs.
 - **Emulator**:
 	- Show trophy popups: Off
 
-*Deluxe Settings*:  
-- **Main Menu**: Music Library BG's
-- **Music Library**: Music Store
-- **Venues**: Small Club Venues
-- **Venue Intro**: Off
-- **Rotate Venues**: On
-- **Rotate Bandmates**: On
-- **Venue FPS**: 30
-- **Post Processing**: Disable All
-- **Full Combo SFX**: RB4 New
-- **Menu Theme**: Rivals (PS3)
-- **AshCentral Welcome**: Off
-- **High Song Count Warning**: Off
 
 </br>
 
@@ -95,7 +64,7 @@ These are the settings used for the *minimum* specs.
 #### User settings
 These are settings used and confirmed working by Milohax Community members.
 
-##### [[Sloth settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/slothsettings.zip)
+##### [[SlothDemon1991 settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/slothsettings.zip)
 These are used daily on an AMD Ryzen 2600 CPU, a NVIDIA GT 730 (2GB) GPU, and 8 GBs of RAM, by SlothDemon1991.
 
 ##### [[Carl settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/carlsettings.zip)
