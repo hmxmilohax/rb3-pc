@@ -9,96 +9,94 @@ To use these, click on the settings you want to download then extract the ZIP ar
 ### [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip)
 These are the settings used for the *recommended* specs.
 
-Where's what they edit:
-
-RPCS3 Configuration:  
-- CPU:
+*RPCS3 Configuration*:  
+- **CPU**:
 	- SPU Block Size: Mega
-- GPU:
+- **GPU**:
 	- Write Color Buffers (Recommended)
 	- Framelimit: Off
 	- Resolution Scale: 150% (1920x1080)
 	- Anisotropic Filter: 16x
 	- ZCULL Accuracy: Relaxed (Fastest)
 	- VSync Enabled
-- Audio:
+- **Audio**:
 	- Audio Buffer Duration: 32 ms
-- Network:
+- **Network**:
 	- Network Status: Connected
 	- AshCentral IP/Hosts Switches
 	- Enable UPNP: On
-- Advanced:
+- **Advanced**:
 	- Debug Console Mode: On
 	- Exclusive Fullscreen Mode: Prefer Borderless fullscreen
 	- Driver Wake-Up Delay: 20 µs
-- Emulator:
+- **Emulator**:
 	- Show trophy popups: Off
 
-Deluxe Settings:  
-- Main Menu: Music Library BG's
-- Music Library: Music Store
-- Venues: Small Club Venues
-- Venue Intro: Off
-- Rotate Venues: On
-- Rotate Bandmates: On
-- Venue FPS: 60
-- Detail Level: High
-- Motion Blur: On
-- Camera Shake: Off
-- Depth of Field: Off
-- Film Grain: On
-- Full Combo SFX: RB4 New
-- Menu Theme: Rivals (PS3)
-- AshCentral Welcome: Off
-- High Song Count Warning: Off
+*Deluxe Settings*:  
+- **Main Menu**: Music Library BG's
+- **Music Library**: Music Store
+- **Venues**: Small Club Venues
+- **Venue Intro**: Off
+- **Rotate Venues**: On
+- **Rotate Bandmates**: On
+- **Venue FPS**: 60
+- **Detail Level**: High
+- **Motion Blur**: On
+- **Camera Shake**: Off
+- **Depth of Field**: Off
+- **Film Grain**: On
+- **Full Combo SFX**: RB4 New
+- **Menu Theme**: Rivals (PS3)
+- **AshCentral Welcome**: Off
+- **High Song Count Warning**: Off
 
 
 ### [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip)
 These are the settings used for the *minimum* specs.
 
-RPCS3 Configuration:  
-- CPU:
+*RPCS3 Configuration*:  
+- **CPU**:
 	- SPU Block Size: Mega
 	- Preferred SPU Threads: 2
-- GPU:
+- **GPU**:
 	- Write Color Buffers (Recommended)
 	- Framelimit: Off
 	- ZCULL Accuracy: Relaxed (Fastest)
-- Audio:
+- **Audio**:
 	- Audio Buffer Duration: 100 ms
-- Network:
+- **Network**:
 	- Network Status: Connected
 	- AshCentral IP/Hosts Switches
 	- Enable UPNP: On
-- Advanced:
+- **Advanced**:
 	- Debug Console Mode: On
 	- Exclusive Fullscreen Mode: Prefer Borderless fullscreen
 	- Driver Wake-Up Delay: 40 µs
-- Emulator:
+- **Emulator**:
 	- Show trophy popups: Off
 
-Deluxe Settings:  
-- Main Menu: Music Library BG's
-- Music Library: Music Store
-- Venues: Small Club Venues
-- Venue Intro: Off
-- Rotate Venues: On
-- Rotate Bandmates: On
-- Venue FPS: 30
-- Post Processing: Disable All
-- Full Combo SFX: RB4 New
-- Menu Theme: Rivals (PS3)
-- AshCentral Welcome: Off
-- High Song Count Warning: Off
+*Deluxe Settings*:  
+- **Main Menu**: Music Library BG's
+- **Music Library**: Music Store
+- **Venues**: Small Club Venues
+- **Venue Intro**: Off
+- **Rotate Venues**: On
+- **Rotate Bandmates**: On
+- **Venue FPS**: 30
+- **Post Processing**: Disable All
+- **Full Combo SFX**: RB4 New
+- **Menu Theme**: Rivals (PS3)
+- **AshCentral Welcome**: Off
+- **High Song Count Warning**: Off
 
 </br>
 
 
-## User settings
+#### User settings
 These are settings used and confirmed working by Milohax Community members.
 
-### [[Sloth settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/slothsettings.zip)
+##### [[Sloth settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/slothsettings.zip)
 These are used daily on an AMD Ryzen 2600 CPU, a NVIDIA GT 730 (2GB) GPU, and 8 GBs of RAM, by SlothDemon1991.
 
-### [[Carl settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/carlsettings.zip)
+##### [[Carl settings]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/carlsettings.zip)
 These settings are strictly here for me to download due to constant emulator resets due to writing tutorials. These are used daily on an AMD Ryzen 3900x CPU, a NVIDIA GTX 1660 GPU, 32 GBs of 3600 MHz RAM, a Samsung 980 Pro 2 M.2 PCIe x4 NVME SSD, and a Focusrite Scarlett 18i20 interface. I'm strictly keeping these here for my use and suggest you avoid using these.  
