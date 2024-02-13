@@ -167,8 +167,6 @@ Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hace
 
 # Configuración:
 
-*SI HAS CAMBIADO LA CONFIGURACION DE RPCS3, RESTAURA TODO A LO PREDETERMINADO ANTES DE SEGUIR ESTA GUIA.*
-
 <br/>
 
 ## Controladores:
@@ -340,8 +338,8 @@ Para obtener más información sobre estas configuraciones, [[consulta la pagina
 
 # Configuración Personalizada:
 
-**Haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration**" (Crear configuración personalizada)  
-![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration" resaltado](images/cust/rpcs3customconfig.png "Create Custom Configuration")
+**Haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration From Default Settings**" (Create configuración personalizada basada en la configuración por defecto)  
+![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration From Default Settings" resaltado](images/cust/rpcs3customconfig.png "Create Custom Configuration From Default Settings")
 
 Esto puede parecer abrumador debido a la gran cantidad de opciones, pero he codificado las cosas que vas a ajustar con colores. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
 
