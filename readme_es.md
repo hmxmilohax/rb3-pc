@@ -374,16 +374,19 @@ Iremos pestaña por pestaña, comenzando con:
 	* **Cambia "Frame Limit"** (Limite de fotogramas):
 		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.
 		* A "60" si quieres fotogramas limitadas a 60 FPS (redundante con Vblank de 60 Hz).
-		* **Es sugerido utilizar la configuración de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.**
+		* "Auto" va usar lo predeterminado de RPCS3.
+		* Es sugerido utilizar la configuración de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.
 		* Aumentando las fotogramas después de 60 utiliza muchos mas recursos. No es recomendado para sistemas de baja gama.
 		* Fotogramas mas alta que 60 pueden causar problemas con la detección de vocales.
-	* **Ajusta "Shader Quality"** (Calidad de Shaders) dependiendo de tu sistema. 
-		* "Low" (Bajo) y "Medium" (Medio) reducirá la calidad drásticamente.
-		* "High" (Alto) es la mejor opción. "Ultra" se ve similar a alto.
-		* "Auto" usará la configuración sugerida por RPCS3,
-	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto. Bájalo para obtener mas rendimiento a costa de una drástica pérdida de calidad. Auméntala para obtener Gráficas más nítidos.
-	* **Ajusta el "Resolution Scale Threshold"** (Límite de nivel de resolución) dependiendo de la "Resolution Scale" de arriba. Usa el número de porcentaje con el que aumentaste tu resolución (por ejemplo, para 1920x1080, que es un 150% de 1280x720, calcularías cuál es el 150% de 16, lo que sería 24).
 	* **Cambia "ZCULL Accuracy"** (Precisión de ZCull) a "Relaxed" (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.
+	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto y a lo que puede tu computadora. Auméntala para obtener Gráficas más nítidos.
+	* **Cambia "Output Scaling"** a tu gusto y a lo que puede tu computadora. Esto afecta como se va "estirar" la imagen a tu para llegar a la resolución de tu pantalla usando diferente métodos de interpolación. Puede ayudar a los que tienen su nivel de resolución (mencionado arriba) en 100%.
+		* "Nearest" (aproximación) es la interpolación mas cruda. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en pixelización.
+		* Bilinear (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.
+		* FidelityFX Super Resolution (FSR) usa calculaciones complejas para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
+			* Puedes usar "RCAS Sharpening Strength" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.
+	* ![Un cuadro bronceado con contorno solido.](images/cust/smalltan.png "Cuadro bronceado") **Para GPUs de alto poder y usuarios avanzados.**: 
+		* **Cambia "Default Resolution"** (Resolución Predeterminada) **a "1920x1080"**. Oficialmente, Rock Band 3 esta limitado a 1280x720, pero se puede ajustar manualmente para correr en una resolución mas alta. Si quieres mas información, [mira esta pagina](forcefullhd_es.md) después de terminar con las configuración principal.
 
 
 <br/>
@@ -471,7 +474,7 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 
 
 ## Advanced
-![Una captura de la configuración personalizada avanzada, con "Driver Wake-Up Delay (1µ)" resaltado en un cuadro verde con una línea discontinua, "Exclusive Fullscreen Mode", "VBlank Frequency", "Maximum Number of SPURS Threads", y "Silence All Logs" resaltados en cuadros azules con contornos punteados, y "Debug Console Mode" resaltado en un cuadro bronceado con un contorno solido.](images/cust/advanced.png "Advanced")
+![Una captura de la configuración personalizada avanzada, con "Driver Wake-Up Delay (1µ)" resaltado en un cuadro verde con una línea discontinua, "Exclusive Fullscreen Mode", "VBlank Frequency" y "Maximum Number of SPURS Threads" resaltados en cuadros azules con contornos punteados, y "Debug Console Mode" resaltado en un cuadro bronceado con un contorno solido.](images/cust/advanced.png "Advanced")
 
 * ![Un cuadro verde con una línea discontinua.](images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.** 
@@ -480,7 +483,6 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
 		* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
-	* **Activa "Silence All Logs"** - **ESTO NO ESTA SUGERIDO** pero puede ayudar con rendimiento en sistemas que tengas discos de almacenamiento antiguos, como discos duros (HDD) . **SI ACTIVAS ESTO, NI LA COMODIDAD DE RPCS3 O DE MILOHAX TE PODRÁN AYUDAR con problemas porque no va existir un registro de errores**!
 * ![Un cuadro bronceado con un contorno solido.](images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
 	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - **Con Rock Band 3 Deluxe instalado, esto aumenta cuanta memoria Rock Band 3 puede usar. Esto va a ayudar tener sesiones mas largas. mejor estabilidad, mas tener mas canciones en tu librería de música.** Si tu computadora esta en el requisitos mínimos (o mejor), no hay razón para no activar esto.
 
@@ -509,123 +511,9 @@ Y con eso termina la parte difícil.
 
 <br/>
 
-# AshCentral
+## AshCentral
 
-Versión Vídeo de esta sección subtitulada en Español:  
-[![Una mini-imagen de la versión vídeo de esta sección de la guía.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
-
-**Si no estas jugando en AshCentral**, [[**puedes seguir a la siguiente sección**]](#conexión-directa).
-
-### Preparaciones para AshCentral:
-
-Para usar el sistema de códigos de sala en AshCentral, **asegúrate que RPCS3 este configurado para conectar a AshCentral**. **Entra al** [[**Discord de Milohax**]](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**.
-
-**Copia la información a RPCS3 como dicho en la sección** [**[network]**](#network) (red) **de la guia**.
-
-Cuando hagas eso, [**[ve al sitio de AshCentral, GoCentral.Rocks]**](https://gocentral.rocks/) **para registrar una cuenta**.
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, con la opción "Register" de la subsección "Account" resaltada.](images/ash/splash.png)](https://gocentral.rocks/ "GoCentral")
-
-**Registra** (Register) **tu cuenta.**
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de registro, con "Register" resaltado.](images/ash/register.png)](https://gocentral.rocks/register "GoCentral - Register")
-
-Cuando registres tu cuenta, **entra tus datos para entrar a la cuenta**.
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de inicio de sesión, con "Login" resaltado](images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
-
-Te va a regresar a la pagina principal. **Se va ver tu usuario en el rincón derecho de arriba. Mueve el cursor arriba de tu nombre y luego haz clic en "Settings"** (Ajustes).
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, con la opción "Settings" de la subsección del nombre de usuario resaltada.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
-
-**En la pagina de "Settings" vas a ver una opcion llamada "Link Account"** (Connectar Cuenta). **Hazle clic**.
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de información de la cuenta, con "Link Account" resaltado.](images/ash/settings.png)](https://gocentral.rocks/link "GoCentral")
-
-Te va a llevar a una pagina donde vas a entrar el código para conectar tu cuenta con el juego. Deja esta pagina abierta. **Deja a esta pagina abierta**.
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de vinculación de cuentas, con "Link" resaltado.](images/ash/link.png)](https://gocentral.rocks/link "GoCentral")
-
-**Abre Rock Band 3**.
-
-Cuando cargue el menú principal, **entra a las "Opciones"**
-
-![Captura de Rock Band 3, con Opciones resaltadas.](images/ash/optionses.png "Rock Band 3: Options")
-
-**Ve a "Extras".**
-
-![Captura de Rock Band 3, con "Extras" resaltado.](images/ash/extrases.png "Rock Band 3: Extras")
-
-**Ve a "Código de Activación de Cuenta"**.
-
-![Captura de Rock Band 3, con "Código de Activación de Cuenta" resaltado.](images/ash/accountlinkingcodees.png "Rock Band 3: Código de Activación de Cuenta")
-
-**Te va dar un código**.
-
-![Captura de Rock Band 3, con un código para entrar en gocentral.rocks.](images/ash/codees.png "Rock Band 3: Code Here")
-
-Ahora, **copia el código en la pagina, y haz clic a "Link"** (Conectar). **Despues, reinicia Rock Band 3**.
-
-![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de vinculación de cuentas, con "Link" resaltado.](images/ash/link.png "GoCentral - Link Account")
-
-Te va a regresar a la pagina principal. **Se va ver tu usuario en el rincón derecho de arriba. Mueve el cursor arriba de tu nombre y luego haz clic en "Settings"** (Ajustes).
-
-[![Captura del sitio web de AshCentral, GoCentral.Rocks, con la opción "Settings" de la subsección del nombre de usuario resaltada.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
-
-Si hiciste todo bien, **la pagina de va enseñar el usuario de tu cuenta RPCN, que estas usando RPCS3, Band Name (nombre de banda), y fans.**
-
-![Captura del sitio web de AshCentral, GoCentral.Rocks, en la subpágina de información de la cuenta, con nuevos detalles.](images/ash/linked.png "GoCentral - Settings")
-
-Si no vez nada nuevo, no entraste el código correcto. Las letras de Rock Band 3 pueden ser un poco difícil para leer así que aveces se necesita tratar otra vez. 
-
-Ahora, vamos a ver como crear o entrar a sesiones.
-
-**Abre Rock Band 3** (si no esta abierto).
-
-**En la pagina principal de AshCentral, haz clic a "Join Game"** (Entrar a juego).
-
-[![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, con la opción "Join Game" resaltada.](images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
-
-**Antes de crear o entrar a una sesión, necesitas tienes que presionar en "Play on AshCentral" en el menu de Rock Band 3.**
-
-![Captura de pantalla de Rock Band 3, con "Play on AshCentral" resaltado.](images/ash/ashcentrales.png "Rock Band 3: Play on AshCentral")
-
-
-### Creando Sesiones:
-
-**Haz click en "Host Session"** en GoCentral.Rocks.
-[![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Game", con "Host Session" resaltado..](images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
-
-Te dará un código. **Pasa este código a todos los que quieres invitar.**
-
-[![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Host Session", con un código de sesión y una reloj contando para abajo.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
-
-Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Players"** (Encontrar jugadores en AshCentral).
-
-![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
-
-Ahora debes de ver que se conecten los que fueron invitados.
-
-![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
-
-### Entrando a Sesiones:
-
-**Haz clic en "Join Session"** (Unirse a sesión) en GoCentral.Rocks.
-[![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Game", con "Join Session" resaltado.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
-
-**Entra el codigo que te mandaron**.
-
-[![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Session", pidiendo al usuario un código de sesión.](images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
-
-Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Players"** (Encontrar jugadores en AshCentral).
-
-![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
-
-Te vas a conectar a la session donde fuiste invitado.
-
-![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
-
-Acuérdate, necesitas que presionar "Play on AshCentral" en Rock Band 3 antes de que te unas o creas una sesiona en GoCentral.Rocks.
+**ESTA PARTE ESTA BAJO RECONSTRUCCION!**
 
 <br/>
 

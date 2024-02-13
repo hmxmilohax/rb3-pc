@@ -383,11 +383,11 @@ We'll go tab by tab, starting with:
 		* Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.
 		* Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.
 	* **Change "ZCULL Accuracy" to "Relaxed"** - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.
-	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Lower for performance gains at a drastic cost in quality. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution.
-	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale at 100% and playing on a monitor larger than 1280x720.
-		* Nearest is completely unfiltered and gives you an unmodified image.
-		* Bilinear filter uses smoothing to scale the image up. This may cause the game to look blurry.
-		* FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image.
+	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn't worth it as it won't give much, if any, framerate gains.
+	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% and playing on a monitor larger than 1280x720.
+		* "Nearest" is completely unfiltered and gives you raw unmodified image. This can cause the game to look pixelated.
+		* "Bilinear" uses smoothing to scale the image up. This may cause the game to look blurry. This can cause the game to look blurry.
+		* FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image when it gets blown up to your monitor's resolution. This can create odd artifacts in some instances.
 			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
 	* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For high-end GPUs and advanced users**: 
 		* **Change "Default Resolution" to "1920x1080"**. While Rock Band 3 officially caps out at 720p, 1080p can be forced on by manually editing the configuration file or editing the game data configuration. Please refer to [the relevant guide on how to do this and what benefits there are](forcefullhd.md) after finishing up with everything else.
@@ -467,14 +467,13 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 <br/>
 
 ## Advanced
-![A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, "Exclusive Fullscreen Mode, VBlank Frequency, Maximum Number of SPURS Threads, and Silence All Logs highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline.](images/cust/advanced.png "Advanced")
+![A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, "Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline.](images/cust/advanced.png "Advanced")
 * ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Change "Driver Wake-up Delay" to "20µ"** to avoid crashing after a few songs. Increase it to "40µ" if the issue persists.
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Tan Square") **Depending on your computer**: 
 	* **Adjust VBlank Frequency** if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. **It's best left alone** and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
 		* Once again, having a higher VBlank can cause issues with vocal detection.
 	* **Change "Maximum Number of SPURS Threads"** - May improve performance on systems with less cores and threads [[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
-	* **Enable "Silence All Logs"** - **Not suggested** but can help reduce drive usage on computers with slower drives. This is a non-issue for most people. **DISABLING THIS MEANS NEITHER THE RPCS3 TEAM NOR THE MILOHAX TEAM WILL BE ABLE TO HELP YOU with troubleshooting and crashes as no log will exist**!
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **Strongly Suggested**: 
 	* **Enable "Debug Console Mode"** - With Rock Band 3 Deluxe installed, and "Large Heap" enabled in its settings, along with this option enabled, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. If your computer is within the minimum (or higher) requirements, there's no reason you shouldn't enable this.
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing from Rock Band 3 to another program.
@@ -505,125 +504,12 @@ That's the difficult part over with.
 
 <br/>
 
-# AshCentral:
+## AshCentral
 
-Video Version:  
-[![A thumbnail of the video version of this section of the tutorial.](images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
-
-**If you're not playing on AshCentral**, [[**skip over this section**]](#passthrough-devices).
-
-Although <h2> you don't need to set up room codes to play online in AshCentral, </h2>  it's still suggested to set this up beforehand just in case.
-
-### Setting Up AshCentral:
-
-To use the room code system on AshCentral, **make sure RPCS3 is set to connect to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
-
-**Copy the information into RPCS3** like mentioned in the [**[network]**](#network) section of the guide.
-
-Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.rocks/) **to register an account**.
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Register" option from the "Account" subsection being moused over.](images/ash/splash.png)](https://gocentral.rocks/ "GoCentral")
-
-**Register your account.**
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, in the register subpage, with "Register" being moused over.](images/ash/register.png)](https://gocentral.rocks/register "GoCentral - Register")
-
-**When you register your account**, you'll be prompted to **log in**. Do so.
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, in the login subpage, with "Login" being moused over.](images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
-
-You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
-
-**In the settings page, you'll see a "Link Account" option. Click on that.**
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, in the account information subpage, with "Link Account" being moused over](images/ash/settings.png)](https://gocentral.rocks/link "GoCentral")
-
-This will take you to a page to type in an account linking code. **Leave this page open.**
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png)](https://gocentral.rocks/link "GoCentral")
-
-**Start up Rock Band 3**.
-
-Once it launches, **go the main options menu.**
-
-![A screenshot of Rock Band 3, with Options being highlighted.](images/ash/options.png "Rock Band 3: Options")
-
-**Go to the extras menu.**
-
-![A screenshot of Rock Band 3, with extras being highlighted.](images/ash/extras.png "Rock Band 3: Extras")
-
-**Go to "Account-linking code."**
-
-![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
-
-**You should see a code now.**
-
-![A screenshot of Rock Band 3, telling the user to copy the code at the bottom into AshCentral.](images/ash/code.png "Rock Band 3: Code Here")
-
-Now, **copy the code into Gocentral.Rocks, then click "Link." After that, restart Rock Band 3.**
-
-![A screenshot of AshCentral's website, GoCentral.Rocks, in the account linking subpage, with "Link" being moused over.](images/ash/link.png "GoCentral - Link Account")
-
-You'll be taken back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Settings" option from the user name's subsection being moused over.](images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
-
-If you did everything correctly, **you should see more information for your account, including your account name, console, band name, and fans**.
-
-![A screenshot of AshCentral's website, GoCentral.Rocks, in the account information subpage, showing new details under Rock Band 3 account.](images/ash/linked.png "GoCentral - Settings")
-
-If the website didn't find anything, you may have mistyped the code. Rock Band 3's font may be a bit hard to read so you may have to try again.
-
-Now, let's go over hosting or joining sessions.
-
-**First, launch Rock Band 3** (if it's not already open).
-
-**On the front page of AshCentral, click on "Join Game"**.
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Join Game" being moused over.](images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
-
-**Before clicking either "Host Session" or "Join Session", make sure to press "Play on AshCentral" in Rock Band 3's options menu.**
-
-![A screenshot of Rock Band 3, with "Play on AshCentral" being highlighted.](images/ash/ashcentral.png "Rock Band 3: Play on AshCentral")
-
-
-### Hosting Sessions:
-
-**Click on "Host Session"** on GoCentral.Rocks.
-[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Host Session" being moused over.](images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
-
-You will get a code. **Send this code to those you want to join your session.**
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Host Session" subpage, with a session code and a countdown displayed.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
-
-Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
-
-![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
-
-You should see invited players connected to your lobby.
-![A screenshot of Rock Band 3, in an online lobby.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
-
-### Joining Sessions:
-
-**Click on "Join Session"** on GoCentral.Rocks.
-[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Join Session" being moused over.](images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
-
-**Enter the session code you were sent.**
-
-[![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Session" subpage, asking the user for a session code.](images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
-
-Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral Players"**
-
-![A screenshot of Rock Band 3, with "Find AshCentral Players" highlighted.](images/ash/findashcentralplayers.png "Rock Band 3: Find AshCentral Players")
-
-You should connect to the lobby you were invited to.
-![A screenshot of Rock Band 3, in an online lobby.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
-
-Again, **remember to press "Play on AshCentral" in Rock Band 3 before joining or hosting a session on GoCentral.Rocks.**
+**THIS PART IS UNDER RECONSTRUCTION!!**
 
 <br/>
+
 
 # Passthrough Devices: 
 
