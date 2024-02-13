@@ -87,13 +87,13 @@ Te dará un código. **Pasa este código a todos los que quieres invitar.**
 
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Host Session", con un código de sesión y una reloj contando para abajo.](images/ash/hostroom.png)](https://gocentral.rocks/sessions/host "GoCentral - Host Session")
 
-Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Players"** (Encontrar jugadores en AshCentral).
+Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Buscar Jugadores En AshCentral"**.
 
-![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
+![Captura de pantalla de Rock Band 3, con "Buscar Jugadores En AshCentral" resaltado.](images/ash/findashcentralplayerses.png "Rock Band 3: Buscar Jugadores En AshCentral")
 
 Ahora debes de ver que se conecten los que fueron invitados.
 
-![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
+![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/hostlobbyes.png "Rock Band 3: Buscando jugadores en AshCentral")
 
 ### Entrando a Sesiones:
 
@@ -110,6 +110,6 @@ Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Play
 
 Te vas a conectar a la session donde fuiste invitado.
 
-![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/joinlobby.png "Rock Band 3: Finding AshCentral Players")
+![Captura de pantalla de Rock Band 3, en un cuarto en linea.](images/ash/joinlobbyes.png "Rock Band 3: Buscando jugadores en AshCentral...")
 
 Acuérdate, necesitas que presionar "Play on AshCentral" en Rock Band 3 antes de que te unas o creas una sesiona en GoCentral.Rocks.
