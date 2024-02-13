@@ -111,7 +111,7 @@ _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE 
 Como antes, la imagen de abajo va directa a la página de descarga.
 [![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](images/inst/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
 
-Ahora, **abre RPCS3**. **Marca a "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again" (No volver a mostrar), y, por fin, haz clic en "Continue"** (Continuar).  
+Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja a esta carpeta abierto en el fondo. **Marca a "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again" (No volver a mostrar), y, por fin, haz clic en "Continue"** (Continuar).  
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](images/inst/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 
@@ -131,10 +131,14 @@ Ahora, **abre RPCS3**. **Marca a "I have read the Quickstart guide"** (He leído
 Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
 ![Una captura de RPCS3 compilando módulos PPU con una barra de progreso en 1/8 de finalización.](images/inst/rpcs3fwcomp.png "Compiling PPU modules... (Compilando módulos de PPU...)")
 
-Después, **ve a la carpeta donde tienes tu copia de Rock Band 3 y arrastra la carpeta a RPCS3**. Pon esta carpeta en un lugar donde no la vas a borrar por accidente, porque la necesitas. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)
+Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" en la carpeta de RPCS3**. Pon esta carpeta en un lugar donde no la vas a borrar por accidente, porque la necesitas. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)  
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Ahora, Rock Band 3 está en tu biblioteca en RPCS3, pero todavía no esta listo. **Vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/).
+Después de mover la carpeta de Rock Band 3, refresca a RPCS3 para actualizar tu biblioteca en RPCS3. 
+
+![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
+
+**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/).
 
 Rock Band 3 Deluxe es una modificación que arregla problemas critícales con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.neocities.org/features).
 
