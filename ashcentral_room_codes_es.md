@@ -3,7 +3,7 @@ Versión Vídeo de esta sección subtitulada en Español:
 
 **Códigos privados solo son útiles para crear sesiones privadas con jugadores en consola. Si quieres invitar alguien que juega en emulador, usa la opción de "Invitar a Amigos" dentro del menú de "Jugar en AshCentral"!**
 
-### Preparaciones para códigos privados:
+### Preparaciones para usar códigos privados en AshCentral:
 
 Para usar el sistema de códigos de sala en AshCentral, **asegúrate que RPCS3 este configurado para conectar a AshCentral**. **Entra al** [[**Discord de Milohax**]](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**.
 

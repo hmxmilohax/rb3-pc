@@ -3,7 +3,7 @@ Video Version:
 
 **Room Codes are only useful for setting up private lobbies with console players. If you're inviting someone who's on an emulator, use the "Invite Friend" option in the "Play on AshCentral" menu!**
 
-### Setting Up AshCentral:
+### Setting up for room codes on AshCentral:
 
 To use the room code system on AshCentral, **make sure RPCS3 is set to connect to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
 

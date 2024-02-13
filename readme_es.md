@@ -100,7 +100,7 @@ Baja un poco y descarga la versión para Windows.
 
 Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicional para evitar problemas de permisos. También desactiva la opción para crear un subdirectorio, como en la imagen.
 
-**Evita instalar Rock Band 3 en un disco externo**, por que mayoría no tiene estabilidad para jugar sin interrupciones.  
+**Evita instalar y lanzar Rock Band 3 de un disco externo o una carpeta sincronizada (Dropbox, OneDrive, etc.)**, por que pueden causar inestabilidad y otros problemas.  
 
 ![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](images/inst/extractdires.png "Extract")
 
@@ -111,7 +111,7 @@ _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE 
 Como antes, la imagen de abajo va directa a la página de descarga.
 [![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](images/inst/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3")
 
-Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja a esta carpeta abierto en el fondo. **Marca a "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again" (No volver a mostrar), y, por fin, haz clic en "Continue"** (Continuar).  
+Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja a esta carpeta abierta en el fondo. **Marca a "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again" (No volver a mostrar) y, por fin, haz clic en "Continue"** (Continuar).  
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](images/inst/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 
@@ -131,10 +131,10 @@ Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja a esta carpe
 Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
 ![Una captura de RPCS3 compilando módulos PPU con una barra de progreso en 1/8 de finalización.](images/inst/rpcs3fwcomp.png "Compiling PPU modules... (Compilando módulos de PPU...)")
 
-Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" en la carpeta de RPCS3**. Pon esta carpeta en un lugar donde no la vas a borrar por accidente, porque la necesitas. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)  
+Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U)  
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Después de mover la carpeta de Rock Band 3, refresca a RPCS3 para actualizar tu biblioteca en RPCS3. 
+Después de mover la carpeta de Rock Band 3, haz clic en "Refresh" (actualizar) en RPCS3 para actualizar tu biblioteca en RPCS3. Rock Band 3 debe de aparecer en tu biblioteca de juegos.
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
@@ -231,7 +231,7 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 **Asegúrate que "Device Class" (Clase de controlador) este en "Drums" (Batería).**
 
-**Cambia el menú desplegable junto a "Device Class" a "Rock Band Pro" si estás usando baterías de Rock Band, sin, o con, expansiones Pro. **¡NO USES LA OPCION "ROCK BAND"!" Déjalo en "Guitar Hero" si estás usando baterías de Guitar Hero.**
+**Cambia el menú desplegable junto a "Device Class" a "Rock Band Pro"** si estás usando baterías de Rock Band, sin, o con, expansiones Pro. **¡NO USES LA OPCION "ROCK BAND"!" Déjalo en "Guitar Hero" si estás usando baterías de Guitar Hero.**
 
 
 | **RPCS3**    | **Batería Rock Band** | **Batería Guitar Hero** |
@@ -345,7 +345,7 @@ Para obtener más información sobre estas configuraciones, [[consulta la pagina
 **Haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration From Default Settings**" (Create configuración personalizada basada en la configuración por defecto)  
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration From Default Settings" resaltado](images/cust/rpcs3customconfig.png "Create Custom Configuration From Default Settings")
 
-Esto puede parecer abrumador debido a la gran cantidad de opciones, pero he codificado las cosas que vas a ajustar con colores. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
+Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he coloreado las cosas que vas a ajustar. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
 
 | COLOR | SIGNIFICADO |
 |---|---|
@@ -606,7 +606,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 *   **_\[ONLINE\] No puedo encontrar al tercer o cuarto jugador_**
 	*   En la configuración Personalizada de Rock Band 3, [[ve a la pestaña de "Network" de configuración personalizada]](#network) y asegúrate de tener activado la opción "Enable UPNP". Si por alguna razón no puedes activar el UPNP, tendrás que redireccionar el puerto 9103 (UDP) en tu cortafuegos . **No actives el UPNP mientras estas redireccionando el puerto** ya que esto puede causar crasheos.
 
-*   **_\[ONLINE\] Crasheo cuando busco jugadores**
+*   **_\[ONLINE\] Crasheo cuando busco jugadores._**
   - Si tienes UPNP prendido en la Configuración Personalizada de Rock Band 3 [[sección de Network]](#network), deberás desactivarlo y [[buscar cómo configurar el reenvío de puertos en tu enrutador]]([https://www.noip.com/support/knowledgebase/general-port-forwarding-guide](https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router)).
 	
 *   **_\[ONLINE\] Al tratar de conectar a GoCentral el juego se queda en "Registering Account_**
