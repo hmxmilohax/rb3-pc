@@ -41,9 +41,9 @@ jobs:
           # For example, you can use a script to parse your markdown files and generate the navigation bar dynamically
           # Output the generated HTML to a file, e.g., _site/navigation.html
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
-          artifact-name: site
+          name: site
           path: _site
 
   # Deployment job
@@ -55,7 +55,7 @@ jobs:
     needs: build
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v2
         with:
           name: site
       - name: Deploy to GitHub Pages
