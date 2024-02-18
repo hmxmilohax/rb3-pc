@@ -28,7 +28,7 @@ Paste it into:
 ## Instrument List:
 
 #### Drums:
-* [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
+* [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MIDI%20Drums#notes) - Does not include a profile but does have instructions. Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
 	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#notes)
 * [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Must be a MIDI drum kit.
 	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
@@ -56,6 +56,9 @@ Paste it into:
 ## Missing Instruments:
 
 #### TODO:
+* [TODO] Xbox One/Xbox Series S/X Riffmaster Guitar
+* [TODO] Xbox One/Xbox Series S/X Rock Band 4 Guitar
+* [TODO] Xbox One/Xbox Series S/X Rock Band 4 Drums
 * [TODO] Wii Rock Band MIDI Pro Adapter Drums
 * [TODO] Wii Rock Band Drums
 * [TODO] Wii Guitar Hero Genericaster Guitar
@@ -79,13 +82,9 @@ If you own any of these instruments and wish to help, please contact me on the [
 * Rock Band 4 Drum Kit (PS4 Version)
 	* Bluetooth latency is unacceptable.
 	* Pro Cymbals refuse to work due to the format they're in.
-* Rock Band 4 Drum Kit (Xbox One Version)
-	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 * Rock Band 4 Guitar Controllers (PS4 Version)
 	* Bluetooth latency is unacceptable.
 	* Whammy, tilt, and effects switch can't be mapped.
-* Rock Band 4 Guitar Controllers (Xbox One Version)
-	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 
 ## Mapping:
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/main/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
@@ -173,7 +172,7 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 ## CREDITS:
 * [[TheNathannator's]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) for outstanding documentation on controllers.
 * [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter profiles
-* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDIDrum Hero Drums profile 
+* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDI Drums profile 
 * [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer profile
 * [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox 360 Rock Band Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, and Xbox 360 Guitar Hero Genericaster profiles
 * [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, and Wii Guitar Hero Drums profiles
