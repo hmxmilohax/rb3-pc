@@ -12,7 +12,7 @@
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/main/images/cust/pcs3customconfigchange.png "Change Custom Configuration")
 
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](images/cust/iod.png "I/O")
+![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://github.com/carlmylo/rb3-pc/blob/main/images/cust/iod.png "I/O")
 * ![A tan square with a solid outline](https://github.com/carlmylo/rb3-pc/blob/main/images/cust/smalltan.png "Tan Square") : 
 	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
@@ -61,14 +61,14 @@ Default Mapping:
 | **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") |
 | **48**, 50 | Hi-tom | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") |
 | **45**, 50 | Low-tom | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") |
-| **41**, 43 | Floor-tom | !![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") |
+| **41**, 43 | Floor-tom | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") |
 | **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yc.png "Yellow Cymbal") |
 | **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bc.png "Blue Cymbal") |
-| **49**, 52, 55, 57 | Crash Cymbal | !![Green Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gc.png "Green Cymbal") |
+| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gc.png "Green Cymbal") |
 | **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") |
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
 </div>
 
-Mapped by [[Linos]](https://www.youtube.com/@LinosMelendi)
+Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

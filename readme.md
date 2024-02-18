@@ -41,7 +41,7 @@ You will need:
 	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via MIDI to USB adapter)_
 	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
-	*   _MIDI Drum Kits (via USB or MIDI to USB adapter with MidiDrumHero and VJoy, or MIDI to Roll Limitless)_
+	*   _MIDI Drum Kits (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
 	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* Minimum:
@@ -65,8 +65,8 @@ You will need:
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
-<sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible. Xbox One guitars are exempt as they require multiple separate programs to work.</sub>  
-<sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible. Xbox One drum kits are exempt as they require multiple separate programs to work.</sub>  
+<sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible.</sub>  
+<sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible.</sub>  
 <sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
 <sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not ideal so they're exempt from this tutorial. Check the instrument repo for more help.</sub>  
   
@@ -414,8 +414,8 @@ We'll go tab by tab, starting with:
 <br/>
 
 ## I/O
-**This section is for people playing with USB/MIDI Keyboards or Pro Guitars!**
-* **If you're not playing with a wired Pro Guitar or a USB/MIDI keyboard,** [[**skip** over **this section**].](#network)  
+**This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!**
+* **If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard,** [[**skip** over **this section**].](#network)  
 * **If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [[**skip** over **this section**].](#network)  
 
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
@@ -442,6 +442,9 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For third party Keyboard and wired Pro Guitar players**: 
 	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it.**.
 	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it**.
+	* 🎸 🥁 **Pro Drums Players: Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+
+Visit the instrument repo if you're using a [[Xbox 360]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%203%20Keyboard#readme) or a [[Nintendo Wii]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Keyboard#readme) Rock Band 3 Keyboard connected via MIDI to USB. Also visit the instrument repo if you're on a [[MIDI Drum Kit]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MIDI%20Drums#readme) and wish to adjust mappings.
 
 * ![A blue square with a dotted outline.](images/cust/smallblue.png "Blue Square") **Tweak depending on CPU**: 
 	* **Change "Pad Handler Mode" to "Multi-threaded"** if you have a CPU **with more than 12 threads.**
