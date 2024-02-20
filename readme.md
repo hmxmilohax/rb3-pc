@@ -32,8 +32,8 @@ Video Version (Outdated):
 You will need:
 * _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 version)_
 * _An instrument controller. You can use:_
-	*   _Any Rock Band and Guitar Hero Guitar (PS2, PS3, Wii, X360)_<sup>a
-	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360)_<sup>b
+	*   _Any Rock Band and Guitar Hero Guitar (PS2, PS3, Wii, X360, XBONE, XSS/X)_<sup>a
+	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360, XBONE, XSS/X)_<sup>b
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (PS3, Wii, X360)_<sup>c
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c
@@ -175,7 +175,7 @@ You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To
 
 ## Controllers:
 
-**This section is for standard guitar controls, standard drums, and Pro Drums.**  
+**This section is for standard guitar controls, standard drums, and Xbox 360/Wii Pro Drums.**  
 Pro Guitars and/or Keyboards are set up later.
 
 If you're playing with a single instrument controller, consider the [[Instrument Repo]](instrument-repo#readme) which has easy drag and drop profiles for various rhythm game instruments.
@@ -325,7 +325,7 @@ Copy the token**:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/carlmylo/rb3-pc/tree/main#custom-configuration) to tweak to what's best for your computer.  
 [[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.neocities.org/) but if it's not already installed, you're not reading this guide and should go back and read it.  
 
-Players who want to use [[microphones]](#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#passthrough-devices) will still need to configure those.
+Players who want to use [[microphones]](#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](#io), [[Electronic Drum Kits]](#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#passthrough-devices) will still need to configure those.
 
 * [[Recommended settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/recommended.zip) - These are the settings used for the recommended specs listed in [[requirements]](#requirements).
 * [[Minimum settings]](https://github.com/carlmylo/rb3-pc/raw/main/config/customconfig/minimum.zip) - These are the settings used for the minimum specs listed in [[requirements]](#requirements).
@@ -365,7 +365,6 @@ We'll go tab by tab, starting with:
 	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which requiring fewer cores/threads. Drastically speeds up game startup time on certain machines.
 	* **Change "Preferred SPU Threads" to "1", "2", "3", or "4"** - May help prevent stutter caused by CPU overloads on systems with fewer cores/threads. **Start at 4 and lower it one by one until it improves**.
 	* **Change "Thread Scheduler" to "RPCS3 Scheduler", or "RPCS3 Alternative Scheduler"** - **FOR CPUs WITH 12+ THREADS ONLY!** May help with thread distribution to prevent microstutters.
-	* **AS A LAST RESORT** **"SPU XFloat Accuracy" to "Relaxed"** - Changing this will gain a few frames on low end systems but **will break practice mode and possibly other features!**
 
 <br/>
 
@@ -479,7 +478,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 	* **Change "Maximum Number of SPURS Threads"** - May improve performance on systems with less cores and threads [[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]](https://github.com/carlmylo/rb3-pc/issues/12#issue-1955946005).
 * ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **Strongly Suggested**: 
 	* **Enable "Debug Console Mode"** - With Rock Band 3 Deluxe installed, and "Large Heap" enabled in its settings, along with this option enabled, you can take advantage of higher memory access, leading to longer sessions with longer songs and increased stability. If your computer is within the minimum (or higher) requirements, there's no reason you shouldn't enable this.
-	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing from Rock Band 3 to another program.
+	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.
 	
 
 <br/>
@@ -526,7 +525,8 @@ Let's go over how to manage friends in RPCN.
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](images/rpcn/rpcn.png "RPCS3: RPCN")
 
-Click on **Friends**
+Click on **Friends**.
+
 ![A screenshot of RPCS3's RPCN menu, with "Friends" highlighted](images/rpcn/friends.png "RPCS3: RPCN")
 
 This will open the Friends window.
@@ -627,6 +627,7 @@ Searching for random players works just like it used to before:
 ![A screenshot of Rock Band 3 with "Find AshCentral Players" selected.](images/ash/findashcentralplayers.png "Find AshCentral Players")
 
 That's it! You should soon find other players!
+
 ![A screenshot of Rock Band 3 in a multiplayer lobby.](images/ash/hostlobby.png "Finding AshCentral Players")
 
 ### AshCentral: Room Codes
@@ -685,6 +686,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
 	*   Go back to the [[Custom Configuration setup section]](#custom-configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
+	*	If you motherboard has a Realtek audio, try [[installing the latest driver]](https://realtek-download.com/download-hd/). This is a [[known issue]](https://github.com/RPCS3/rpcs3/issues/14648) where using the default "High Definition Audio" driver doesn't use all threads.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client [[like Vesktop]](https://github.com/Vencord/Vesktop), but I claim no responsibility for your Discord account.
 
 *   **_"Characters have glitchy flying instruments and accessories."_**
@@ -703,7 +705,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Automatic Calibration only works for PS3 Rock Band guitar/bass controllers with passthrough.
 
 *   **_"My game gets stuck when naming a character or band."_**
-	*   This seems to vary by controller. Try using the whammy or effects switch if you have it. I'd also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard. You can try disabling the Native Interface as mentioned in [[the Emulator section of Custom Configuration]](#emulator).
+	*   This seems to vary by controller. Try using the whammy or effects switch if you have it. I'd also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard. You can also try disabling the Native Interface as mentioned in [[the Emulator section of Custom Configuration]](#emulator).
 
 *   **_"Scrolling through the library has long pauses."_**
 	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](#network) for Rock Band 3.
@@ -716,16 +718,18 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 		* If you still have this issue, redownload Rock Band 3 Deluxe as Github sometimes doesn't download correctly.
 	
 *   **_[Pro Drums] "Hitting two cymbals registers as a tom."_**
-	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even console versions. You can buy a Roll Limitless for your drums which fix this, or try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs.
+	*   This is an infamous Rock Band 3 bug called the "double cymbal glitch" and plagues all versions of Rock Band 3, even console versions. You can try to slightly [[flam]](https://en.wikipedia.org/wiki/Drum_rudiment#Flam) the two inputs to get around this.
 
 *   **_\[ONLINE\] "I cannot find a 3rd or 4th player when searching."_**
-	*   In Rock Band 3's Custom Configuration, [[go to the network tab]](#network) and make sure “Enable UPNP” is enabled. If for some reason you can't do UPNP, you will need to forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
+	*   Port 9103 is blocked. You can either enable UPNP in Rock Band 3's [[Network]](#network) configuration or manually forward port 9103 (UDP) in your firewall. **Don't enable UPNP while port forwarding** as this can cause crashes.
+	*	Rock Band 3 online lobbies can only have 2 slots of Guitar/Bass/Keys, one Drums slot, and one Vocal slot. If you want to bypass this, go to 
+	Options > Deluxe Settings > Advanced > Controller > Change Controller Type
 
 *   **_\[ONLINE\] "I crash when searching for players with UPNP enabled."_**
-	*   Your router may have issues with UPNP. Go to Rock Band 3's Custom Configuration [[Network section]](#network), and disable "Enable UPNP." You will need to [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
+	*   Your router may have issues with RPCS3's UPNP feature. Go to Rock Band 3's Custom Configuration [[Network section]](#network), and disable "Enable UPNP." You will need to [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
 *   **_\[ONLINE\] "I'm stuck on “Registering Account” when trying to connect to online servers."_**
-	*   You may have lost connection to RPCN or GoCentral and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
+	*   You may have lost connection to RPCN  and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
  
 *   **_\[ONLINE\] "I keep disconnecting constantly while playing online."_**
 	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable if possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, there's not much that can be done aside from getting better internet.
