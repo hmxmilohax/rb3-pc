@@ -1,4 +1,10 @@
-# Installation:
+---
+title: Installation
+author: Carl Mylo
+date: 2024-02-21
+category: English
+layout: post
+---
 
 Before starting the installation process, **make sure your drivers and operating system are up to date**.
 
