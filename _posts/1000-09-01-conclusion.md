@@ -1,4 +1,10 @@
-# Conclusion:
+---
+title: Conclusion
+author: Carl Mylo
+date: 1000-09-01
+category: English
+layout: post
+---
 
 That's it! You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why not join some communities that are helping keep the Rock Band community alive?
 
@@ -6,7 +12,7 @@ That's it! You now (hopefully) have set up Rock Band 3 on your PC. While you're 
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
 
 </div>
 
@@ -18,7 +24,7 @@ Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot
 
 **RBEnhanced:**
 
-[![RBEnhanced Logo](images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+[![RBEnhanced Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
 </div>
 

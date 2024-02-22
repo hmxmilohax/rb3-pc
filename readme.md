@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Rock Band 3 on RPCS3 - Intro
+title: Intro
 permalink: /
 ---
 
