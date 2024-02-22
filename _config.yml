@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            RB3 on RPCS3
+longtitle:        Rock Band 3 on PC with RPCS3
+author:           Carl Mylo
+email:            carl@carlmylo.com
 description: >
-  Build Jekyll site with the GitBook style.
+  How to set up Rock Band 3 to run a computer via RPCS3.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://carlmylo.github.io/'
+baseurl:          '/rb3-pc'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
