@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://carlmylo.github.io/'
+url:              'https://carlmylo.github.io'
 baseurl:          '/rb3-pc'
 rss:              RSS
 
