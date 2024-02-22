@@ -54,6 +54,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  english:
+    output: true
+    permalink: /:collection/:path/
+
 page_width: 800px
 
 destination:      ./_site
