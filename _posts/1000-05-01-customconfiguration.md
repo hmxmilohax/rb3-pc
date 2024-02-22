@@ -130,12 +130,12 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 <br/>
 
 ## Network
-![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](images/cust/network.png "Network")
+![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.48.123), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/network.png "Network")
 
-* ![A green square with a dashed outline.](images/cust/smallgreen.png "Green Square") **REQUIRED**: 
+* ![A green square with a dashed outline.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
 
-* ![A tan square with a solid outline.](images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
+* ![A tan square with a solid outline.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
 		* **Don't enable UPNP while port forwarding** as this can cause crashes.
 	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.

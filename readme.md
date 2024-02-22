@@ -2,6 +2,7 @@
 layout: home
 title: Intro
 permalink: /
++ cover: /assets/images/rb3dx.png
 ---
 
 Video Version (Outdated):  
@@ -14,6 +15,7 @@ Video Version (Outdated):
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
 
->##### WARNING:
-<sub>_This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
-<br/>
+> ##### WARNING
+>
+> _This tutorial will **not** provide you with a download to the game or DLC. None of the Discord servers listed will provide you with them, either. Make a backup of your own copy or Google for help. **Piracy is illegal and attracts Tim Sweeney's lawyers**._
+{: .block-warning  }
