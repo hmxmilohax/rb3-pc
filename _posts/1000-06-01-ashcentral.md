@@ -14,13 +14,13 @@ This part of the guide **requires** that you have an [[**RPCN Account**]](#rpcn)
 
 AshCentral is currently hosts the best experience for playing Rock Band 3 online. We'll be going over how to get the most out of your experience and how you can play online.
 
-### Inviting Friends
+## Inviting Friends
 
 Before sending or receiving invites, make sure you're online. For that, open the Start menu and press on "Play on AshCentral" to go online.
 
 ![A screenshot of Rock Band 3 with "Play on AshCentral" selected](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/ashcentral.png "Play on AshCentral")
 
-### Sending invites
+## Sending invites
 
 To invite people, **open the Start menu and press "AshCentral Options."**
 
@@ -47,7 +47,7 @@ Once your friend accepts the invite, they'll be in your session.
 ![A screenshot of Rock Band 3 with a friend in a party, waiting on the main menu.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/rb3joined.png "Rock Band 3: Main Menu with two players")
 
 
-### Receiving invites
+## Receiving invites
 
 To receive invites, open the **Start menu and press "AshCentral Options."**
 
@@ -70,7 +70,7 @@ You will then join their session.
 
 ![A screenshot of Rock Band 3 with a friend in a party, waiting on the main menu.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/rb3joined.png "Rock Band 3: Main Menu with two players")
 
-### Searching for random people
+## Searching for random people
 
 Searching for random players works just like it used to before:
 
@@ -81,6 +81,6 @@ That's it! You should soon find other players!
 
 ![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/hostlobby.png "Finding AshCentral Players")
 
-### Room Codes
+## Room Codes
 
 If you're an advanced user, you can try [[view the room code tutorial on its separate tutorial page]](ashcentral_room_codes.md). Please note that this is for more advanced users.
