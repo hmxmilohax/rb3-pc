@@ -1,4 +1,10 @@
-# Requirements:
+---
+title: Requirements
+author: Carl Mylo
+date: 1000-01-01
+category: English
+layout: post
+---
 
 You will need:
 * _A copy of Rock Band 3 for the PS3 on your computer. (BLUS-30463 version)_

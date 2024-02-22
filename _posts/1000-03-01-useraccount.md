@@ -1,10 +1,11 @@
 ---
 title: User Account
 author: Carl Mylo
-date: 1000-01-03
+date: 1000-03-01
 category: English
 layout: post
 ---
+
 In RPCS3, go to **Manage > User Accounts** 
 ![RPCS3 showing "User Accounts" option under the "Manage" menu.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/conf/rpcs3user.png "RPCS3: User Accounts")
 

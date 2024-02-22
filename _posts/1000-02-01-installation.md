@@ -1,12 +1,14 @@
 ---
 title: Installation
 author: Carl Mylo
-date: 1000-01-01
+date: 1000-02-01
 category: English
 layout: post
 ---
 
 Before starting the installation process, **make sure your drivers and operating system are up to date**.
+
+## Downloads
 
 **Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next steps.**
 
@@ -45,6 +47,7 @@ _**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU R
 Once again, the picture below links to the download page.
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
+## Initializing
 
 Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/inst/rpcs3init.png "Welcome to RPCS3")
