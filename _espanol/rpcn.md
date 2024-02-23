@@ -6,7 +6,9 @@ category: Español
 layout: post
 ---
 
-Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](#configuración-rápida)
+Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](https://carlmylo.github.io/rb3-pc/espanol/configuracionrapida/)
+
+## Registrándose
 
 Ve a **Configuration > RPCN** (Configuración > RPCN)
 ![Una captura de la configuración de RPCS3 con "RPCN" resaltado](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/rpcn.png "RPCS3: RPCN")
@@ -35,3 +37,47 @@ Ve a la bandeja de entrada de tu Email. Puede tardar unos minutos para que te ll
 
 **Pega el token** a RPCS3 Y presiona "OK":  
 ![A screenshot RPCS3 telling the user an account was successfully created.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/created.png "RPCN: Username")
+
+## Administrando Amigos
+
+Ahora, vamos a ver como administrar tu lista de amigos.
+
+Ve a **Configuration > RPCN** (Configuración > RPCN)
+![A screenshot of RPCS3's Configuration with "RPCN" highlighted](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/rpcn.png "RPCS3: RPCN")
+
+Haz click en **Friends** (Amigos).
+
+![A screenshot of RPCS3's RPCN menu, with "Friends" highlighted](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friends.png "RPCS3: RPCN")
+
+Esto va abrir la lista de amigos.
+
+![A screenshot of RPCN's Friends window.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/rpcnfriends.png "RPCS3: RPCN")
+
+En esta lista, puedes anidar a personas en muchas formas, incluyendo:
+
+#### RPCN: Buscando Amigos
+
+**Para añadir a una persona** por su usuario, **haz click en "Add Friend"** (Añadir Amigo), **en la parte baja del menú**.
+
+![A screenshot of RPCN's Friends window, with the user selecting "Add Friend".](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendadd.png "RPCS3: Add Friend")
+
+Saldrá una pantalla nueva. **Entra el usuario de tu amigo y haz click en "OK".**
+
+![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
+
+If you typed in their name correctly, you should see a "Friend added!" popup. The icon next to their name will be orange until they add you. **Once they accept your request, that's it!**
+
+![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendadded.png "RPCS3: Friend Added")
+
+#### RPCN: Accepting Friend Requests
+
+Any friend requests will be below "Friend Requests" in the RPCN:Friends window, with a yellow icon next to their name. **To accept any requests,** simply **right click the request and click "Accept Request."**
+
+![A screenshot of RPCN's Friends window, with the user about to accept a friend request. The icon next to the friend's name is yellow.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendpending.png "RPCS3: Accept Request")
+
+#### RPCN: Adding Recent Players
+
+Any person you've played with that isn't already your friend will show up in the right side of the RPCN:Friends window.
+To add anyone here, simply **right click the name and** you will be able to **send them a friend request.**
+
+![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendrecent.png "RPCS3: Recent Players")

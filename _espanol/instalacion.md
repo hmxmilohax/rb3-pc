@@ -8,7 +8,7 @@ layout: post
 
 Antes de empezar con la instalación, **asegúrate que tus controladores y sistema operativo estén actualizados.**
 
-# Descargas
+## Descargas
 
 **Empezamos descargando 7-Zip**, que es lo que necesitas para abrir mayoría de los archivos que bajamos en esta guía. **Si ya tienes 7-Zip** o una alternativa instalada, **puedes seguir adelante**.
 
