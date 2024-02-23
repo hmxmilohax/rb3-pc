@@ -10,7 +10,7 @@ Video Version (Outdated):
 
 <br/>
 
-> * [_[Versión en español latino]_](https://github.com/carlmylo/rb3-pc/blob/main/readme_es.md)  
+> * [_[Versión en español latino]_](https://carlmylo.github.io/rb3-pc/espanol/intro/)  
 > * _Linux Version_ (N/A)  
 > * _Mac Version_ (N/A)  
 > * _SteamDeck Version_ (N/A)  
