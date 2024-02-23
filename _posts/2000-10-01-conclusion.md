@@ -1,7 +1,7 @@
 ---
 title: Conclusión
 author: Carl Mylo
-date: 2000-01-01
+date: 2000-10-01
 category: Español
 layout: post
 ---
@@ -12,7 +12,7 @@ Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
 
 </div>
 
@@ -23,7 +23,7 @@ Milohax son los desarrolladores de Rock Band 3 Deluxe, que es esencial para juga
 
 **RBEnhanced:**
 
-[![RBEnhanced Logo](images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+[![RBEnhanced Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
 </div>
 

@@ -8,7 +8,7 @@ layout: post
 
 *   **_Audio Corrupto_**
 
-	* [![Un miniretrato que dice "click here for audio example" (haz clic aqui por un ejemplo de sonido).](images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
+	* [![Un miniretrato que dice "click here for audio example" (haz clic aqui por un ejemplo de sonido).](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
 	* Aumenta el "Audio Buffer Duration" como se menciona en [[la pestaña de Audio de la configuración personalizada]](#Audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de baja gama.
 
 *   **_Problemas generales de rendimiento_**
@@ -75,7 +75,7 @@ Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
 
 </div>
 
@@ -86,7 +86,7 @@ Milohax son los desarrolladores de Rock Band 3 Deluxe, que es esencial para juga
 
 **RBEnhanced:**
 
-[![RBEnhanced Logo](images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+[![RBEnhanced Logo](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
 </div>
 
