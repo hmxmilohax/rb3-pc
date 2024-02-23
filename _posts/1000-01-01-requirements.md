@@ -26,19 +26,17 @@ You will need:
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB (or equivalent) with Vulkan support
- 		* Storage: ~11.2 GBs for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all. (5400 RPM HDD)
- 			* Additional customs require more space.
-   		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 130 ms audio latency, 60 Hz with occasional performance drops.
+ 		* Storage: Hard Drive with ~11.2 GBs of space for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all.
+ 		* Additional customs songs require more space.
+   		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 100 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended
 		* OS: Windows 10 or higher
 		* Processor: AMD Ryzen 5 2600 (or equivalent) or better
 		* Memory: 16 GBs or higher
 		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or better with Vulkan support
- 		* Storage:
- 			* ~146.32 GBs for Rock Band 3, Rock Band 3 Deluxe, and **all** officially released content dating from RB1 to RB3, including DLC, RBN, and exports (SSD).
- 			* ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, and all DLC and exports without RBN (SSD).
- 			* Additional customs require more space.
- 		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 100 ms audio (or lower), 75 Hz.
+ 		* Storage: SATA SSD (or faster) with ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, all DLC, and exports. An additional 80 GBs are required for RBN 1+2.
+ 		* Additional customs songs require more space.
+ 		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
