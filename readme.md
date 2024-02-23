@@ -2,7 +2,7 @@
 layout: home
 title: Intro
 permalink: /
-+ cover: /assets/images/rb3dx.png
+cover: https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/banners/rb3dx.png
 ---
 
 Video Version (Outdated):  

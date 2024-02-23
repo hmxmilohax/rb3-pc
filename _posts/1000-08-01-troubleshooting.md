@@ -13,7 +13,7 @@ layout: post
 
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
-	*   Go back to the [[Custom Configuration setup section]](https://carlmylo.github.io/rb3-pc/english_configuration/1000-05-01-customconfiguration.html#intro) and apply suggested low performance tweaks.
+	*   Go back to the [[Custom Configuration setup section]](https://carlmylo.github.io/rb3-pc/english_configuration/1000-05-01-customconfiguration.html#changing-a-custom-configuration) and apply suggested low performance tweaks.
 	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
 	*	If you motherboard has a Realtek audio, try [[installing the latest driver]](https://realtek-download.com/download-hd/). This is a [[known issue]](https://github.com/RPCS3/rpcs3/issues/14648) where using the default "High Definition Audio" driver doesn't use all threads.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client [[like Vesktop]](https://github.com/Vencord/Vesktop), but I claim no responsibility for your Discord account.
