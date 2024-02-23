@@ -1,11 +1,3 @@
----
-title: Requisitos
-author: Carl Mylo
-date: 2000-01-01
-category: Español
-layout: post
----
-
 Versión Vídeo en Ingles (no actualizada):  
 [![Una mini-imagen de la versión vídeo de esta guía.](images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 

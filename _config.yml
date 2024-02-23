@@ -50,11 +50,11 @@ exclude:
   - _drafts
 
 collections:
-  english:
+  pages:
     output: true
     permalink: /:collection/:path/
 
-  español:
+  english:
     output: true
     permalink: /:collection/:path/
 
