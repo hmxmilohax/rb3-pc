@@ -2,7 +2,7 @@
 title: Requisitos
 author: Carl Mylo
 date: 2000-02-01
-category: Español
+category: Espanol
 layout: post
 ---
 
