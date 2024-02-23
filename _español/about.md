@@ -1,9 +1,9 @@
 ---
-title: Versión en Español Latino
+title: Intro [Español]
 author: Carl Mylo
 date: 2000-01-01
 category: Español
-layout: post
+layout: home
 cover: https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/banners/rb3dx.png
 ---
 

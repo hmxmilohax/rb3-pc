@@ -2,7 +2,7 @@
 title: Configuración Rápida
 author: Carl Mylo
 date: 2000-05-01
-category:
+category: Español
 layout: post
 ---
 

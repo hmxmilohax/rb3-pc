@@ -58,6 +58,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  español:
+    output: true
+    permalink: /:collection/:path/
+
 
 page_width: 800px
 
