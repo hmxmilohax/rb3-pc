@@ -79,7 +79,7 @@ We'll go tab by tab, starting with:
 	* **Change "Audio Out" to "XAudio2"** - This is only recommended for users on extremely low end machines as it causes weird audio problems overtime. Experiment with this setting to make sure it actually helps on your end. **Most users should stay on Cubeb!**
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/smalltan.png "Tan Square") **For Vocalists**: 
-	* **Set Microphone type to Standard or Rocksmith**. Standard will allow you to use mics for voice chat and singing. Rocksmith will only work for singing.
+	* **Set Microphone type to Standard or Rocksmith**.
 	* **Select an input device in "Mic1", "Mic2", and "Mic3"** for vocals. If not playing vocals, Mic1 will be used for voice chat.
 	* Once again, keep in mind that playing with framerates higher than 60 may cause issues with vocal detection.
 
@@ -136,11 +136,12 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
-	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
-		* **Don't enable UPNP while port forwarding** as this can cause crashes.
+	* You can tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
 	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
 		* **For AshCentral: Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. **This is the recommended server** due to having more features and frequent updates.  
 		* For RBEnhanced GoCentral: Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
+
+
 
 <br/>
 

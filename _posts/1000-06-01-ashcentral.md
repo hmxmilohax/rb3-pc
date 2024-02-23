@@ -8,9 +8,9 @@ layout: post
 
 ## Intro
 
-**If you're not interested in playing online, skip to the [[next section]](#passthrough-devices).**
+**If you're not interested in playing online, skip to the [[next section]](https://carlmylo.github.io/rb3-pc/english/1000-07-01-passthroughdevices.html).**
 
-This part of the guide **requires** that you have an [[**RPCN Account**]](#rpcn) **and set your [[network configuration]](#network) to use AshCentral server settings.**
+This part of the guide **requires** that you have an [[**RPCN Account**]](https://carlmylo.github.io/rb3-pc/english/1000-03-02-rpcn.html) **and set your [[network configuration]](https://carlmylo.github.io/rb3-pc/english_configuration/1000-05-01-customconfiguration.html#network) to use AshCentral server settings.**
 
 AshCentral is currently hosts the best experience for playing Rock Band 3 online. We'll be going over how to get the most out of your experience and how you can play online.
 
