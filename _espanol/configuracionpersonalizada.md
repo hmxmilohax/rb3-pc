@@ -1,5 +1,5 @@
 ---
-title: Configuración Rápida
+title: Configuración Personalizada
 author: Carl Mylo
 date: 2000-06-01
 category: Español
