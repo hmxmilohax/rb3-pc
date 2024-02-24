@@ -9,13 +9,13 @@ layout: post
 *   **_Audio Corrupto_**
 
 	* [![Un miniretrato que dice "click here for audio example" (haz clic aqui por un ejemplo de sonido).](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
-	* Aumenta el "Audio Buffer Duration" como se menciona en [[la pestaña de Audio de la configuración personalizada]](#Audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de baja gama.
+	* Aumenta el "Audio Buffer Duration" como se menciona en [[la pestaña de Audio de la configuración personalizada]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada/#audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de baja gama.
 
 *   **_Problemas generales de rendimiento_**
 	* Cambia el plan de energía de tu computadora a "Máximo rendimiento"
-	*   Regresa y Lee las sugerencias para PCs de gama baja en la [[sección de configuración personalizada]](#cpu).
+	*   Regresa y Lee las sugerencias para PCs de gama baja en la [[sección de configuración personalizada]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada/#Cambiando-una-configuración-personalizada).
 	*   Instala [[Rock Band 3 Deluxe]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip) y deshabilita efectos adicionales en el apartado "Deluxe Settings". Si no lo tienes, no seguiste la guía.
-	*	Cierra el cliente de Discord y abre Discord en tu navegador o tu celular.
+	*	Cierra el cliente de Discord y abre Discord en tu navegador o tu celular. Tambien puedes usar un cliente modificado como Vesktop.
 
 *   **_Los instrumentos o accesorios de los personajes flotan o los traspasan_**
 	*   Actualmente no hay ninguna solución para esto. Si te pasa esto esto, [[por favor reporta tus descubrimientos en el GitHub de RPCS3.]](https://github.com/RPCS3/rpcs3/issues/8408)

@@ -6,7 +6,7 @@ category: Español
 layout: post
 ---
 
-Si no estás utilizando una Guitarra Mustang Pro de PS3 y un Teclado Rock Band 3 de PS3 con sus receptores respectivos, [[puedes avanzar a la siguiente sección.]](#problemas-y-soluciones)
+Si no estás utilizando una Guitarra Mustang Pro de PS3 y un Teclado Rock Band 3 de PS3 con sus receptores respectivos, [[puedes avanzar a la siguiente sección.]](https://carlmylo.github.io/rb3-pc/espanol/problemasysoluciones/)
 
 Para comenzar, **cierra RPCS3** y conecta el receptor del instrumento a tu computadora.
 

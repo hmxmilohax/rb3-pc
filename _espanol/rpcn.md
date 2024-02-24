@@ -65,19 +65,18 @@ Saldrá una pantalla nueva. **Entra el usuario de tu amigo y haz click en "OK".*
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
 
-If you typed in their name correctly, you should see a "Friend added!" popup. The icon next to their name will be orange until they add you. **Once they accept your request, that's it!**
+Si lo hiciste bien, te va decir "Friend added!" (Amigo añadido!). El circulo al lado de su nombre estará naranja. **Cuando to amiga te añade, eso es todo.**
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendadded.png "RPCS3: Friend Added")
 
-#### RPCN: Accepting Friend Requests
+#### RPCN: Aceptando Solicitudes 
 
-Any friend requests will be below "Friend Requests" in the RPCN:Friends window, with a yellow icon next to their name. **To accept any requests,** simply **right click the request and click "Accept Request."**
+Todas las solicitudes de amigos estarán bajo "Friend Requests" (Solicitudes de amistad) en el menu de RPCN:Friends, con un símbolo amarillo al lado de su nombre. **Para aceptar solicitudes,** simplemente **haz click derecho en "Accept Request"** (Aceptar solicitud)
 
 ![A screenshot of RPCN's Friends window, with the user about to accept a friend request. The icon next to the friend's name is yellow.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendpending.png "RPCS3: Accept Request")
 
-#### RPCN: Adding Recent Players
+#### RPCN: Añadiendo Jugadores Recientes
 
-Any person you've played with that isn't already your friend will show up in the right side of the RPCN:Friends window.
-To add anyone here, simply **right click the name and** you will be able to **send them a friend request.**
+Cualquier persona con quien haz jugado recientemente estará en la lista bajo "Recent Players." Para añadir personas por esta manera, haz **click derecho en su nombre y manda una solicitud con "Send Friend Request"** (Mandar Solicitud de Amistad).
 
 ![A screenshot of RPCN's Friends window, with the user adding a recent player.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendrecent.png "RPCS3: Recent Players")
