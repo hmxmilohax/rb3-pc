@@ -56,7 +56,6 @@ Examples of common replacements:
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to active their respective buttons.
 
-<div align="center">
 
 ![Platform](platform.png "Platform") 
 
@@ -77,6 +76,5 @@ Default Mapping:
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-</div>
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
