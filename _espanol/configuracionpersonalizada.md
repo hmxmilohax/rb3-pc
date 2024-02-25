@@ -127,16 +127,16 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
   
  **Si RPCS3 no detecta tu instrumento, haz click en "Save custom configuration"** (Grabar configuración personalizada), **cierra la ventana de "Create Custom Configuration"** (Crear configuración personalizada) **y luego haz click con el botón derecho en Rock Band 3 para volver a abrirla. Si eso no funciona, reinicia RPCS3.**  
   
-## Notas adicionales para Guitarras PRO:
+### Notas para Guitarras PRO:
 
 Como dicho antes, Guitarras Pro deben se servir sin configuración adicional con que **tu convertidor de MIDI a USB pueda aceptar señales SYSEX**. **Recomiendo la M-Audio Midisport Uno porque se ha verificado que funciona.**
 
-## Notas adicionales para teclados MIDI:
+### Notas para teclados MIDI:
 
 **Teclados no tienen botones de PS3, así que el primer octavo esta emulando botones de PS3**. Utiliza la siguiente imagen como referencia. **Te recomiendo poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores**.
 ![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/keysctrl.png "Referencia del Teclado MIDI")
 
-## Notas adicionales para baterías MIDI:
+### Notas para baterías MIDI:
 
 Puedes ajustar una variedad de opciones en el archivo `rb3drums.yml` file, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3. Necesitas empezar el juego una vez con tu batería MIDI configurada en la pestaña de I/O para que RPCS3 cree el archivo. Cualquier cambio a este archivo requiere que reinicies el juego.
 
