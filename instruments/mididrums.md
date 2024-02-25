@@ -1,9 +1,9 @@
 ---
 title: MIDI Drums
 author: Carl Mylo
-date: 2000-10-01
+date: 
 category: Instruments
-layout: unlisted
+layout: post
 ---
 
 ## NOTES:
