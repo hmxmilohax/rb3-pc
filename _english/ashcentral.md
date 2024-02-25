@@ -12,7 +12,7 @@ layout: post
 
 This part of the guide **requires** that you have an [[**RPCN Account**]](https://carlmylo.github.io/rb3-pc/english/rpcn/) **and set your [[network configuration]](https://carlmylo.github.io/rb3-pc/english/customconfiguration#network) to use AshCentral server settings.**
 
-AshCentral is currently hosts the best experience for playing Rock Band 3 online. We'll be going over how to get the most out of your experience and how you can play online.
+AshCentral is currently hosts the best experience for playing Rock Band 3 online. This part will be going over how to get the most out of your experience while playing online.
 
 ## Inviting Friends
 
