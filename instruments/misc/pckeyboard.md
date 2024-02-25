@@ -13,6 +13,7 @@ layout: post
 
 
 For reference, these are the default bindings:
+
 | **RPCS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
 | L1 | ![Green Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/gf.png "Green Fret") |
@@ -24,9 +25,8 @@ For reference, these are the default bindings:
 | ![Left Stick](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/wb.png "Whammy Bar") |
 | Select | Overdrive |
 
-
-
 If you want to copy Fortnite Festival's default bindings, you can use this as reference:
+
 | **RPCS3**          | **Keyboard** |
 |:------------------:|:---------------------:|
 | L1 | D |

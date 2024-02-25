@@ -56,11 +56,6 @@ Examples of common replacements:
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to active their respective buttons.
 
-
-![Platform](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/pc.png "Platform") 
-
-![Controller](controller.png "Controller") 
-
 Default Mapping:
 
 | **MIDI Note#** | **Trigger Type** | **In-Game Action** |
@@ -75,6 +70,10 @@ Default Mapping:
 | **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
+
+![Platform](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/midi.png "Platform") 
+
+![Controller](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/mididrumscontroller.png "Controller") 
 
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
