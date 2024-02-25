@@ -26,9 +26,9 @@ You will need:
 		* Processor: Intel Core i5-4460 (or equivalent CPU with a CPUMark score of 4872 and AVX2)
 		* Memory: 8 GBs
 		* Graphics: GeForce GT 730 2GB (or equivalent) with Vulkan support
- 		* Storage: Hard Drive with ~11.2 GBs of space for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all.
- 		* Additional customs songs require more space.
-   		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 100 ms audio latency, 60 Hz with occasional performance drops.
+		* Storage: Hard Drive with ~11.2 GBs of space for Rock Band 3 and Rock Band 3 Deluxe. No DLC at all.
+		* Additional customs songs require more space.
+		* Notes: The absolute lowest one can realistically play this game on. Low quality 720p with no post-processing, 100 ms audio latency, 60 Hz with occasional performance drops.
 	* Recommended:
 		* OS: Windows 10 or higher
 		* Processor: AMD Ryzen 5 2600 (or equivalent) or better
