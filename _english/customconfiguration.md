@@ -105,7 +105,7 @@ We'll go tab by tab, starting with:
 **If your keyboard only has a MIDI output, you will need a MIDI to USB interface**.
 ![A picture of a MIDI controller's back, showing a 5-DIN MIDI input and output highlighted in yellow with a solid white outline, and multiple pedal inputs.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/midikeys.png "MIDI Keyboard")  
 
-**The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs.
+**The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs. However, **they require a MIDI to USB interface with SYSEX support.**
 ![A picture of a Rock Band 3 Fender Mustang Pro Guitar, showing a 5-DIN MIDI output.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/midiprotar.png "Mustang Pro Guitar MIDI Output")  
 
 Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see “MIDI In” blinking when you press a key**.  
@@ -131,8 +131,49 @@ Visit the instrument repo if you're using a [[Xbox 360]](https://github.com/carl
   
  **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work, restart RPCS3.**  
   
+### Notes on MIDI Pro Guitars:
+
+Once again, Pro Guitars should work without any extra configuration **as long as your MIDI to USB interface supports SYSEX.** **The M-Audio Midisport Uno is recommended as it has been verified to work.**
+
+### Notes on MIDI Keyboards:
+
 As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as a reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges. **The** keyboard's **pitch knob should be mapped to the touch strip and modulation wheel and sustain pedal should be mapped to Overdrive deployment.**
 ![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/keysctrl.png "MIDI Keyboard Reference")
+
+### Notes on MIDI Drums:
+
+You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder. You need to run the game once with your MIDI Drum kit assigned in the I/O tab for RPCS3 to create this file. Any changes require a game restart.
+
+**As drums don't have PS3 buttons, by default:
+	* START: Quickly lose the Hi-Hat three times then hit the Snare
+	* SELECT: Quickly lose the Hi-Hat three times then hit the Snare Rim
+	* Song select shortcuts: Quickly lose the Hi-Hat three times then press the Kick pedal**
+If your drum kits have incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
+* To do this:
+	* Go to [[MIDI Monitor]](https://www.midimonitor.com/)
+	* Play the pad you want to replace to find its MIDI Note number ("Note #[number]").
+
+The file uses the following note names:
+
+`Kick
+HihatPedal
+Snare
+SnareRim
+HiTom
+LowTom
+FloorTom
+HihatWithPedalUp
+Hihat
+Ride
+Crash`
+
+Examples of common replacements:
+	* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and you kit has these reversed.
+		* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
+	* You want to map to Open Hi-Hat to to Blue cymbal.
+		* `Midi id to note override: "46=Ride"`
+
+In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to active their respective buttons.
 
 <br/>
 

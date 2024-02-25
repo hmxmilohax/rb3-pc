@@ -105,7 +105,7 @@ Iremos pestaña por pestaña, comenzando con:
 **Si tu teclado solo tiene una salida MIDI, necesitarás un convertidor de MIDI a USB**.
 ![Una imagen atrás de un controlador MIDI, mostrando una salida y entrada MIDI de 5 pines y múltiples entradas de pedal.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/midikeys.png "Teclado MIDI")  
 
-**Lo mismo se aplica a las guitarras Pro**, porque solo tienen salidas MIDI.
+**Lo mismo se aplica a las guitarras Pro**, porque solo tienen salidas MIDI. La única diferencia es que **requieren un convertidor de MIDI a USB que pueda aceptar señales SYSEX.**
 ![Una imagen de una guitarra Pro Fender Mustang Rock Band 3, mostrando una salida MIDI de 5 pines.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/midiprotar.png "Guitarra Pro Mustang MIDI")  
 
 Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán con una luz para mostrar actividad. **Para probar que lo has conectado correctamente, deberías ver que "MIDI In" parpadea cuando presionas una tecla**.  
@@ -127,8 +127,49 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
   
  **Si RPCS3 no detecta tu instrumento, haz click en "Save custom configuration"** (Grabar configuración personalizada), **cierra la ventana de "Create Custom Configuration"** (Crear configuración personalizada) **y luego haz click con el botón derecho en Rock Band 3 para volver a abrirla. Si eso no funciona, reinicia RPCS3.**  
   
+## Notas adicionales para Guitarras PRO:
+
+Como dicho antes, Guitarras Pro deben se servir sin configuración adicional con que **tu convertidor de MIDI a USB pueda aceptar señales SYSEX**. **Recomiendo la M-Audio Midisport Uno porque se ha verificado que funciona.**
+
+## Notas adicionales para teclados MIDI:
+
 **Teclados no tienen botones de PS3, así que el primer octavo esta emulando botones de PS3**. Utiliza la siguiente imagen como referencia. **Te recomiendo poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores**.
-![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/keysctrl.png "Referencia del Teclado MIDI")  
+![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/midi/keysctrl.png "Referencia del Teclado MIDI")
+
+## Notas adicionales para baterías MIDI:
+
+Puedes ajustar una variedad de opciones en el archivo `rb3drums.yml` file, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3. Necesitas empezar el juego una vez con tu batería MIDI configurada en la pestaña de I/O para que RPCS3 cree el archivo. Cualquier cambio a este archivo requiere que reinicies el juego.
+
+**Baterías MIDI no tienen botones de PS3, así que:
+	* START: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
+	* SELECT: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim)
+	* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.**
+Si tu batería tiene partes que necesitan ser configuradas, puedes usar `Midi id to note override: ""` para corregir notas.
+* Para hacer esto:
+	* Ve al sitio [[MIDI Monitor]](https://www.midimonitor.com/)
+	* Toca la parte que quieres re-configurar para encontrar su el numero de nota MIDI ("Note #[number]").
+
+El archivo usa estos nombres para notas:
+
+`Kick
+HihatPedal
+Snare
+SnareRim
+HiTom
+LowTom
+FloorTom
+HihatWithPedalUp
+Hihat
+Ride
+Crash`
+
+Ejemplos de cambios comunes:
+	* El platillo azul esta configurado a `Note #51` y el platillo verde esta configurado a `Note #49` pero tu batería los tiene al revés.
+		* `Midi id to note override: "49=Ride,51=Crash"` va a reversar los platillos para que estén sean mejor para Rock Band 3.
+	* Quieres usar tu Hi-Hat cerrado para amarillo y Hi-Hat abierta para azul.
+		* `Midi id to note override: "46=Ride"`
+
+En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, que te van ayudar a configurar los que necesitas tocar para activar el boton START, SELECT, y el atajo para escocer canciones, respectivamente.
 
 <br/>
 
