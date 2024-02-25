@@ -72,15 +72,15 @@ De ahí, vas a entrar a su sesión.
 
 ## Buscando a cualquier jugador
 
-Si quieres jugar con cualquier:
+Si quieres jugar con cualquier persona:
 
-**Go to Play Now > Quick Play > Find AshCentral Players**
+**Go to Jugar > Partida Rápida > Buscar Jugadores en AshCentral**
 ![A screenshot of Rock Band 3 with "Find AshCentral Players" selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/findashcentralplayers.png "Find AshCentral Players")
 
-That's it! You should soon find other players!
+Eso es todo! Si alguien mas esta buscando, se van a encontrar.
 
-![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/hostlobby.png "Finding AshCentral Players")
+![A screenshot of Rock Band 3 in a multiplayer lobby.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/ash/hostlobbyes.png "Finding AshCentral Players")
 
-## Room Codes
+## Códigos Privados
 
-If you're an advanced user, you can try [[view the room code tutorial on its separate tutorial page]](ashcentral_room_codes.md). Please note that this is for more advanced users.
+Si eres un usuario avanzado, puedes usar [[códigos privados]](ashcentral_room_codes.md) para conectar con tus amigos. Toma nota que esto es un poco complejo y no es necesario para mayoría de las personas.

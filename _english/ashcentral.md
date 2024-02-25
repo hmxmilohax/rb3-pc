@@ -83,4 +83,4 @@ That's it! You should soon find other players!
 
 ## Room Codes
 
-If you're an advanced user, you can try [[view the room code tutorial on its separate tutorial page]](ashcentral_room_codes.md). Please note that this is for more advanced users.
+If you're an advanced user, you can use [[room codes]](ashcentral_room_codes.md) to connect with your friends. Please note that this is a much more complicated way to connect each other and most people don't need to do this.
