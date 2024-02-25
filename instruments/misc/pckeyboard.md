@@ -14,16 +14,18 @@ layout: post
 
 For reference, these are the default bindings:
 
-| **RPCS3**          | **Rock Band** |
-|:------------------:|:---------------------:|
-| L1 | ![Green Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/gf.png "Green Fret") |
-| L2 | ![Red Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/rf.png "Red Fret") |
-| R1 | ![Yellow Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/yf.png "Yellow Fret") |
-| R2 | ![Blue Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/bf.png "Blue Fret") |
-| Cross | ![Orange Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/of.png "Orange Fret") |
-| ![D-Pad](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| ![Left Stick](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/wb.png "Whammy Bar") |
-| Select | Overdrive |
+| **Keyboard**          | **RPCS3**          | **Rock Band** |
+|:------------------:|:------------------:|:---------------------:|
+| Q | L1 | ![Green Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/gf.png "Green Fret") |
+| R | L2 | ![Red Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/rf.png "Red Fret") |
+| E | R1 | ![Yellow Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/yf.png "Yellow Fret") |
+| T | R2 | ![Blue Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/bf.png "Blue Fret") |
+| X | Cross | ![Orange Fret](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/of.png "Orange Fret") |
+| Up/Down/Left/Right | ![D-Pad](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
+| W/A/S/D | ![Left Stick](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/btns/gtrs/wb.png "Whammy Bar") |
+| Space | Select | Overdrive |
+
+![Mapping](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/pckeyboardmapping.png "Mapping") 
 
 If you want to copy Fortnite Festival's default bindings, you can use this as reference:
 
@@ -42,7 +44,5 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 ![Platform](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/pc.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/pckeyboardcontroller.png "Controller") 
-
-![Mapping](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/instruments/pckeyboardmapping.png "Mapping") 
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
