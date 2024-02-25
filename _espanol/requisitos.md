@@ -26,9 +26,9 @@ Necesitarás:
 		* Procesador: Intel Core i5-4460 (o equivalente con una puntuación de CPUMark de 4872 y AVX2)
 		* Memoria: 8 GBs
 		* Gráficas: GeForce GT 730 2GB (o equivalente) con Vulkan
- 		* Almacenamiento: Disco Duro con ~11.2 GBs de espacio para Rock Band 3 con Rock Band 3 Deluxe sin DLC.
- 		* Canciones adicionales (customs) requieren espacio adicional.
-   		* Notas adicionales: La configuración más básica. Tendrás resolución de 720p sin efectos adicionales, latencia de audio de 130 ms, y frecuencia de actualización de 60 Hz, con tirones de rendimiento ocasionales.
+		* Almacenamiento: Disco Duro con ~11.2 GBs de espacio para Rock Band 3 con Rock Band 3 Deluxe sin DLC.
+		* Canciones adicionales (customs) requieren espacio adicional.
+		* Notas adicionales: La configuración más básica. Tendrás resolución de 720p sin efectos adicionales, latencia de audio de 130 ms, y frecuencia de actualización de 60 Hz, con tirones de rendimiento ocasionales.
 	* Recomendado:
 		* SO: Windows 10 o mejor
 		* Procesador: AMD Ryzen 5 2600 (o equivalente) o mejor
