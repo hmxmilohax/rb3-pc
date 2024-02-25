@@ -6,7 +6,7 @@ category: Español
 layout: post
 ---
 
-Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada/) para ajustar todo a lo mejor que pueda tu computadora.  
+Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada/#creando-una-configuraci%C3%B3n-personalizada) para ajustar todo a lo mejor que pueda tu computadora.  
 **DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3dx.neocities.org/install) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, también no estas leyendo la guía.
 
 Los jugadores que desean utilizar [[micrófonos]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada#audio), [[guitarras Pro con cable, teclados USB/MIDI, y baterias electronicas con connexion MIDI]](https://carlmylo.github.io/rb3-pc/espanol/configuracionpersonalizada#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://carlmylo.github.io/rb3-pc/espanol/conexiondirecta/) todavía requieren configuración adicional.
