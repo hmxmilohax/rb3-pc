@@ -88,7 +88,7 @@ Iremos pestaña por pestaña, comenzando con:
 * ![Un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
 	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**. "Standard" dejara que tu micrófono se pueda usar para cantar y la chat de voz. "Rocksmith" solo te dejara cantar.
 	* Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.
-	* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
+	* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.
 
 <br/>
 

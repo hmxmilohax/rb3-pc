@@ -65,13 +65,13 @@ Saldrá una pantalla nueva. **Entra el usuario de tu amigo y haz click en "OK".*
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
 
-Si lo hiciste bien, te va decir "Friend added!" (Amigo añadido!). El circulo al lado de su nombre estará naranja. **Cuando to amiga te añade, eso es todo.**
+Si lo hiciste bien, te va decir "Friend was successfully added!" (Amigo fue añadido!). El circulo al lado de su nombre estará naranja. **Cuando tu amiga te añade, eso es todo.**
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendadded.png "RPCS3: Friend Added")
 
 #### RPCN: Aceptando Solicitudes 
 
-Todas las solicitudes de amigos estarán bajo "Friend Requests" (Solicitudes de amistad) en el menu de RPCN:Friends, con un símbolo amarillo al lado de su nombre. **Para aceptar solicitudes,** simplemente **haz click derecho en "Accept Request"** (Aceptar solicitud)
+Todas las solicitudes de amigos estarán bajo "Friend Requests" (Solicitudes de amistad) en el menu de RPCN:Friends, con un símbolo amarillo al lado de su nombre. **Para aceptar solicitudes,** simplemente **haz click derecho en su nombre y luego en "Accept Request"** (Aceptar solicitud)
 
 ![A screenshot of RPCN's Friends window, with the user about to accept a friend request. The icon next to the friend's name is yellow.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/rpcn/friendpending.png "RPCS3: Accept Request")
 
