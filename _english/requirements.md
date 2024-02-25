@@ -34,9 +34,9 @@ You will need:
 		* Processor: AMD Ryzen 5 2600 (or equivalent) or better
 		* Memory: 16 GBs or higher
 		* Graphics: NVIDIA GeForce GTX 1650 (or equivalent) or better with Vulkan support
- 		* Storage: SATA SSD (or faster) with ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, all DLC, and exports. An additional 80 GBs are required for RBN 1+2.
- 		* Additional customs songs require more space.
- 		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower), 75 Hz.
+		* Storage: SATA SSD (or faster) with ~67.4 GBs for Rock Band 3, Rock Band 3 Deluxe, all DLC, and exports. An additional 80 GBs are required for RBN 1+2.
+		* Additional customs songs require more space.
+		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 

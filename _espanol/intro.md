@@ -14,5 +14,5 @@ Versión Vídeo en Ingles (no actualizada):
 
 > ##### ADVERTENCIA
 >
-> _Esta guía **no** te va a dar links para descargar el juego ni el DLC. Ninguno de los servidores de Discord mencionados tampoco te los va a dar. Haz tu propia copia o busque ayuda en Google. **La piratería es ilegal y atrae a los abogados de Tim Sweeney!**._
+> _Esta guía **no** te va a dar links para descargar el juego ni el DLC. Ninguno de los servidores de Discord mencionados te los va a dar. Haz tu propia copia o busque ayuda en Google. **La piratería es ilegal y atrae a los abogados de Tim Sweeney!**._
 {: .block-warning  }

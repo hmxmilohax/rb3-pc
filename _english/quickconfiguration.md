@@ -20,4 +20,48 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/quickconf.gif "Recommended.zip")
 
-For more info on these settings, [[check the Readme for the settings repository]](https://github.com/carlmylo/rb3-pc/tree/main/config/customconfig#about).
+If you need any more information about what these settings are changing:
+
+* *Recommended*:  
+- **CPU**:
+	- SPU Block Size: Mega
+- **GPU**:
+	- Write Color Buffers (Recommended)
+	- Framelimit: Off
+	- Resolution Scale: 150% (1920x1080)
+	- Anisotropic Filter: 16x
+	- ZCULL Accuracy: Relaxed (Fastest)
+	- VSync Enabled
+- **Audio**:
+	- Audio Buffer Duration: 32 ms
+- **Network**:
+	- Network Status: Connected
+	- AshCentral IP/Hosts Switches
+	- Enable UPNP: On
+- **Advanced**:
+	- Debug Console Mode: On
+	- Exclusive Fullscreen Mode: Prefer Borderless fullscreen
+	- Driver Wake-Up Delay: 20 µs
+- **Emulator**:
+	- Show trophy popups: Off
+
+* *Minimum*:  
+- **CPU**:
+	- SPU Block Size: Mega
+	- Preferred SPU Threads: 2
+- **GPU**:
+	- Write Color Buffers (Recommended)
+	- Framelimit: Off
+	- ZCULL Accuracy: Relaxed (Fastest)
+- **Audio**:
+	- Audio Buffer Duration: 100 ms
+- **Network**:
+	- Network Status: Connected
+	- DNS: Configured for AshCentral
+	- Enable UPNP: On
+- **Advanced**:
+	- Debug Console Mode: On
+	- Exclusive Fullscreen Mode: Prefer Borderless fullscreen
+	- Driver Wake-Up Delay: 40 µs
+- **Emulator**:
+	- Show trophy popups: Off

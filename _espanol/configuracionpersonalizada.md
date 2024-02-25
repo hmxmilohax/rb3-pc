@@ -15,7 +15,7 @@ Si no tienes una configuración personalizada, **haz click derecho en Rock Band 
 
 ## Cambiando una configuración personalizada
 
-Si quieres cambiar una configuración personalizada, **haz click derecho en Rock Band 3** en RPCS3, luego presiona luego presiona "**Change Custom Configuration**" (Cambiar Configuración Personalizada)
+Si quieres cambiar una configuración personalizada, **haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Change Custom Configuration**" (Cambiar Configuración Personalizada)
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/rpcs3customconfigchange.png "Create Custom Configuration From Default Settings")
 
 Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he coloreado las cosas que vas a ajustar. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.

@@ -19,4 +19,54 @@ El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo 
 
 ![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/cust/quickconf.gif "Recommended.zip")
 
-Para obtener más información sobre estas configuraciones, [[consulta la pagina de configuraciones rápidas]](https://github.com/carlmylo/rb3-pc/blob/main/config/customconfig/readme_es.md#informacion).
+Se necesitas mas detalles sobre estas configuracions, esto lo que se usa para las configuracion:
+
+* *recomendada*:
+	- **CPU**:
+		- SPU Block Size (Tamaño de bloques del SPU): Mega
+	- **GPU**:
+		- Write Color Buffers (Ingresar búferes de colores): Activado
+		- Framelimit (Limite de fotogramas): Off (Apagado)
+		- Resolution Scale (Nivel de resolución): 150% (1920x1080)
+		- Anisotropic Filter (Filtro anisotrópico): 16x
+		- ZCULL Accuracy (Precisión de ZCull): Relaxed (Fastest) (Relajada (Mas Rapida))
+		- VSync (Sincronización vertical): Activado
+	- **Audio**:
+		- Audio Buffer Duration (Duración de búferes de audio): 32 ms
+	- **System**:
+		- Console Language (Lenguaje de sistema): Spanish (Español)
+		- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
+	- **Network**:
+		- Network Status (Estado de red): Connected (Conectado)
+		- DNS: Configurado para AshCentral
+		- Enable UPNP (Activar UPnP): Activado
+	- **Advanced**:
+		- Debug Console Mode (Modo de consola saca-errores): Activado
+		- Exclusive Fullscreen Mode (Modo de exclusividad de pantalla llena): Prefer Borderless fullscreen (Preferir pantalla llena sin bordos)
+		- Driver Wake-Up Delay (Retraso de activacion de controlador): 20 µs
+	- **Emulator**:
+		- Show trophy popups (Enseñar notificaciones de trofeos): Desactivado
+
+* *mínima*:
+	- **CPU**:
+		- SPU Block Size (Tamaño de bloques del SPU): Mega
+		- Preferred SPU Threads (Hilos preferidos del SPU): 2
+	- **GPU**:
+		- Write Color Buffers (Ingresar búferes de colores): Activado
+		- Framelimit (Limite de fotogramas): Off (Apagado)
+		- ZCULL Accuracy (Precisión de ZCull): Relaxed (Fastest) (Relajada (Mas Rapida))
+	- **Audio**:
+		- Audio Buffer Duration (Duración de búferes de audio): 100 ms
+	- **System**:
+		- Console Language (Lenguaje de sistema): Spanish (Español)
+		- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
+	- **Network**:
+		- Network Status (Estado de red): Connected (Conectado)
+		- DNS: Configurado para AshCentral
+		- Enable UPNP (Activar UPnP): Activado
+	- **Advanced**:
+		- Debug Console Mode (Modo de consola saca-errores): Activado
+		- Exclusive Fullscreen Mode (Modo de exclusividad de pantalla llena): Prefer Borderless fullscreen (Preferir pantalla llena sin bordos)
+		- Driver Wake-Up Delay (Retraso de activacion de controlador): 40 µs
+	- **Emulator**:
+		- Show trophy popups (Enseñar notificaciones de trofeos): Desactivado
