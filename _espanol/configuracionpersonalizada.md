@@ -151,23 +151,23 @@ Si tu batería tiene partes que necesitan ser configuradas, puedes usar `Midi id
 
 El archivo usa estos nombres para notas:
 
-`Kick
-HihatPedal
-Snare
-SnareRim
-HiTom
-LowTom
-FloorTom
-HihatWithPedalUp
-Hihat
-Ride
-Crash`
+`Kick`  
+`HihatPedal`  
+`Snare`  
+`SnareRim`  
+`HiTom`  
+`LowTom`  
+`FloorTom`  
+`HihatWithPedalUp`  
+`Hihat`  
+`Ride`  
+`Crash`
 
 Ejemplos de cambios comunes:
-	* El platillo azul esta configurado a `Note #51` y el platillo verde esta configurado a `Note #49` pero tu batería los tiene al revés.
-		* `Midi id to note override: "49=Ride,51=Crash"` va a reversar los platillos para que estén sean mejor para Rock Band 3.
-	* Quieres usar tu Hi-Hat cerrado para amarillo y Hi-Hat abierta para azul.
-		* `Midi id to note override: "46=Ride"`
+* El platillo azul esta configurado a `Note #51` y el platillo verde esta configurado a `Note #49` pero tu batería los tiene al revés.
+	* `Midi id to note override: "49=Ride,51=Crash"` va a reversar los platillos para que estén sean mejor para Rock Band 3.
+* Quieres usar tu Hi-Hat cerrado para amarillo y Hi-Hat abierta para azul.
+	* `Midi id to note override: "46=Ride"`
 
 En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, que te van ayudar a configurar los que necesitas tocar para activar el boton START, SELECT, y el atajo para escocer canciones, respectivamente.
 

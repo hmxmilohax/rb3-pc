@@ -155,23 +155,24 @@ If your drum kits have incompatible mapping, you can remap using `Midi id to not
 
 The file uses the following note names:
 
-`Kick
-HihatPedal
-Snare
-SnareRim
-HiTom
-LowTom
-FloorTom
-HihatWithPedalUp
-Hihat
-Ride
-Crash`
+`Kick`  
+`HihatPedal`  
+`Snare`  
+`SnareRim`  
+`HiTom`  
+`LowTom`  
+`FloorTom`  
+`HihatWithPedalUp`  
+`Hihat`  
+`Ride`  
+`Crash`
+
 
 Examples of common replacements:
-	* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and you kit has these reversed.
-		* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
-	* You want to map to Open Hi-Hat to to Blue cymbal.
-		* `Midi id to note override: "46=Ride"`
+* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and you kit has these reversed.
+	* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
+* You want to map to Open Hi-Hat to to Blue cymbal.
+	* `Midi id to note override: "46=Ride"`
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to active their respective buttons.
 

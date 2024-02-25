@@ -28,7 +28,8 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
 
 Special thanks to:
 
-*   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and/or Rock Band 3.
+*   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [[lunalawl]](https://github.com/lunalawl), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and/or Rock Band 3.
+*	[[KaijuChomps]](https://github.com/KaijuChomps) for helping with Jekyll and GitHub Pages.
 * [knvtva](https://github.com/knvtva) for running and maintaining AshCentral, the best way to play Rock Band 3 online.
 *   [qfoxb](https://github.com/qfoxb), [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva), and 1osks for testing and reporting results.
 *   SlothDemon1991, gonakil1ya, GamerPerson22, Vex, Trish, ItzSlicedcorn/Vivian, and Linos for helping set up scenarios for tutorial pictures.
