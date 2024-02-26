@@ -4,11 +4,11 @@ author: Carl Mylo
 date: 1000-01-01
 category: English
 layout: post
-cover: https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/banners/rb3dx.png
+cover: https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/banners/rb3dx.png
 ---
 
 Versión Vídeo en Ingles (no actualizada):  
-[![Una mini-imagen de la versión vídeo de esta guía.](https://raw.githubusercontent.com/carlmylo/rb3-pc/TheGreatSplit/assets/images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
+[![Una mini-imagen de la versión vídeo de esta guía.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/xtra/vidthumb.jpg)](https://www.youtube.com/watch?v=sramU-Xdhrs "How to play Rock Band 3 on PC (with RPCS3) - YouTube")
 
 <br/>
 
