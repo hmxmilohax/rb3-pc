@@ -1,8 +1,8 @@
 ---
-title: Instrument Repo
+title: EXTRA: Instrument Repo
 author: Carl Mylo
-date: 
-category: Instruments
+date: 1000-10-01
+category: English
 layout: post
 ---
 
@@ -114,7 +114,7 @@ Below are the buttons you should map in RPCS3's Gamepad Settings.
 Once you've finished configuring, **remember to click “Save”.**
 
   
-**Guitar**:  
+**Guitars**:  
 Make sure you **set “Device Class” to “Guitar”.**
 
 **Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 

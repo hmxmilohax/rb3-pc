@@ -9,7 +9,7 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 2. Extract the .7z file.
 3. Drag `config` folder into the folder you have RPCS3 in.
 
-![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://github.com/carlmylo/rb3-pc/blob/main/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
+![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://github.com/hmxmilohax/rb3-pc/blob/main/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
 
 Most of the time, these controller profiles should work out of the box but if they don't, try changing the controller listed in "`Devices`", next to the "`Refresh`" button until it receives an input. You can edit this while the game is running.
 
@@ -28,29 +28,29 @@ Paste it into:
 ## Instrument List:
 
 #### Drums:
-* [[MIDI Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
-	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#notes)
-* [[Roll Limitless]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Must be a MIDI drum kit.
-	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
-* [[Xbox 360 Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
-* [[Xbox 360 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums#notes)
-* [[PS3 Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Drums#notes)
-* [[Wii Rock Band Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Drums/Wii%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Drums#notes)
-* [[Wii Guitar Hero Drums]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Drums#notes)
+* [[MIDI Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/MidiDrumHero%20Drums/MidiDrumHero%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can be MIDI to USB or just USB.
+	* Requires [[additional configuration]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/MidiDrumHero%20Drums#notes)
+* [[Roll Limitless]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums/Roll%20Limitless%20Drums.7z) - Any drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Must be a MIDI drum kit.
+	* Requires [[additional configuration]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Roll%20Limitless%20Drums#notes)
+* [[Xbox 360 Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums#notes)
+* [[Xbox 360 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums#notes)
+* [[PS3 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Drums#notes)
+* [[Wii Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Drums/Wii%20Rock%20Band%20Drums.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Drums#notes)
+* [[Wii Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Drums#notes)
 
 #### Guitars:
-* [[Xbox 360 Rock Band Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar#notes)
-* [[Wii Rock Band Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Guitars#notes)
-* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
-	* Requires [[additional configuration]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
-* [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/carlmylo/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul#notes)
-* [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D#notes)
-* [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster#notes)
-* [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar#notes)
-* [[PS2 Guitar Hero SG Guitar]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar#notes)
-* [[PS3 Guitar Hero Les Paul]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar#notes)
-* [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/carlmylo/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
-* [[PS3 Dualshock 3 Controller (Padtar)]](https://github.com/carlmylo/rb3-pc/raw/main/instrument-repo/PS3%20DualShock%203#notes) - Does not include a profile but does have instructions.
+* [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar#notes)
+* [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Guitars#notes)
+* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
+	* Requires [[additional configuration]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer#notes)
+* [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul#notes)
+* [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D#notes)
+* [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster#notes)
+* [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar#notes)
+* [[PS2 Guitar Hero SG Guitar]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar#notes)
+* [[PS3 Guitar Hero Les Paul]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar#notes)
+* [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster#notes)
+* [[PS3 Dualshock 3 Controller (Padtar)]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20DualShock%203#notes) - Does not include a profile but does have instructions.
 
 
 ## Missing Instruments:
@@ -88,7 +88,7 @@ If you own any of these instruments and wish to help, please contact me on the [
 	* Requires installing and running **four** separate pieces of software, which results in high CPU usage.
 
 ## Mapping:
-![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/carlmylo/rb3-pc/blob/main/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
+![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://github.com/hmxmilohax/rb3-pc/blob/main/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * PS3 guitar, drum controllers, and MIDI Pro Adapters for the Rock Band series are plug and play.
@@ -113,21 +113,21 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 | **RPCS3**          | **Rock Band Guitars** | **Guitar Hero Guitars** |
 |:------------------:|:---------------------:|:-----------------------:|
-| Cross | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") | ![Green Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") |
-| Circle | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") | ![Red Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") |
-| Triangle | ![Yellow Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") | ![Blue Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") |
-| L1 | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad: Up | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad: Down | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
-| D-Pad: Left | ![D-Pad: Left](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpl.png "D-Pad: Left") |
-| D-Pad: Right | ![D-Pad: Right](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/dpr.png "D-Pad: Right") |
-| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
-| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
-| L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
-| L3 <br/> (Xbox 360 guitars only) | ![Solo Buttons](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
-| R1 | ![Tilt](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
+| Cross | ![Green Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") | ![Green Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") |
+| Circle | ![Red Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") | ![Red Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") |
+| Square | ![Blue Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") | ![Yellow Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") |
+| Triangle | ![Yellow Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") | ![Blue Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") |
+| L1 | ![Orange Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") | ![Orange Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
+| D-Pad: Up | ![Strumbar Up](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") | ![Strumbar Up](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/sbu.png "Strumbar Up") |
+| D-Pad: Down | ![Strumbar Down](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") | ![Strumbar Down](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/sbd.png "Strumbar Down") |
+| D-Pad: Left | ![D-Pad: Left](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/dpl.png "D-Pad: Left") |
+| D-Pad: Right | ![D-Pad: Right](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/dpr.png "D-Pad: Right") |
+| Right Stick: <br/> Left/Right <br/> (ignore Left on Rock Band Wii guitars) | ![Whammy Bar](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") | ![Whammy Bar](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Up/Down <br/> (PS3/PS4/Wii guitars only) | ![Effects Switch](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (Xbox 360 guitars only) | ![Effects Switch](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/fx.png "Effects Switch") | |
+| L2 <br/> (PS3/Wii guitars only) | ![Solo Buttons](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
+| L3 <br/> (Xbox 360 guitars only) | ![Solo Buttons](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/solo.png "Solo Buttons") | |
+| R1 | ![Tilt](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
 
 
 **Drums**:
@@ -140,13 +140,13 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|
-| Cross | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/kp.png "Foot Pedal") |
-| D-Pad | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 | ![Second Foot Pedal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/drms/gh/oc.png "Orange Cymbal") |
+| Cross | ![Green Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 | ![Second Foot Pedal](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 | Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
@@ -156,18 +156,18 @@ If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**
 
 | **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
-| ![D-Pad](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
-| ![Cross Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
-| ![Circle Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
-| ![Square Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
-| ![Triangle Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
-| ![Options Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
-| ![Share Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
-| ![L1 Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
-| ![L2 Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
-| ![R1 Button](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
-| ![R2 Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](https://github.com/carlmylo/rb3-pc/blob/main/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
+| ![Left Stick](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![D-Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Cross Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![Circle Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![Square Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Triangle Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Options Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![Share Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![L1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![L2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![R1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![R2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
 
 ## CREDITS:
