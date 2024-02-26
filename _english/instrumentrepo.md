@@ -1,5 +1,5 @@
 ---
-title: EXTRA: Instrument Repo
+title: Extra - Instrument Repo
 author: Carl Mylo
 date: 1000-10-01
 category: English

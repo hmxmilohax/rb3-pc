@@ -1,8 +1,8 @@
 ---
-title: EXTRA: Advanced Adjustments
+title: Extra - Advanced Adjustments
 author: Carl Mylo
-date: 1000-10-01
-category: Instruments
+date: 1000-10-02
+category: English
 layout: post
 ---
 
