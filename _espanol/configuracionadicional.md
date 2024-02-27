@@ -10,6 +10,8 @@ layout: post
 
 ## Añadir mas memoria a Rock Band 3
 
+### Intro
+
 Vamos a darle mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando porque ayuda la estabilidad y también sube el limite de canciones hasta 16000.
 
 > ##### ADVERTENCIA
@@ -121,7 +123,7 @@ Ahora, vamos a ver como crear o entrar a sesiones.
 
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, con la opción "Join Game" resaltada.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/joingame.png)](https://gocentral.rocks/sessions "GoCentral")
 
-**Antes de crear o entrar a una sesión, necesitas tienes que presionar en "Play on AshCentral" en el menu de Rock Band 3.**
+**Antes de crear o entrar a una sesión, necesitas tienes que presionar en "Jugar en AshCentral" en el menu de Rock Band 3.**
 
 ![Captura de pantalla de Rock Band 3, con "Play on AshCentral" resaltado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/ashcentrales.png "Rock Band 3: Play on AshCentral")
 
@@ -152,9 +154,9 @@ Ahora debes de ver que se conecten los que fueron invitados.
 
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Session", pidiendo al usuario un código de sesión.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/joinroom.png)](https://gocentral.rocks/sessions/join "GoCentral - Join Session")
 
-Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Find AshCentral Players"** (Encontrar jugadores en AshCentral).
+Ahora, **en Rock Band 3, entra a Jugar, Partida Rápida, y "Buscar Jugadores En AshCentral"** (Encontrar jugadores en AshCentral).
 
-![Captura de pantalla de Rock Band 3, con "Find AshCentral Players" resaltado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/findashcentralplayerses.png "Rock Band 3: Find AshCentral Players")
+![Captura de pantalla de Rock Band 3, con "Buscar Jugadores En AshCentral" resaltado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/findashcentralplayerses.png "Rock Band 3: Buscar Jugadores En AshCentral")
 
 Te vas a conectar a la session donde fuiste invitado.
 

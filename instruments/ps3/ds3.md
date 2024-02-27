@@ -16,13 +16,13 @@ layout: post
 
 | **DS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![L2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Green Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") |
-| ![L1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Red Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") |
-| ![R1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Yellow Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") |
-| [R2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Blue Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Cross Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/x.png "Cross Button") | ![Orange Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
-| ![D-Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| ![Left Stick](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
+| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
+| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Yellow Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/yf.png "Yellow Fret") |
+| [R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Blue Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/bf.png "Blue Fret") |
+| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/x.png "Cross Button") | ![Orange Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/of.png "Orange Fret") |
+| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
 | Select | Overdrive |
 
 

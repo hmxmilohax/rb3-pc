@@ -11,7 +11,7 @@ layout: post
 **Esta sección es para instrumentos regulares, como guitarras de cinco botones, baterías, y baterías PRO.**  
 La configuración de guitarras Pro y/o teclados piano es más adelante.
 
-Si estas jugando con solo un instrumento o necesitas mas referencias para configurar instrumentos, puedes usar el [[Repositorio de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/instrumentrepoes/) que tiene perfiles que ya están configurados. Los perfiles se instalan arrastrando archivos, como todo lo que has instalado anteriormente.
+Si estas jugando con solo un instrumento o necesitas mas referencias para configurar instrumentos, puedes usar el [[Repositorio de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/) que tiene perfiles que ya están configurados. Los perfiles se instalan arrastrando archivos, como todo lo que has instalado anteriormente.
 
 > ##### ADVERTENCIA
 >

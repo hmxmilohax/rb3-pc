@@ -15,7 +15,7 @@ layout: post
 	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
 * Velocity sensitivity doesn't seem to work.
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbdrmscontroller.png "Controller") 
 

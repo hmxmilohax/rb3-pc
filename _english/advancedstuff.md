@@ -10,6 +10,8 @@ layout: post
 
 ## Add more memory to Rock Band 3
 
+### Intro
+
 We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strongly suggested and allows for better stability as well top of increasing the song limit up to 16000.
 
 > ##### WARNING

@@ -9,7 +9,7 @@ layout: post
 ## NOTES:
 
 * There is no binding file.
-* Requires the keyboard to be connected via a MIDI to USB interface.
+* This is meant for players that have the keyboards connected via a MIDI to USB interface
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 
 ## Instructions:

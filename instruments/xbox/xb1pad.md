@@ -14,14 +14,14 @@ layout: post
 
 | **Xbox Controller**          | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![L2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Green Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/gf.png "Green Fret") |
-| ![L1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/rf.png "Red Fret") |
-| ![R1 Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/rb.png "Right Bumper") | ![Yellow Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/yf.png "Yellow Fret") |
-| [R2 Trigger](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Blue Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Cross Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/a.png "A Button") | ![Orange Fret](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/of.png "Orange Fret") |
-| ![D-Pad](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
-| ![Left Stick](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![View Button](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
+| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
+| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
+| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Right Bumper") | ![Yellow Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/yf.png "Yellow Fret") |
+| [R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Blue Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/bf.png "Blue Fret") |
+| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | ![Orange Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/of.png "Orange Fret") |
+| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbx.png "Platform") 

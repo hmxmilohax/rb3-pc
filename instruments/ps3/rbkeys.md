@@ -9,7 +9,7 @@ layout: post
 ## NOTES:
 
 * It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://hmxmilohax.github.io/rb3-pc/english/passthroughdevices/)
-* Requires the keyboard to be connected via a MIDI to USB interface.
+* This is meant for players that have the keyboards connected via a MIDI to USB interface.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 
 ## Instructions:
