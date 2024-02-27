@@ -72,6 +72,7 @@ Iremos pestaña por pestaña, comenzando con:
 <br/>
 
 ## **Audio**
+
 ![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Enable Buffering" resaltado en un cuadro verde con una línea discontinua, "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type: Standard", Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/audio.png "Audio")
 
 * ![Un cuadro verde con una línea discontinua.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
@@ -97,6 +98,8 @@ Iremos pestaña por pestaña, comenzando con:
 **Esta sección es para teclados USB/MIDI o guitarras Pro con cable.**
 * **Si no estás jugando con una guitarra Pro con cable o un teclado USB/MIDI,** [[puedes avanzar a la siguiente sección.]](#system)  
 * **Si estás jugando con un Teclado Rock Band 3 para PS3 o una Guitarra Pro Mustang para PS3 inalámbrica,** [[puedes avanzar a la siguiente sección.]](#system)  
+
+### Intro
 
 **Si tu teclado tiene salida USB**, solo necesitas **conectarlo a tu computadora**.  
 ![Una imagen atrás de un controlador MIDI, mostrando un puerto USB y un pedal de sostenido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/midi/usbkeys.png "Teclado USB")  

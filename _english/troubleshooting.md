@@ -40,7 +40,7 @@ layout: post
 	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) for Rock Band 3.
 
 *   **_"My PS3 Rock Band instrument controller shows up as two controllers."_**
-	*   You did [[controller configuration]](#controllers) for a PS3 Rock Band controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
+	*   You did [[controller configuration]](https://hmxmilohax.github.io/rb3-pc/english/controllers/) for a PS3 Rock Band controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
 
 *   **_[Rock Band 3 Deluxe] "I crash in the intro video."_**
 	*   You have incompatible Rock Band 3 Deluxe files. You need to go to Rock Band 3's game directory in `dev_hdd0\game\BLUS30463\USRDIR` and delete every `.dta` file aside from `dx_high_memory.dta`.

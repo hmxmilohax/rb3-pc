@@ -83,4 +83,4 @@ That's it! You should soon find other players!
 
 ## Room Codes
 
-If you're an advanced user, you can use [[room codes]](ashcentral_room_codes.md) to connect with your friends. Please note that this is a much more complicated way to connect each other and most people don't need to do this.
+If you're an advanced user, you can use [[room codes]](https://hmxmilohax.github.io/rb3-pc/english/advancedstuff/#setting-up-for-room-codes-on-ashcentral) to connect with your friends. Please note that this is a much more complicated way to connect each other and most people don't need to do this.

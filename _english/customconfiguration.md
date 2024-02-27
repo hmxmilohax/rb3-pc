@@ -98,6 +98,8 @@ We'll go tab by tab, starting with:
 * **If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard,** [[**skip** over **this section**].](#network)  
 * **If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,** [[**skip** over **this section**].](#network)  
 
+### Intro
+
 **If your keyboard has a USB port**, all you need to do is **plug it into your computer**.  
 ![A picture of a MIDI controller's back, showing a USB port and a sustain pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/midi/usbkeys.png "USB Keyboard")  
 
