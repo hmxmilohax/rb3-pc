@@ -6,23 +6,52 @@ category: English
 layout: post
 ---
 
-# Intro:
+# Guías Adicionales
+
+## Añadir mas memoria a Rock Band 3
+
+Vamos a darle mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando porque ayuda la estabilidad y también sube el limite de canciones hasta 16000.
+
+> ##### ADVERTENCIA
+>
+> _Si bajaste y estas usando [[un perfil de la Configuración Rápida,]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionrapida/) ya tienes esto activado y no necesitas hacer nada_
+{: .block-warning  }
 
 > ##### PELIGRO
 >
-> _Abajo estan ajustes adicionales para personas avanzadas. **¡Estas son cosas que mayoria de las personas no necesitan hacer!** Procede con precaución!_
+> _Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#advanced). **Si no haces esto, tu juego va a parar de funcionar.**_
 {: .block-danger  }
 
-# AshCentral: Codigos Privados:
+### Como Hacerlo
+
+* Primero, vas a necesitar [[bajar el archivo que activa memoria adicional. Haz click aquí para bajarlo.]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
+
+**Después de bajar el archivo, extrae los contenidos en muevelos a la carpeta donde esta RPCS3. Las carpetas se combinaran si lo hiciste bien.**
+
+El ejemplo abajo enseña, la carpeta `devhdd_0` del archivo (memory.zip) fue extraída y sus contenidos fueron movidos a la carpeta de RPCS3.
+
+![Una animacion de "dev_hdd0" de "memory.zip" siendo arrastrado a la carpeta de RPCS3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/himem.gif "Recommended.zip")
+
+
+# ZONA DE PELIGRO
 
 ## Intro
+
+> ##### PELIGRO
+>
+> _Abajo están ajustes adicionales para personas avanzadas. **¡Estas son cosas que mayoría de las personas no necesitan hacer!** Procede con precaución!_
+{: .block-danger  }
+
+## AshCentral: Códigos Privados
+
+### Intro
 
 Versión Vídeo de esta sección subtitulada en Español:  
 [![Una mini-imagen de la versión vídeo de esta sección de la guía.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
 **Códigos privados solo son útiles para crear sesiones privadas con jugadores en consola. Si quieres invitar alguien que juega en emulador, usa la opción de "Invitar a Amigos" dentro del menú de "Jugar en AshCentral"!**
 
-## Preparaciones para usar códigos privados en AshCentral:
+### Preparaciones para usar códigos privados en AshCentral:
 
 Para usar el sistema de códigos de sala en AshCentral, **asegúrate que RPCS3 este configurado para conectar a AshCentral**. **Entra al** [[**Discord de Milohax**]](https://rb3dx.neocities.org/discord) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**.
 
@@ -97,7 +126,7 @@ Ahora, vamos a ver como crear o entrar a sesiones.
 ![Captura de pantalla de Rock Band 3, con "Play on AshCentral" resaltado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/ashcentrales.png "Rock Band 3: Play on AshCentral")
 
 
-## Creando Sesiones:
+### Creando Sesiones:
 
 **Haz click en "Host Session"** en GoCentral.Rocks.
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Game", con "Host Session" resaltado..](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
@@ -114,7 +143,7 @@ Ahora debes de ver que se conecten los que fueron invitados.
 
 ![Captura de pantalla de Rock Band 3, en un cuarto en linea.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/hostlobbyes.png "Rock Band 3: Buscando jugadores en AshCentral")
 
-## Entrando a Sesiones:
+### Entrando a Sesiones:
 
 **Haz clic en "Join Session"** (Unirse a sesión) en GoCentral.Rocks.
 [![Captura de pantalla del sitio web de AshCentral, GoCentral.Rocks, en la subpágina "Join Game", con "Join Session" resaltado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")

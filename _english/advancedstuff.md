@@ -8,7 +8,34 @@ layout: post
 
 # Extra Guides
 
-## How to properly import customs to Rock Band 3
+## Add more memory to Rock Band 3
+
+We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strongly suggested and allows for better stability as well top of increasing the song limit up to 16000.
+
+> ##### WARNING
+>
+> _If you downloaded and are using a [[Quick Configurations profile,]](https://hmxmilohax.github.io/rb3-pc/english/quickconfiguration/) this is already active and you don't need to do this._
+{: .block-warning  }
+
+> ##### DANGER
+>
+> _You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#advanced). **Not doing this will cause your game to crash immediately after adding this file.**_
+{: .block-danger  }
+
+### How To
+
+* First, you'll need to [[download the file to enable increased memory support. Click here to download it]](https://github.com/hmxmilohax/rb3-pc/raw/main/config/customconfig/memory.zip)
+
+**After downloading the .zip file, extract its contents and move them to RPCS3's folder. It should combine folders automatically if you did it right.**
+
+In the GIF example below, the `devhdd_0` folder from the archive (memory.zip) was extracted and its contents were moved into RPCS3's folder.
+
+![A GIF of "dev_hdd0" from "memory.zip" being moved into its proper location in RPCS3's folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/himem.gif "memory.zip")
+
+That's it! Enjoy the increased stability and extra song space!
+
+
+## How to properly add customs to Rock Band 3
 
 [[Click here to be taken to the definitive guide on how to add customs to your installation of Rock Band 3.]](https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/)
 
@@ -23,7 +50,7 @@ layout: post
 
 ## Add custom textures to Rock Band 3 Deluxe
 
-### How To:
+### How To
 
 [[Click here to be taken to the definitive guide on how to add custom textures to Rock Band 3 Deluxe.]](https://docs.google.com/document/d/1ELUI8Q2W7PH9tdugeKnsjhqa-IH3T-oy6uGTDY_8z30/)
 

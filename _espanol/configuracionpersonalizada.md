@@ -188,7 +188,7 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 
 
 ## Network
-![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, los interruptores de IP/Hosts (rb3ps3live.hmxservices.com=45.33.48.123), el estado de PSN (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/network.png "Network")
+![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, DNS (78.141.231.152), los interruptores de IP/Hosts, el estado de PSN (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/network.png "Network")
 
 * ![Un cuadro verde con una línea discontinua.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Cambia Network Status** (estado de red) **a "Connected"** (conectado) **como en la imagen. Si la dejas en "Disconnected"** (desconectado), **el juego se congelara mientras navegas por la biblioteca de canciones.**
@@ -206,16 +206,16 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 ![Una captura de la configuración personalizada avanzada, con "Driver Wake-Up Delay (1µ)" resaltado en un cuadro verde con una línea discontinua, "Exclusive Fullscreen Mode", "VBlank Frequency" y "Maximum Number of SPURS Threads" resaltados en cuadros azules con contornos punteados, y "Debug Console Mode" resaltado en un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/advanced.png "Advanced")
 
 * ![Un cuadro verde con una línea discontinua.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.** 
+	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.** Si todavía sigue pasando (muy raro),  subele en incrementos de 20 cada vez.
 
 * ![Un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
-	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
 		* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005).
 
 * ![Un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
-	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - **Con Rock Band 3 Deluxe instalado, esto aumenta cuanta memoria Rock Band 3 puede usar. Esto va a ayudar tener sesiones mas largas. mejor estabilidad, mas tener mas canciones en tu librería de música.** Si tu computadora esta en el requisitos mínimos (o mejor), no hay razón para no activar esto.
+	* **Activa "Debug Console Mode"** (Modo de consola saca-errores) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. [[Haz click aquí para mas información.]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionadicional#añadir-mas-memoria-a-Rock-Band-3)
+	* **Cambia el "Exclusive Fullscreen Mode"** (Modo de exclusividad de pantalla llena) **a "Prefer borderless fullscreen"** (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.
 
 <br/>
 
