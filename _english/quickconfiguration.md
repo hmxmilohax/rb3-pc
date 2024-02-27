@@ -18,7 +18,7 @@ Players who want to use [[microphones]](https://hmxmilohax.github.io/rb3-pc/engl
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 In the GIF example below, the "Recommended" requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
 
-![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/quickconf.gif "Recommended.zip")
+![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/quickconf.gif "Recommended.zip")
 
 If you need any more information about what these settings are changing:
 

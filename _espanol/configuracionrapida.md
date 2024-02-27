@@ -17,7 +17,7 @@ Los jugadores que desean utilizar [[micrófonos]](https://hmxmilohax.github.io/r
 Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
 El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
 
-![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/quickconf.gif "Recommended.zip")
+![Una animacion de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/quickconf.gif "Recommended.zip")
 
 Se necesitas mas detalles sobre estas configuracions, esto lo que se usa para las configuracion:
 

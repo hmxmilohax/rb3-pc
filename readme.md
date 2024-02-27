@@ -2,7 +2,7 @@
 layout: home
 title: Rock Band 3 on PC
 permalink: /
-cover: https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/banners/rb3dx.png
+cover: https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/banners/rb3dx.png
 ---
 
 > * [_[English Version]_](https://hmxmilohax.github.io/rb3-pc/english/intro/)  

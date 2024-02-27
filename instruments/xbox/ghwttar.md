@@ -11,11 +11,11 @@ layout: post
 * Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/360.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/ghwtcontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ghwtcontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/360ghwttarmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360ghwttarmapping.png "Mapping") 
 
 
 

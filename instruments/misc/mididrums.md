@@ -18,10 +18,10 @@ layout: post
 ## Instructions:
 **Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/pcs3customconfigchange.png "Change Custom Configuration")
+![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/pcs3customconfigchange.png "Change Custom Configuration")
 
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/iod.png "I/O")
-* ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/cust/smalltan.png "Tan Square") : 
+![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/iod.png "I/O")
+* ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") : 
 	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 ### Additional Setup:
@@ -60,20 +60,20 @@ Default Mapping:
 
 | **MIDI Note#** | **Trigger Type** | **In-Game Action** |
 |:--------:|:-------------------:|:-----------------:|
-| **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/rp.png "Red Pad") |
-| **48**, 50 | Hi-tom | ![Yellow Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/yp.png "Yellow Pad") |
-| **45**, 50 | Low-tom | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/bp.png "Blue Pad") |
-| **41**, 43 | Floor-tom | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/gp.png "Green Pad") |
-| **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/yc.png "Yellow Cymbal") |
-| **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/bc.png "Blue Cymbal") |
-| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/gc.png "Green Cymbal") |
-| **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
+| **38**, 31, 34, 37, 39, 40 | Snare | ![Red Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/rp.png "Red Pad") |
+| **48**, 50 | Hi-tom | ![Yellow Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yp.png "Yellow Pad") |
+| **45**, 50 | Low-tom | ![Blue Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Blue Pad") |
+| **41**, 43 | Floor-tom | ![Green Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Green Pad") |
+| **22**, 26, 42, 46, 54 | Hi-Hat Cymbal | ![Yellow Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yc.png "Yellow Cymbal") |
+| **51**, 53, 56, 59 | Ride Cymbal | ![Blue Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bc.png "Blue Cymbal") |
+| **49**, 52, 55, 57 | Crash Cymbal | ![Green Cymbal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gc.png "Green Cymbal") |
+| **33**, 35, 36 | Kick Pedal | ![Foot Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Foot Pedal") |
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/midi.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midi.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/mididrumscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/mididrumscontroller.png "Controller") 
 
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

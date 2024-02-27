@@ -30,10 +30,10 @@ Mappings:
 | R1 | ![Tilt](https://github.com/hmxmilohax/rb3-pc/blob/main/images/btns/gtrs/ts.png "Tilt") | Does not work |
 
   
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/wii.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/rbgtrscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbgtrscontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/wiirbgtrsmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbgtrsmapping.png "Mapping") 
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)

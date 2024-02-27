@@ -22,11 +22,11 @@ layout: post
 
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/midi.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midi.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/rolllimitlesscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rolllimitlesscontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/rolllimitlessmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rolllimitlessmapping.png "Mapping") 
 
 
 Mapped by Uzny

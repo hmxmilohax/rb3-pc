@@ -26,11 +26,11 @@ layout: post
 | Select | Overdrive |
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/ps3.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps3.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/ds3controller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ds3controller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/instruments/ds3mapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ds3mapping.png "Mapping") 
 
 
 Instructions by [SlothDemon](https://www.youtube.com/@SlothDemon1991)

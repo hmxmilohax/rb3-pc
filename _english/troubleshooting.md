@@ -8,7 +8,7 @@ layout: post
 
 *   **_Stuttering audio_**
 
-	* [![A video thumbnail that reads "Click here for audio example."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
+	* [![A video thumbnail that reads "Click here for audio example."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
 	* Increase “Audio Buffer Duration” as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
