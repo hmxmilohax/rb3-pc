@@ -1,21 +1,35 @@
 ---
-title: Extra - Advanced Adjustments
+title: Extra - Advanced Stuff
 author: Carl Mylo
 date: 1000-10-02
 category: English
 layout: post
 ---
 
-# Intro:
+# Extra Guides
+
+## How to properly import customs to Rock Band 3
+
+[[Click here to be taken to the definitive guide on how to add customs to your installation of Rock Band 3.]](https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/)
+
+# Danger Zone
+
+## Intro
 
 > ##### DANGER
 >
 > _Below are tweaks and adjustments that are meant for advanced users only. **Your game and installation may break!** Proceed with caution!_
 {: .block-danger  }
 
-# Force Full HD:
+## Add custom textures to Rock Band 3 Deluxe
 
-## Intro
+### How To:
+
+[[Click here to be taken to the definitive guide on how to add custom textures to Rock Band 3 Deluxe.]](https://docs.google.com/document/d/1ELUI8Q2W7PH9tdugeKnsjhqa-IH3T-oy6uGTDY_8z30/)
+
+## Force Full HD
+
+### Intro
 
 We'll be forcing Rock Band 3 to run in full HD (1920x1080). Please be aware that this requires more graphical power so if you experience degraded performance, undo these changes.
 
@@ -27,7 +41,7 @@ Here is a comparison. Rock Band 3 was targeting 1080p with "Resolution Scale" ad
 
 There are two ways to do this. We'll go over the easy way first.
 
-## The easy way:
+### The easy way
 
 Click on "View" > "Game Categories" and then enable "Game Data."
 
@@ -42,7 +56,7 @@ In the GPU tab of the Custom Configuration Window, change "Default Resolution" t
 
 ![A screenshot Rock Band 3's Custom Configuration settings in the GPU tab, with the user's cursor hovering over "1920x080".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/xtra/fullhd/gpu1080.png "Game Data")
 
-## The "hard" way:
+### The "hard" way
 
 In RPCS3, right click on Rock Band 3 and click on "Open Custom Config Folder."  
 
@@ -60,11 +74,13 @@ When you find it, change "`1280x720`" to "`1920x1080`" and save the file.
 
 ![A screenshot of Notepad with config_BLUS30463.yml open. Resolution has been changed from 1280x720 to 1920x1080.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/xtra/fullhd/ymleditpost.png "config_BLUS30463.yml")
 
-## Conclusion
+### Conclusion
 
 That's it. Just note that any time you change anything on the GPU tab, it might reset back to 1280x720 so you'll have to do this again.
 
-# Shared Directory
+## Shared Directory
+
+### What is this?
 
 We'll be moving RPCS3's virtual file system to a separate folder to make switching between versions easier. This way, you won't have to install the same content twice.
 
@@ -110,16 +126,16 @@ Finally, click "Save".
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 
-# AshCentral Room Codes
+## AshCentral Room Codes
 
-## Intro
+### Intro
 
 Video Version:  
 [![A thumbnail of the video version of this section of the tutorial.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/ash/vidthumb.png)](https://youtu.be/pfEUYhzw1ds "Rock Band 3 Multiplayer with Room Codes! [RPCS3] - YouTube")
 
 **Room Codes are only useful for setting up private lobbies with console players. If you're inviting someone who's on an emulator, use the "Invite Friend" option in the "Play on AshCentral" menu!**
 
-## Setting up for room codes on AshCentral:
+### Setting up for room codes on AshCentral
 
 To use the room code system on AshCentral, **make sure RPCS3 is set to connect to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
 
@@ -194,7 +210,7 @@ Now, let's go over hosting or joining sessions.
 ![A screenshot of Rock Band 3, with "Play on AshCentral" being highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/ash/ashcentral.png "Rock Band 3: Play on AshCentral")
 
 
-## Hosting Sessions:
+### Hosting Sessions
 
 **Click on "Host Session"** on GoCentral.Rocks.
 [![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Host Session" being moused over.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/ash/hostsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Host Session")
@@ -210,7 +226,7 @@ Now, **in Rock Band 3, go to "Play Now", then "Quickplay", then "Find AshCentral
 You should see invited players connected to your lobby.
 ![A screenshot of Rock Band 3, in an online lobby.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/ash/hostlobby.png "Rock Band 3: Find AshCentral Players")
 
-## Joining Sessions:
+### Joining Sessions
 
 **Click on "Join Session"** on GoCentral.Rocks.
 [![A screenshot of AshCentral's website, GoCentral.Rocks, on the "Join Game" subpage, with "Join Session" being moused over.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/TheGreatSplit/assets/images/ash/joinsession.png)](https://gocentral.rocks/sessions/ "GoCentral - Join Session")
