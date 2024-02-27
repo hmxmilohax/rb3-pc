@@ -6,7 +6,7 @@ category: Instruments
 layout: post
 ---
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%204%20Guitar.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z)
 
 ## NOTES:
 * This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
@@ -44,7 +44,7 @@ Click the "Start" button to start receiving .
 You should get a notification from Windows that it's installing "Virtual Xbox 360 Controller." It should show up in RPCS3 as an XInput device.
 
 
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbx.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbxgtrscontroller.png "Controller") 
 

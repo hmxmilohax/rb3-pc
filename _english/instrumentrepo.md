@@ -49,7 +49,7 @@ Paste it into:
 ## Guitars:
 * [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbgtrs)
 * [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbgtrs)
-* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%204%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
+* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
 	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
 * [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghlp)
 * [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/raphlp)
