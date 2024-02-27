@@ -49,11 +49,13 @@ Paste it into:
 ## Guitars:
 * [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbgtrs)
 * [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbgtrs)
-* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
-	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
+* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%204%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
+	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
 * [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghlp)
 * [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/raphlp)
 * [[Wii Guitar Hero Les Paul (PI Pico) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/picolp)
+* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
+	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
 * [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghwttar)
 * [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghwttar)
 * [[PS2 Guitar Hero SG Guitar]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/ps2sg)
@@ -71,8 +73,6 @@ Paste it into:
 # Missing Instruments:
 
 ## TODO:
-* [TODO] Xbox One/Xbox Series S/X Riffmaster Guitar
-* [TODO] Xbox One/Xbox Series S/X Rock Band 4 Guitar
 * [TODO] Xbox One/Xbox Series S/X Rock Band 4 Drums
 * [TODO] Wii Rock Band MIDI Pro Adapter Drums
 * [TODO] Wii Rock Band Drums
@@ -103,15 +103,15 @@ If you own any of these instruments and wish to help, please contact Carl Mylo o
 
 * [[TheNathannator's]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) for outstanding documentation on controllers.
 * [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter profiles
-* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDI Drums profile 
+* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDI Drums, Keyboards research 
 * [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer profile
-* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox 360 Rock Band Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, and Xbox 360 Guitar Hero Genericaster profiles
-* [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Genericaster, and Wii Guitar Hero Drums profiles
+* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox One Rock Band 4 Guitars, Xbox 360 Rock Band Drum Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, Xbox 360 Guitar Hero Genericaster profiles
+* [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Drums, PS3 Guitar Hero Genericaster, Wii Guitar Hero Drums profiles
 * [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster profiles
 * [Uzny] - Roll Limitless profile
 * [16bitblastprocessing] - PS3 Guitar Hero Les Paul
 * [heartworthbreaking] - Wii Guitar Hero Ardwiino PI Pico Guitar profile
 * [[cas]](https://www.youtube.com/channel/UCw2JKh7_Zt65kjENqjnvm_g) - PS2 Guitar Hero SG Guitar profile
 * [[scott0852]](https://twitter.com/scott0852) - Wii Rock Band Drums
-* [SlothDemon](https://www.youtube.com/@SlothDemon1991) - DS3 Padtar instructions
+* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991) - Padtar research
 * [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
