@@ -6,6 +6,8 @@ category: Instruments
 layout: post
 ---
 
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z)
+
 ## NOTES:
 
 * **NOT A RECOMMENDED CONTROLLER** but kept in this list since it's unlikely many people will have this and since not much documentation exists on this controller.
@@ -17,5 +19,8 @@ layout: post
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ghwtcontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pcghwtmapping.png "Mapping") 
+
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
 
 Mapped by Derd

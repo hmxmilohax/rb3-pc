@@ -8,7 +8,7 @@ layout: post
 
 ## NOTES:
 
-* There is no binding file as all controls are default.
+* There is no binding file.
 * This is meant for players that have the keyboards connected via a MIDI to USB interface.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 
@@ -33,5 +33,6 @@ You can shift octaves with the 1 and B buttons.
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbkeyscontroller.png "Controller") 
 
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

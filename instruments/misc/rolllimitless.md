@@ -6,6 +6,8 @@ category: Instruments
 layout: post
 ---
 
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums.7z)
+
 ## NOTES:
 
 * This controller requires advanced configuration.
@@ -27,6 +29,9 @@ layout: post
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rolllimitlesscontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rolllimitlessmapping.png "Mapping") 
+
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
 
 
 Mapped by Uzny

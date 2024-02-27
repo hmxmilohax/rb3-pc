@@ -6,6 +6,8 @@ category: Instruments
 layout: post
 ---
 
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z)
+
 ## NOTES:
 
 * May need "Filter Noise" to bind correctly, depending on your luck. Sometimes the adapter is flooded by D-Pad presses.
@@ -17,5 +19,8 @@ layout: post
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps2sgcontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps2sgmapping.png "Mapping") 
+
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
 
 Mapped by cas

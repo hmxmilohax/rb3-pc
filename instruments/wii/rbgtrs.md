@@ -6,6 +6,8 @@ category: Instruments
 layout: post
 ---
 
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z)
+
 ## NOTES:
 
 * The effects switch seems to reset to the middle when it's adjusted, so you'll be locked to flanger.
@@ -35,5 +37,8 @@ Mappings:
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbgtrscontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbgtrsmapping.png "Mapping") 
+
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo)

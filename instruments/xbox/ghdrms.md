@@ -6,6 +6,8 @@ category: Instruments
 layout: post
 ---
 
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums.7z)
+
 ## NOTES:
 
 * Velocity sensitivity doesn't seem to work.

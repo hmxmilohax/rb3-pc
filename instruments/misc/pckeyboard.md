@@ -27,6 +27,9 @@ For reference, these are the default bindings:
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pckeyboardmapping.png "Mapping") 
 
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
+
 If you want to copy Fortnite Festival's default bindings, you can use this as reference:
 
 | **RPCS3**          | **Keyboard** |
@@ -44,5 +47,7 @@ If you want to copy Fortnite Festival's default bindings, you can use this as re
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pc.png "Platform") 
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pckeyboardcontroller.png "Controller") 
+
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

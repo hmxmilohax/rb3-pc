@@ -75,5 +75,7 @@ Default Mapping:
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/mididrumscontroller.png "Controller") 
 
+[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
