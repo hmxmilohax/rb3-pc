@@ -75,7 +75,6 @@ Paste it into:
 ## TODO:
 * [TODO] Xbox One/Xbox Series S/X Rock Band 4 Drums
 * [TODO] Wii Rock Band MIDI Pro Adapter Drums
-* [TODO] Wii Rock Band Drums
 * [TODO] Wii Guitar Hero Genericaster Guitar
 * [TODO] PS2 Guitar Hero Kramer Striker
 * [TODO] Arduino Drums
