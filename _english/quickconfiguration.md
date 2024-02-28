@@ -36,7 +36,7 @@ If you need any more information about what these settings are changing:
 		- Audio Buffer Duration: 32 ms
 	- **Network**:
 		- Network Status: Connected
-		- AshCentral IP/Hosts Switches
+		- DNS: Configured for AshCentral
 		- Enable UPNP: On
 	- **Advanced**:
 		- Debug Console Mode: On

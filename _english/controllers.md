@@ -11,7 +11,7 @@ layout: post
 **This section is for standard guitar controls, standard drums, and Xbox 360/Wii Pro Drums.**  
 Pro Guitars and/or Keyboards are set up later.
 
-If you're playing with a single instrument controller, consider the [[Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/instruments/intro) which has easy drag and drop profiles for various rhythm game instruments.
+If you're playing with a single instrument controller, consider visiting the [[Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/), which has easy drag and drop profiles for various rhythm game instruments.
 
 If not, keep reading.
 
@@ -30,13 +30,11 @@ Below are the buttons you should map in RPCS3's Gamepad Settings.
 
 # Guitars  
 
-Make sure you **set “Device Class” to “Guitar”.**
-
-**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
-
 * If you're using PS2 (Guitar Hero), PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
 * If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
 
+Make sure you **set “Device Class” to “Guitar”.**  
+**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
  
 **Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+”, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
@@ -61,14 +59,12 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 # Drums
 
-Make sure you **set “Device Class” to “Drum”.**
-
 * If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
-**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. Do **NOT** use the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+Make sure you **set “Device Class” to “Drum”.**
 
-If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for the mapping as they know more about this.
+**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. Do **NOT** use the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|

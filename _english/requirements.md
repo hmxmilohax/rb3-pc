@@ -11,15 +11,16 @@ You will need:
 * _An instrument controller. You can use:_
 	*   _Any Rock Band and Guitar Hero Guitar (PS2, PS3, Wii, X360, XBONE, XSS/X)_<sup>a
 	*   _Any Rock Band and Guitar Hero Drums (PS3, Wii, X360, XBONE, XSS/X)_<sup>b
+	*   _A standard controller for "Padtar" (just about any controller)_<sup>b
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI guitar, and MIDI keyboard (PS3 version only)_<sup>c
 	*   _Rock Band 3 MIDI Pro Adapter and a compatible MIDI drum kit (PS3, Wii, X360)_<sup>c
 	*   _Rock Band 3 Keyboard (PS3 version via dongle only)_<sup>c
-	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wireless**\] (PS3 version via dongle only)_<sup>c
-	*   _Rock Band 3 Fender Mustang PRO-Guitars \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
-	*   _Rock Band 3 Squier Stratocaster PRO-Guitars (PS3, Wii, X360 via MIDI to USB adapter)_
-	*   _Any MIDI Keyboards (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
-	*   _MIDI Drum Kits (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
-	*   _Microphones (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
+	*   _Rock Band 3 Fender Mustang PRO Guitar \[**Wireless**\] (PS3 version via dongle only)_<sup>c
+	*   _Rock Band 3 Fender Mustang PRO Guitar \[**Wired**\] (PS3, Wii, X360 via MIDI to USB adapter)_
+	*   _Rock Band 3 Squier Stratocaster PRO Guitar (PS3, Wii, X360 via MIDI to USB adapter)_
+	*   _Any MIDI Keyboard (**37 keys minimum** via USB or MIDI to USB adapter)_<sup>d 
+	*   _MIDI Electronic Drum Kit (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)_
+	*   _A microphone (game can be controlled with most game controllers or typing keyboard when playing as a vocalist)_
 *   _A computer_
 	* Minimum:
 		* OS: Windows 10

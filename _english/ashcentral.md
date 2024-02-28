@@ -8,9 +8,9 @@ layout: post
 
 ## Intro
 
-**If you're not interested in playing online, skip to the [[next section]](https://hmxmilohax.github.io/rb3-pc/english/passthroughdevices/).**
+**If you're not interested in playing online or on AshCentral, skip to the [[next section]](https://hmxmilohax.github.io/rb3-pc/english/passthroughdevices/).**
 
-This part of the guide **requires** that you have an [[**RPCN Account**]](https://hmxmilohax.github.io/rb3-pc/english/rpcn/) **and set your [[network configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) to use AshCentral server settings.**
+This part of the guide **requires** that you have a [[**RPCN Account**]](https://hmxmilohax.github.io/rb3-pc/english/rpcn/) **and set your [[network configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) to use AshCentral server settings.**
 
 AshCentral is currently hosts the best experience for playing Rock Band 3 online. This part will be going over how to get the most out of your experience while playing online.
 

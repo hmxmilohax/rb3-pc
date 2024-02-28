@@ -26,12 +26,12 @@ Enter a **username** and **password**:
 You will be prompted for an **email address** so you can receive a **verification token**:  
 ![A screenshot of RPCS3's RPCN: Email menu with an email (twice for verification) set and "OK" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/email.png "RPCN: Email")  
 
-You will next be asked to confirm your account's creation. **Click “Yes”**.
+Next, you will be asked to confirm your account's creation. **Click “Yes”**.
 
 ![A screenshot of RPCS3's RPCN: Account Creation popup, asking the user if they're ready to create their account, with "Yes" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/confirm.png "RPCN: Account Creation")
 
-Now go to your email inbox to check for your verification token. You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox. The email will be called **“Your token for RPCN.”  
-Copy the token**:
+Now **go to your email inbox to check for your verification token. The email will be called “Your token for RPCN”** You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox.  
+**Copy the token**:
 
 ![A screenshot of an email labeled "Your Token for RPCN" with a token below what username it's for](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/emailtoken.png "Your token for RPCN")
 
