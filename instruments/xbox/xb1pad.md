@@ -17,7 +17,7 @@ layout: post
 | ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
 | ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/rf.png "Red Fret") |
 | ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Right Bumper") | ![Yellow Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/yf.png "Yellow Fret") |
-| [R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Blue Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/bf.png "Blue Fret") |
+| ![R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Blue Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/bf.png "Blue Fret") |
 | ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | ![Orange Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/of.png "Orange Fret") |
 | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
 | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Whammy Bar") |
@@ -26,7 +26,7 @@ layout: post
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbx.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ds3controller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbxcontroller.png "Controller") 
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xboxmapping.png "Mapping") 
 

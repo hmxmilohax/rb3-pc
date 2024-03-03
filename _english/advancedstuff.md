@@ -182,7 +182,7 @@ Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.
 
 [![A screenshot of AshCentral's website, GoCentral.Rocks, in the login subpage, with "Login" being moused over.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/login.png)](https://gocentral.rocks/login "GoCentral - Login")
 
-You'll be taken to back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
+You'll be taken back to the front page. **Under your account's name, you should see "Settings"**. Click on that.
 
 [![A screenshot of AshCentral's website, GoCentral.Rocks, with the "Settings" option from the user name's subsection being moused over.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/splashsettings.png)](https://gocentral.rocks/settings "GoCentral")
 
@@ -196,7 +196,7 @@ This will take you to a page to type in an account linking code. **Leave this pa
 
 **Start up Rock Band 3**.
 
-Once it launches, **go the main options menu.**
+Once it launches, **go to the main options menu.**
 
 ![A screenshot of Rock Band 3, with Options being highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/options.png "Rock Band 3: Options")
 
@@ -208,7 +208,7 @@ Once it launches, **go the main options menu.**
 
 ![A screenshot of Rock Band 3, with "Account-Linking Code" being highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/accountlinkingcode.png "Rock Band 3: Account-Linking Code")
 
-**You should see a code now.**
+**You should see the code now.**
 
 ![A screenshot of Rock Band 3, telling the user to copy the code at the bottom into AshCentral.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/ash/code.png "Rock Band 3: Code Here")
 

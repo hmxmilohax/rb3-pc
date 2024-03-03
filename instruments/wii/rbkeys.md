@@ -15,10 +15,11 @@ layout: post
 ## Instructions:
 **Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://github.com/hmxmilohax/rb3-pc/blob/main/images/cust/pcs3customconfigchange.png "Change Custom Configuration")
+![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://github.com/hmxmilohax/rb3-pc/blob/main/images/cust/iok.png "I/O")
-* ![A tan square with a solid outline](https://github.com/hmxmilohax/rb3-pc/blob/main/images/cust/smalltan.png "Tan Square") : 
+![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/io.png "I/O")
+
+* ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") : 
 	* 🎹 **Leave your "Emulated MIDI type" on "Keyboard" and select your MIDI interface in the drop-down menu next to it.**.
 
 ### Additional Information:

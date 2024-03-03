@@ -18,7 +18,7 @@ layout: post
 ## Instructions:
 **Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/pcs3customconfigchange.png "Change Custom Configuration")
+![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/iod.png "I/O")
 * ![A tan square with a solid outline](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") : 
@@ -49,12 +49,12 @@ The file uses the following note names:
 `Crash`
 
 Examples of common replacements:
-* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and you kit has these reversed.
+* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and your kit has these reversed.
 	* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
-* You want to map to Open Hi-Hat to to Blue cymbal.
+* You want to map Open Hi-Hat to Blue cymbal.
 	* `Midi id to note override: "46=Ride"`
 
-In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to active their respective buttons.
+In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
 
 Default Mapping:
 

@@ -38,6 +38,7 @@ Scroll down a bit and download the Windows version.
 I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
 **Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
+
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/extractdir.png "Extract")
 
 Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**.” **Click that** to expand, **then click on “Download PS3 Update.**”  

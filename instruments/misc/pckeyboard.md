@@ -27,8 +27,6 @@ For reference, these are the default bindings:
 
 ![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pckeyboardmapping.png "Mapping") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
-
 
 If you want to copy Fortnite Festival's default bindings, you can use this as reference:
 

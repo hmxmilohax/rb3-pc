@@ -1,5 +1,5 @@
 ---
-title: Xbox 360 Guitar Hero Les Paul
+title: Xbox 360 Guitar Hero Les Paul Guitars
 author: Carl Mylo
 date: 
 category: Instruments

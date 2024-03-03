@@ -15,7 +15,7 @@ Before you install, **if you have any bindings in `config\input_configs\BLUS3046
 
 1. Download the .7z file in the folder for the instrument(s) you want to use.
 2. Extract the .7z file.
-3. Drag `config` folder into the folder you have RPCS3 in.
+3. Drag the `config` folder into the folder you have RPCS3 in.
 
 ![A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/instrepoinstall.gif "Installing a configuration from the Instrument Repo")
 
@@ -54,11 +54,11 @@ Paste it into:
 * [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghlp)
 * [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/raphlp)
 * [[Wii Guitar Hero Les Paul (PI Pico) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/picolp)
-* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
+* [[Xbox 360 Guitar Hero Xplorer Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
 	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
 * [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghwttar)
 * [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghwttar)
-* [[PS2 Guitar Hero SG Guitar]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/ps2sg)
+* [[PS2 Guitar Hero SG Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/ps2sg)
 * [[PS3 Guitar Hero Les Paul]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghlp)
 * [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/pcghwt)
 * [[PS3 Dualshock 3 Controller (Padtar)]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ds3) - Does not include a profile but does have instructions.

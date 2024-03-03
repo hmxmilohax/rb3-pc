@@ -1,5 +1,5 @@
 ---
-title: Wii Guitar Hero Les Paul [Raphnet]
+title: Wii Guitar Hero Les Paul [Raphnet] Guitars
 author: Carl Mylo
 date: 
 category: Instruments

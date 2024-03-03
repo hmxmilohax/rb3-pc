@@ -1,5 +1,5 @@
 ---
-title: Xbox 360 Guitar Hero Genericaster (World Tour and newer)
+title: Xbox 360 Guitar Hero Genericaster (World Tour and newer) Guitars
 author: Carl Mylo
 date: 
 category: Instruments

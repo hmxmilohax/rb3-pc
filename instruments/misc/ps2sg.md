@@ -1,5 +1,5 @@
 ---
-title: PlayStation 2 Guitar Hero SG
+title: PlayStation 2 Guitar Hero SG Guitars
 author: Carl Mylo
 date: 
 category: Instruments

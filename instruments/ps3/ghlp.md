@@ -1,5 +1,5 @@
 ---
-title: PlayStation 3 Guitar Hero Les Paul
+title: PlayStation 3 Guitar Hero Les Paul Guitars
 author: Carl Mylo
 date: 
 category: Instruments

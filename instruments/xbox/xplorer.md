@@ -1,5 +1,5 @@
 ---
-title: Xbox 360 Guitar Hero Xplorer
+title: Xbox 360 Guitar Hero Xplorer Guitars
 author: Carl Mylo
 date: 
 category: Instruments

@@ -12,7 +12,7 @@ layout: post
 
 This part of the guide **requires** that you have a [[**RPCN Account**]](https://hmxmilohax.github.io/rb3-pc/english/rpcn/) **and set your [[network configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) to use AshCentral server settings.**
 
-AshCentral is currently hosts the best experience for playing Rock Band 3 online. This part will be going over how to get the most out of your experience while playing online.
+AshCentral currently hosts the best experience for playing Rock Band 3 online. This part will be going over how to get the most out of your experience while playing online.
 
 ## Inviting Friends
 
@@ -83,4 +83,4 @@ That's it! You should soon find other players!
 
 ## Room Codes
 
-If you're an advanced user, you can use [[room codes]](https://hmxmilohax.github.io/rb3-pc/english/advancedstuff/#setting-up-for-room-codes-on-ashcentral) to connect with your friends. Please note that this is a much more complicated way to connect each other and most people don't need to do this.
+If you're an advanced user, you can use [[room codes]](https://hmxmilohax.github.io/rb3-pc/english/advancedstuff/#setting-up-for-room-codes-on-ashcentral) to connect with your friends. Please note that this is a much more complicated way to connect with each other and most people don't need to do this.

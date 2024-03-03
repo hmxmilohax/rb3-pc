@@ -1,5 +1,5 @@
 ---
-title: Wii Guitar Hero Ardwiino PI Pico Guitar
+title: Wii Guitar Hero Ardwiino PI Pico Guitars
 author: Carl Mylo
 date: 
 category: Instruments

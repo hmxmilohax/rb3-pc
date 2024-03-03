@@ -13,7 +13,7 @@ To start with, **close out RPCS3** **and plug in the instrument's dongle** to yo
 Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the latest version, then open it** up.
 
 Click on **Options** then **List All Devices**.  
-![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://raw.githubusercontent.com/hmxmilohax.github.io/rb3-pc/assets/images/pass/zadiglistall.png "Zadig: Options: List All Devices")
+![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadiglistall.png "Zadig: Options: List All Devices")
 
 You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we're using the Mustang Pro Guitar, which shows up as “Harmonix RB3 Mustang Guitar for PlayStation® 3”.  
 ![A screenshot of Zadig showing "Harmonix RB3 Mustang Guitar for PlayStation® 3" highlighted in the devices listed.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadigsel.png "Zadig: Harmonix RB3 Mustang Guitar for PlayStation® 3")
