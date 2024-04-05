@@ -119,9 +119,9 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 **YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!**
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/io.png "I/O")
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For third party Keyboard, wired Pro Guitar, and Pro Drums players**: 
-	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it.**.
+	* 🎹 **Keyboard Players: Leave your "Emulated MIDI type" on "Keyboard" and select your keyboard or MIDI interface in the drop-down menu next to it**.
 	* 🎸 **Pro Guitar Players: Change your "Emulated MIDI type" from "Keyboard" to "Guitar (17 Frets)" if you have a Mustang Pro Guitar, or "Guitar (22 Frets)" if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it**.
-	* 🥁 **Pro Drums Players: Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Electronic Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+	* 🥁 **Pro Drums Players: Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your Electronic MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 Visit the instrument repo if you're using a [[Xbox 360]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%203%20Keyboard#readme) or a [[Nintendo Wii]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Keyboard#readme) Rock Band 3 Keyboard connected via MIDI to USB. Also visit the instrument repo if you're on a [[MIDI Drum Kit]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/MIDI%20Drums#readme) and wish to adjust mappings.
 
@@ -141,9 +141,13 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 
 ### Notes on MIDI Drums:
 
+**Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
+
+For more information on Drum Kit mapping, [[**read here**.]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/mididrums#mapping)
+
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder. You need to run the game once with your MIDI Drum kit assigned in the I/O tab for RPCS3 to create this file. Any changes require a game restart.
 
-**As drums don't have PS3 buttons, by default:
+As drums don't have PS3 buttons, by default:**
 * START: Quickly close the Hi-Hat three times then hit the Snare
 * SELECT: Quickly close the Hi-Hat three times then hit the Snare Rim
 * Song select shortcuts: Quickly close the Hi-Hat three times then press the Kick pedal**

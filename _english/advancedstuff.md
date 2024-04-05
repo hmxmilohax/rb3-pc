@@ -62,7 +62,7 @@ That's it! Enjoy the increased stability and extra song space!
 
 We'll be forcing Rock Band 3 to run in full HD (1920x1080). Please be aware that this requires more graphical power so if you experience degraded performance, undo these changes.
 
-Please note that this mostly affects post processing, shadows, and aliasing with venue FPS set below 35. Most people won't be able to tell the difference.
+Please note that this mostly affects post processing, shadows, and aliasing with venue FPS set below 35. **Most people won't be able to tell the difference.**
 
 Here is a comparison. Rock Band 3 was targeting 1080p with "Resolution Scale" adjusted to match, so both are outputting 1080p.
 

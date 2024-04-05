@@ -53,7 +53,7 @@ Esto va abrir la lista de amigos.
 
 ![A screenshot of RPCN's Friends window.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/rpcnfriends.png "RPCS3: RPCN")
 
-En esta lista, puedes anidar a personas en muchas formas, incluyendo:
+En esta lista, puedes añadir a personas en muchas formas, incluyendo:
 
 #### RPCN: Buscando Amigos
 
@@ -65,7 +65,7 @@ Saldrá una pantalla nueva. **Entra el usuario de tu amigo y haz click en "OK".*
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendaddpopup.png "RPCS3: Add Friend")
 
-Si lo hiciste bien, te va decir "Friend was successfully added!" (Amigo fue añadido!). El circulo al lado de su nombre estará naranja. **Cuando tu amiga te añade, eso es todo.**
+Si lo hiciste bien, te va decir "Friend was successfully added!" (Amigo fue añadido!). El circulo al lado de su nombre estará naranja. **Cuando tu amigo te añade, eso es todo.**
 
 ![A screenshot of RPCN's Friends window, with the user adding someone by searching their username. Their mouse is hovering over "OK". The friend icon is orange.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/friendadded.png "RPCS3: Friend Added")
 

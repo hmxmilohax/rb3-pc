@@ -6,17 +6,17 @@ category: Español
 layout: post
 ---
 
-Eso que la configuración rápida es buena para mayoría de las personas, algunos prefieren hacer sus propios ajustes para sacar el mejor rendimiento de su configuración. Esto involucra creando una configuración personalizada para Rock Band 3.
+Aunque la configuración rápida es buena para la mayoría de las personas, algunos prefieren hacer sus propios ajustes para sacar el máximo rendimiento de su configuración. Esto involucra crear una configuración personalizada para Rock Band 3.
 
 ## Creando una configuración personalizada
 
-Si no tienes una configuración personalizada, **haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration From Default Settings**" (Create configuración personalizada basada en la configuración por defecto)  
+Si no tienes una configuración personalizada, **haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Create Custom Configuration From Default Settings**" (Crear configuración personalizada basada en la configuración por defecto)  
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Create Custom Configuration From Default Settings" resaltado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfig.png "Create Custom Configuration From Default Settings")
 
 ## Cambiando una configuración personalizada
 
 Si quieres cambiar una configuración personalizada, **haz click derecho en Rock Band 3** en RPCS3, luego presiona "**Change Custom Configuration**" (Cambiar Configuración Personalizada)
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Create Custom Configuration From Default Settings")
+![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
 Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he coloreado las cosas que vas a ajustar. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
 
@@ -46,7 +46,7 @@ Iremos pestaña por pestaña, comenzando con:
 ![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Settings" en un cuadro verde con una línea discontinua, "ZCULL Accuracy", "Resolution Scale", "Resolution Scale Threshold", "Anti-Alising", "Frame Limit" y "Shader Quality", "VSync" resaltados en un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/gpu.png "GPU")
 
 * ![Un cuadro verde con una línea discontinua.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Personajes tendrán rendimiento corrupto sin esta opción.
+	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción
 
 * ![Un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. **No uses esto con "Frame Limit" activado!**
@@ -55,11 +55,11 @@ Iremos pestaña por pestaña, comenzando con:
 		* A "60" si quieres fotogramas limitadas a 60 FPS (redundante con Vblank de 60 Hz).
 		* "Auto" va usar lo predeterminado de RPCS3.
 		* Es sugerido utilizar la configuración de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.
-		* Aumentando las fotogramas después de 60 utiliza muchos mas recursos. No es recomendado para sistemas de baja gama.
-		* Fotogramas mas alta que 60 pueden causar problemas con la detección de vocales.
+		* Aumentando las fotogramas sobre 60 utiliza muchos más recursos. No es recomendado para sistemas de gama baja.
+		* Fotogramas sobre 60 pueden causar problemas con la detección de vocales.
 	* **Cambia "ZCULL Accuracy"** (Precisión de ZCull) a "Relaxed" (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.
-	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto y a lo que puede tu computadora. Auméntala para obtener Gráficas más nítidos.
-	* **Cambia "Output Scaling"** a tu gusto y a lo que puede tu computadora. Esto afecta como se va "estirar" la imagen a tu para llegar a la resolución de tu pantalla usando diferente métodos de interpolación. Puede ayudar a los que tienen su nivel de resolución (mencionado arriba) en 100%.
+	* **Ajusta "Resolution Scale"** (Nivel de resolución) a tu gusto y a lo que puede tu computadora. Auméntala para obtener gráficos más nítidos.
+	* **Cambia "Output Scaling"** a tu gusto y a lo que puede tu computadora. Esto afecta cómo se va “estirar” la imagen para llegar a la resolución de tu pantalla usando diferentes métodos de interpolación. Puede ayudar a los que tienen su nivel de resolución (mencionado arriba) en 100%.
 		* "Nearest" (aproximación) es la interpolación mas cruda. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en pixelización.
 		* Bilinear (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.
 		* FidelityFX Super Resolution (FSR) usa calculaciones complejas para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
@@ -80,8 +80,8 @@ Iremos pestaña por pestaña, comenzando con:
 
 * ![Un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* Ajusta el "Audio Buffer Duration" (duración de búferes de audio) dependiendo de tu sistema. 
-		* Valores bajos resulta en menos latencia pero menos CPU
-		* Valores altos resulta en mas latencia pero menos CPU.
+		* Valores bajos resultan en menos latencia pero más consumo de CPU.
+		* Valores altos resultan en más latencia pero menos consumo de CPU.
 		* Los que juegan vocales son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.
 		* Esto se puede cambiar mientras el juego esta abierto pero **requiere recalibración** en los ajustes del sistema de Rock Band 3.
 	* **Cambia "Audio Out"** (Salida de audio) a **"XAudio2"** - **No mas se recomienda cambiar esto para computadoras de baja gama**. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con sonido.
@@ -89,7 +89,7 @@ Iremos pestaña por pestaña, comenzando con:
 * ![Un cuadro bronceado con un contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado") **Para Vocalistas**: 
 	* **Cambia "Microphone type"** (tipo de micrófono) **a "Standard" o "Rocksmith"**. "Standard" dejara que tu micrófono se pueda usar para cantar y la chat de voz. "Rocksmith" solo te dejara cantar.
 	* Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.
-	* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.
+	* Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.
 
 <br/>
 
@@ -122,9 +122,10 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
 **Si todo está conectado**, **mira la pestaña I/O de RPCS3**.  
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y "Pad Handler Mode" en un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/io.png "I/O")
 
-* ![Un cuadrado azul claro.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadrado Azul Claro"): **Para jugadores de teclado y guitarra Pro**:
+* ![Un cuadrado bronceado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadrado bronceado"): **Para jugadores de teclado y guitarra Pro**:
 	* 🎹 **Jugadores de teclado: Deja tu "Emulated MIDI type" (Tipo de MIDI emulado) en "Keyboard" (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él**.
 	* 🎸 **Jugadores de Guitarra Pro: Cambia tu "Emulated MIDI type" (Tipo de MIDI emulado) de "Keyboard" (teclado) a "Guitar (17 Frets)"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o "Guitar (22 Frets)"** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él**.
+	* 🥁 **Jugadores de Batería: Cambia tu "Emulated MIDI type" (Tipo de MIDI emulado) de "Keyboard" (teclado) a "Drums" (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 * ![Un cuadro azul con contorno punteado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallblue.png "Cuadro azul") **Ajuste dependiendo de tu PC**: 
 	* **Cambia "Pad Handler Mode"** (Modo de manejar controladores) **a "Multi-threaded"** si tienes una CPU con mas de 12 hilos/núcleos.
   
@@ -132,21 +133,23 @@ Aquí tienes un ejemplo de un convertidor de MIDI a USB. La mayoría vendrán co
   
 ### Notas para Guitarras PRO:
 
-Como dicho antes, Guitarras Pro deben se servir sin configuración adicional con que **tu convertidor de MIDI a USB pueda aceptar señales SYSEX**. **Recomiendo la M-Audio Midisport Uno porque se ha verificado que funciona.**
+Como he dicho antes, las Guitarras Pro deben servir sin configuración adicional con que **tu convertidor de MIDI a USB pueda aceptar señales SYSEX**. **Recomiendo el M-Audio Midisport Uno porque se ha verificado que funciona.**
 
 ### Notas para teclados MIDI:
 
-**Teclados no tienen botones de PS3, así que el primer octavo esta emulando botones de PS3**. Utiliza la siguiente imagen como referencia. **Te recomiendo poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores**.
+**Los teclados no tienen botones de PS3, así que la primera octava está emulando botones de PS3**. Utiliza la siguiente imagen como referencia. **Te recomiendo poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores**.
 ![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/keysctrl.png "Referencia del Teclado MIDI")
 
 ### Notas para baterías MIDI:
 
+Tu batería MIDI necesita estar en canal de MIDI 10 y mapeado a modo "GM". Esto esta por defecto en mayoría de las baterías.
+
 Puedes ajustar una variedad de opciones en el archivo `rb3drums.yml` file, que esta colocado en la carpeta llamada `config` que esta donde tienes RPCS3. Necesitas empezar el juego una vez con tu batería MIDI configurada en la pestaña de I/O para que RPCS3 cree el archivo. Cualquier cambio a este archivo requiere que reinicies el juego.
 
-**Baterías MIDI no tienen botones de PS3, así que:
-	* START: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
-	* SELECT: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim)
-	* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.**
+Las baterías MIDI no tienen botones de PS3, así que:
+* START: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
+* SELECT: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim)
+* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.**
 Si tu batería tiene partes que necesitan ser configuradas, puedes usar `Midi id to note override: ""` para corregir notas.
 * Para hacer esto:
 	* Ve al sitio [[MIDI Monitor]](https://www.midimonitor.com/)
@@ -165,6 +168,7 @@ El archivo usa estos nombres para notas:
 `Hihat`  
 `Ride`  
 `Crash`
+
 
 Ejemplos de cambios comunes:
 * El platillo azul esta configurado a `Note #51` y el platillo verde esta configurado a `Note #49` pero tu batería los tiene al revés.

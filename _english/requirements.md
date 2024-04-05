@@ -40,6 +40,7 @@ You will need:
 		* Additional custom songs require more space.
 		* Notes: Great performance with ample headroom for multitasking while playing. 1080p with full post-processing, 32 ms audio (or lower), 75 Hz.
 	* You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart) although they may be a bit inflated for this game.
+	* **Laptop users** should check [[the RPCS3 website]]((https://rpcs3.net/quickstart)) for requirements.
 *   _[[7-Zip]](https://www.7-zip.org/download.html) (or WinRAR if you hate yourself)_
 
 <sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible.</sub>  

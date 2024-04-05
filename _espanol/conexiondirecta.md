@@ -14,7 +14,7 @@ Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/) y **descárgalo**.
 [![Una captura de la pagina de Zadig](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
 
 
-Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar dispositivos).  
+Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar todos los dispositivos).  
 ![Una captura de Zadig mostrando "Listar todos los dispositivos" resaltado bajo "Opciones".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadiglistall.png "Zadig: Opciones: Listar todos los dispositivos")
 
 Deberías ver una lista de dispositivos ahora. **Selecciona tu Instrumento Pro de Rock Band 3**. En este ejemplo, estamos utilizando la Guitarra Mustang Pro, que aparece como "Harmonix RB3 Mustang Guitar for PlayStation® 3".  

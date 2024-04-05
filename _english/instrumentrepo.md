@@ -49,7 +49,7 @@ Paste it into:
 ## Guitars:
 * [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbgtrs)
 * [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbgtrs)
-* [[Xbox One Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
+* [[Xbox One/Xbox Series Rock Band 4/Fortnite Festival Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
 	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rb4gtrs)
 * [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghlp)
 * [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/raphlp)
@@ -70,33 +70,32 @@ Paste it into:
 * [[Xbox 360 Rock Band 3 Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbkeys) - Does not include a profile but does have instructions.
 * [[Wii Rock Band 3 Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbkeys) - Does not include a profile but does have instructions.
 
+## Pro Guitars:
+* [[PS3 Rock Band 3 Pro Guitars]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/protar) - Does not include a profile but does have instructions.
+* [[Xbox 360 Rock Band 3 Pro Guitars]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/protar) - Does not include a profile but does have instructions.
+* [[Wii Rock Band 3 Pro Guitars]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/protar) - Does not include a profile but does have instructions.
+
+
 # Missing Instruments:
 
 ## TODO:
-* [TODO] Xbox One/Xbox Series S/X Rock Band 4 Drums
-* [TODO] Wii Rock Band MIDI Pro Adapter Drums
-* [TODO] Wii Guitar Hero Genericaster Guitar
-* [TODO] PS2 Guitar Hero Kramer Striker
-* [TODO] Arduino Drums
+* Xbox One/Xbox Series S/X Rock Band 4 Drums
+* Wii Rock Band MIDI Pro Adapter Drums
+* Wii Guitar Hero Genericaster Guitar
+* PS2 Guitar Hero Kramer Striker Guitar
+* Arduino Drums
+* You Rock Guitar YRG-1000 Pro Guitar
+* PS4/PS5 Rock Band 4/Fortnite Festival Guitars
+* PS4/PS5 Rock Band 4 Drums
 
 If you own any of these instruments and wish to help, please contact Carl Mylo on the [[Milohax Discord server]](https://rb3dx.neocities.org/downloads.html) for information.
 
 ## REJECTED:
 
-* Rock Band 3 Fender Mustang Pro Guitar
-	* PS3 version works via passthrough (Zadig), and PS3, X360, and Wii versions work via a MIDI to USB interface with the Emulated Midi Device in RPCS3 in the I/O tab.
-* Rock Band 3 Squier Stratocaster Pro Guitar
-	* PS3 version works via passthrough (Zadig), and PS3, X360, and Wii versions work via a MIDI to USB interface with the Emulated Midi Device in RPCS3 in the I/O tab.
 * Rock Band Guitars (PS3 Versions)
 	* They work via passthrough natively.
 * Rock Band Drums (PS3 Versions)
 	* They work via passthrough natively.
-* Rock Band 4 Drum Kit (PS4 Version)
-	* Bluetooth latency is unacceptable.
-	* Pro Cymbals refuse to work due to the format they're in.
-* Rock Band 4 Guitar Controllers (PS4 Version)
-	* Bluetooth latency is unacceptable.
-	* Pro Cymbals refuse to work due to the format they're in.
 
 ## CREDITS:
 

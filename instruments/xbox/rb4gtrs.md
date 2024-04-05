@@ -1,5 +1,5 @@
 ---
-title: Xbox One Rock Band Guitars
+title: Xbox One/Xbox Series Rock Band 4/Fortnite Festival Guitars
 author: Carl Mylo
 date: 
 category: Instruments
@@ -10,6 +10,8 @@ layout: post
 
 ## NOTES:
 * This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
+* Fender Stratocaster, Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.
+* PDP Riffmaster guitars require their respective dongle.
 * Effects switch (pickup selector) isn't bound.
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU) to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU).
 * This controller requires advanced configuration.

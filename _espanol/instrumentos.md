@@ -8,7 +8,7 @@ layout: post
 
 # Intro
 
-**Esta sección es para instrumentos regulares, como guitarras de cinco botones, baterías, y baterías PRO.**  
+**Esta sección es para instrumentos regulares, como guitarras de cinco botones, baterías, y baterías PRO de Xbox 360/Wii.**  
 La configuración de guitarras Pro y/o teclados piano es más adelante.
 
 Si estas jugando con solo un instrumento o necesitas mas referencias para configurar instrumentos, puedes usar el [[Repositorio de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/) que tiene perfiles que ya están configurados. Los perfiles se instalan arrastrando archivos, como todo lo que has instalado anteriormente.
@@ -20,12 +20,12 @@ Si estas jugando con solo un instrumento o necesitas mas referencias para config
 
 Si no, sigue leyendo.
 
-**Haz click con el botón derecho en "Rock Band 3" y selecciona "Create Custom Gamepad Configuration"** (Crear configuración de controladores personalizada)
+**Haz click con el botón derecho en "Rock Band 3" y selecciona "Create Custom Gamepad Configuration"** (Crear configuración de controls personalizada)
 
 ![Una captura del menú contextual de RPCS3, mostrando "Create Custom Gamepad Configuration" resaltado](htps://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * Si planeas conectar varios instrumentos, _debes configurarlos en diferentes puertos (Player 1, Player 2, etc.)_
-* Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para el PS3 funcionan en directo sin configuración.
+* Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para PS3 funcionan directamente sin configuración.
 
 **Si tu controlador no se detecta, haz click en "Refresh"** (Actualizar). **Si eso no arregla el problema, reinicia RPCS3.**
 
@@ -87,25 +87,25 @@ Abajo esta una guía de como asignar los botones en RPCS3.
 
 
 # Vocales
-*Para vocales*, puedes *utilizar controladores regulares*. Si estás usando un control de PS3, cambia "Handlers" (Manipuladores) a "DS3". Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia. Mandos de [[PS3 (DualShock 3)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) y [[PS4 (DualShock 4)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) necesitan configuración adicional con controlador instalado.
+*Para vocales*, puedes *utilizar controls regulares*. Si estás usando un control de PS3, cambia "Handlers" (Manipuladores) a "DS3". Si estás usando un control de PS4, cambia "Handlers" (Manipuladores) a "DS4". Si estás usando un control de Xbox One, cambia "Handlers" (Manipuladores) a XInput. No es necesario cambiar otra cosa. También puedes usar tu teclado. Usa esta guía como referencia. Mandos de [[PS3 (DualShock 3)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller) y [[PS4 (DualShock 4)]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_4_controller) necesitan configuración adicional con controlador instalado.
 
 
-| **PlayStation (DS4)** | **Xbox One (XInput)** | **Uso**                         | **Uso Alternativo**        |
+| **PlayStation (DS3)** | **Xbox One (XInput)** | **Uso**                         | **Uso Alternativo**        |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
-| ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Palanca Izquierda") | Navegación |
-| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navegación |
-| ![Botón Cruz](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/x.png "Botón Cruz") | ![Botón A](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "Botón A") | Seleccionar                          |
-| ![Botón Círculo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/o.png "Botón Círculo") | ![Botón B](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/b.png "Botón B") | Atrás                            | Volumen micro 3 (Canción) |
-| ![Botón Cuadrado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/s.png "Botón Cuadrado") | ![Botón X](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/x.png "Botón X") | Volumen micro 1 (Canción) |
-| ![Botón Triángulo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/t.png "Botón Triángulo") | ![Botón Y](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/y.png "Botón Y") | Ver Más Información (Biblioteca)        | Volumen micro 2 (Canción) |
-| ![Botón Opciones](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/opt.png "Botón Opciones") | ![Botón Opciones](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/opt.png "Botón Opciones") | Opciones                         | Pausa (Canción)        |
-| ![Botón Compartir](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/shr.png "Botón Compartir") | ![Botón Vista](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "Botón Vista") | Filtros (Biblioteca)               | Éxtasís (Canción)    |
-| ![Botón L1](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l1.png "Botón L1") | ![Botón Bumper Izquierdo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Botón Bumper Izquierdo") | Selección de Parte de Guía (Práctica) |
-| ![Gatillo L2](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l2.png "Gatillo L2") | ![Gatillo Izquierdo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Gatillo Izquierdo") | Selección de Parte Vocal (Práctica) |
-| ![Botón R1](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r1.png "Botón R1") | ![Botón Bumper Derecho](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Botón Bumper Derecho") | Volumen de Pista Vocal (Canción)       |
-| ![Gatillo R2](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r2.png "Gatillo R2") | ![Gatillo Derecho](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Gatillo Derecho") | Corrección de Tono (Canción)         |
+| ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Palanca Izquierda") | Navegación |
+| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dp.png "D-Pad") | ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navegación |
+| ![Botón Cruz](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "Botón Cruz") | ![Botón A](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "Botón A") | Seleccionar                          |
+| ![Botón Círculo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "Botón Círculo") | ![Botón B](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/b.png "Botón B") | Atrás                            | Volumen micro 3 (Canción) |
+| ![Botón Cuadrado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "Botón Cuadrado") | ![Botón X](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/x.png "Botón X") | Volumen micro 1 (Canción) |
+| ![Botón Triángulo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "Botón Triángulo") | ![Botón Y](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/y.png "Botón Y") | Ver Más Información (Biblioteca)        | Volumen micro 2 (Canción) |
+| ![Botón Start](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "Botón Start") | ![Botón Opciones](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/opt.png "Botón Opciones") | Opciones                         | Pausa (Canción)        |
+| ![Botón Select](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Botón Select") | ![Botón Vista](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "Botón Vista") | Filtros (Biblioteca)               | Éxtasís (Canción)    |
+| ![Botón L1](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l1.png "Botón L1") | ![Botón Bumper Izquierdo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Botón Bumper Izquierdo") | Selección de Parte de Guía (Práctica) |
+| ![Gatillo L2](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l2.png "Gatillo L2") | ![Gatillo Izquierdo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Gatillo Izquierdo") | Selección de Parte Vocal (Práctica) |
+| ![Botón R1](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r1.png "Botón R1") | ![Botón Bumper Derecho](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Botón Bumper Derecho") | Volumen de Pista Vocal (Canción)       |
+| ![Gatillo R2](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r2.png "Gatillo R2") | ![Gatillo Derecho](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Gatillo Derecho") | Corrección de Tono (Canción)         |
 
 
 
-Abajo esta una guitarra _Höfner de The Beatles: Rock Band para el Wii_ configurada como un ejemplo. Mira como "Handlers" (Manipuladores) está configurado en "MMJoystick" y "Devices" (Controladores) esta en el número de Joystick (Controlador) correcto. Como la guitarra es de Rock Band, "Device Class" (Clase de controlador) esta en "Guitar" y la caja junto a eso esta en "Rock Band".
+Abajo esta una guitarra _Höfner de The Beatles: Rock Band para el Wii_ configurada como un ejemplo. Mira como "Handlers" (Manipuladores) está configurado en "MMJoystick" y "Devices" (Dispositivos) esta en el número de Joystick (Controlador) correcto. Como la guitarra es de Rock Band, "Device Class" (Clase de controlador) esta en "Guitar" y la caja junto a eso esta en "Rock Band".
 ![Una captura de Gamepad Settings de RPCS3 con un controlador Höfner de Wii The Beatles: Rock Band](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbgtrsmapping.png "Gamepad Settings con un controlador de guitarra Höfner de Wii The Beatles: Rock Band")

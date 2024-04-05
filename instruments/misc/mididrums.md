@@ -9,6 +9,7 @@ layout: post
 ## NOTES:
 
 * Requires an electronic MIDI Drum Kit connected via USB or a MIDI to USB interface.
+	* **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
 * By default:
 	* START: Hihat Pedal, Hihat Pedal, Hihat Pedal, Snare
@@ -16,6 +17,7 @@ layout: post
 	* Song select shortcuts: Hihat Pedal, Hihat Pedal, Hihat Pedal, Kick
 
 ## Instructions:
+
 **Right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
@@ -56,7 +58,7 @@ Examples of common replacements:
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
 
-Default Mapping:
+### Mapping
 
 | **MIDI Note#** | **Trigger Type** | **In-Game Action** |
 |:--------:|:-------------------:|:-----------------:|

@@ -1,5 +1,5 @@
 ---
-title: Controllers
+title: Instruments and Controllers
 author: Carl Mylo
 date: 1000-03-03
 category: English
@@ -64,7 +64,7 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 Make sure you **set “Device Class” to “Drum”.**
 
-**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. Do **NOT** use the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.**
+**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. **Do NOT use** the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|
@@ -82,20 +82,20 @@ Make sure you **set “Device Class” to “Drum”.**
 # Vocals  
 *For vocals*, you can *use regular controllers*. If you're using a PS4 controller, switch to DS4. If you're using an Xbox One controller, switch to XInput. There's no need to remap anything. Alternatively, you can use a typing keyboard and refer to this guide to customize the mapping according to your preferences.
 
-| **PlayStation (DS4)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
+| **PlayStation (DS3)** | **Xbox One (XInput)** | **Use**                         | **Alt Use**         |
 |:---------------------:|:---------------------:|:-------------------------------:|:-------------------:|
-| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
-| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
-| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/x.png "Cross Button") | ![A Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
-| ![Circle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/o.png "Circle Button") | ![B Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
-| ![Square Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/s.png "Square Button") | ![X Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
-| ![Triangle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/t.png "Triangle Button") | ![Y Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
-| ![Options Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/opt.png "Options Button") | ![Options Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
-| ![Share Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/shr.png "Share Button") | ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
-| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l1.png "L1 Button") | ![Left Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
-| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/l2.png "L2 Trigger") | ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
-| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r1.png "R1 Button") | ![Right Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
-| ![R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/r2.png "R2 Trigger") | ![Right Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
+| ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/ls.png "Left Stick") | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
+| ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dp.png "D-Pad") | ![Left Stick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
+| ![Cross Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "Cross Button") | ![A Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/a.png "A Button") | Select                          |
+| ![Circle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "Circle Button") | ![B Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/b.png "B Button") | Back                            | Mic 3 Volume (Song) |
+| ![Square Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "Square Button") | ![X Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/x.png "X Button") | Mic 1 Volume (Song) |
+| ![Triangle Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "Triangle Button") | ![Y Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/y.png "Y Button") | View More Info (Library)        | Mic 2 Volume (Song) |
+| ![Start Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "Start Button") | ![Options Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/opt.png "Options Button") | Options                         | Pause (Song)        |
+| ![Select Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select Button") | ![View Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/viw.png "View Button") | Filters (Library)               | Overdrive (Song)    |
+| ![L1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l1.png "L1 Button") | ![Left Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lb.png "Left Bumper") | Guide Part Selection (Practice) |
+| ![L2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/l2.png "L2 Trigger") | ![Left Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/lt.png "Left Trigger") | Vocal Part Selection (Practice) |
+| ![R1 Button](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r1.png "R1 Button") | ![Right Bumper](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rb.png "Right Bumper") | Vocal Track Volume (Song)       |
+| ![R2 Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/r2.png "R2 Trigger") | ![Right Trigger](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/xbox/rt.png "Right Trigger") | Pitch Correction (Song)         |
 
 Here's what a _The Beatles: Rock Band Höfner_ Wii controller looks like when it's set up. Note that "Handlers" is set to "MMJoystick" and "Devices" is set to the correct Joystick number. Since it's a Rock Band guitar controller, "Device Class" is also set to "Guitar" and the box next to that is set to "Rock Band."
 

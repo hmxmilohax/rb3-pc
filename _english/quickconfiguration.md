@@ -26,7 +26,7 @@ If you need any more information about what these settings are changing:
 	- **CPU**:
 		- SPU Block Size: Mega
 	- **GPU**:
-		- Write Color Buffers (Recommended)
+		- Write Color Buffers
 		- Framelimit: Off
 		- Resolution Scale: 150% (1920x1080)
 		- Anisotropic Filter: 16x
@@ -50,7 +50,7 @@ If you need any more information about what these settings are changing:
 		- SPU Block Size: Mega
 		- Preferred SPU Threads: 2
 	- **GPU**:
-		- Write Color Buffers (Recommended)
+		- Write Color Buffers
 		- Framelimit: Off
 		- ZCULL Accuracy: Relaxed (Fastest)
 	- **Audio**:
