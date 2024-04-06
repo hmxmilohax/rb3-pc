@@ -1,5 +1,5 @@
 ---
-title: PlayStation 3 DualShock 3/Sixaxis
+title: DualShock 3/Sixaxis para el PlayStation 3
 author: Carl Mylo
 date: 
 category: Instrumentos
@@ -8,7 +8,7 @@ layout: post
 
 ## NOTAS:
 
-* No existe un perfil porque la configuración es por defecto.
+* No existe un perfil.
 * Este control requiere configuración avanzada.
 * Para jugar partes de instrumento como guitarra (Padtar), necesitas tener Rock Band 3 Deluxe instalado.
 * Esto solo ha sido probado con DsHidMini. **¡NO INSTALES A ScpToolKit PORQUE NO ESTA ACTUALIZADO!**

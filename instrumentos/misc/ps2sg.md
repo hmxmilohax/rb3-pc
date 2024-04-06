@@ -1,5 +1,5 @@
 ---
-title: PlayStation 2 Guitar Hero SG Guitars
+title: Guitarras SG de Guitar Hero para el PlayStation 2
 author: Carl Mylo
 date: 
 category: Instrumentos

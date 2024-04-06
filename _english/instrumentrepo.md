@@ -66,6 +66,7 @@ Paste it into:
 * [[PC Keyboard (Padtar)]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/pckeyboard) - Does not include a profile but does have instructions.
 
 ## Keyboards:
+* [[MIDI Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/midikeys) - Does not include a profile but does have instructions.
 * [[PS3 Rock Band 3 Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/rbkeys) - Does not include a profile but does have instructions.
 * [[Xbox 360 Rock Band 3 Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbkeys) - Does not include a profile but does have instructions.
 * [[Wii Rock Band 3 Keyboard]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbkeys) - Does not include a profile but does have instructions.

@@ -8,6 +8,7 @@ layout: post
 
 ## NOTAS:
 
+* No existe un perfil.
 * Requiere un teclado MIDI conectado por USB o por adaptador MIDI a USB.
 * Necesitas un teclado que tiene **37 teclas a lo mínimo** o 27 teclas y 11 "pads" de batería.
 * Tu teclado MIDI necesita:

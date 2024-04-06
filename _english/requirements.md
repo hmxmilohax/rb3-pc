@@ -46,4 +46,4 @@ You will need:
 <sup>a</sup> <sub>PS4 guitars are exempt as RPCS3 cannot input whammy, tilt, and effects switch signals and latency is horrible.</sub>  
 <sup>b</sup> <sub>PS4 drum kits are exempt as RPCS3 cannot input Pro Cymbals signals and latency is horrible.</sub>  
 <sup>c</sup> <sub>Wii Rock Band instrument controllers and dongles can be (permanently) converted for PS3 so you can use passthrough mode, but this is beyond the scope of this tutorial. Google is your friend.</sub>  
-<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration/#notes-on-midi-keyboards)</sub>  
+<sup>d</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/midikeys)</sub>  

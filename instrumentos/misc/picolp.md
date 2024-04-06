@@ -1,5 +1,5 @@
 ---
-title: Guitarras de Guitar Hero para el Wii [Ardwiino PI Pico]
+title: Guitarras de Guitar Hero para el Wii (Ardwiino PI Pico)
 author: Carl Mylo
 date: 
 category: Instrumentos

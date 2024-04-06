@@ -21,9 +21,9 @@ Esto el la configuración por defecto:
 | E | R1 | ![Botón Amarillo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/yf.png "Botón Amarillo") |
 | T | R2 | ![Botón Azul](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/bf.png "Botón Azul") |
 | X | Cross | ![Botón Naranja](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/of.png "Botón Naranja") |
-| Up/Down/Left/Right | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navegación |
+| ARRIBA/ABAJO/IZQUIERDA/DERECHA | ![D-Pad](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/dp.png "D-Pad") | Navegación |
 | W/A/S/D | ![Palanca Izquierda](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de trémolo/Whammy](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Palanca de trémolo/Whammy") |
-| Space | Select | Sobrecarga/Éxtasis |
+| Espacio | Select | Sobrecarga/Éxtasis |
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pckeyboardmapping.png "Mapeando") 
 

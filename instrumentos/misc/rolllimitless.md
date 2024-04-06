@@ -1,5 +1,5 @@
 ---
-title: Roll Limitless Drums
+title: Batería con Roll Limitless
 author: Carl Mylo
 date: 
 category: Instrumentos

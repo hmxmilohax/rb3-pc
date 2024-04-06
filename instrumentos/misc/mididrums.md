@@ -8,6 +8,7 @@ layout: post
 
 ## NOTAS:
 
+* No existe un perfil.
 * Requiere una batería MIDI conectada por USB o por adaptador MIDI a USB.
 	* **Tu batería MIDI necesita estar en canal de MIDI 10 y mapeado a modo "GM".**  Esto esta por defecto en mayoría de las baterías.
 * Se requiere una version de [[RPCS3 actual]](https://rpcs3.net/download)
@@ -65,11 +66,11 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 | **38**, 31, 34, 37, 39, 40 | Snare/Tarola | ![Tambor Rojo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/rp.png "Tambor Rojo") |
 | **48**, 50 | Tom Alto | ![Tambor Amarillo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yp.png "Tambor Amarillo") |
 | **45**, 50 | Tom Bajo | ![Tambor Azul](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bp.png "Tambor Azul") |
-| **41**, 43 | Tom de pie | ![Tambor Verde](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Tambor Verde") |
+| **41**, 43 | Tom de piso | ![Tambor Verde](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gp.png "Tambor Verde") |
 | **22**, 26, 42, 46, 54 | Hi-Hat/Contras | ![Platillo Amarillo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/yc.png "Platillo Amarillo") |
 | **51**, 53, 56, 59 | Platillo Ride/de Ritmo | ![Platillo Azul](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/bc.png "Platillo Azul") |
 | **49**, 52, 55, 57 | Platillo Crash/Remate | ![Platillo Verde](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/gc.png "Platillo Verde") |
-| **33**, 35, 36 | Pedal | ![Pedal](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Pedal") |
+| **33**, 35, 36 | Pedal/Kick | ![Pedal/Kick](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir el Hi-Hat |
 

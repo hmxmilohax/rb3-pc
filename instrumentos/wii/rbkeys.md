@@ -1,5 +1,5 @@
 ---
-title: Wii Teclados de Rock Band para el
+title: Teclados de Rock Band para el Wii
 author: Carl Mylo
 date: 
 category: Instrumentos

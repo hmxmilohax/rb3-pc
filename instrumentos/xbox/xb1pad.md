@@ -1,5 +1,5 @@
 ---
-title: Xbox One/Series Control
+title: Control de Xbox One/Series
 author: Carl Mylo
 date: 
 category: Instrumentos

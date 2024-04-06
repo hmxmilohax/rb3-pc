@@ -10,6 +10,7 @@ layout: post
 
 ## NOTAS:
 
+* **NO SE RECOMIENDA USAR ESTA GUITARRA!**.
 * Esta guitarra tiene notoriedad por su latencia terrible.
 * El ladeo para activación no funciona. RPCS3 todavía no puede entender estos datos.
 

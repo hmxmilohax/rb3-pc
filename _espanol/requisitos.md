@@ -47,4 +47,4 @@ Necesitarás:
 <sup>a</sup> <sub>Guitarras de PS4 no están incluidas porque RPCS3 no toma whammy, ladeo, o switch de efectos. También tiene latencia terrible.</sub>  
 <sup>b</sup> <sub>Baterías/tambores de PS4 no están incluidas porque los platillos no son compatible con RPCS3. También tiene latencia terrible.</sub>  
 <sup>c</sup> <sub>Los instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#notas-para-teclados-midi)</sub> 
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/midikeys)</sub> 
