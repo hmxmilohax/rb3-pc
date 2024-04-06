@@ -17,7 +17,7 @@ Si no, sigue leyendo.
 
 **Haz click con el botón derecho en "Rock Band 3" y selecciona "Create Custom Gamepad Configuration"** (Crear configuración de controls personalizada)
 
-![Una captura del menú contextual de RPCS3, mostrando "Create Custom Gamepad Configuration" resaltado](htps://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
+![Una captura del menú contextual de RPCS3, mostrando "Create Custom Gamepad Configuration" resaltado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * Si planeas conectar varios instrumentos, _debes configurarlos en diferentes puertos (Player 1, Player 2, etc.)_
 * Guitarras, baterías, y adaptadores de MIDI Pro de Rock Band para PS3 funcionan directamente sin configuración.
