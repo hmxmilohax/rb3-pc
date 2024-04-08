@@ -13,10 +13,10 @@ If you don't want to play online, [[you can skip to the next part]](https://hmxm
 Go to **Configuration > RPCN**
 ![A screenshot of RPCS3's Configuration with "RPCN" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/rpcn.png "RPCS3: RPCN")
 
-Click on “**Account**”:  
+Click on "**Account**":  
 ![A screenshot of RPCS3's RPCN menu with "Account" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/rpcnpopup.png "RPCN")
 
-Click “**Create Account**”:  
+Click "**Create Account**":  
 ![A screenshot of RPCS3's RPCN: Account menu with "Create Account" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/account.png "RPCN: Account")
 
 Enter a **username** and **password**:  
@@ -26,11 +26,11 @@ Enter a **username** and **password**:
 You will be prompted for an **email address** so you can receive a **verification token**:  
 ![A screenshot of RPCS3's RPCN: Email menu with an email (twice for verification) set and "OK" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/email.png "RPCN: Email")  
 
-Next, you will be asked to confirm your account's creation. **Click “Yes”**.
+Next, you will be asked to confirm your account's creation. **Click "Yes"**.
 
 ![A screenshot of RPCS3's RPCN: Account Creation popup, asking the user if they're ready to create their account, with "Yes" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/confirm.png "RPCN: Account Creation")
 
-Now **go to your email inbox to check for your verification token. The email will be called “Your token for RPCN”** You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox.  
+Now **go to your email inbox to check for your verification token. The email will be called "Your token for RPCN"** You may have to wait a few minutes to get it. If you're still waiting, check your spam inbox.  
 **Copy the token**:
 
 ![A screenshot of an email labeled "Your Token for RPCN" with a token below what username it's for](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/emailtoken.png "Your token for RPCN")

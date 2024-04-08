@@ -10,12 +10,12 @@ While Quick Configuration should work in most cases, some users might want to sq
 
 ## Creating a Custom Configuration
 
-If you don't have a Custom Configuration yet, **right click on Rock Band 3** in RPCS3, then click on “**Create Custom Configuration From Default Settings**”.  
+If you don't have a Custom Configuration yet, **right click on Rock Band 3** in RPCS3, then click on "**Create Custom Configuration From Default Settings**".  
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Configuration From Default Settings" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfig.png "Create Custom Configuration From Default Settings")
 
 ## Changing a Custom Configuration
 
-If you're editing a Custom Configuration, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+If you're editing a Custom Configuration, **right click on Rock Band 3** in RPCS3, then click on "**Change Custom Configuration**".  
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/rpcs3customconfigchange.png "Create Custom Configuration From Default Settings")
 
 This may seem overwhelming because of the sheer number of options, but I have color-coded the settings that require adjustment. Anything not colored should be left alone.
@@ -107,7 +107,7 @@ We'll go tab by tab, starting with:
 **The same applies to Rock Band 3 Pro Guitars** as they only have MIDI outputs. However, **they require a MIDI to USB interface with SYSEX support.**
 ![A picture of a Rock Band 3 Fender Mustang Pro Guitar, showing a 5-DIN MIDI output.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/midiprotar.png "Mustang Pro Guitar MIDI Output")  
 
-Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see “MIDI In” blinking when you press a key**.  
+Here's an example of a MIDI to USB interface. Most will come with an LED indicator to show activity. **To check that you've plugged it in correctly, you should see "MIDI In" blinking when you press a key**.  
 ![A picture of a MIDI to USB interface.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/miditousb.png "MIDI to USB interface")  
 
 
@@ -147,10 +147,10 @@ For more information on Drum Kit mapping, [[**read here**.]](https://hmxmilohax.
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder. You need to run the game once with your MIDI Drum kit assigned in the I/O tab for RPCS3 to create this file. Any changes require a game restart.
 
-As drums don't have PS3 buttons, by default:**
+As drums don't have PS3 buttons, by default:
 * START: Quickly close the Hi-Hat three times then hit the Snare
 * SELECT: Quickly close the Hi-Hat three times then hit the Snare Rim
-* Song select shortcuts: Quickly close the Hi-Hat three times then press the Kick pedal**
+* Song select shortcuts: Quickly close the Hi-Hat three times then press the Kick pedal
 If your drum kits have incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
 * To do this:
 	* Go to [[MIDI Monitor]](https://www.midimonitor.com/)
@@ -185,7 +185,7 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 ![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, DNS (78.141.231.152), IP/Hosts switches, PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/network.png "Network")
 
 * ![A green square with a dashed outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
-	* **Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.**
+	* **Change the Network Status to "Connected" as highlighted in the picture. If left on "Disconnected," the game will temporarily freeze when browsing the song library.**
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* You can tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
@@ -221,11 +221,11 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 
 You can leave this as is if you want, but I would consider changing the following options:
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **Optional tweaks**: 
-	* **“Show trophy popups”** - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.
-	* **“Show PPU compilation hint”** - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the "Recompiler (LLVM)" setting in the CPU tab does this when launching the game.
-	* **“Show shader compilation hint”** - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to “translate” the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The best way to deal with this is** just **to** **play the game** as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.
-	* **“Start games in Fullscreen mode”** - Switches to Fullscreen when you start Rock Band 3.
-	* **“Use Native Interface”** - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.
+	* **"Show trophy popups"** - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.
+	* **"Show PPU compilation hint"** - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the "Recompiler (LLVM)" setting in the CPU tab does this when launching the game.
+	* **"Show shader compilation hint"** - This creates a popup whenever RPCS3 is compiling shaders. Whether you leave it on or not is up to you, but I should tell you what this means as it is important. When you run PS3 games, it has to compile shaders to "translate" the graphics from a PS3 format to a format your PC can work with. **The game will** appear to **stutter when this happens**. **This happens on ALL computer systems. When it finishes** compiling an effect, **it will usually never happen again**. **The best way to deal with this is** just **to** **play the game** as it will quickly go away. You can also use Rock Band 3 Deluxe's Autoplay modifier to let it go through a few songs in party shuffle and let it compile a decent amount of shaders.
+	* **"Start games in Fullscreen mode"** - Switches to Fullscreen when you start Rock Band 3.
+	* **"Use Native Interface"** - Removes the pretty displays RPCS3 adds, including notifications and game startup background. It will instead use old school pop-ups. This can also fix a problem with instrument controllers soft locking the game when the keyboard comes up. The native interface also seems to cause slight frame rate drops.
 
 <br/>
 

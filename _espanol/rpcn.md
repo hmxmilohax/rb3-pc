@@ -26,7 +26,7 @@ Pon un **Nombre de Usuario (Username)** y **Contraseña (Password)**:
 Se mostrara una ventana pidiendo un **Email** para así recibir un **codigo de verificación** (verification token):  
 ![Una captura del menú de Email con un Email (dos veces para verificación) configurado y "OK" resaltado](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/email.png "RPCN: Email")  
 
-Vas a tener que confirmar que quieres crear tu cuenta. **Haz clic en “Yes” (Si)**.
+Vas a tener que confirmar que quieres crear tu cuenta. **Haz clic en "Yes" (Si)**.
 
 ![Una captura RPCS3 preguntando si el usuario quiere crear una cuenta de RPCN nueva.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/rpcn/confirm.png "RPCN: Account Creation")
 

@@ -28,22 +28,24 @@ layout: post
 
 ### Mapping
 
+![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/keysctrl.png "MIDI Keyboard Reference")
+
 | **Note** | **Button** |
 |:--------:|:-------------------:|
-| C2 | ![SELECT](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "SELECT") |
-| D2 | ![D-PAD LEFT](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dl.png "D-PAD LEFT") |
-| E2 | ![D-PAD RIGHT](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dr.png "D-PAD RIGHT") |
-| F2 | ![D-PAD UP](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/du.png "D-PAD UP") |
-| G2 | ![D-PAD DOWN](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dd.png "D-PAD DOWN") |
-| A2 | OVERDRIVE |
-| C#2 | ![TRIANGLE](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "TRIANGLE") |
-| D#2 | ![SQUARE](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "SQUARE") |
-| F#2 | ![CIRCLE](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "CIRCLE") |
-| G#2 | ![CROSS](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "CROSS") |
-| A#2 | ![START](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "START") |
-| MODWHEEL | Deploy Overdrive |
-| SUSTAIN | Deploy Overdrive |
-| PITCH WHEEL | Whammy/Touch Strip |
+| C2 | ![Select](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Select") |
+| D2 | ![D-Pad Left](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
+| E2 | ![D-Pad Right](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dr.png "D-Pad Right") |
+| F2 | ![D-Pad Up](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/du.png "D-Pad Up") |
+| G2 | ![D-Pad Down](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/dd.png "D-Pad Down") |
+| A2 | Deploy Overdrive |
+| C#2 | ![Triangle](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/t.png "Triangle") |
+| D#2 | ![Square](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/s.png "Square") |
+| F#2 | ![Circle](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/o.png "Circle") |
+| G#2 | ![Cross](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/x.png "Cross") |
+| A#2 | ![Start](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sta.png "Start") |
+| Modwheel | Deploy Overdrive |
+| Sustain | Deploy Overdrive |
+| Pitch Wheel | Whammy/Touch Strip |
 
 ![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midi.png "Platform") 
 

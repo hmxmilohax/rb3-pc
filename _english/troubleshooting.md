@@ -9,7 +9,7 @@ layout: post
 *   **_Stuttering audio_**
 
 	* [![A video thumbnail that reads "Click here for audio example."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
-	* Increase “Audio Buffer Duration” as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
+	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
 
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
@@ -25,7 +25,7 @@ layout: post
 	*   Enable "Overscan" in Rock Band 3's System Settings.
 
 *   **_"My game feels off."_**
-	*   Run Calibration in Rock Band 3's System Settings if you haven't for some reason. Disable “Dolby Digital” if you enabled it in the same menu.
+	*   Run Calibration in Rock Band 3's System Settings if you haven't for some reason. Disable "Dolby Digital" if you enabled it in the same menu.
 
 *   **_"My game crashes when practicing on regular guitar/bass."_**
 	*   You didn't read the guide and did not install Rock Band 3 Deluxe, which fixes this.
@@ -37,7 +37,7 @@ layout: post
 	*   This seems to vary by controller. Try using the whammy or effects switch if you have it. I'd also suggest doing any sort of character customization on a typing keyboard or a regular game controller as some instrument controllers don't have enough buttons to use the on-screen keyboard. You can also try disabling the Native Interface as mentioned in [[the Emulator section of Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#emulator).
 
 *   **_"Scrolling through the library has long pauses."_**
-	*   You didn't read the guide and did not set the “Network Status” to “Connected” in the [[Network tab when setting up the Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) for Rock Band 3.
+	*   You didn't read the guide and did not set the "Network Status" to "Connected" in the [[Network tab when setting up the Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) for Rock Band 3.
 
 *   **_"My PS3 Rock Band instrument controller shows up as two controllers."_**
 	*   You did [[controller configuration]](https://hmxmilohax.github.io/rb3-pc/english/controllers/) for a PS3 Rock Band controller, which usually isn't needed due to passthrough. Just unbind the controller and it should be fine.
@@ -57,14 +57,14 @@ layout: post
 *   **_\[ONLINE\] "I crash when searching for players with UPNP enabled."_**
 	*   Your router may have issues with RPCS3's UPNP feature. Go to Rock Band 3's Custom Configuration [[Network section]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network), and disable "Enable UPNP." You will need to [[search how to port forward in your router]](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide).
 
-*   **_\[ONLINE\] "I'm stuck on “Registering Account” when trying to connect to online servers."_**
+*   **_\[ONLINE\] "I'm stuck on "Registering Account" when trying to connect to online servers."_**
 	*   Make sure you have copied the correct settings in the Rock Band 3's [[Network]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#network) configuration.
-	*   You may have lost connection to RPCN  and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, “Configuration” > “RPCN” > “Account” > “Test Account” then restart the game to force a reconnection.
+	*   You may have lost connection to RPCN  and will have to restart the game. If you continue to get this after restart, close out Rock Band 3, go to the top menu in RPCS3, "Configuration" > "RPCN" > "Account" > "Test Account" then restart the game to force a reconnection.
  
 *   **_\[ONLINE\] "I keep disconnecting constantly while playing online."_**
 	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable if possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, there's not much that can be done aside from getting better internet.
 
-*   **_“I followed every step and my game is crashing/performing horribly!”_**
+*   **_"I followed every step and my game is crashing/performing horribly!"_**
 	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for advice.
 
 *	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**

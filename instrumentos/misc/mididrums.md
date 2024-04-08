@@ -15,7 +15,7 @@ layout: post
 * By defecto:
 	* START: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la caja (snare).
 	* SELECT: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el aro de la caja (snare rim)
-	* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.**
+	* Atajo para escocer canciones: Cierra la Hi-Hat tres veces rápidamente y pégale al bombo (kick) con el pedal.
 
 ## Instrucciones:
 
@@ -78,7 +78,7 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 
 ![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/mididrumscontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 
 
 Investigado por [[Linos]](https://www.youtube.com/@LinosMelendi)

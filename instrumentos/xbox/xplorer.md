@@ -28,7 +28,7 @@ layout: post
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360xplorermapping.png "Mapeando") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 
 
 Mapeado por [[Jnack]](https://www.youtube.com/@jnackmclain) and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown)

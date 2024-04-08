@@ -107,11 +107,11 @@ When you find it, change "`1280x720`" to "`1920x1080`" and save the file.
 
 That's it. Just note that any time you change anything on the GPU tab, it might reset back to 1280x720 so you'll have to do this again.
 
-## Shared Directory
+## Move Game Files
 
-### What is this?
+### Intro:
 
-We'll be moving RPCS3's virtual file system to a separate folder to make switching between versions easier. This way, you won't have to install the same content twice.
+If Rock Band 3's files are taking up too much space on your main drive, you can move them to a different drive while keeping RPCS3 itself on your main drive.
 
 Make sure RPCS3 is closed before starting this.
 
@@ -131,7 +131,7 @@ Now, back in the folder RPCS3 is in, cut the following folders:
 * dev_usb000
 * games
 
-![A screenshot of the folders listed being cut.) en la categoría de 7-Zip.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dircut.png "Cut (CTRL+X")
+![A screenshot of the folders listed being cut.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dircut.png "Cut (CTRL+X")
 
 Paste them inside of the folder you created.
 
@@ -141,9 +141,9 @@ When it finishes pasting, reopen RPCS3.
 
 Click on Manage > Virtual File System
 
-![A screenshot of the folder created, which is named "RPCS3 Directory" in this tutorial.) en la categoría de 7-Zip.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
+![A screenshot of RPCS3, with the user hovering over "Virtual File System", under the "Manage" category.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
-Then, click on the `+` symbol at the bottom.
+In the Virtual File System window, click on the `+` symbol near the bottom right.
 
 ![A screenshot of RPCS3's Virtual File System Menu, showing the cursor hovering over the plus symbol at the bottom.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dirvfsadd.png "Virtual File System")
 
@@ -154,6 +154,8 @@ Go to the folder you created, click on it, and then click on "Select Folder."
 Finally, click "Save".
 
 ![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
+
+That's it!
 
 ## AshCentral Room Codes
 

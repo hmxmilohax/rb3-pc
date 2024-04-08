@@ -1,14 +1,14 @@
 ---
 title: Extra - Repositorio de Instrumentos
 author: Carl Mylo
-date: 2000-11-02
+date: 2000-11-01
 category: Espanol
 layout: post
 ---
 
 # ¿Qué es esto?
 
-Un repositorio de perfiles de RPCS3 preconstruidos para ayudar a jugadores nuevos de Rock Band 3. Estos archivos se pueden instalar con un simple “arrastrar y soltar” para mayoría de personas.
+Un repositorio de perfiles de RPCS3 preconstruidos para ayudar a jugadores nuevos de Rock Band 3. Estos archivos se pueden instalar con un simple "arrastrar y soltar" para mayoría de personas.
 
 # Como Usar:
 Antes de empezar, **si tienes configuraciones de control en `config\input_configs\BLUS30463`, crea copias de seguridad porque estos perfiles van a sobreescribir.**
@@ -19,9 +19,9 @@ Antes de empezar, **si tienes configuraciones de control en `config\input_config
 
 ![Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/instrepoinstall.gif "Instalando un perfil del Repo de Instrumentos")
 
-La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, haz click derecho a Rock Band 3 y luego a “Change Custom Gamepad Configuration” (Cambiar configuración de controles personalizada). En este menú, cambia el control que estás usando en “Devices” (Dispositivo), al lado del botón de “Refresh” (Actualizar) hasta que empiece a jalar. Puedes cambiar esto mientras el juego esté abierto.
+La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, haz click derecho a Rock Band 3 y luego a "Change Custom Gamepad Configuration" (Cambiar configuración de controles personalizada). En este menú, cambia el control que estás usando en "Devices" (Dispositivo), al lado del botón de "Refresh" (Actualizar) hasta que empiece a jalar. Puedes cambiar esto mientras el juego esté abierto.
 
-Estos perfiles están hechos para solo un instrumento. Puedes usar las páginas de los instrumentos para referir. También se pueden combinar perfiles si editas los archivos con un programa como “Notepad++” o “SublimeText.”
+Estos perfiles están hechos para solo un instrumento. Puedes usar las páginas de los instrumentos para referir. También se pueden combinar perfiles si editas los archivos con un programa como "Notepad++" o "SublimeText."
 
 Para hacer esto, necesitas abrir `Default.yml` y selecciona todo desde línea 2 hasta línea 86 para los perfiles que quieres combinar.
 Págalo entre:
@@ -79,24 +79,24 @@ Págalo entre:
 
 ## RECHAZADOS:
 
-* Rock Band Guitars (PS3 Versions)
-	* They work via passthrough natively.
-* Rock Band Drums (PS3 Versions)
-	* They work via passthrough natively.
+* Rock Band Guitars (versiones de PS3)
+	* Funcionan sin configuración.
+* Rock Band Drums (versiones de PS3)
+	* Funcionan sin configuración.
 
 ## CRÉDITOS:
 
-* [[TheNathannator's]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) para outstanding documentation on controllers.
-* [[Jnack]](https://www.youtube.com/@jnackmclain) - Xbox 360 Xplorer, Xbox 360 MIDI Pro Adapter profiles
-* [[Linos]](https://www.youtube.com/@LinosMelendi) - MIDI Drums, Keyboards research 
-* [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown) - Xbox 360 Xplorer profile
-* [[gonakil1ya]](https://linktr.ee/Gonakil1ya) - Xbox One Rock Band 4 Guitars, Xbox 360 Rock Band Drum Kit, Xbox 360 Rock Band Guitar, Xbox 360 Guitar Hero Les Paul, Xbox 360 Guitar Hero Genericaster profiles
-* [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g) - Wii Les Paul Raphnet, Xbox 360 Guitar Hero Drums, PS3 Guitar Hero Drums, PS3 Guitar Hero Genericaster, Wii Guitar Hero Drums profiles
-* [Derd] - PS3 Guitar Hero World Tour, PC-Mac Guitar Hero World Tour Genericaster profiles
-* [Uzny] - Roll Limitless profile
-* [16bitblastprocessing] - PS3 Guitar Hero Les Paul
-* [heartworthbreaking] - Wii Guitar Hero Ardwiino PI Pico Guitar profile
-* [[cas]](https://www.youtube.com/channel/UCw2JKh7_Zt65kjENqjnvm_g) - PS2 Guitar Hero SG Guitar profile
-* [[scott0852]](https://twitter.com/scott0852) - Wii Rock Band Drums
-* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991) - Padtar research
-* [[Clone Hero Wiki]](https://wiki.clonehero.net/) - Instrument pictures.
+* [[TheNathannator]](https://github.com/TheNathannator) [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand) por documentación de instrumentos tremenda.
+* [[Jnack]](https://www.youtube.com/@jnackmclain)
+* [[Linos]](https://www.youtube.com/@LinosMelendi)
+* [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown)
+* [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+* [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g)
+* [Derd]
+* [Uzny]
+* [16bitblastprocessing]
+* [heartworthbreaking]
+* [[cas]](https://www.youtube.com/channel/UCw2JKh7_Zt65kjENqjnvm_g)
+* [[scott0852]](https://twitter.com/scott0852)
+* [[SlothDemon]](https://www.youtube.com/@SlothDemon1991)
+* [[Clone Hero Wiki]](https://wiki.clonehero.net/)

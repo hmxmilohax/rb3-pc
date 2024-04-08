@@ -15,28 +15,28 @@ If you're playing with a single instrument controller, consider visiting the [[I
 
 If not, keep reading.
 
-**Right click on “Rock Band 3” and select “Create Custom Gamepad Configuration”**
+**Right click on "Rock Band 3" and select "Create Custom Gamepad Configuration"**
 
 ![A screenshot of RPCS3's right click menu, showing "Create Custom Gamepad Configuration" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/conf/rpcs3pad.png "Create Custom Gamepad Configuration")
 
 * If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * PS3 guitar, drum controllers, and MIDI Pro Adapters **for the Rock Band series** are plug and play and require no additional setup.
 
-**If your controller isn't being detected, click “Refresh”. If that doesn't solve it, restart RPCS3.**
+**If your controller isn't being detected, click "Refresh". If that doesn't solve it, restart RPCS3.**
 
-Once you've finished configuring, **remember to click “Save”.**
+Once you've finished configuring, **remember to click "Save".**
 
 Below are the buttons you should map in RPCS3's Gamepad Settings.
 
 # Guitars  
 
-* If you're using PS2 (Guitar Hero), PS3 (Guitar Hero), or Wii guitars, set the “Handlers” option to “MMJoyStick.” 
-* If you're using Xbox 360 guitar controllers, set the “Handlers” option to “XInput.”
+* If you're using PS2 (Guitar Hero), PS3 (Guitar Hero), or Wii guitars, set the "Handlers" option to "MMJoyStick." 
+* If you're using Xbox 360 guitar controllers, set the "Handlers" option to "XInput."
 
-Make sure you **set “Device Class” to “Guitar”.**  
-**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on “Guitar Hero” if you're using a Guitar Hero guitar**. 
+Make sure you **set "Device Class" to "Guitar".**  
+**Switch the drop-down menu next to it to "Rock Band" if you're using a Rock Band guitar or leave it on "Guitar Hero" if you're using a Guitar Hero guitar**. 
  
-**Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get “U+”, click “Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
+**Some guitar controllers** (most notably Guitar Hero controllers) misbehave and **refuse to map sometimes. If you try mapping a button and get "U+", click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 
 | **RPCS3**          | **PS/Wii Rock Band Guitars** | **Xbox Rock Band Guitars** | **Guitar Hero Guitars** |
 |:------------------:|:---------------------:|:---------------------:|:-----------------------:|
@@ -59,12 +59,12 @@ Make sure you **set “Device Class” to “Guitar”.**
 
 # Drums
 
-* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the “Handlers” option to “MMJoyStick.”
+* If you're using PS3 (Guitar Hero), Wii, or Xbox 360 drum controllers, set the "Handlers" option to "MMJoyStick."
 * If you're using a Xbox 360 MIDI Pro Adapter for drums, set the "Handlers" option to "XInput."
 
-Make sure you **set “Device Class” to “Drum”.**
+Make sure you **set "Device Class" to "Drum".**
 
-**Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. **Do NOT use** the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.
+**Switch** the drop-down menu next **to** it to **"Rock Band Pro"** if you're using a Rock Band kit **with or without cymbals**. **Do NOT use the regular "Rock Band" type.** **Leave it on "Guitar Hero" if you're using Guitar Hero drums.**
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|

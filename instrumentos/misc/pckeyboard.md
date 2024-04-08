@@ -46,6 +46,6 @@ Si quieres copiar la configuración de defecto de Fortnite Festival:
 
 ![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/pckeyboardcontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 
 Investigado por [[Linos]](https://www.youtube.com/@LinosMelendi)

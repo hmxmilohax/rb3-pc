@@ -15,13 +15,13 @@ Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/) and **download the 
 Click on **Options** then **List All Devices**.  
 ![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadiglistall.png "Zadig: Options: List All Devices")
 
-You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we're using the Mustang Pro Guitar, which shows up as “Harmonix RB3 Mustang Guitar for PlayStation® 3”.  
+You should now see devices listed. **Switch it to your Rock Band 3 Pro Instrument**. In this example, we're using the Mustang Pro Guitar, which shows up as "Harmonix RB3 Mustang Guitar for PlayStation® 3".  
 ![A screenshot of Zadig showing "Harmonix RB3 Mustang Guitar for PlayStation® 3" highlighted in the devices listed.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadigsel.png "Zadig: Harmonix RB3 Mustang Guitar for PlayStation® 3")
 
 **After selecting the right device, you should see the option to replace the driver. _MAKE SURE YOU ARE REPLACING THE DRIVER ONLY FOR THE PRO GUITAR/KEYBOARD!!_** Click Replace Driver.  
 ![A screenshot of Zadig with "Replace Driver" highlighted.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadigreplace.png "Zadig: Replace Driver")
 
-A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, **click** “**Yes**.”  
+A warning will appear. **Again, make sure you have selected your RB3 Pro Guitar or keyboard instrument.** After you have made sure, **click** "**Yes**."  
 ![A screenshot of Zadig warning the user that they're about to modify a system driver, with "Yes" highlighted](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/pass/zadigreplace.png "Zadig: Warning - System Driver")
 
 It will then install the driver. As the program says, it may take a few minutes.  

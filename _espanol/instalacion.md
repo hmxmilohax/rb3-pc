@@ -50,7 +50,7 @@ _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE 
 
 ## Iniciando
 
-Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca “I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en “Continue"** (Continuar).  
+Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en "Continue"** (Continuar).  
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 

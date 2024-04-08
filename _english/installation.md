@@ -35,15 +35,15 @@ Scroll down a bit and download the Windows version.
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/extractrpcs3.png "Extract Files")
 
-I would strongly suggest extracting the files into “C:\\Games\\RPCS3” or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
 **Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
 
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/extractdir.png "Extract")
 
-Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** “**Update using a computer**.” **Click that** to expand, **then click on “Download PS3 Update.**”  
+Once that's extracted, [**[download the PlayStation 3 system software from Sony's website]**](https://www.playstation.com/en-us/support/hardware/ps3/system-software/). **Scroll down** until you get **to** "**Update using a computer**." **Click that** to expand, **then click on "Download PS3 Update.**"  
   
-_**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND “Save link as,” or your download MAY become stuck.**_
+_**If you're using a Chromium-based browser like Chrome or Edge, MAKE SURE YOU RIGHT-CLICK AND "Save link as," or your download MAY become stuck.**_
 
 [![A screenshot of Sony's "How to update PS3 console system software" page with the "Update using a computer" subcategory expanded.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/fwpage.png)](https://www.playstation.com/en-us/support/hardware/ps3/system-software/ "How to update PS3 console system software")
 
@@ -69,7 +69,7 @@ Now, **go to the folder where you extracted RPCS3.** Keep this folder open in th
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rpcs3fwcomp.png "Compiling PPU modules...")
 
-Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used “PS3 Disc Dumper” for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
+Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g).
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 

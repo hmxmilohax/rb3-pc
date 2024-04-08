@@ -29,6 +29,8 @@ layout: post
 
 ### Mapeando:
 
+![Una imagen de un teclado de 37 teclas, mostrando el segundo octavo mapeado a los botones de PlayStation, C3 a E3 bajo un color rojo, F3 a B3 bajo un color amarillo, C4 a E4 bajo un color azul, F4 a B4 bajo un color verde y C5 bajo un color naranja.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/keysctrl.png "Referencia del Teclado MIDI")
+
 | **Nota** | **Botón** |
 |:--------:|:-------------------:|
 | C2 | ![Botón Select](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/ps3/sel.png "Botón Select") |
@@ -50,6 +52,6 @@ layout: post
 
 ![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midikeyscontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 
 Implementado por [[Dark]](https://dark.ski/)
