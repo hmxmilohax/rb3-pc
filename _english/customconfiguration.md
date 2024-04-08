@@ -43,7 +43,7 @@ We'll go tab by tab, starting with:
 
 ## GPU
 
-![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline, and "Default Resolution" highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/gpu.png "GPU")
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/gpu.png "GPU")
 
 * ![A green square with a dashed outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
@@ -64,9 +64,6 @@ We'll go tab by tab, starting with:
 		* "Bilinear" uses smoothing to scale the image up. This may cause the game to look blurry.
 		* FidelityFX Super Resolution (FSR) uses complicated math to sharpen and enhance the image when it gets blown up to your monitor's resolution. This can create odd artifacts in some instances.
 			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
-
-	* ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For high-end GPUs and advanced users**: 
-		* **Change "Default Resolution" to "1920x1080"**. While Rock Band 3 officially caps out at 720p, 1080p can be forced on by manually editing the configuration file or editing the game data configuration. Please refer to [the relevant guide on how to do this and what benefits there are](https://hmxmilohax.github.io/rb3-pc/english/advancedstuff/#intro-2) after finishing up with everything else.
 
 <br/>
 

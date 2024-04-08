@@ -64,9 +64,7 @@ Iremos pestaña por pestaña, comenzando con:
 		* Bilinear (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.
 		* FidelityFX Super Resolution (FSR) usa calculaciones complejas para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
 			* Puedes usar "RCAS Sharpening Strength" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.
-	
-	* ![Un cuadro bronceado con contorno solido.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Cuadro bronceado") **Para GPUs de alto poder y usuarios avanzados.**: 
-		* **Cambia "Default Resolution"** (Resolución Predeterminada) **a "1920x1080"**. Oficialmente, Rock Band 3 esta limitado a 1280x720, pero se puede ajustar manualmente para correr en una resolución mas alta. Si quieres mas información, [mira esta pagina](forcefullhd_es.md) después de terminar con las configuración principal.
+
 
 
 <br/>

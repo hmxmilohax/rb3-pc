@@ -44,57 +44,6 @@ El ejemplo abajo enseña, la carpeta `devhdd_0` del archivo (memory.zip) fue ext
 > _Abajo están ajustes adicionales para personas avanzadas. **¡Estas son cosas que mayoría de las personas no necesitan hacer!** Procede con precaución!_
 {: .block-danger  }
 
-## Esforzar modo 1080p
-
-### Introducción
-
-Vamos a esforzar que Rock Band 3 corra en modo 1080p. Esto puede necesita mas poder para rendimiento, así que puede causar rendimiento peor. Si esto es el caso, devuelve todo a como estaba.
-
-Estos cambios solo afectan efectos especiales, sombras, y pixelización de personajes cuando los fondos corren bajo 35 FPS. **Mayoria de las personas no pueden notar estas diferencias.**
-
-Aquí esta una comparación de calidad. Las dos imágenes estaban atinando a 1080p.
-
-![Una imagen de Rock Band 3, con el lado izquierdo, titulado 720p, mostrando pixelización en los personajes. El lado derecho, titulado 1080p, no tiene estos problemas](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/comparison.png "comparación")
-
-Hay dos maneras de como hacer esto. Vamos a ver la manera fácil primero.
-
-### La Manera Fácil
-
-Haz click en "View" (Ver) > "Game Categories" (Categorias de juegos) y activa "Game Data" (Datos de juego).
-
-![Una captura de RPCS3, con el cursor sobre "Game Data" (Datos de juego))](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/gamedataon.png "Game Data")
-
-
-Cuando se muestren las entradas de los datos de juego (Game Data), se va poder ver que "Supported Resolutions" (Resoluciones Soportadas) dice Unknown (Desconocido). Esto te deja hacer que puedas seleccionar a 1920x1080.
-
-![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado sobre la entrada de los datos de Rock Band 3](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/gamedataconf.png "Game Data")
-
-En la pestaña de la configuración personalizada, cambia "Default Resolution" de "1280x720" a 1920x1080, y luego haz click abajo a "Apply" (Aplicar.)  
-
-![Una captura de la configuración personalizada de Rock Band 3 en la pestaña de Rock Band 3, con el cursor sobre "1920x1080."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/gpu1080.png "Game Data")
-
-### La Manera Difícil:
-
-En RPCS3, haz click derecho a Rock Band 3 y haz click en "Open Custom Config Folder" (Abrir carpeta de configuraciones personalizadas.)
-  
-
-![Una captura de RPCS3, con el cursor sobre "Open Custom Config Folder" (Abrir carpeta de configuraciones personalizadas), que salio de la entrada de "Rock Band 3".](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/confrc.png "Game Data")
-
-Ahora, abre el archivo `config_BLUS30463.yml` con tu editor preferido, como Notepad, SublimeText o Notepad++.
-
-![Una captura del Explorador de archivos, con el cursor sobre "Edit in Notepad" (Editar en Bloc de Notas), que salió de un click derecho a config_BLUS30463.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/ymlopen.png "config_BLUS30463.yml")
-
-En editor, busca "`Resolution:`".  
-
-![Una captura del Bloc de notas con el archivo config_BLUS30463.yml. Hay un resultado de búsqueda por "Resolution:" encontrado.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/ymledit.png "config_BLUS30463.yml")
-
-Cuando lo encuentres, cambia "1280x720" a "1920x1080" y guarda el archivo.
-
-![Una captura del Bloc de notas con el archivo config_BLUS30463.yml. La resolución cambio de 1280x720 a 1920x1080](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/fullhd/ymleditpost.png "config_BLUS30463.yml")
-
-### Conclusión
-
-Eso es todo! Ten cuidado que cada vez que cambies algo en la configuración personalizada de la entrada "Disc Game" para Rock Band 3, se va devolver a 1280x720. Cuando pase eso, vas a tener que hacer esto de nuevo.
 
 ## Mover Archivos del Juego
 
