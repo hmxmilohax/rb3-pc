@@ -8,9 +8,11 @@ layout: post
 
 *   **_Stuttering audio_**
 
-	http://www.youtube.com/embed/UoCMEQbNThs
+<figure class="video_container">
+  <iframe src="http://www.youtube.com/embed/UoCMEQbNThs" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
-	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this..
+	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.
 
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
