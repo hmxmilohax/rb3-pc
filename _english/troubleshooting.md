@@ -8,9 +8,7 @@ layout: post
 
 *   **_Stuttering audio_**
 
-<figure class="video_container">
-  <iframe src="http://www.youtube.com/embed/UoCMEQbNThs" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+	* [![A video thumbnail that reads "Click here for audio example."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/trbl/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
 
 	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this.
 

@@ -25,7 +25,7 @@ Mapeandos:
 | D-Pad: Up | ![Rasguear Arriba](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/sbu.png "Rasguear Arriba") |
 | D-Pad: Down | ![Rasguear Abajo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/sbd.png "Rasguear Abajo") |
 | D-Pad: Left (Izquierda) | ![D-Pad: Left (Izquierda)](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/dpl.png "D-Pad: Left (Izquierda)") |
-| D-Pad: Right (Derecha) | ![D-Pad: Right (Derecha)](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/dpl.png "D-Pad: Right (Derecha)") |
+| D-Pad: Right (Derecha) | ![D-Pad: Right (Derecha)](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/dpr.png "D-Pad: Right (Derecha)") |
 | Right Stick: <br/> Left+Right (Izquierda/Derecha) | ![Palanca de trémolo/Whammy](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/wb.png "Palanca de trémolo/Whammy") |
 | Right Stick: <br/> Up/Down (Arriba/Abajo) | ![Switch de Efectos](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/fx.png "Switch de Efectos") |
 | L2 | ![Botones de Solo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/solo.png "Botones de Solo") |
