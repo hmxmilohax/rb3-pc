@@ -8,18 +8,22 @@ layout: post
 
 *   **_Stuttering audio_**
 
-	* [![A video thumbnail that reads "Click here for audio example."](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
-	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers.
+	<iframe width="420" height="315" src="http://www.youtube.com/embed/UoCMEQbNThs" frameborder="0" allowfullscreen></iframe>
+
+	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this..
 
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
 	*   Go back to the [[Custom Configuration setup section]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#changing-a-custom-configuration) and apply suggested low performance tweaks.
 	*   Disable Post Effects in Deluxe Settings.
+		* Menu > Options > Deluxe Settings > 
 	*	If your motherboard has a Realtek audio chip (most computers), try [[installing the latest driver]](https://realtek-download.com/download-hd/). This is a [[known issue]](https://github.com/RPCS3/rpcs3/issues/14648) where using the default "High Definition Audio" driver doesn't use all threads.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client [[like Vesktop]](https://github.com/Vencord/Vesktop), but I claim no responsibility for your Discord account.
 
 *   **_"Characters have glitchy flying instruments and accessories."_**
-	*   There is currently no fix for this. If you experience this, [[please report your findings on RPCS3's GitHub].](https://github.com/RPCS3/rpcs3/issues/8408)
+
+	* ![A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/trbl/flyinst.png "Graphical issues")
+	*   There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) if you want to help test.
 
 *   **_"My game doesn't fill the screen."_**
 	*   Enable "Overscan" in Rock Band 3's System Settings.
