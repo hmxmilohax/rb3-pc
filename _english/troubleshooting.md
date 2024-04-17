@@ -8,7 +8,7 @@ layout: post
 
 *   **_Stuttering audio_**
 
-	<iframe width="420" height="315" src="http://www.youtube.com/embed/UoCMEQbNThs" frameborder="0" allowfullscreen></iframe>
+	http://www.youtube.com/embed/UoCMEQbNThs
 
 	* Increase "Audio Buffer Duration" as mentioned in [[the Audio tab of Rock Band 3's Custom Configuration]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#audio) until the stuttering stops. 100 ms is a great starting point for low end computers. Alternatively, you can check the general performance issues section right below this..
 
