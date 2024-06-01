@@ -14,9 +14,9 @@ layout: post
 * Solo esta verificado con el adaptador "OSTENT PS1 PS2 To PC USB 2.0 Control Adapter Converter For Sony PS2 Wired Control" (Numero de modelo/SKU: 014800)
 * El ladeo para activación no funciona. RPCS3 todavía no puede entender estos datos.
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps2.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/ps2.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps2sgcontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ps2sgcontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/ps2sgmapping.png "Mapeando") 
 

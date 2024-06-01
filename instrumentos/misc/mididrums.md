@@ -74,9 +74,9 @@ En `rb3drums.yml`, vas a encontrar `Combo Start`, `Combo Select`, `Combo Toggle 
 | **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir el Hi-Hat |
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/midi.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/midi.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/mididrumscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/mididrumscontroller.png "Control") 
 
 [[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 

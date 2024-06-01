@@ -15,6 +15,9 @@ layout: post
 
 Mappings: 
 
+**Handler:** MMJoystick
+**Device Class:** *Guitar | Rock Band*
+
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|
 | Cross | ![Green Fret](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/gf.png "Green Fret") |
@@ -30,13 +33,16 @@ Mappings:
 | Right Stick: <br/> Up/Down | ![Effects Switch](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/fx.png "Effects Switch") |
 | L2 | ![Solo Buttons](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/solo.png "Solo Buttons") |
 | R1 | ![Tilt](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/ts.png "Tilt") |
+| Start | ![Plus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/wii/plu.png "Plus") |
+| Select | ![Minus](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/ctrls/wii/min.png "Minus") |
+| PS Button | ![Home](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/btns/gtrs/home.png "Home") |
 
   
-![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Platform") 
+![Platform](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Platform") 
 
-![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbgtrscontroller.png "Controller") 
+![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbgtrscontroller.png "Controller") 
 
-![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbgtrsmapping.png "Mapping") 
+![Mapping](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/maps/wiirbgtrsmapping.png "Mapping") 
 
 [[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
 

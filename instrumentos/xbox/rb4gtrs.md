@@ -46,9 +46,9 @@ Haz click en "Start" (Empezar) para que empieze a recibir.
 Windows de va dar una notificación que se instalo un dispositivo llamado "Virtual Xbox 360 Control." Después de esto, se puede usar en RPCS3 por XInput.
 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbx.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/xbx.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/xbxgtrscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/xbxcontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360rbgtrsmapping.png "Mapeando") 
 

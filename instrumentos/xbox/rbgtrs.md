@@ -12,9 +12,9 @@ layout: post
 
 * El switch de efectos (selector de pastilla) solo se puede configurar para que jale la mitad de arriba o de abajo. El perfil esta configurado hacia abajo para que se puedan desactivar los efectos.
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/360.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbgtrscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/rbgtrscontroller.png "Control") 
 
 ![Mapeando](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/360rbgtrsmapping.png "Mapeando") 
 

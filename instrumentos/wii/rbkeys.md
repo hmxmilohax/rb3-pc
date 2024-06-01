@@ -30,9 +30,9 @@ Puedes cambiar de octava con los botones de 1 y B.
 
 ![Una animacion de un teclado de Rock Band 3. Cuando se presiona 1, un resaltado amarillo, que muestra el rango de notas activas, cambia a C2-C4. Cuando se presiona B, cambia a C3-C5.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/rbkeysoctshift.gif "Cambio de octava") 
 
-![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wii.png "Plataforma") 
+![Plataforma](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/plat/wii.png "Plataforma") 
 
-![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/wiirbkeyscontroller.png "Control") 
+![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/wiirbkeyscontroller.png "Control") 
 
 [[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
 
