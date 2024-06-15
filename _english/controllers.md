@@ -11,7 +11,7 @@ layout: post
 **This section is for standard guitar controls, standard drums, and Xbox 360/Wii Pro Drums.**  
 Pro Guitars and/or Keyboards are set up later.
 
-If you're playing with a single instrument controller, consider visiting the [[Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/), which has easy drag and drop profiles for various rhythm game instruments.
+If you're playing with a single instrument controller, consider visiting the [[Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/), which has easy drag and drop profiles for various rhythm game instruments.
 
 If not, keep reading.
 

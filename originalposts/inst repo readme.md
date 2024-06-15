@@ -36,33 +36,33 @@ Paste it into:
 ## Instrument List:
 
 #### Drums:
-* [[MIDI Drums]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/mididrums) - Does not include a profile but does have instructions. Requires a drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can have either MIDI to USB or USB outputs.
+* [[MIDI Drums]](https://rb3pc.milohax.org/instruments/misc/mididrums) - Does not include a profile but does have instructions. Requires a drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Can have either MIDI to USB or USB outputs.
 	* Requires [[additional configuration]](https://github.com/hmxmilohax/rb3-pc/tree/TheGreatSplit/instruments/misc/mididrums)
 * [[Roll Limitless]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Roll%20Limitless%20Drums.7z) - Requires a drum kit with at least one kick drum, one snare drum, one hi-hat, two cymbals, and three toms. Must have a MIDI output.
-	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/rolllimitless)
-* [[Xbox 360 Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbdrms)
-* [[Xbox 360 Rock Band MIDI Pro Adapter Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20MIDI%20Pro%20Adapter%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/mpa)
-* [[Xbox 360 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghdrms)
-* [[PS3 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghdrms)
-* [[Wii Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Rock%20Band%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbdrms)
-* [[Wii Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/ghdrms)
+	* Requires [[additional configuration]](https://rb3pc.milohax.org/instruments/misc/rolllimitless)
+* [[Xbox 360 Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/rbdrms)
+* [[Xbox 360 Rock Band MIDI Pro Adapter Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20MIDI%20Pro%20Adapter%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/mpa)
+* [[Xbox 360 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/ghdrms)
+* [[PS3 Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/ps3/ghdrms)
+* [[Wii Rock Band Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Rock%20Band%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/wii/rbdrms)
+* [[Wii Guitar Hero Drums]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/wii/ghdrms)
 
 #### Guitars:
-* [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/rbgtrs)
-* [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/rbgtrs)
-* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
-	* Requires [[additional configuration]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xplorer)
-* [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghlp)
-* [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/wii/raphlp)
-* [[Wii Guitar Hero Les Paul (PI Pico) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/picolp)
-* [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghwttar)
-* [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/ghwttar)
-* [[PS2 Guitar Hero SG Guitar]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/ps2sg)
-* [[PS3 Guitar Hero Les Paul]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ghlp)
-* [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/pcghwt)
-* [[PS3 Dualshock 3 Controller (Padtar)]](https://hmxmilohax.github.io/rb3-pc/instruments/ps3/ds3) - Does not include a profile but does have instructions.
-* [[Xbox Controller (Padtar)]](https://hmxmilohax.github.io/rb3-pc/instruments/xbox/xb1pad) - Does not include a profile but does have instructions.
-* [[PC Keyboard (Padtar)]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/pckeyboard) - Does not include a profile but does have instructions.
+* [[Xbox 360 Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/rbgtrs)
+* [[Wii Rock Band Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/wii/rbgtrs)
+* [[Xbox 360/PC Guitar Hero Xplorer Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/xplorer)
+	* Requires [[additional configuration]](https://rb3pc.milohax.org/instruments/xbox/xplorer)
+* [[Xbox 360 Guitar Hero Les Paul Guitars]](https://github.com/hmxmilohax/rb3-pc/blob/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/ghlp)
+* [[Wii Guitar Hero Les Paul (Raphnet) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/wii/raphlp)
+* [[Wii Guitar Hero Les Paul (PI Pico) Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/misc/picolp)
+* [[PS3 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/ps3/ghwttar)
+* [[Xbox 360 Guitar Hero Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Notes]](https://rb3pc.milohax.org/instruments/xbox/ghwttar)
+* [[PS2 Guitar Hero SG Guitar]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **Requires a specific adapter**. [[Notes]](https://rb3pc.milohax.org/instruments/misc/ps2sg)
+* [[PS3 Guitar Hero Les Paul]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **Not a recommended controller**. [[Notes]](https://rb3pc.milohax.org/instruments/ps3/ghlp)
+* [[PC-Mac Guitar Hero World Tour Genericaster Guitars]](https://github.com/hmxmilohax/rb3-pc/raw/TheGreatSplit/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **Not a recommended controller**. [[Notes]](https://rb3pc.milohax.org/instruments/misc/pcghwt)
+* [[PS3 Dualshock 3 Controller (Padtar)]](https://rb3pc.milohax.org/instruments/ps3/ds3) - Does not include a profile but does have instructions.
+* [[Xbox Controller (Padtar)]](https://rb3pc.milohax.org/instruments/xbox/xb1pad) - Does not include a profile but does have instructions.
+* [[PC Keyboard (Padtar)]](https://rb3pc.milohax.org/instruments/misc/pckeyboard) - Does not include a profile but does have instructions.
 
 
 ## Missing Instruments:

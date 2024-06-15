@@ -6,7 +6,7 @@ category: English
 layout: post
 ---
 
-If you don't want to play online, [[you can skip to the next part]](https://hmxmilohax.github.io/rb3-pc/english/quickconfiguration/).
+If you don't want to play online, [[you can skip to the next part]](https://rb3pc.milohax.org/english/quickconfiguration/).
 
 ## Registration
 

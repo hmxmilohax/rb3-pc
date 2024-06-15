@@ -16,12 +16,12 @@ We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strong
 
 > ##### WARNING
 >
-> _If you downloaded and are using a [[Quick Configurations profile,]](https://hmxmilohax.github.io/rb3-pc/english/quickconfiguration/) this is already active and you don't need to do this._
+> _If you downloaded and are using a [[Quick Configurations profile,]](https://rb3pc.milohax.org/english/quickconfiguration/) this is already active and you don't need to do this._
 {: .block-warning  }
 
 > ##### DANGER
 >
-> _You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration#advanced). **Not doing this will cause your game to crash immediately after adding this file.**_
+> _You need to [[enable Debug Console Mode in the Advanced Custom Configuration tab for Rock Band 3]](https://rb3pc.milohax.org/english/customconfiguration#advanced). **Not doing this will cause your game to crash immediately after adding this file.**_
 {: .block-danger  }
 
 ### How To
@@ -120,7 +120,7 @@ Video Version:
 
 To use the room code system on AshCentral, **make sure RPCS3 is set to connect to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
 
-**Copy the information into RPCS3** like mentioned in the [**[network]**](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration/#network) section of the guide.
+**Copy the information into RPCS3** like mentioned in the [**[network]**](https://rb3pc.milohax.org/english/customconfiguration/#network) section of the guide.
 
 Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.rocks/) **to register an account**.
 

@@ -35,47 +35,47 @@ Págalo entre:
 # Lista de Instrumentos:
 
 ## Baterías:
-* [[Baterías MIDI]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/mididrums) - Sin perfil/Solo para info. Requiere una batería con un Snare/Tarola, Bombo/Kick, 3 Platillos (Hi-Hat, Ride/Ritmo, Crash/Remate), y 3 Toms (Alto, bajo, piso). Puede ser conectados por USB o por un adaptador de MIDI a USB.
+* [[Baterías MIDI]](https://rb3pc.milohax.org/instrumentos/misc/mididrums) - Sin perfil/Solo para info. Requiere una batería con un Snare/Tarola, Bombo/Kick, 3 Platillos (Hi-Hat, Ride/Ritmo, Crash/Remate), y 3 Toms (Alto, bajo, piso). Puede ser conectados por USB o por un adaptador de MIDI a USB.
 * [[Baterías con Roll Limitless]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Roll%20Limitless%20Drums.7z) - Requiere una batería con un Snare/Tarola, Bombo/Kick, 3 Platillos (Hi-Hat, Ride/Ritmo, Crash/Remate), y 3 Toms (Alto, bajo, piso). La batería necesita una salida MIDI.
-	* Requiere [[configuración adicional]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/rolllimitless)
-* [[Baterías de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/rbdrms)
-* [[Baterías con adaptador MIDI PRO de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20MIDI%20Pro%20Adapter%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/mpa)
-* [[Baterías de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/ghdrms)
-* [[Baterías de Guitar Hero para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/ghdrms)
-* [[Baterías de Rock Band para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/rbdrms)
-* [[Baterías de Guitar Hero para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/ghdrms)
+	* Requiere [[configuración adicional]](https://rb3pc.milohax.org/instrumentos/misc/rolllimitless)
+* [[Baterías de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/rbdrms)
+* [[Baterías con adaptador MIDI PRO de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20MIDI%20Pro%20Adapter%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/mpa)
+* [[Baterías de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/ghdrms)
+* [[Baterías de Guitar Hero para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/ps3/ghdrms)
+* [[Baterías de Rock Band para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/wii/rbdrms)
+* [[Baterías de Guitar Hero para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/wii/ghdrms)
 
 ## Guitarras:
-* [[Guitarras de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/rbgtrs)
-* [[Guitarras de Rock Band para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/rbgtrs)
-* [[Guitarras de Rock Band 4/Fortnite Festival para Xbox One/Xbox Series]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/rb4gtrs)
-	* Requiere [[configuración adicional]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/rb4gtrs)
-* [[Guitarras Les Paul de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/ghlp)
-* [[Guitarras Les Paul de Guitar Hero para Wii (con adaptador de Raphnet)]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/raphlp)
-* [[Guitarras de Guitar Hero para Wii (Ardwiino PI Pico)]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/picolp)
-* [[Guitarras Xplorer de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/xplorer)
-	* Requiere [[configuración adicional]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/xplorer)
-* [[Guitarras "Genericaster" de Guitar Hero (World Tour y despues) para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/ghwttar)
-* [[Guitarras "Genericaster" de Guitar Hero (World Tour y despues) para Xbox 360 ]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/ghwttar)
-* [[Guitarras SG de Guitar Hero para PlayStation 2]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **REQUIERE UN ADAPTADOR SPECIFICO**. [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/ps2sg)
-* [[Guitarras Les Paul de Guitar Hero para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **NO SE RECOMIENDA USAR ESTA GUITARRA**. [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/ghlp)
-* [[Guitarra de Guitar Hero World Tour para PC/Mac]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **NO SE RECOMIENDA USAR ESTA GUITARRA**. [[Más información]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/pcghwt)
+* [[Guitarras de Rock Band para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Rock%20Band%20Guitar.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/rbgtrs)
+* [[Guitarras de Rock Band para Wii]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Rock%20Band%20Guitars.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/wii/rbgtrs)
+* [[Guitarras de Rock Band 4/Fortnite Festival para Xbox One/Xbox Series]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20One%20Rock%20Band%20Guitar.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/rb4gtrs)
+	* Requiere [[configuración adicional]](https://rb3pc.milohax.org/instrumentos/xbox/rb4gtrs)
+* [[Guitarras Les Paul de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/blob/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Les%20Paul.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/ghlp)
+* [[Guitarras Les Paul de Guitar Hero para Wii (con adaptador de Raphnet)]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BRaphnet%5D.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/wii/raphlp)
+* [[Guitarras de Guitar Hero para Wii (Ardwiino PI Pico)]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/misc/picolp)
+* [[Guitarras Xplorer de Guitar Hero para Xbox 360]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/xplorer)
+	* Requiere [[configuración adicional]](https://rb3pc.milohax.org/instrumentos/xbox/xplorer)
+* [[Guitarras "Genericaster" de Guitar Hero (World Tour y despues) para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Genericaster.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/ps3/ghwttar)
+* [[Guitarras "Genericaster" de Guitar Hero (World Tour y despues) para Xbox 360 ]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/Xbox%20360%20Guitar%20Hero%20Genericaster%20Guitar.7z) - [[Más información]](https://rb3pc.milohax.org/instrumentos/xbox/ghwttar)
+* [[Guitarras SG de Guitar Hero para PlayStation 2]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z) - **REQUIERE UN ADAPTADOR SPECIFICO**. [[Más información]](https://rb3pc.milohax.org/instrumentos/misc/ps2sg)
+* [[Guitarras Les Paul de Guitar Hero para PlayStation 3]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PS3%20Guitar%20Hero%20Les%20Paul%20Guitar.7z) - **NO SE RECOMIENDA USAR ESTA GUITARRA**. [[Más información]](https://rb3pc.milohax.org/instrumentos/ps3/ghlp)
+* [[Guitarra de Guitar Hero World Tour para PC/Mac]](https://github.com/hmxmilohax/rb3-pc/raw/main/instrument-repo/PC-Mac%20Guitar%20Hero%20World%20Tour%20Genericaster.7z) - **NO SE RECOMIENDA USAR ESTA GUITARRA**. [[Más información]](https://rb3pc.milohax.org/instrumentos/misc/pcghwt)
 
 ## Mandos/Padtar:
-* [[DualShock 3/Sixaxis para PlayStation 3]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/ds3) - Sin perfil/Solo para info.
-* [[Control de Xbox One/Series]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/xb1pad) - Sin perfil/Solo para info.
-* [[Teclado de PC]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/pckeyboard) - Sin perfil/Solo para info.
+* [[DualShock 3/Sixaxis para PlayStation 3]](https://rb3pc.milohax.org/instrumentos/ps3/ds3) - Sin perfil/Solo para info.
+* [[Control de Xbox One/Series]](https://rb3pc.milohax.org/instrumentos/xbox/xb1pad) - Sin perfil/Solo para info.
+* [[Teclado de PC]](https://rb3pc.milohax.org/instrumentos/misc/pckeyboard) - Sin perfil/Solo para info.
 
 ## Pianos:
-* [[Teclados MIDI]](https://hmxmilohax.github.io/rb3-pc/instrumentos/misc/midikeys) - Sin perfil/Solo para info.
-* [[Teclados de Rock Band para PlayStation 3]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/rbkeys) - Sin perfil/Solo para info.
-* [[Teclados de Rock Band para Xbox 360]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/rbkeys) - Sin perfil/Solo para info.
-* [[Teclados de Rock Band para Wii]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/rbkeys) - Sin perfil/Solo para info.
+* [[Teclados MIDI]](https://rb3pc.milohax.org/instrumentos/misc/midikeys) - Sin perfil/Solo para info.
+* [[Teclados de Rock Band para PlayStation 3]](https://rb3pc.milohax.org/instrumentos/ps3/rbkeys) - Sin perfil/Solo para info.
+* [[Teclados de Rock Band para Xbox 360]](https://rb3pc.milohax.org/instrumentos/xbox/rbkeys) - Sin perfil/Solo para info.
+* [[Teclados de Rock Band para Wii]](https://rb3pc.milohax.org/instrumentos/wii/rbkeys) - Sin perfil/Solo para info.
 
 ## Guitarras Pro:
-* [[Guitarras PRO de Rock Band 3 para PlayStation 3]](https://hmxmilohax.github.io/rb3-pc/instrumentos/ps3/protar) - Sin perfil/Solo para info.
-* [[Guitarras PRO de Rock Band 3 para Xbox 360]](https://hmxmilohax.github.io/rb3-pc/instrumentos/xbox/protar) - Sin perfil/Solo para info.
-* [[Guitarras PRO de Rock Band 3 para Wii]](https://hmxmilohax.github.io/rb3-pc/instrumentos/wii/protar) - Sin perfil/Solo para info.
+* [[Guitarras PRO de Rock Band 3 para PlayStation 3]](https://rb3pc.milohax.org/instrumentos/ps3/protar) - Sin perfil/Solo para info.
+* [[Guitarras PRO de Rock Band 3 para Xbox 360]](https://rb3pc.milohax.org/instrumentos/xbox/protar) - Sin perfil/Solo para info.
+* [[Guitarras PRO de Rock Band 3 para Wii]](https://rb3pc.milohax.org/instrumentos/wii/protar) - Sin perfil/Solo para info.
 
 ## RECHAZADOS:
 

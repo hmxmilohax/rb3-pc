@@ -140,7 +140,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 
 **Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
 
-For more information on Drum Kit mapping, [[**read here**.]](https://hmxmilohax.github.io/rb3-pc/instruments/misc/mididrums#mapping)
+For more information on Drum Kit mapping, [[**read here**.]](https://rb3pc.milohax.org/instruments/misc/mididrums#mapping)
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder. You need to run the game once with your MIDI Drum kit assigned in the I/O tab for RPCS3 to create this file. Any changes require a game restart.
 
@@ -207,7 +207,7 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 	* **Change "Maximum Number of SPURS Threads"** - May improve performance on older systems with less cores and threads [[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]](https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005).
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **Strongly Suggested**: 
-	* **Enable "Debug Console Mode"** - Enabling this and "Large Heap" in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! [[Click here for more information.]](https://hmxmilohax.github.io/rb3-pc/espanol/advancedstuff#add-more-memory-to-rock-band-3)
+	* **Enable "Debug Console Mode"** - Enabling this and "Large Heap" in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! [[Click here for more information.]](https://rb3pc.milohax.org/espanol/advancedstuff#add-more-memory-to-rock-band-3)
 	* **Change "Exclusive Fullscreen Mode" to "Prefer borderless fullscreen"** to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.
 
 <br/>

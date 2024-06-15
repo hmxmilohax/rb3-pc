@@ -8,7 +8,7 @@ layout: post
 
 ## NOTAS:
 
-* Se recomienda usar el receptor propio para el teclado, si lo tienes. [[Haz click aquí para ver cómo configurarlo con el receptor.]](https://hmxmilohax.github.io/rb3-pc/espanol/conexiondirecta/)
+* Se recomienda usar el receptor propio para el teclado, si lo tienes. [[Haz click aquí para ver cómo configurarlo con el receptor.]](https://rb3pc.milohax.org/espanol/conexiondirecta/)
 * Esto es para jugadores que tienen los teclados conectados con un adaptador de MIDI a USB.
 * Los botones del teclado no van a funcionar como funcionan cuando esta conectado a su consola propia.
 
@@ -36,6 +36,6 @@ Puedes cambiar de octava con los botones de Cuadro y Circulo.
 
 ![Control](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/ps3rbkeyscontroller.png "Control") 
 
-[[Regresar al Repo de Instrumentos]](https://hmxmilohax.github.io/rb3-pc/espanol/repodeinst/#lista-de-instrumentos)
+[[Regresar al Repo de Instrumentos]](https://rb3pc.milohax.org/espanol/repodeinst/#lista-de-instrumentos)
 
 Investigado por [[Linos]](https://www.youtube.com/@LinosMelendi)

@@ -7,7 +7,7 @@ Video Version:
 
 To use the room code system on AshCentral, **make sure RPCS3 is set to connect to AshCentral**. **Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel.
 
-**Copy the information into RPCS3** like mentioned in the [**[network]**](https://hmxmilohax.github.io/rb3-pc/english/customconfiguration/#network) section of the guide.
+**Copy the information into RPCS3** like mentioned in the [**[network]**](https://rb3pc.milohax.org/english/customconfiguration/#network) section of the guide.
 
 Once you've done that, **go to** [**[AshCentral's website]**](https://gocentral.rocks/) **to register an account**.
 

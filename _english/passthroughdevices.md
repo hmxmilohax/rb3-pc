@@ -6,7 +6,7 @@ category: English
 layout: post
 ---
 
-**If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](https://hmxmilohax.github.io/rb3-pc/english/troubleshooting/).
+**If you're not playing with a PS3 Mustang Pro Guitar or a PS3 Keyboard with their respective dongles**, [[**skip over this section**]](https://rb3pc.milohax.org/english/troubleshooting/).
 
 To start with, **close out RPCS3** **and plug in the instrument's dongle** to your computer.
 

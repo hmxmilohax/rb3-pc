@@ -9,11 +9,11 @@ layout: post
 *   **_Audio Corrupto_**
 
 	* [![Un miniretrato que dice "click here for audio example" (haz clic aqui por un ejemplo de sonido).](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/badaudio.png)](https://www.youtube.com/watch?v=UoCMEQbNThs&t=20s "Rock Band 3 Deluxe - Low-End Low-Buffer Autoplay - YouTube")
-	* Aumenta el "Audio Buffer Duration" como se menciona en [[la pestaña de Audio de la configuración personalizada]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de baja gama.
+	* Aumenta el "Audio Buffer Duration" como se menciona en [[la pestaña de Audio de la configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#audio) hasta que el Audio Entrecortado se detenga. 100 ms es un buen comienzo para computadoras de baja gama.
 
 *   **_Problemas generales de rendimiento_**
 	* Cambia el plan de energía de tu computadora a "Máximo rendimiento"
-	*   Regresa y Lee las sugerencias para PCs de gama baja en la [[sección de configuración personalizada]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#Cambiando-una-configuración-personalizada).
+	*   Regresa y Lee las sugerencias para PCs de gama baja en la [[sección de configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#Cambiando-una-configuración-personalizada).
 	*   Instala [[Rock Band 3 Deluxe]](https://nightly.link/hmxmilohax/rock-band-3-deluxe/workflows/build/main/RB3DX-PS3.zip) y deshabilita efectos adicionales en el apartado "Deluxe Settings". Si no lo tienes, no seguiste la guía.
 	*	Cierra el cliente de Discord y abre Discord en tu navegador o tu celular. Tambien puedes usar un cliente modificado como Vesktop.
 
@@ -36,10 +36,10 @@ layout: post
 	*   Esto no debería pasar en las versiones nuevas de RPCS3. Dicho esto, sugiero que uses un control estándar para cualquier personalización, porque algunos instrumentos no tienen los botones requeridos para escribir en el teclado virtual.
 
 *   **_Navegando la biblioteca me da pausas largas_**
-	*   Ctm. Se te olvido poner "Network Status" a "Connected" en la [[pestaña "Network" al hacer la configuración personalizada]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#network) para Rock Band 3, como te dijo la guía.
+	*   Ctm. Se te olvido poner "Network Status" a "Connected" en la [[pestaña "Network" al hacer la configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#network) para Rock Band 3, como te dijo la guía.
 
 *   **_Instrumentos de PS3 se detectan como dos_**
-	*   Creaste una [[configuración de controladores personalizada]](https://hmxmilohax.github.io/rb3-pc/espanol/instrumentos/) para un control de PS3, que usualmente no se necesita. Desborra la configuración del controlado y todo debe de estar bien.
+	*   Creaste una [[configuración de controladores personalizada]](https://rb3pc.milohax.org/espanol/instrumentos/) para un control de PS3, que usualmente no se necesita. Desborra la configuración del controlado y todo debe de estar bien.
 
 - **_[Rock Band 3 Deluxe] Crasheo en el video de introducción_**
   * Tienes archivos de Rock Band 3 Deluxe para una versión vieja. Ve a la carpeta del juego en `dev_hdd0\game\BLUS30463\USRDIR` y desborra todos los archivos con extensión `.dta`, excepto a `dx_high_memory.dta`.
@@ -48,10 +48,10 @@ layout: post
 	*   Este es un problema conocido de Rock Band 3 que afecta todas las versiones, incluso las de consolas. Puedes comprar un Roll Limitless, que arregla esto. También puedes tocar estas cosas con un [[flam/mordente]](https://es.wikipedia.org/wiki/Rudimento#Terminolog%C3%ADa). Por favor, siéntete libre de preguntar en el [**[servidor de Discord de MiloHax]**](https://rb3dx.neocities.org/discord_es).
 
 *   **_\[ONLINE\] No puedo encontrar al tercer o cuarto jugador_**
-	*   En la configuración Personalizada de Rock Band 3, [[ve a la pestaña de "Network" de configuración personalizada]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#network) y asegúrate de tener activado la opción "Enable UPNP". Si por alguna razón no puedes activar el UPNP, tendrás que redireccionar el puerto 9103 (UDP) en tu cortafuegos . **No actives el UPNP mientras estas redireccionando el puerto** ya que esto puede causar crasheos.
+	*   En la configuración Personalizada de Rock Band 3, [[ve a la pestaña de "Network" de configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#network) y asegúrate de tener activado la opción "Enable UPNP". Si por alguna razón no puedes activar el UPNP, tendrás que redireccionar el puerto 9103 (UDP) en tu cortafuegos . **No actives el UPNP mientras estas redireccionando el puerto** ya que esto puede causar crasheos.
 
 *   **_\[ONLINE\] Crasheo cuando busco jugadores._**
-	*   Si tienes UPNP prendido en la Configuración Personalizada de Rock Band 3 [[sección de Network]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#network), deberás desactivarlo y [[buscar cómo configurar el reenvío de puertos en tu enrutador]]([https://www.noip.com/support/knowledgebase/general-port-forwarding-guide](https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router)).
+	*   Si tienes UPNP prendido en la Configuración Personalizada de Rock Band 3 [[sección de Network]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#network), deberás desactivarlo y [[buscar cómo configurar el reenvío de puertos en tu enrutador]]([https://www.noip.com/support/knowledgebase/general-port-forwarding-guide](https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router)).
 	
 *   **_\[ONLINE\] Al tratar de conectar a GoCentral el juego se queda en "Registering Account_**
 	*   Puede que hayas perdido la conexión a RPCN o GoCentral y tendrás que reiniciar el Juego. Si continuas teniendo esto luego de haber reiniciado, ve al menú de arriba en RPCS3 a, "Configuration" > "RPCN" > "Account" > "Test Account" luego reinicia el juego para forzar una reconexión.

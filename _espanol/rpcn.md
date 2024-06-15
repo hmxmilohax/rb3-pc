@@ -6,7 +6,7 @@ category: Español
 layout: post
 ---
 
-Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionrapida/)
+Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección.]](https://rb3pc.milohax.org/espanol/configuracionrapida/)
 
 ## Registrándose
 

@@ -8,9 +8,9 @@ layout: post
 
 ## Intro
 
-**Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección]](https://hmxmilohax.github.io/rb3-pc/espanol/conexiondirecta/).**
+**Si no quieres jugar en linea, [[puedes avanzar a la siguiente sección]](https://rb3pc.milohax.org/espanol/conexiondirecta/).**
 
-Esta parte de la guía **requiere** que tengas una [[**cuenta de RPCN**]](https://hmxmilohax.github.io/rb3-pc/espanol/rpcn/) **y que tu [[configuración personalizada de network]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#network) este puesta para AshCentral.**
+Esta parte de la guía **requiere** que tengas una [[**cuenta de RPCN**]](https://rb3pc.milohax.org/espanol/rpcn/) **y que tu [[configuración personalizada de network]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#network) este puesta para AshCentral.**
 
 AshCentral es el servidor para elegir si quieres tener la mejor experiencia jugando Rock Band 3 en línea. Esta parte de la guía te va dar detalles sobre cómo tomar ventaja de todas las opciones disponibles para jugar en línea.
 
@@ -83,4 +83,4 @@ Eso es todo! Si alguien mas esta buscando, se van a encontrar.
 
 ## Códigos Privados
 
-Si eres un usuario avanzado, puedes usar [[códigos privados]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionadicional/#intro-2) para conectarte con tus amigos.
+Si eres un usuario avanzado, puedes usar [[códigos privados]](https://rb3pc.milohax.org/espanol/configuracionadicional/#intro-2) para conectarte con tus amigos.

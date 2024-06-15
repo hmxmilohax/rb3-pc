@@ -77,7 +77,7 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 
 ![Controller](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/instruments/cont/mididrumscontroller.png "Controller") 
 
-[[Back to Instrument Repo]](https://hmxmilohax.github.io/rb3-pc/english/instrumentrepo/#instrument-list)
+[[Back to Instrument Repo]](https://rb3pc.milohax.org/english/instrumentrepo/#instrument-list)
 
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

@@ -16,12 +16,12 @@ Vamos a darle mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando por
 
 > ##### ADVERTENCIA
 >
-> _Si bajaste y estas usando [[un perfil de la Configuración Rápida,]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionrapida/) ya tienes esto activado y no necesitas hacer nada_
+> _Si bajaste y estas usando [[un perfil de la Configuración Rápida,]](https://rb3pc.milohax.org/espanol/configuracionrapida/) ya tienes esto activado y no necesitas hacer nada_
 {: .block-warning  }
 
 > ##### PELIGRO
 >
-> _Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#advanced). **Si no haces esto, tu juego va a parar de funcionar.**_
+> _Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#advanced). **Si no haces esto, tu juego va a parar de funcionar.**_
 {: .block-danger  }
 
 ### Como Hacerlo
@@ -109,7 +109,7 @@ Versión Vídeo de esta sección subtitulada en Español:
 
 Para usar el sistema de códigos de sala en AshCentral, **asegúrate que RPCS3 este configurado para conectar a AshCentral**. **Entra al** [[**Discord de Milohax**]](https://rb3dx.neocities.org/discord_es) y **ve al canal** de **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)**.
 
-**Copia la información a RPCS3 como dicho en la sección** [**[network]**](https://hmxmilohax.github.io/rb3-pc/espanol/configuracionpersonalizada/#network) (red) **de la guia**.
+**Copia la información a RPCS3 como dicho en la sección** [**[network]**](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#network) (red) **de la guia**.
 
 Cuando hagas eso, [**[ve al sitio de AshCentral, GoCentral.Rocks]**](https://gocentral.rocks/) **para registrar una cuenta**.
 
