@@ -186,8 +186,7 @@ In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Ho
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* You can tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
-	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
-		* **For AshCentral: Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. **This is the recommended server** due to having more features and frequent updates.  
+	* As of writing this, there's one Rock Band 3 multiplayer server to connect to. You can easily switch between them.
 		* For RBEnhanced GoCentral: Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
 
 

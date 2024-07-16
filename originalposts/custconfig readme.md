@@ -23,7 +23,7 @@ These are the settings used for the *recommended* specs.
 	- Audio Buffer Duration: 32 ms
 - **Network**:
 	- Network Status: Connected
-	- AshCentral IP/Hosts Switches
+	- RBEnhanced IP/Hosts Switches
 	- Enable UPNP: On
 - **Advanced**:
 	- Debug Console Mode: On
@@ -48,7 +48,7 @@ These are the settings used for the *minimum* specs.
 	- Audio Buffer Duration: 100 ms
 - **Network**:
 	- Network Status: Connected
-	- AshCentral IP/Hosts Switches
+	- RBEnhanced IP/Hosts Switches
 	- Enable UPNP: On
 - **Advanced**:
 	- Debug Console Mode: On

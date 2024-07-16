@@ -38,7 +38,7 @@ Se necesitas mas detalles sobre estas configuraciones:
 		- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
 	- **Network**:
 		- Network Status (Estado de red): Connected (Conectado)
-		- DNS: Configurado para AshCentral
+		- DNS: Configurado para RBEnhanced
 		- Enable UPNP (Activar UPnP): Activado
 	- **Advanced**:
 		- Debug Console Mode (Modo de consola saca-errores): Activado
@@ -62,7 +62,7 @@ Se necesitas mas detalles sobre estas configuraciones:
 		- Keyboard Type (Tipo de teclado): Spanish Keyboard (Teclado Español)
 	- **Network**:
 		- Network Status (Estado de red): Connected (Conectado)
-		- DNS: Configurado para AshCentral
+		- DNS: Configurado para RBEnhanced
 		- Enable UPNP (Activar UPnP): Activado
 	- **Advanced**:
 		- Debug Console Mode (Modo de consola saca-errores): Activado

@@ -36,7 +36,7 @@ If you need any more information about what these settings are changing:
 		- Audio Buffer Duration: 32 ms
 	- **Network**:
 		- Network Status: Connected
-		- DNS: Configured for AshCentral
+		- DNS: Configured for RBEnhanced
 		- Enable UPNP: On
 	- **Advanced**:
 		- Debug Console Mode: On
@@ -57,7 +57,7 @@ If you need any more information about what these settings are changing:
 		- Audio Buffer Duration: 100 ms
 	- **Network**:
 		- Network Status: Connected
-		- DNS: Configured for AshCentral
+		- DNS: Configured for RBEnhanced
 		- Enable UPNP: On
 	- **Advanced**:
 		- Debug Console Mode: On

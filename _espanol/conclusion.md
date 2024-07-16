@@ -26,7 +26,6 @@ Agradecimientos especiales a:
 *	[[SlothDemon]](https://www.youtube.com/@SlothDemon1991) y [[Lynxeption]](https://www.youtube.com/@Lynxeption)por ayudar a traducir esta guía y ayudarme a recordar como escribir Español.
 *   [[DarkRTA]](https://www.youtube.com/@darkrta), [[Linos]](https://www.youtube.com/@LinosMelendi), [[Jnack]](https://www.youtube.com/@jnackmclain), [[lunalawl]](https://github.com/lunalawl), [[Hughtobasíc]](https://www.youtube.com/@thisisRK), [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591), and [[LysiX]](https://www.youtube.com/@LysiX) por información técnica sobre RPCS3 y Rock Band 3.
 *	[[KaijuChomps]](https://github.com/KaijuChomps) por ayuda técnica con Jekyll y GitHub Pages.
-* [knvtva](https://github.com/knvtva) por crear y mantener a AshCentral, la mejor manera de jugar Rock Band 3 en linea.
 *   qfoxb, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991), [[Jnack]](https://www.youtube.com/@jnackmclain) (el cual hizo pruebas por 40 horas xd), knvtva, y 1osks por reportar resultados.
 *   SlothDemon1991, gonakil1ya, GamerPerson22, Vex, Trish, ItzSlicedcorn/Vivian, y Linos por ayudar con capturas de pantalla.
 *   RPCS3 Wiki por tener una cantidad decente de información sobre los Controladores y los Traspasos Via USB.
