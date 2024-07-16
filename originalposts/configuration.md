@@ -291,8 +291,7 @@ As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapp
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* Tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
 		* **Don't enable UPNP while port forwarding** as this can cause crashes.
-	* As of writing this, there are two Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
-		* **For AshCentral: Join the** [[**Milohax Discord server**]](https://rb3dx.neocities.org/discord) and **go to** the **[\[#ashcentral-status\]](https://discord.com/channels/961352072140324924/1153056600030973992)** channel. **Copy the information for RPCS3**. This is the suggested server due to having more features and frequent updates.  
+	* As of writing this, there's one Rock Band 3 multiplayer servers to connect to. You can easily switch between them.
 		* For RBEnhanced GoCentral: Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
 
 <br/>
@@ -472,7 +471,6 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb).
 Special thanks to:
 
 *   [Dark](https://dark.ski/), [Linos](https://www.youtube.com/@LinosMelendi), [Jnack](https://www.youtube.com/@jnackmclain), [Hughtobasic](https://www.youtube.com/@thisisRK), [ihatecompvir](https://www.youtube.com/@ihatecompvir1591), and [LysiX](https://www.youtube.com/@LysiX) for technical information regarding RPCS3 and/or Rock Band 3.
-* [knvtva](https://github.com/knvtva) for running and maintaining AshCentral, the best way to play Rock Band 3 online.
 *   [qfoxb](https://github.com/qfoxb), [SlothDemon](https://www.youtube.com/@SlothDemon1991), [Jnack](https://www.youtube.com/@jnackmclain) (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva), and 1osks for testing and reporting results.
 *   SlothDemon1991, gonakil1ya, GamerPerson22, Vex, Trish, ItzSlicedcorn/Vivian, and Linos for helping set up scenarios for tutorial pictures.
 *   RPCS3 Wiki for initial information on controllers and USB passthrough.
