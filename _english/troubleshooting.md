@@ -59,7 +59,7 @@ layout: post
 # Crashes
 
 *   **_"My game crashes on boot."_**
-	*   You probably installed the [**[High Memory File]**](https://carlmylo.github.io/rpcs3guidetesting/english/advancedstuff/#intro) and forgot to enable "Debug Console Mode" in the [[Advanced tab when setting up the Custom Configuration]](https://carlmylo.github.io/rpcs3guidetesting/english/customconfiguration/#advanced) for Rock Band 3.
+	*   You probably installed the [**[High Memory File]**](https://rb3pc.milohax.org/english/advancedstuff/#intro) and forgot to enable "Debug Console Mode" in the [[Advanced tab when setting up the Custom Configuration]](https://rb3pc.milohax.org/english/customconfiguration/#advanced) for Rock Band 3.
 	* If it's not this, you have a bad dump or an incompatible computer.
 
 *   **_"My game crashes when practicing on regular guitar/bass."_**

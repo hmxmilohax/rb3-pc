@@ -14,7 +14,7 @@ layout: post
 
 * **The Rock Band 4 Jaguar and Stratocaster controllers are known for having horrible latency.**
 * The Riffmaster will not have functional Whammy or Tilt.
-	* It's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://carlmylo.github.io/rpcs3guidetesting/instruments/misc/riffada) to have whammy, tilt, and a multiplatform guitar.
+	* It's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH TILT for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-tilt-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://rb3pc.milohax.org/instruments/misc/riffada) to have whammy, tilt, and a multiplatform guitar.
 * You may experience softlocks when opening up interface menus, like RPCN related ones. You may need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
 
 ## Pad Information

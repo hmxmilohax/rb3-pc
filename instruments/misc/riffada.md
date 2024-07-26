@@ -13,7 +13,7 @@ layout: post
 ## NOTES
 
 * **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
-* While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://carlmylo.github.io/rpcs3guidetesting/instruments/xbox/rb4gtrs) for that instead.
+* While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/instruments/xbox/rb4gtrs) for that instead.
 
 ## Pad Information
 
