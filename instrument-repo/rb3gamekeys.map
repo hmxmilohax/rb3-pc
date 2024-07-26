@@ -1,0 +1,15 @@
+FreePiano 2.2
+
+GroupCount	1
+Group	Set	0
+KeySignature	Set	0
+Keydown	A	Note	In_1	G#2
+Keydown	S	Note	In_1	F#2
+Keydown	D	Note	In_1	D#2
+Keydown	F	Note	In_1	C#2
+Keydown	Enter	Note	In_1	A#2
+Keydown	RShift	Note	In_1	C2
+Keydown	Up	Note	In_1	F2
+Keydown	Left	Note	In_1	D2
+Keydown	Down	Note	In_1	G2
+Keydown	Right	Note	In_1	E2

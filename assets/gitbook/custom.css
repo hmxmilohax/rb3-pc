@@ -271,17 +271,17 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 }
 
 :root {
-    --c-tip: #42b983;
-    --c-tip-bg: #e2f5ec;
-    --c-tip-text: #215d42;
-    --c-tip-title: #359469;
-    --c-warning: #e7c000;
-    --c-warning-bg: rgba(255, 229, 100, .25);
-    --c-warning-text: #6b5900;
-    --c-warning-title: #b29400;
-    --c-danger: #c00;
-    --c-danger-bg: #ffe0e0;
-    --c-danger-text: #600;
-    --c-danger-title: #c00;
+    --c-tip: #00ac5e;
+    --c-tip-bg: #026234;
+    --c-tip-text: #fff;
+    --c-tip-title: #00ff8c;
+    --c-warning: #f2c900;
+    --c-warning-bg: rgb(150, 125, 0);
+    --c-warning-text: #fff;
+    --c-warning-title: #ffe14f;
+    --c-danger: #f00;
+    --c-danger-bg: #860000;
+    --c-danger-text: #fff;
+    --c-danger-title: #fff;
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }

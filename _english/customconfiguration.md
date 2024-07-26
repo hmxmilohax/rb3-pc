@@ -52,11 +52,11 @@ We'll go tab by tab, starting with:
 	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with the frame limiter**.
 	* **Change "Frame Limit"** 
 		* Set it to "Off" to use higher VBlank Frequencies, which may introduce jitter, **or if you're using VSync.**
-		* Set it to 60 if you want a locked 60 FPS framerate (redundant with 60 Hz Vblank). 
 		* Auto will use default RPCS3 settings.
 		* It is suggested to use your graphics driver's settings or software like MSI Afterburner to limit your framerate instead.
 		* Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.
 		* Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.
+		* It's suggested to disable VSync within Rock Band 3 Deluxe itself in `Menu > Options > Deluxe Settings > Graphics`
 	* **Change "ZCULL Accuracy" to "Relaxed"** - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.
 	* **Adjust "Resolution Scale"** to preference and to what your computer can handle. Increase for sharper graphics at the cost of higher GPU requirements. This forces the game to run at this resolution. Lowering this below 100% isn't worth it as it won't give much, if any, framerate gains.
 	* **Adjust "Output Scaling"** to preference and to what your computer can handle. This affects how the game is "blown up" in size when fitting to your monitor's native resolution. Helpful for those keeping Resolution Scale (mentioned above) at 100% while playing on a monitor larger than 1280x720.
@@ -77,7 +77,7 @@ We'll go tab by tab, starting with:
 		* Higher values give you more audio latency but use less CPU.
 		* Vocalists are affected the most by this, as a higher latency creates a distracting echo. Instrument players can use calibration to compensate regardless of audio buffer setting.
 		* You can change this while the game is running, but it will require re-calibrating in Rock Band 3's system settings.
-	* **Change "Audio Out" to "XAudio2"** - While **most users should stay on Cubeb**, a couple of people have experienced better performance with XAudio2. Your milage may vary
+	* **Change "Audio Out" to "XAudio2"** - While **most users should stay on Cubeb**, a couple of people have experienced better performance with XAudio2. Your milage may vary.
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For Vocalists**: 
 	* **Set Microphone type to Standard or Rocksmith**.
@@ -122,74 +122,17 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 
 Visit the instrument repo if you're using a [[Xbox 360]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Xbox%20360%20Rock%20Band%203%20Keyboard#readme) or a [[Nintendo Wii]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/Wii%20Rock%20Band%20Keyboard#readme) Rock Band 3 Keyboard connected via MIDI to USB. Also visit the instrument repo if you're on a [[MIDI Drum Kit]](https://github.com/hmxmilohax/rb3-pc/tree/main/instrument-repo/MIDI%20Drums#readme) and wish to adjust mappings.
 
-* ![A blue square with a dotted outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallblue.png "Blue Square") **Tweak depending on CPU**: 
-	* **Change "Pad Handler Mode" to "Multi-threaded"** if you have a CPU **with more than 12 threads.**
-  
- **If your instrument isn't detected in the drop-down menu, click on "Save custom configuration", close the Custom Configuration window, then right click on Rock Band 3 to reopen it. If that doesn't work, restart RPCS3.**  
-  
-### Notes on MIDI Pro Guitars:
-
-Pro Guitars should work without any extra configuration **as long as your MIDI to USB interface supports SYSEX.** **The M-Audio Midisport Uno is recommended as it has been verified to work.**
-
-### Notes on MIDI Keyboards:
-
-As **keyboards don't have PS3 buttons, the first octave is** reserved **for mapped keys**. Use the picture below as a reference. I **strongly** suggest putting labels on your keyboard to remind you of what each key does along with color ranges. **The** keyboard's **pitch knob should be mapped to the touch strip and modulation wheel and sustain pedal should be mapped to Overdrive deployment.**
-![A picture of a 37 key keyboard, showing the second octave mapped to PlayStation buttons, C3 to E3 under a red color, F3 to B3 under a yellow color, C4 to E4 under a blue color, F4 to B4 under a green color, and C5 under an orange color.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/midi/keysctrl.png "MIDI Keyboard Reference")
-
-### Notes on MIDI Drums:
-
-**Your MIDI Drum Kit needs to be set to MIDI Channel 10 and standard GM mapping.**  These should be default settings but consult the manual for your kit to make sure.
-
-For more information on Drum Kit mapping, [[**read here**.]](https://rb3pc.milohax.org/instruments/misc/mididrums#mapping)
-
-You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder. You need to run the game once with your MIDI Drum kit assigned in the I/O tab for RPCS3 to create this file. Any changes require a game restart.
-
-As drums don't have PS3 buttons, by default:
-* START: Quickly close the Hi-Hat three times then hit the Snare
-* SELECT: Quickly close the Hi-Hat three times then hit the Snare Rim
-* Song select shortcuts: Quickly close the Hi-Hat three times then press the Kick pedal
-If your drum kits have incompatible mapping, you can remap using `Midi id to note override: ""` with the corrected notes.
-* To do this:
-	* Go to [[MIDI Monitor]](https://www.midimonitor.com/)
-	* Play the pad you want to replace to find its MIDI Note number ("Note #[number]").
-
-The file uses the following note names:
-
-`Kick`  
-`HihatPedal`  
-`Snare`  
-`SnareRim`  
-`HiTom`  
-`LowTom`  
-`FloorTom`  
-`HihatWithPedalUp`  
-`Hihat`  
-`Ride`  
-`Crash`
-
-
-Examples of common replacements:
-* Blue cymbal is mapped to `Note #51` and Green cymbals is mapped to `Note #49` and your kit has these reversed.
-	* `Midi id to note override: "49=Ride,51=Crash"` will reverse them to be closer to the game's layout
-* You want to map Open Hi-Hat to Blue cymbal.
-	* `Midi id to note override: "46=Ride"`
-
-In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
-
-<br/>
 
 ## Network
-![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, DNS (78.141.231.152), IP/Hosts switches, PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/network.png "Network")
+![A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/network.png "Network")
 
 * ![A green square with a dashed outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Change the Network Status to "Connected" as highlighted in the picture. If left on "Disconnected," the game will temporarily freeze when browsing the song library.**
 
 * ![A tan square with a solid outline.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* You can tick **"Enable UPNP"** or **forward port 9103 (UDP) in your firewall**.
-	* As of writing this, there's one Rock Band 3 multiplayer server to connect to. You can easily switch between them.
-		* For RBEnhanced GoCentral: Join the [[RBEnhanced Discord server]](https://discord.gg/6rRUWXPYwb) and go to the [[#gocentral-connecting]](https://discord.com/channels/953085263008129064/1076031372185042984) channel. Follow the instructions for RPCS3.  
-
-
+	* To play Rock Band 3 online, add Rock Band Enhanced's Server IP.
+		* Set IP/Hosts switches to `rb3ps3live.hmxservices.com=45.33.44.103`.  
 
 <br/>
 
