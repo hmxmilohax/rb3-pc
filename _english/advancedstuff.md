@@ -36,6 +36,16 @@ In the GIF example below, the `devhdd_0` folder from the archive (memory.zip) wa
 
 That's it! Enjoy the increased stability and extra song space!
 
+## Add Custom songs to Rock Band 3 Deluxe
+
+### How To
+
+[[Click here to be taken to the definitive guide on how to add Customs to Rock Band 3 Deluxe.]](https://docs.google.com/document/d/1ELUI8Q2W7PH9tdugeKnsjhqa-IH3T-oy6uGTDY_8z30/)
+
+### Intro
+
+We'll be adding increased memory support to Rock Band 3 on RPCS3. This is strongly suggested and allows for better stability as well top of increasing the song limit up to 16000.
+
 
 ## How to properly add customs to Rock Band 3
 

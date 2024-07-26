@@ -25,7 +25,7 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 # Affected Settings
 If you need any more information about what these settings are changing:
 
-### Recommended
+## Recommended
 
 * **CPU**:
 	* SPU Block Size: Mega
