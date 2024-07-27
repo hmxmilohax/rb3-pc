@@ -152,7 +152,7 @@ Copy the token**:
 
 # Quick Configuration:
 These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://github.com/hmxmilohax/rb3-pc/tree/main#custom-configuration) to tweak to what's best for your computer.  
-[[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.neocities.org/) but if it's not already installed, you're not reading this guide and should go back and read it.  
+[[**Rock Band 3 Deluxe must be installed**]](https://rb3dx.milohax.org/) but if it's not already installed, you're not reading this guide and should go back and read it.  
 
 Players who want to use [[microphones]](#audio), [[Wired Pro Guitar and USB/MIDI Keyboards]](#io), [[Electronic Drum Kits]](#io), or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](#passthrough-devices) will still need to configure those.
 
@@ -383,7 +383,7 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 *   **_General performance issues_**
 	*	Set your computer to the [[High Performance power plan]](https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-).
 	*   Go back to the [[Custom Configuration setup section]](#custom-configuration) and apply suggested low performance tweaks.
-	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.neocities.org/) and disable Post Effects in Deluxe Settings.
+	*   Install [[Rock Band 3 Deluxe]](https://rb3dx.milohax.org/) and disable Post Effects in Deluxe Settings.
 	*	If you motherboard has a Realtek audio, try [[installing the latest driver]](https://realtek-download.com/download-hd/). This is a [[known issue]](https://github.com/RPCS3/rpcs3/issues/14648) where using the default "High Definition Audio" driver doesn't use all threads.
 	*	Close out the dedicated Discord client and open it up in your browser or on your phone. You can also try an alternative Discord client [[like Vesktop]](https://github.com/Vencord/Vesktop), but I claim no responsibility for your Discord account.
 
@@ -433,10 +433,10 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 	*   Double check to make sure your connection is stable. Try connecting via Ethernet cable if possible. If you have increased your VBlank past 60 Hz, set it back to 60 Hz. Aside from that, there's not much that can be done aside from getting better internet.
 
 *   **_“I followed every step and my game is crashing/performing horribly!”_**
-	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for advice.
+	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) for advice.
 
 *	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**
-	* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
+	* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
 
 <br/>
 
@@ -448,13 +448,13 @@ That's it! You now (hopefully) have set up Rock Band 3 on your PC. While you're 
 
 **Rock Band 3 Deluxe/Milohax:** 
 
-[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/rb3dx.gif)](https://rb3dx.neocities.org/ "Rock Band 3 Deluxe")
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/rb3dx.gif)](https://rb3dx.milohax.org/ "Rock Band 3 Deluxe")
 
 </div>
 
-Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here\]](https://rb3dx.neocities.org/)**. On top of [[the many features it adds]](https://rb3dx.neocities.org/features), they also have developed mods for [Guitar Hero 1](https://github.com/Milohax-archive/Guitar-Hero-Deluxe), [Guitar Hero 2 (both the Xbox 360](https://github.com/hmxmilohax/Guitar-Hero-II-Deluxe-360) and [PS2 version](https://github.com/Milohax-archive/Guitar-Hero-Deluxe)s), [Dance Central 1](https://github.com/hmxmilohax/dance-central-1-deluxe), [Dance Central 3](https://github.com/hmxmilohax/dance-central-3-deluxe), [Rock Band 1](https://github.com/hmxmilohax/rock-band-1-deluxe), [Rock Band 2](https://github.com/hmxmilohax/rock-band-2-deluxe), [Lego Rock Band](https://github.com/Milohax-archive/lego-rock-band-deluxe), [Green Day Rock Band](https://github.com/Milohax-archive/greenday-rock-band-deluxe), [Rock Band Blitz](https://github.com/Milohax-archive/rock-band-blitz-deluxe), and [The Beatles: Rock Band](https://github.com/Milohax-archive/beatles-rock-band-deluxe) 
+Milohax are the developers of the must-have Rock Band 3 Deluxe mod that I cannot recommend enough. **[\[Download here\]](https://rb3dx.milohax.org/)**. On top of [[the many features it adds]](https://rb3dx.milohax.org/features), they also have developed mods for other Harmonix games.
 
-[You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.neocities.org/discord).
+[You can **\[join the amazing Milohax Discord here\]**](https://rb3dx.milohax.org/discord).
 
 <div align="center">
 

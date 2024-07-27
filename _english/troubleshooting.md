@@ -16,7 +16,7 @@ layout: post
 *   **_"Characters have glitchy flying instruments and accessories."_**
 
 	* ![A screenshot of Rock Band 3, with a character experiencing issues with their hat and guitar.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/trbl/flyinst.png "Graphical issues")
-	*   There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) if you want to help test.
+	*   There is a fix being worked on for this. Stay tuned for further development. Join the [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) if you want to help test.
 	*   You can use [**[this list]**](https://rb3pc.milohax.org/extra/teleprob) as a reference for which hats, hairsyles, and microphones to avoid.
 
 *   **_\[ONLINE\] "I crash when searching for players or joining sessions."_**
@@ -73,7 +73,7 @@ layout: post
 		* If you still have this issue, redownload Rock Band 3 Deluxe as Github sometimes doesn't download correctly.
 
 *   **_"I followed every step and my game is crashing/performing horribly!"_**
-	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for advice.
+	*   Double check to make sure you meet the requirements and have followed every step correctly. This guide has been thoroughly tested and has been proven to work by many people with varying degrees of hardware. If you are absolutely sure you followed every step correctly, it is 90% likely that the dump of the game you have is bad, a 9% chance your computer ran out of disk space or doesn't meet the minimum specs, and 1% chance it's a skill issue. If you wish, contact me on [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) for advice.
 
 # Audio
 
@@ -111,4 +111,4 @@ layout: post
 	*   This is a known issue with RPCS3. Restart it and it will should work.
 
 *	**_"You didn't mention changing (SETTING) in the guide. It helped my performance."_**
-	* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) with your findings. If it checks out, I'll probably add it to this guide.
+	* [[Open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new) with your suggestions or contact me on [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) with your findings. If it checks out, I'll probably add it to this guide.

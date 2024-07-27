@@ -62,7 +62,7 @@ Paste it into:
 * [TODO] PS2 Guitar Hero Kramer Striker
 * [TODO] Arduino Drums
 
-If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://rb3dx.neocities.org/downloads.html) for information.
+If you own any of these instruments and wish to help, please contact me on the [[Milohax Discord server]](https://rb3dx.milohax.org/downloads.html) for information.
 
 #### REJECTED:
 * Rock Band 3 Fender Mustang Pro Guitar
@@ -136,7 +136,7 @@ Make sure you **set “Device Class” to “Drum”.**
 
 **Switch the drop-down menu next to it to "Rock Band Pro" if you're using Rock Band drums or Rock Band Drums with Pro expansions. Do **NOT** use the regular "Rock Band" type. Leave it on “Guitar Hero” if you're using Guitar Hero drums.**
 
-If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.neocities.org/discord) for the mapping as they know more about this.
+If you're using a 360 MPA with a drum kit, please ask [**[the Milohax discord]**](https://rb3dx.milohax.org/discord) for the mapping as they know more about this.
 
 | **RPCS3**    | **Rock Band Drums** | **Guitar Hero Drums** |
 |:--------:|:-------------------:|:-----------------:|

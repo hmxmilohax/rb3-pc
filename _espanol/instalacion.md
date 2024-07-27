@@ -77,14 +77,14 @@ Después de mover la carpeta de Rock Band 3, haz clic en "Refresh" (actualizar) 
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
-**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/index_es).
+**Ahora, vamos a descargar a** [**[Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/index_es).
 
-Rock Band 3 Deluxe es una modificación que arregla problemas críticos con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.neocities.org/features_es).
+Rock Band 3 Deluxe es una modificación que arregla problemas críticos con Rock Band 3 en RPCS3. También incluye [**[muchas funciones para mejorar tu juego]**](https://rb3dx.milohax.org/features_es).
 
 
-[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://rb3dx.neocities.org/downloads_es).
+[**[Haz clic aqui para bajar Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads_es).
 
-[![Carpeta .zip de Rock Band 3 Deluxe en la bandeja de descarga de Edge.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rb3dxdles.png)](https://rb3dx.neocities.org/downloads_es "RB3DX-PS3.zip")
+[![Carpeta .zip de Rock Band 3 Deluxe en la bandeja de descarga de Edge.](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/inst/rb3dxdles.png)](https://rb3dx.milohax.org/downloads_es "RB3DX-PS3.zip")
 
 
 Cuando se baje, **extrae el archivo**.

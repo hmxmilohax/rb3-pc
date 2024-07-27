@@ -7,7 +7,7 @@ layout: post
 ---
 
 Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada/#creando-una-configuraci%C3%B3n-personalizada) para ajustar todo a lo mejor que pueda tu computadora.  
-**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3dx.neocities.org/install_es) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, no estás leyendo la guía.
+**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3dx.milohax.org/install_es) o no funcionaran a su máximo potencial. Si no lo tienes instalado en este momento, no estás leyendo la guía.
 
 Los jugadores que desean utilizar [[micrófonos]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada#audio), [[guitarras Pro con cable, teclados USB/MIDI, y baterías electrónicas con conexión MIDI]](https://rb3pc.milohax.org/espanol/configuracionpersonalizada#io), o [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://rb3pc.milohax.org/espanol/conexiondirecta/) todavía requieren configuración adicional.
 
