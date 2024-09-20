@@ -62,7 +62,7 @@ Use Right Click to unmap a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PS3%20Guitar%20Hero%20Guitar.7z){:target="_blank"}
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PS3%20Guitar%20Hero%20Guitar.7z){:target="_blank"}
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrps3ghmapping.png" alt="Mapping" title="Mapping"></div>
 

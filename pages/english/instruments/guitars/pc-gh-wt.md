@@ -60,7 +60,7 @@ Use Right Click to unmap a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Guitar%20Hero%20World%20Tour%20Guitar.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Guitar%20Hero%20World%20Tour%20Guitar.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrpcghwtmapping.png" alt="Mapping" title="Mapping"></div>
 

@@ -52,7 +52,7 @@ This is the recommended mode and should not require any mapping. You simply need
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Download Profile]</a></p>
 <p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <p>By default, XInput has most things bound correctly. You only need to remap the following:</p>
 

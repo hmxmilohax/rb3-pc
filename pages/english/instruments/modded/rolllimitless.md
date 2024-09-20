@@ -28,10 +28,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rolllimitlessmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
 
 Mapped by Uzny

@@ -62,7 +62,7 @@ Instrumentos de Guitar Hero **son problemáticas para mapear. Si tratas de asign
                         <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <h4 id="profile">Perfil</h4>
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
 
 <table>
 <thead>

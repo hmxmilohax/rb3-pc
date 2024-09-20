@@ -61,7 +61,7 @@ Usa el click derecho para borrar botones.
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Guitar%20Hero%20World%20Tour%20Guitar.7z)
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Guitar%20Hero%20World%20Tour%20Guitar.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrpcghwtmapping.png" alt="Mapeo" title="Mapeo"></div>
 

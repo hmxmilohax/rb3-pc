@@ -3,7 +3,7 @@ title: Riffmaster (via Adafruit Feather) Guitar
 sidebar: controllers_sidebar
 permalink: ctrls_mod_riffada
 folder: instruments
-tags: [xbox-360, midi, english]
+tags: [guitars, modded, english]
 summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
 toc: false
 ---
@@ -51,7 +51,7 @@ Give it a moment to program initial configuration. When prompted, click on "`Con
 After you've loaded into the configuration page, scroll down to the "`Presets`" section and click to expand it. Once expanded, click on "`Import Settings from File`"
 
 A community made preset exists (courtesy of jnack) to help speed things up. Load it up via the "Import Settings from File" option.  
-[[Download the picoconfig preset here]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/RiffmasterFeather.picoconfig)
+[[Download the picoconfig preset here]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RiffmasterFeather.picoconfig)
 
 ![A screenshot of SantrollerConfigurator, with a cursor hovering over "Import Settings from File" under the "Presets" configuration.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanpreload.png "Presets")
 
@@ -177,10 +177,10 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Feather%20Riffmaster.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/360rbgtrsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modfeatherriffmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
 
 Research by [jnackmclain](https://github.com/jnackmclain)

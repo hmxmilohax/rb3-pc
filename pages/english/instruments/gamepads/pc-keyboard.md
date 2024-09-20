@@ -181,7 +181,7 @@ toc: false
 
 ## Profiles
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
 
 [[Back to Gamepads]](https://rb3pc.milohax.org/ctrls_pads)
 

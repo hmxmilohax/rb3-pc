@@ -1,10 +1,10 @@
 ---
-title: Riffmaster (via Adafruit Feather) Guitar
+title: Guitarra Riffmaster (por Adafruit Feather)
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_riffada_es
 folder: instrumentos
-tags: [modeado, espanol]
-summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
+tags: [guitarras, modeado, espanol]
+summary: "Como configurar tu guitarra de Riffmaster conectada con una Adafruit Feather en RPCS3."
 toc: false
 ---
 
@@ -14,8 +14,8 @@ toc: false
 
 ## NOTAS:
 
-* **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
-* While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/instruments/xbox/rb4gtrs) for that instead.
+* **¡Esto es specificamente para la Riffmaster con** [**[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]**](https://www.adafruit.com/product/5723)**!** Verifica que si compraste una [[Adafruit Feather RP2040 **con puerto de USB tipo a de entrada**]](https://www.adafruit.com/product/5723).
+* Puedes conectar una la Riffmaster de Xbox pero mejor deberías usar [[RB4InstrumentMapper]](https://rb3pc.milohax.org/ctrls_rb4gtr_xbox).
 
 ## Información de Control:
 
@@ -29,7 +29,7 @@ toc: false
 
 ## Setup
 
-Download the latest version of Santroller.
+Descarga la versión actual de Santroller.
 
 [![A screenshot of Santroller's Github download page, hovering over the Windows installer.](https://rb3pc.milohax.org/images/instruments/xtra/feather/dlsan.png)](https://github.com/Santroller/Santroller/releases "SantrollerConfigurator")
 
@@ -177,7 +177,7 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Feather%20Riffmaster.7z)
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 

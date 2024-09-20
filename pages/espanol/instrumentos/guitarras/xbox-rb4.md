@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_xbox_es
 folder: instrumentos
 tags: [xbox-one, guitarras, espanol]
-summary: "Como configurar tu guitarra de RRock Band 4/Fortnite Festival para Xbox One con RPCS3."
+summary: "Como configurar tu guitarra de Rock Band 4/Fortnite Festival para Xbox One con RPCS3."
 toc: false
 ---
 
@@ -55,7 +55,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p><a href="https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z" target="_blank">[Bajar Perfil]</a></p>
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <p>El switch de efectos solo puede ser configurado con la mitad de arriba o de abajo. Recomendamos la mitad de abajo para poder desactivar los efectos.</p>
 

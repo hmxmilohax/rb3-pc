@@ -58,7 +58,7 @@ Usa el click derecho para borrar botones.
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrwiilpmapping.png" alt="Mapeo" title="Mapeo"></div>
 

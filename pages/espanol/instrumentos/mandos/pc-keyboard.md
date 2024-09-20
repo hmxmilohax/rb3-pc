@@ -183,7 +183,7 @@ toc: false
 
 ## Perfiles
 
-[[Bajar Perfiles]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/PC%20Keyboard.7z)
+[[Bajar Perfiles]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 

@@ -24,10 +24,10 @@ toc: false
 
 ## Profile
 
-[[Download Profile]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/picolpmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/english/controllers/)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
 
 Research by heartworthbreaking

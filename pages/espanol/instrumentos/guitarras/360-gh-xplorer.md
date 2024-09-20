@@ -72,7 +72,7 @@ Usa el click derecho para borrar botones.
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20360%20Guitar%20Hero%20Xplorer.7z){:target="_blank"}
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtr360ghxpmapping.png" alt="Mapeo" title="Mapeo"></div>
 
