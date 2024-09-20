@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_protar_wii_es
 folder: instrumentos
 tags: [wii, midi, protarras, espanol]
-summary: "Como configurar guitarras Fender Mustang Pro para Nintendo Wii con RPCS3."
+summary: "Como configurar guitarras Fender Mustang Pro para Nintendo Wii en RPCS3."
 toc: false
 ---
 

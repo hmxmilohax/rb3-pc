@@ -20,7 +20,7 @@ Milohax es una comunidad dedicada a modificar y preservar el legado de los juego
 
 ## RBEnhanced
 
-[![RBEnhanced Logo](https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
+[![RBEnhanced Logo](https://rb3pc.milohax.org/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
 Desarrolladores del increíble mod llamado RBEnhanced. Los mismos desarrolladores también ayudan y mantienen el servidor de GoCentral que fue la manera original de jugar Rock Band 3 en linea en Xbox, PS3, y Wii por el Momento.
 

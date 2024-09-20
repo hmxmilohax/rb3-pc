@@ -1,10 +1,10 @@
 ---
-title: "PlayStation 4 Rock Band 4/Fortnite Festival Guitars"
+title: "Guitarras de Rock Band 4/Fortnite Festival para PlayStation 4"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_ps4_es
 folder: instrumentos
 tags: [ps4, guitarras, espanol]
-summary: "How to setup PS4 Rock Band guitars on RPCS3."
+summary: "Como configurar tu guitarra de RRock Band 4/Fortnite Festival para PS4 con RPCS3."
 toc: false
 ---
 
@@ -14,12 +14,12 @@ toc: false
 
 ## NOTAS:
 
-* The bindings have not been verified. If you want to help, please send us a message!
-* **Ladeo, Whammy y pickup switch WILL NOT work at all!** Botón de solos may or may not work.
-	* If you own a Riffmaster, it's suggested to purchase a solution like [[RetroCultMods' V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4)]](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-Ladeo-for) or the [[Adafruit Feather RP2040 with USB Type A Host]](https://rb3pc.milohax.org/ctrls_mod_riffada) to have whammy, Ladeo y convert it to a multiplatform guitar.
-* Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
-* PDP Riffmaster guitars require their respective dongle.  
-	![PDP Riffmaster Wireless Receiver](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
+* El mapeo no esta confirmado. Si quieres ayudar con este, mándanos un mensaje.
+* **El ladeo (tilt), la palanca de whammy y el switch de efectos no funcionan** para nada. Los botones de solo no funcionan tampoco.
+	* Si eres dueño de una Riffmaster, recomendamos comprar algo como [[Adaptador de guitarra V3 Wii CON INCLINACIÓN para Clone Hero y RB4 (Rock Band 4)]](https://www.etsy.com/mx/listing/1536358024/adaptador-de-guitarra-v3-wii-con) o una [[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]](https://rb3pc.milohax.org/ctrls_mod_riffada_es) para tener ladeo (tilt), la palanca de whammy y el switch de efectos y para convertirla a una guitarra de multi-plataforma.
+* La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
+* La PDP Riffmaster requiere su receptor propio.  
+	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:

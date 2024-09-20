@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_ps3_es
 folder: instrumentos
 tags: [ps3, guitarras, espanol]
-summary: "Como configurar Generciasters de Guitar Hero para PS3 en RPCS3."
+summary: "Como configurar tu guitarra de GH:World Tour para PC/Mac en RPCS3."
 toc: false
 ---
 
@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* **Esta guitarra es notoria por tener latencia remala.**
+* **Estas guitarras son notorias por tener latencia inestable.**
 	* Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 

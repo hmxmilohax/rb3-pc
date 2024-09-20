@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_ps3_es
 folder: instrumentos
 tags: [ps3, baterias, espanol]
-summary: "Como configurar tu batería de Guitar Hero para PlayStation 3 con RPCS3."
+summary: "Como configurar tu batería de Guitar Hero para PlayStation 3 en RPCS3."
 toc: false
 ---
 

@@ -28,9 +28,9 @@ La lista fue organizada por dificultad y compatibilidad. Cada instrumento tiene 
 
 ![Una captura de RPCS3, mostrando el cursor sobre el icono de Pads.](https://rb3pc.milohax.org/images/instruments/rpcs3pad.png "Pads")
 
-En la lista de instrumentos, haz click en la imagen del instrumento o en **"[VER MAZ]"** para ir a la pagina de tu instrumento.
+En la lista de instrumentos, haz click en la imagen del instrumento o en **"[VER MAS]"** para ir a la pagina de tu instrumento.
 
-![Una captura de la pagina listando a los instrumentos, con el cursor sobre "VER MAZ".](https://rb3pc.milohax.org/images/instruments/padclickinfo.png "Hofner de Rock Band")
+![Una captura de la pagina listando a los instrumentos, con el cursor sobre "VER MAS".](https://rb3pc.milohax.org/images/instruments/padclickinfo.png "Hofner de Rock Band")
 
 Sigue las instrucciones y configúralo todo como dice la pagina.
 

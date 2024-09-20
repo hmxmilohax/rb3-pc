@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_wii_es
 folder: instrumentos
 tags: [wii, baterias, espanol]
-summary: "Como configurar tu batería de Guitar Hero para Nintendo Wii con RPCS3."
+summary: "Como configurar tu batería de Guitar Hero para Nintendo Wii en RPCS3."
 toc: false
 ---
 

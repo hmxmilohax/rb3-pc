@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_keys_wii_es
 folder: instrumentos
 tags: [wii, midi, teclados, espanol]
-summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para Wii con RPCS3."
+summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para Wii en RPCS3."
 toc: false
 ---
 

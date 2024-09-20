@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_protar_midi_es
 folder: instrumentos
 tags: [midi, espanol]
-summary: "Como configurar guitarras Pro de Rock Band 3 con RPCS3."
+summary: "Como configurar guitarras Pro de Rock Band 3 en RPCS3."
 toc: false
 ---
 

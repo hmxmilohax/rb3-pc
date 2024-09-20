@@ -19,7 +19,7 @@ toc: false
 	* **estar en canal de MIDI 10.**
 	* **estar configurado a mapeo de GM.**  
 Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
-* D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usados. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
+* D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usadas. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
 ## Instrucciones:

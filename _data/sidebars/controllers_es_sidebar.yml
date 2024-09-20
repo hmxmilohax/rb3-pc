@@ -308,7 +308,7 @@ entries:
       output: web
       type: homepage
 
-  - title: Keyboards
+  - title: Teclados
     output: web
     folderitems:
 
@@ -337,7 +337,7 @@ entries:
       output: web
       type: homepage
 
-  - title: Pro Guitars
+  - title: Guitarras Pro
     output: web
     folderitems:
 

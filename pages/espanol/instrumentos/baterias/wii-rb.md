@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_rbdrums_wii_es
 folder: instrumentos
 tags: [wii, baterias, espanol]
-summary: "Como configurar tu batería de Rock Band para Nintendo Wii con RPCS3."
+summary: "Como configurar tu batería de Rock Band para Nintendo Wii en RPCS3."
 toc: false
 ---
 

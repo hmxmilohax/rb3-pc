@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_xbox_es
 folder: instrumentos
 tags: [xbox-one, baterias, espanol]
-summary: "Como configurar tu batería de Rock Band 4 para Xbox One con RPCS3."
+summary: "Como configurar tu batería de Rock Band 4 para Xbox One en RPCS3."
 toc: false
 ---
 

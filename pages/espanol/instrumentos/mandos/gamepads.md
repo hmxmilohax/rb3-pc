@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_pad_gen_es
 folder: instrumentos
 tags: [mandos, espanol]
-summary: "Mapeo general para mandos desconocidos con RPCS3."
+summary: "Mapeo general para mandos desconocidos en RPCS3."
 toc: false
 ---
 

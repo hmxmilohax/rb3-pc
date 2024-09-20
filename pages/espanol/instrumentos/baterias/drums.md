@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_drums_gen_es
 folder: instrumentos
 tags: [baterias, espanol]
-summary: "Mapeo general para baterías desconocidas con RPCS3."
+summary: "Mapeo general para baterías desconocidas en RPCS3."
 toc: false
 ---
 

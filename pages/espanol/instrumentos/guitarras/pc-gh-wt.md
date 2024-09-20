@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_pc_es
 folder: instrumentos
 tags: [pc, guitarras, espanol]
-summary: "How to setup PC Guitar Hero World Tour guitars on RPCS3."
+summary: "Como configurar una Les Paul de Guitar Hero para PS3 en RPCS3."
 toc: false
 ---
 
@@ -13,7 +13,7 @@ toc: false
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/ghwtcontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS:
-* **Esta guitarra es notoria por tener latencia remala.**
+* **Estas guitarra es notoria por tener latencia inestable.**
 	* Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para).
 * **ESTA GUITARRA NO ES RECOMENDADA** pero esta en esta lista por que es rara y es probable que nadie la va a usar.
 * La palanca de whammy no funciona, así que no puedes hacer algo importante en el juego.

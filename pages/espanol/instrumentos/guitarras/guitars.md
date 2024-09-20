@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_gtr_gen_es
 folder: instrumentos
 tags: [guitarras, espanol]
-summary: "Mapeo general para guitarras desconocidas con RPCS3."
+summary: "Mapeo general para guitarras desconocidas en RPCS3."
 toc: false
 ---
 

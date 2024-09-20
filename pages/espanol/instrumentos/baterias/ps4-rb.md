@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* **Platillos PRO no funcionan para nada.**
+* **Los platillos PRO no funcionan para nada.**
 * La latencia puede ser un problema dependiendo de tu receptor de Bluetooth. Puede ser difícil encontrar una calibración buena.
 * La detección de velocidad (intensidad) no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
