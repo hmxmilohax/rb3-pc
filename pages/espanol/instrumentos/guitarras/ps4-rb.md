@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_ps4_es
 folder: instrumentos
 tags: [ps4, guitarras, espanol]
-summary: "Como configurar tu guitarra de RRock Band 4/Fortnite Festival para PS4 con RPCS3."
+summary: "Como configurar tu guitarra de Rock Band 4/Fortnite Festival para PS4 en RPCS3."
 toc: false
 ---
 

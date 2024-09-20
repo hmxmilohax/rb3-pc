@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_protar_ps3_es
 folder: instrumentos
 tags: [ps3, midi, protarras, espanol]
-summary: "Como configurar guitarras Fender Mustang Pro (MIDI) para PlayStation 3 con RPCS3."
+summary: "Como configurar guitarras Fender Mustang Pro (MIDI) para PlayStation 3 en RPCS3."
 toc: false
 ---
 

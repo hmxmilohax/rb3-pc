@@ -4,7 +4,7 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_keys_ps3_es
 folder: instrumentos
 tags: [ps3, midi, teclados, espanol]
-summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para PS3 con RPCS3."
+summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para PS3 en RPCS3."
 toc: false
 ---
 
