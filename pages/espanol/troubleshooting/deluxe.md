@@ -27,7 +27,7 @@ Puedes activarla otra vez en:<br>
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#arruine-cam-de-pista">Arruina la camera de pista.</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#arruine-cam-de-pista">Arruine la camera de pista.</a>
                             </h4>
                         </div>
                         <div id="arruine-cam-de-pista" class="panel-collapse collapse">

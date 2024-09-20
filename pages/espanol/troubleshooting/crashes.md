@@ -48,7 +48,7 @@ toc: false
                         <div id="deluxe-crasheo-en-video" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Descarga Rock Band 3 Deluxe otra vez. Es posible que Github corrupto tu descarga.</li>
+<li>Descarga Rock Band 3 Deluxe otra vez. Es posible que Github corrompió tu descarga.</li>
 <li>Si estas actualizando de una versión antigua de Deluxe, es posible que tengas archivos de Rock Band 3 Deluxe incompatibles. Tienes que ir a los archivos de Rock Band 3 en <code>dev_hdd0\game\BLUS30463\USRDIR</code> para borrar los archivos <code>.dta</code>, menos el archivo de <code>dx_high_memory.dta</code>.</li>
 </ul>
                             </div>

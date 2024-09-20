@@ -1,10 +1,10 @@
 ---
-title: Misc.
+title: Otros
 sidebar: espanol_sidebar
 permalink: trbl_misc_es
 folder: espanol
 tags: [resolviendo-problemas, espanol]
-summary: "Como resolver problemas misceláneos."
+summary: "Como resolver otros problemas."
 toc: false
 ---
 

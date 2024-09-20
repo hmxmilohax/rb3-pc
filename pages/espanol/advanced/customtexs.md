@@ -1,5 +1,5 @@
 ---
-title: Add Custom Textures to Rock Band 3 Deluxe
+title: Como agregar texturas personalizadas a Rock Band 3 Deluxe
 sidebar: espanol_sidebar
 permalink: adv_customtex_es
 folder: espanol

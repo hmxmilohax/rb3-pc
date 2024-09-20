@@ -22,7 +22,7 @@ toc: false
 <li>Trata de mover la palanca de whammy o el switch de efectos en tu guitarra.</li>
 <li>Re-conecta el control.</li>
 <li>Abre el menú de "Pads" y ciérralo. Esto va a reiniciar tus controles.</li>
-<li>Desactiva "Native Interface" como dijo la guía hagas en la <a href="https://rb3pc.milohax.org/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Desactiva "Native Interface" como dijo la guía en la <a href="https://rb3pc.milohax.org/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Usa un <a href="https://rb3pc.milohax.org/ctrls_pads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
 </ul>
                             </div>
@@ -126,7 +126,7 @@ toc: false
                         </div>
                         <div id="no-cali-auto" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                La calibración automática solo funciona con las guitarras de PS3 con conexión directa.
+                                La calibración automática solo funciona con las guitarras de Rock Band 2 (o después) para PS3 con conexión directa.
                             </div>
                         </div>
                     </div>

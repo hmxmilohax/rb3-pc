@@ -4,11 +4,11 @@ sidebar: espanol_sidebar
 permalink: conclusion_es
 folder: espanol
 tags: [espanol]
-summary: "Por fin termina la guía"
+summary: "¡Por fin termina la guía!"
 toc: false
 ---
 
-Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en tu computadora. Mientras estás acá, ¿por qué no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
+¡Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en tu computadora. Mientras estás acá, ¿por qué no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
 
 ## Milohax
 
