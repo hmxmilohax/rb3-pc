@@ -1,0 +1,464 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Controllers
+  version: 
+  folders:
+
+  - title: Getting Started
+    output: web
+    folderitems:
+
+    - title: Disclaimer
+      url: /gs_disc
+      output: web
+      type: homepage
+
+    - title: Requirements
+      url: /gs_reqs
+      output: web
+      type: homepage
+
+    - title: Downloads
+      url: /gs_downloads
+      output: web
+      type: homepage
+
+    - title: Initializing
+      url: /gs_init
+      output: web
+      type: homepage
+
+    - title: User Account
+      url: /gs_user
+      output: web
+      type: homepage
+
+    - title: Quick Configuration
+      url: /gs_quick_config
+      output: web
+      type: homepage
+
+  - title: Instruments and Controllers
+    output: web
+    folderitems:
+
+    - title: Controlling Rock Band 3
+      url: /ctrls
+      output: web
+      type: homepage
+
+    - title: Mapping
+      url: /ctrls#mapping
+      output: web
+      type: homepage
+
+    - title: Profiles
+      url: /ctrls#using-profiles
+      output: web
+
+    - title: Contributing
+      url: /ctrls#contributing
+      output: web
+
+  - title: Drums
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#drums
+      output: web
+      type: homepage
+
+    - title: MIDI Drums
+      url: /ctrls_drums_midi
+      output: web
+      type: homepage
+
+    - title: "Xbox One Rock Band 4 Drums"
+      url: /ctrls_rb4drums_xbox
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Rock Band Drums
+      url: /ctrls_rbdrums_360
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Drums
+      url: /ctrls_rbdrums_wii
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Rock Band MIDI Pro Adapter Drums
+      url: /ctrls_mpadrums_360
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Rock Band MIDI Pro Adapter Drums
+      url: /ctrls_mpadrums_wii
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Drums
+      url: /ctrls_ghdrums_360
+      output: web
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Drums
+      url: /ctrls_ghdrums_ps3
+      output: web
+      type: homepage
+
+
+    - title: Nintendo Wii Guitar Hero Drums (Raphnet)
+      url: /ctrls_ghdrums_wii
+      output: web
+      type: homepage
+
+    - title: "PlayStation 4 Rock Band 4 Drums"
+      url: /ctrls_rb4drums_ps4
+      output: web
+      type: homepage
+
+    - title: Unknown Drum Controllers
+      url: /ctrls_drums_gen
+      output: web
+      type: homepage
+
+
+  - title: Guitars
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#guitars
+      output: web
+      type: homepage
+
+    - title: Xbox One Fortnite Festival Guitars
+      url: /ctrls_rb4gtr_xbox
+      output: web
+      type: homepage
+
+    - title: "Xbox One Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_xbox
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Rock Band Guitars
+      url: /ctrls_rbgtr_360
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Guitars
+      url: /ctrls_rbgtr_wii
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Guitars
+      url: /ctrls_ghgtr_360
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Guitar Hero Xplorer Guitars
+      url: /ctrls_ghxpgtr_360
+      output: web
+      type: homepage
+
+    - title: PlayStation 2 Guitar Hero SG Guitars
+      url: /ctrls_ghsggtr_ps2
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Guitar Hero Les Paul Guitars (Raphnet)
+      url: /ctrls_ghlpgtr_wii
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Guitar Hero Guitars (WiitarThing)
+      url: /ctrls_ghwtr_wii
+      output: web
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Les Paul Guitars
+      url: /ctrls_ghlpgtr_ps3
+      output: web
+      type: homepage
+
+    - title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
+      url: /ctrls_ghwtgtr_ps3
+      output: web
+      type: homepage
+
+    - title: "PC/Mac Guitar Hero World Tour Guitars"
+      url: /ctrls_ghwtgtr_pc
+      output: web
+      type: homepage
+
+    - title: PlayStation 4 Fortnite Festival Guitars
+      url: /ctrls_rb4gtr_ps4
+      output: web
+      type: homepage
+
+    - title: "PlayStation 4 Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_ps4
+      output: web
+      type: homepage
+
+    - title: Unknown Guitar Controller
+      url: /ctrls_gtr_gen
+      output: web
+      type: homepage
+
+  - title: Modded Controllers
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#modded-instruments
+      output: web
+      type: homepage
+
+    - title: Santroller Powered Custom Guitars
+      url: /ctrls_mod_santroller
+      output: web
+      type: homepage
+
+    - title: RetroCultMods V3 Wii Adapter
+      url: /ctrls_mod_rcmv3
+      output: web
+      type: homepage
+
+    - title: RetroCultMods Solderless Kit
+      url: /ctrls_mod_rcmsl
+      output: web
+      type: homepage
+
+    - title: Riffmaster (via Adafruit Feather)
+      url: /ctrls_mod_riffada
+      output: web
+      type: homepage
+
+    - title: Roll Limitless Drums
+      url: /ctrls_mod_rldrums
+      output: web
+      type: homepage
+
+    - title: Legacy Guitar Configurator Guitars
+      url: /ctrls_mod_gtrcfg
+      output: web
+      type: homepage
+
+  - title: Gamepads
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#gamepads
+      output: web
+      type: homepage
+
+    - title: Xbox One Controller
+      url: /ctrls_pad_xbox
+      output: web
+      type: homepage
+
+    - title: Xbox Series Controller
+      url: /ctrls_pad_xbox
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Controller
+      url: /ctrls_pad_360
+      output: web
+      type: homepage
+
+    - title: PC Keyboard
+      url: /ctrls_pad_pckeys
+      output: web
+      type: homepage
+
+    - title: Nintendo Switch Pro Controller
+      url: /ctrls_pad_switch
+      output: web
+      type: homepage
+
+    - title: PlayStation 5 DualSense
+      url: /ctrls_pad_dualsense
+      output: web
+      type: homepage
+
+    - title: PlayStation 4 DualShock 4
+      url: /ctrls_pad_ds4
+      output: web
+      type: homepage
+
+    - title: "PlayStation 3 DualShock 3/Sixaxis"
+      url: /ctrls_pad_ds3
+      output: web
+      type: homepage
+
+    - title: PlayStation 2 DualShock 2
+      url: /ctrls_pad_ds2
+      output: web
+      type: homepage
+
+    - title: Unknown Gamepad Controllers
+      url: /ctrls_pad_gen
+      output: web
+      type: homepage
+
+  - title: Keyboards
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#keyboards
+      output: web
+      type: homepage
+
+    - title: MIDI Keyboard
+      url: /ctrls_keys_midi
+      output: web
+      type: homepage
+
+    - title: PlayStation 3 Rock Band Wireless Keyboard
+      url: /ctrls_keys_ps3
+      output: web
+      type: homepage
+
+    - title: Xbox 360 Rock Band Wireless Keyboard
+      url: /ctrls_keys_360
+      output: web
+      type: homepage
+
+    - title: Nintendo Wii Rock Band Wireless Keyboard
+      url: /ctrls_keys_wii
+      output: web
+      type: homepage
+
+  - title: Pro Guitars
+    output: web
+    folderitems:
+
+    - title: Full List
+      url: /ctrls#pro-guitars
+      output: web
+      type: homepage
+  
+    - title: PlayStation 3 Fender Mustang
+      url: /ctrls_protar_ps3
+      output: web
+      type: homepage
+  
+    - title: Xbox 360 Rock Fender Mustang
+      url: /ctrls_protar_360
+      output: web
+      type: homepage
+  
+    - title: Nintendo Wii Fender Mustang
+      url: /ctrls_protar_wii
+      output: web
+      type: homepage
+    
+    - title: Rock Band 3 Squier Stratocaster
+      url: /ctrls_protar_midi
+      output: web
+      type: homepage
+
+  - title: Custom Configuration
+    output: web
+    folderitems:
+
+    - title: How To
+      url: /custom_config
+      output: web
+      type: homepage
+
+  - title: Online
+    output: web
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro
+      output: web
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends
+      output: web
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral
+      output: web
+      type: homepage
+
+  - title: Troubleshooting
+    output: web
+    folderitems:
+
+    - title: Common Problems
+      url: /trbl_common
+      output: web
+      type: homepage
+
+    - title: Online
+      url: /trbl_online
+      output: web
+
+    - title: Crashes
+      url: /trbl_crashes
+      output: web
+
+    - title: Audio
+      url: /trbl_audio
+      output: web
+
+    - title: Controllers
+      url: /trbl_controllers
+      output: web
+
+    - title: Deluxe
+      url: /trbl_deluxe
+      output: web
+
+    - title: Misc
+      url: /trbl_misc
+      output: web
+
+  - title: Advanced
+    output: web
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough
+      output: web
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /adv_himem
+      output: web
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
+      output: web
+
+    - title: Move Game Files
+      url: /adv_movedir
+      output: web
+
+  - title: Conclusion
+    output: web
+    folderitems:
+
+    - title: That's It!
+      url: /conclusion
+      output: web
+      type: homepage

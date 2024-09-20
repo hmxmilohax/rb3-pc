@@ -1,12 +1,11 @@
----
-layout: home
-title: Rock Band 3 on PC
-permalink: /
-cover: https://raw.githubusercontent.com/hmxmilohax/rb3-pc/main/assets/images/banners/rb3dx.png
----
+## ⚠️STOP!⚠️
 
-> * [_[English Version]_](https://rb3pc.milohax.org/english/intro/)  
-> * [_[Versión en español latino]_](https://rb3pc.milohax.org/espanol/intro/)  
-> * _Linux Version_ (N/A)  
-> * _Mac Version_ (N/A)  
-> * _SteamDeck Version_ (N/A)  
+This is the Github page meant for maintainers and contributors of this guide.
+
+If you want to view the guide, visit [[rb3pc.milohax.org]](https://rb3pc.milohax.org) instead.
+
+## ⚠️!ALTO!⚠️
+
+Esta es la pagina de Github para mantenedores y contribuyentes de la guía.
+
+Si quieres leer la guía, mejor visita [[rb3pc.milohax.org]](https://rb3pc.milohax.org).

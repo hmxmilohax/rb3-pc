@@ -1,67 +1,41 @@
-<!DOCTYPE HTML>
-<html lang="en" >
-    <head>
+---
+layout: default
+---
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
 
-        {%- include head.html -%}
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+        <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time> {% if page.author %}<span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">/ {{ page.author }}</span></span>{% endif %}{% if page.tags != null %}/
+            {% assign projectTags = site.data.tags.allowed-tags %}
+            {% for tag in page.tags %}
+            {% if projectTags contains tag %}
+            <a href="{{ "tag_" | append: tag | append: ".html"}}">{{tag}}</a>{% unless forloop.last %}, {% endunless%}
+            {% endif %}
+            {% endfor %}
+            {% endif %}
 
-        {% if page.previous %}
-            <link rel="prev" href="{{site.baseurl}}{{page.previous.url}}" />
-        {% else %}
-            <link rel="prev" href="{{site.baseurl}}/" />
+        </p>
+
+
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+
+        {% if page.summary %}
+        <div class="summary">{{page.summary}}</div>
         {% endif %}
 
-        {% if page.next %}
-            <link rel="next" href="{{site.baseurl}}{{page.next.url}}" />
-        {% endif %}
-    </head>
-    <body>
-        <div class="book">
+        {{ content }}
+    </div>
 
-            {%- include toc-date.html -%}
 
-            <div class="book-body">
-                <div class="book-header" role="navigation">
-                    <!-- Title -->
-                    <h1>
-                        <i class="fa fa-circle-o-notch fa-spin"></i>
-                        {% if page.title %}
-                            <a href="." >{{ page.title | escape }}</a>
-                        {% else %}
-                            <a href="." >{{ site.title | escape }}</a>
-                        {% endif %}
-                    </h1>
-                </div>
 
-                <div class="body-inner">
-                    {%- include body.html -%}
+</article>
 
-                    {% if page.previous %}
-                        <a href="{{site.baseurl}}{{page.previous.url}}" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{page.previous.title}}">
-                            <i class="fa fa-angle-left"></i>
-                        </a>
-                    {% else %}
-                        <a href="{{site.baseurl}}/" class="navigation navigation-prev navigation-unique" aria-label="Previous page: {{site.title}}">
-                            <i class="fa fa-angle-left"></i>
-                        </a>
-                    {% endif %}
+{% include commento.html %}
 
-                    {% if page.next %}
-                        <a href="{{site.baseurl}}{{page.next.url}}" class="navigation navigation-next navigation-unique" aria-label="Next page: {{page.next.title}}">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                    {% endif %}
-                </div>
-            </div>
+{{site.data.alerts.hr_shaded}}
 
-            <script>
-            var gitbook = gitbook || [];
-            gitbook.push(function() {
-                gitbook.page.hasChanged({%- include metadata-post.json.tpl -%});
-            });
-            </script>
-        </div>
-        {% include lazyload.html %}
-        {%- include footer.html -%}
+{% include footer.html %}
 
-    </body>
-</html>
+

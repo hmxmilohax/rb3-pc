@@ -1,79 +1,95 @@
-# Configurations
-title:            RB3 on PC
-longtitle:        Rock Band 3 on PC with RPCS3
-author:           Carl Mylo for Milohax
-email:            carl@carlmylo.com
-description: >
-  How to set up Rock Band 3 to run on a computer with RPCS3.
+repository: hmxmilohax/rb3-pc
 
-version:          1.0
-gitbook_version:  3.2.3
+output: web
+# this property is useful for conditional filtering of content that is separate from the PDF.
 
-url:              'https://hmxmilohax.github.io'
-baseurl:          '/'
-rss:              RSS
+topnav_title: Rock Band 3 Deluxe on RPCS3
+# this appears on the top navigation bar next to the home button
 
-# bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+site_title: RB3DX on PC
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
+company_name: Milohax
+# this appears in the footer
 
-# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     assets/gitbook/images/favicon.ico
+# github_editme_path: hmxmilohax/rb3-pc/blob/main/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# markdown render engine.
-markdown:         kramdown
-kramdown:
-  auto_ids:               true
-  input:                  GFM
-  math_engine:            mathjax
-  smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..6
-  syntax_highlighter:     rouge
-  syntax_highlighter_opts:
-    guess_lang:           true
+# gitlab_editme_path: 
+# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-syntax_highlighter_style: colorful
+google_analytics: 
+# if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-markdown_ext:             markdown,mkdown,mkdn,mkd,md
+host: 127.0.0.1
+# the preview server used. Leave as is.
 
-# Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
-
-# Disqus comments
-# disqushandler:            sighingnow
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
 exclude:
-  - _drafts
+  - .idea/
+  - .gitignore
+  - vendor
+# these are the files and directories that jekyll will exclude from the build
+
+feedback_subject_line: RB3DX on RPCS3 Guide
+
+feedback_email: carl@carlmylo.com
+# used as a contact email for the Feedback link in the top navigation bar
+
+feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+#feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
+
+#feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
+
+highlighter: rouge
+# library used for syntax highlighting
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
+
+# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
 collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
+  tooltips:
+    output: false
+# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
-  english:
-    output: true
-    permalink: /:collection/:path/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "page"
+      comments: false
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: 
 
-  espanol:
-    output: true
-    permalink: /:collection/:path/
+# these are defaults used for the frontmatter for these file types
 
-  instruments:
-    output: true
-    permalink: /:collection/:path/
+sidebars:
+- english_sidebar
+- espanol_sidebar
+- controllers_es_sidebar
+- controllers_sidebar
+
+description: "A guide for how to play Rock Band 3 on RPCS3."
+# the description is used in the feed.xml file
+
+# needed for sitemap.xml file only
+url: https://hmxmilohax.github.io
+baseurl: /
 
 
-page_width: 800px
-
-destination:      ./_site
-incremental:      false
-regenerate:       true
-
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+github: [metadata]

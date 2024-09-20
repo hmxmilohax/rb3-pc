@@ -1,0 +1,467 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Controles
+  version: 
+  folders:
+
+  - title: Empezando
+    output: web
+    folderitems:
+
+    - title: Advertencias
+      url: /gs_disc_es
+      output: web
+      type: homepage
+
+    - title: Requisitos
+      url: /gs_reqs_es
+      output: web
+      type: homepage
+
+    - title: Descargas
+      url: /gs_downloads_es
+      output: web
+      type: homepage
+
+    - title: Iniciando
+      url: /gs_init_es
+      output: web
+      type: homepage
+
+    - title: Cuenta De Usuario
+      url: /gs_user_es
+      output: web
+      type: homepage
+
+    - title: Configuración Rápida
+      url: /gs_quick_config_es
+      output: web
+      type: homepage
+
+  - title: Instrumentos y Controles
+    output: web
+    folderitems:
+
+    - title: Controlando a Rock Band 3
+      url: /ctrls_es
+      output: web
+      type: homepage
+
+    - title: Mapeando
+      url: /ctrls_es#mapeando
+      output: web
+
+    - title: Usando perfiles
+      url: /ctrls_es#usando-perfiles
+      output: web
+
+    - title: Contribuyendo
+      url: /ctrls_es#contribuyendo
+      output: web
+
+  - title: Baterías
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#baterías
+      output: web
+      type: homepage
+
+    - title: Batería MIDI
+      url: /ctrls_drums_midi_es
+      output: web
+      type: homepage
+
+    - title: "Batería de Rock Band 4 para Xbox One"
+      url: /ctrls_rb4drums_xbox_es
+      output: web
+      type: homepage
+
+    - title: Batería de Rock Band para Xbox 360
+      url: /ctrls_rbdrums_360_es
+      output: web
+      type: homepage
+
+    - title: Batería de Rock Band para Nintendo Wii
+      url: /ctrls_rbdrums_wii_es
+      output: web
+      type: homepage
+
+    - title: Batería por adaptador MIDI Pro para Xbox 360
+      url: /ctrls_mpadrums_360_es
+      output: web
+      type: homepage
+
+    - title: Batería por adaptador MIDI Pro para Nintendo Wii
+      url: /ctrls_mpadrums_wii_es
+      output: web
+      type: homepage
+
+    - title: Batería de Guitar Hero para Xbox 360
+      url: /ctrls_ghdrums_360_es
+      output: web
+      type: homepage
+
+    - title: Batería de Guitar Hero para PlayStation 3
+      url: /ctrls_ghdrums_ps3_es
+      output: web
+      type: homepage
+
+    - title: Batería de Guitar Hero para Nintendo Wii (Raphnet)
+      url: /ctrls_ghdrums_wii_es
+      output: web
+      type: homepage
+
+    - title: "Batería de Rock Band 4 para PlayStation 4"
+      url: /ctrls_rb4drums_ps4_es
+      output: web
+      type: homepage
+
+    - title: Baterías Desconocidas
+      url: /ctrls_drums_gen_es
+      output: web
+      type: homepage
+
+
+  - title: Guitarras
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#guitarra
+      output: web
+      type: homepage
+
+    - title: Guitarras de Fortnite Festival para Xbox One
+      url: /ctrls_rb4gtr_xbox_es
+      output: web
+      type: homepage
+
+    - title: "Guitarras de Rock Band 4 para Xbox One"
+      url: /ctrls_rb4gtr_xbox_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de Rock Band para Xbox 360
+      url: /ctrls_rbgtr_360_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de Rock Band para Nintendo Wii
+      url: /ctrls_rbgtr_wii_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de Guitar Hero para Xbox 360
+      url: /ctrls_ghgtr_360
+      output: web
+      type: homepage
+
+    - title: Guitarra Xplorer de Guitar Hero para Xbox 360
+      url: /ctrls_ghxpgtr_360_es
+      output: web
+      type: homepage
+
+    - title: Guitarra SG de Guitar Hero para PlayStation 2
+      url: /ctrls_ghsggtr_ps2_es
+      output: web
+      type: homepage
+
+    - title: Guitarra Les Paul de Guitar Hero para Nintendo Wii (Raphnet)
+      url: /ctrls_ghlpgtr_wii_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de Guitar Hero para Nintendo Wii (WiitarThing)
+      url: /ctrls_ghwtr_wii_es
+      output: web
+      type: homepage
+
+    - title: Guitarra Les Paul de Guitar Hero para PlayStation 3
+      url: /ctrls_ghlpgtr_ps3_es
+      output: web
+      type: homepage
+
+    - title: Guitarras de GH:World Tour y despues para PlayStation 3
+      url: /ctrls_ghwtgtr_ps3
+      output: web
+      type: homepage
+
+    - title: "Guitarra de World Tour para PC/Mac"
+      url: /ctrls_ghwtgtr_pc_es
+      output: web
+      type: homepage
+
+    - title: Guitarra de Fortnite Festival para PlayStation 4
+      url: /ctrls_rb4gtr_ps4_es
+      output: web
+      type: homepage
+
+    - title: "Guitarra de Rock Band 4 para PlayStation 4"
+      url: /ctrls_rb4gtr_ps4_es
+      output: web
+      type: homepage
+
+    - title: Guitarras Desconocidas
+      url: /ctrls_gtr_gen_es
+      output: web
+      type: homepage
+
+  - title: Controles Modeados
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#instrumentos-modeados
+      output: web
+      type: homepage
+
+    - title: Guittaras con Santroller
+      url: /ctrls_mod_santroller_es
+      output: web
+      type: homepage
+
+    - title: Adaptador V3 de Wii RetroCultMods
+      url: /ctrls_mod_rcmv3_es
+      output: web
+      type: homepage
+
+    - title: Kit SIN SOLDADURA de RetroCultMods
+      url: /ctrls_mod_rcmsl_es
+      output: web
+      type: homepage
+
+    - title: Riffmaster (con Adafruit Feather)
+      url: /ctrls_mod_riffada_es
+      output: web
+      type: homepage
+
+    - title: Batería con Roll Limitless
+      url: /ctrls_mod_rldrums_es
+      output: web
+      type: homepage
+
+    - title: Guitarras con Legacy Guitar Configurator
+      url: /ctrls_mod_gtrcfg_es
+      output: web
+      type: homepage
+
+  - title: Mandos
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#mandos
+      output: web
+      type: homepage
+
+    - title: Mando de Xbox One
+      url: /ctrls_pad_xbox_es
+      output: web
+      type: homepage
+
+    - title: Mando de Xbox Series
+      url: /ctrls_pad_xbox_es
+      output: web
+      type: homepage
+
+    - title: Mando de Xbox 360
+      url: /ctrls_pad_360_es
+      output: web
+      type: homepage
+
+    - title: Teclado PC
+      url: /ctrls_pad_pckeys_es
+      output: web
+      type: homepage
+
+    - title: Mando de Nintendo Switch Pro
+      url: /ctrls_pad_switch_es
+      output: web
+      type: homepage
+
+    - title: DualSense de PlayStation 5
+      url: /ctrls_pad_dualsense_es
+      output: web
+      type: homepage
+
+    - title: DualShock 4 de PlayStation 4
+      url: /ctrls_pad_ds4_es
+      output: web
+      type: homepage
+
+    - title: "DualShock 3/Sixaxis de PlayStation 3"
+      url: /ctrls_pad_ds3_es
+      output: web
+      type: homepage
+
+    - title: DualShock 2 de PlayStation 2
+      url: /ctrls_pad_ds2_es
+      output: web
+      type: homepage
+
+    - title: Mandos Desconocidos
+      url: /ctrls_pad_gen_es
+      output: web
+      type: homepage
+
+  - title: Keyboards
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#teclado
+      output: web
+      type: homepage
+
+    - title: Teclado MIDI
+      url: /ctrls_keys_midi_es
+      output: web
+      type: homepage
+
+    - title: Teclado inalambrico de Rock Band para PlayStation 3
+      url: /ctrls_keys_ps3_es
+      output: web
+      type: homepage
+
+    - title: Teclado inalambrico de Rock Band para Xbox 360
+      url: /ctrls_keys_360_es
+      output: web
+      type: homepage
+
+    - title: Teclado inalambrico de Rock Band para Nintendo Wii
+      url: /ctrls_keys_wii_es
+      output: web
+      type: homepage
+
+  - title: Pro Guitars
+    output: web
+    folderitems:
+
+    - title: Lista Completa
+      url: /ctrls_es#guitarras-pro
+      output: web
+      type: homepage
+  
+    - title: Fender Mustang para PlayStation 3
+      url: /ctrls_protar_ps3_es
+      output: web
+      type: homepage
+  
+    - title: Fender Mustang para Xbox 360
+      url: /ctrls_protar_360_es
+      output: web
+      type: homepage
+  
+    - title: Fender Mustang para Nintendo Wii
+      url: /ctrls_protar_wii_es
+      output: web
+      type: homepage
+    
+    - title: Squier Stratocaster de Rock Band 3
+      url: /ctrls_protar_midi_es
+      output: web
+      type: homepage
+
+  - title: Configuración Personalizada
+    output: web
+    folderitems:
+
+    - title: Introducción
+      url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Configuración Personalizada
+      url: /custom_config_es#configuración-personalizada
+      output: web
+      type: homepage
+
+  - title: Jugando en linea
+    output: web
+    folderitems:
+
+    - title: RPCN - Empezando
+      url: /rpcn_intro_es
+      output: web
+      type: homepage
+
+    - title: RPCN - Administrando Amigos
+      url: /rpcn_friends_es
+      output: web
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral_es
+      output: web
+      type: homepage
+
+  - title: Problemas y soluciones
+    output: web
+    folderitems:
+
+    - title: Problemas comunes
+      url: /trbl_common_es
+      output: web
+      type: homepage
+
+    - title: Internet
+      url: /trbl_online_es
+      output: web
+
+    - title: Crasheos
+      url: /trbl_crashes_es
+      output: web
+
+    - title: Sonido
+      url: /trbl_audio_es
+      output: web
+
+    - title: Controles
+      url: /trbl_controllers_es
+      output: web
+
+    - title: Deluxe
+      url: /trbl_deluxe_es
+      output: web
+
+    - title: Misc
+      url: /trbl_misc_es
+      output: web
+
+  - title: Adicional
+    output: web
+    folderitems:
+
+    - title: Conexión Directa
+      url: /adv_passthrough_es
+      output: web
+      type: homepage
+
+    - title: Agregar mas memoria
+      url: /adv_himem_es
+      output: web
+
+    - title: Agregar canciones
+      url: /adv_customsongs_es
+      output: web
+
+    - title: Mover archivos de el juego
+      url: /adv_movedir_es
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex_es
+      output: web
+
+  - title: Conclusion
+    output: web
+    folderitems:
+
+    - title: Eso es todo
+      url: /conclusion_es
+      output: web
+      type: homepage

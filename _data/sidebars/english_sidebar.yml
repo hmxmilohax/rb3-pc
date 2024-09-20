@@ -1,0 +1,187 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Guide
+  version: 
+  folders:
+
+  - title: Getting Started
+    output: web
+    folderitems:
+
+    - title: Disclaimer
+      url: /gs_disc
+      output: web
+      type: homepage
+
+    - title: Requirements
+      url: /gs_reqs
+      output: web
+      type: homepage
+
+    - title: Downloads
+      url: /gs_downloads
+      output: web
+      type: homepage
+
+    - title: Initializing
+      url: /gs_init
+      output: web
+      type: homepage
+
+    - title: User Account
+      url: /gs_user
+      output: web
+      type: homepage
+
+    - title: Quick Configuration
+      url: /gs_quick_config
+      output: web
+      type: homepage
+
+  - title: Instruments and Controllers
+    output: web
+    folderitems:
+
+    - title: Controlling Rock Band 3
+      url: /ctrls
+      output: web
+      type: homepage
+
+    - title: Mapping
+      url: /ctrls#mapping
+      output: web
+      type: homepage
+
+    - title: Drums
+      url: /ctrls#drums
+      output: web
+
+    - title: Guitars
+      url: /ctrls#guitars
+      output: web
+
+    - title: Modded Controllers
+      url: /ctrls#modded-instruments
+      output: web
+
+    - title: Gamepads
+      url: /ctrls#gamepads
+      output: web
+
+    - title: Keyboards
+      url: /ctrls#keyboards
+      output: web
+
+    - title: Pro Guitars
+      url: /ctrls#pro-guitars
+      output: web
+
+    - title: Profiles
+      url: /ctrls#using-profiles
+      output: web
+
+    - title: Contributing
+      url: /ctrls#contributing
+      output: web
+
+  - title: Custom Configuration
+    output: web
+    folderitems:
+
+    - title: Creating a Custom Configuration
+      url: /custom_config
+      output: web
+      type: homepage
+
+    - title: What to adjust
+      url: /custom_config#custom-configuration
+      output: web
+      type: homepage
+
+  - title: Online
+    output: web
+    folderitems:
+
+    - title: RPCN - Getting Started
+      url: /rpcn_intro
+      output: web
+      type: homepage
+
+    - title: RPCN - Managing Friends
+      url: /rpcn_friends
+      output: web
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral
+      output: web
+      type: homepage
+
+  - title: Troubleshooting
+    output: web
+    folderitems:
+
+    - title: Common Problems
+      url: /trbl_common
+      output: web
+      type: homepage
+
+    - title: Online
+      url: /trbl_online
+      output: web
+
+    - title: Crashes
+      url: /trbl_crashes
+      output: web
+
+    - title: Audio
+      url: /trbl_audio
+      output: web
+
+    - title: Controllers
+      url: /trbl_controllers
+      output: web
+
+    - title: Deluxe
+      url: /trbl_deluxe
+      output: web
+
+    - title: Misc
+      url: /trbl_misc
+      output: web
+
+  - title: Advanced
+    output: web
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough
+      output: web
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /adv_himem
+      output: web
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
+      output: web
+
+    - title: Move Game Files
+      url: /adv_movedir
+      output: web
+
+  - title: Conclusion
+    output: web
+    folderitems:
+
+    - title: That's It!
+      url: /conclusion
+      output: web
+      type: homepage

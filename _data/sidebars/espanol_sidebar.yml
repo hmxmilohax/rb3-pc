@@ -1,0 +1,186 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Guía
+  version: 
+  folders:
+
+  - title: Empezando
+    output: web
+    folderitems:
+
+    - title: Advertencias
+      url: /gs_disc_es
+      output: web
+      type: homepage
+
+    - title: Requisitos
+      url: /gs_reqs_es
+      output: web
+      type: homepage
+
+    - title: Descargas
+      url: /gs_downloads_es
+      output: web
+      type: homepage
+
+    - title: Iniciando
+      url: /gs_init_es
+      output: web
+      type: homepage
+
+    - title: Cuenta De Usuario
+      url: /gs_user_es
+      output: web
+      type: homepage
+
+    - title: Configuración Rápida
+      url: /gs_quick_config_es
+      output: web
+      type: homepage
+
+  - title: Instrumentos y Controles
+    output: web
+    folderitems:
+
+    - title: Controlando a Rock Band 3
+      url: /ctrls_es
+      output: web
+      type: homepage
+
+    - title: Mapeando
+      url: /ctrls_es#mapeando
+      output: web
+
+    - title: Baterías
+      url: /ctrls_es#baterías
+      output: web
+
+    - title: Guitarras
+      url: /ctrls_es#guitarra
+      output: web
+
+    - title: Controles Modeados
+      url: /ctrls_es#instrumentos-modeados
+      output: web
+
+    - title: Mandos
+      url: /ctrls_es#mandos
+      output: web
+
+    - title: Teclados
+      url: /ctrls_es#teclado
+      output: web
+
+    - title: Guitarras Pro
+      url: /ctrls_es#guitarras-pro
+      output: web
+
+    - title: Usando perfiles
+      url: /ctrls_es#usando-perfiles
+      output: web
+
+    - title: Contribuyendo
+      url: /ctrls_es#contribuyendo
+      output: web
+
+  - title: Configuración Personalizada
+    output: web
+    folderitems:
+
+    - title: Introducción
+      url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Configuración Personalizada
+      url: /custom_config_es#configuración-personalizada
+      output: web
+      type: homepage
+
+  - title: Jugando en linea
+    output: web
+    folderitems:
+
+    - title: RPCN - Empezando
+      url: /rpcn_intro_es
+      output: web
+      type: homepage
+
+    - title: RPCN - Administrando Amigos
+      url: /rpcn_friends_es
+      output: web
+      type: homepage
+
+    - title: GoCentral
+      url: /gocentral_es
+      output: web
+      type: homepage
+
+  - title: Problemas y soluciones
+    output: web
+    folderitems:
+
+    - title: Problemas comunes
+      url: /trbl_common_es
+      output: web
+      type: homepage
+
+    - title: Internet
+      url: /trbl_online_es
+      output: web
+
+    - title: Crasheos
+      url: /trbl_crashes_es
+      output: web
+
+    - title: Sonido
+      url: /trbl_audio_es
+      output: web
+
+    - title: Controles
+      url: /trbl_controllers_es
+      output: web
+
+    - title: Deluxe
+      url: /trbl_deluxe_es
+      output: web
+
+    - title: Misc
+      url: /trbl_misc_es
+      output: web
+
+  - title: Adicional
+    output: web
+    folderitems:
+
+    - title: Conexión Directa
+      url: /adv_passthrough_es
+      output: web
+      type: homepage
+
+    - title: Agregar mas memoria
+      url: /adv_himem_es
+      output: web
+
+    - title: Agregar canciones
+      url: /adv_customsongs_es
+      output: web
+
+    - title: Mover archivos de el juego
+      url: /adv_movedir_es
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex_es
+      output: web
+
+  - title: Conclusion
+    output: web
+    folderitems:
+
+    - title: Eso es todo
+      url: /conclusion_es
+      output: web
+      type: homepage

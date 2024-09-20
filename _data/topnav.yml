@@ -1,0 +1,28 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: lang_en
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Idioma
+      folderitems:
+        - title: Ingles
+          url: /gs_disc.html
+        - title: Español
+          url: /gs_disc_es.html
+
+topnav:
+- title: lang_en
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Language
+      folderitems:
+        - title: English
+          url: /gs_disc.html
+        - title: Spanish
+          url: /gs_disc_es.html
+
+
+# 
