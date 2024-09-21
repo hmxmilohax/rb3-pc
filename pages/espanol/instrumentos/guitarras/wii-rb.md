@@ -3,7 +3,7 @@ title: Guitarras de Rock Band Nintendo Wii
 sidebar: controllers_es_sidebar
 permalink: ctrls_rbgtr_wii_es
 folder: instrumentos
-tags: [wii, guitarras, espanol]
+tags: [wii-es, guitarras, espanol]
 summary: "Como configurar guitarras de Rock Band para Wii en RPCS3."
 toc: false
 ---

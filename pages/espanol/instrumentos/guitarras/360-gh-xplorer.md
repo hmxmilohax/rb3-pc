@@ -3,7 +3,7 @@ title: Xplorers de Guitar Hero para Xbox 360
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghxpgtr_360_es
 folder: instrumentos
-tags: [xbox-360, guitarras, espanol]
+tags: [xbox-360-es, guitarras, espanol]
 summary: "Como configurar Xplorers de Guitar Hero para Xbox 360 en RPCS3."
 toc: false
 ---

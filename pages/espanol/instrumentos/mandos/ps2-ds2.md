@@ -3,7 +3,7 @@ title: DualShock 2 de PlayStation 2
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds2_es
 folder: instrumentos
-tags: [ps2, mandos, espanol]
+tags: [ps2-es, mandos, espanol]
 summary: "Como configurar mandos DualShock 2 para PS2 en RPCS3."
 toc: false
 ---

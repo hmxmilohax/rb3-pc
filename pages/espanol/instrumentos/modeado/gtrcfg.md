@@ -1,10 +1,10 @@
 ---
-title: Legacy Guitar Configurator Guitars
+title: Guitarra con Guitar Configurator (Obsoleto)
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_gtrcfg_es
 folder: instrumentos
-tags: [modeado, espanol]
-summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
+tags: [modeado, guitarras, espanol]
+summary: "Como configurar tu guitarra usando Guitar Configurator en RPCS3."
 toc: false
 ---
 

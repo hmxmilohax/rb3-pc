@@ -3,7 +3,7 @@ title: Teclado de Rock Band 3 para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_keys_ps3_es
 folder: instrumentos
-tags: [ps3, midi, teclados, espanol]
+tags: [ps3-es, midi-es, teclados, espanol]
 summary: "Como conectar y configurar teclados de RB3 (en modo MIDI) para PS3 en RPCS3."
 toc: false
 ---

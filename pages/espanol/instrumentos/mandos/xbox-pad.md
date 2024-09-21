@@ -3,7 +3,7 @@ title: "Mando de Xbox One/Series"
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_xbox_es
 folder: instrumentos
-tags: [xbox-360, xbox-series, mandos, espanol]
+tags: [xbox-one-es, mandos, espanol]
 summary: "Como configurar mandos de Xbox en RPCS3."
 toc: false
 ---

@@ -3,7 +3,7 @@ title: Batería MIDI
 sidebar: controllers_es_sidebar
 permalink: ctrls_drums_midi_es
 folder: instrumentos
-tags: [midi, baterias, espanol]
+tags: [midi-es, baterias, espanol]
 summary: "Como configurar una batería MIDI en RPCS3."
 toc: false
 ---

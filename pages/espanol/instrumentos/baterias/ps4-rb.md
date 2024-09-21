@@ -3,7 +3,7 @@ title: "Batería de Rock Band 4 para PlayStation 4"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4drums_ps4_es
 folder: instrumentos
-tags: [ps4, baterias, espanol]
+tags: [ps4-es, baterias, espanol]
 summary: "Como configurar tu batería de Rock Band 4 para PlayStation 4 en RPCS3."
 toc: false
 ---

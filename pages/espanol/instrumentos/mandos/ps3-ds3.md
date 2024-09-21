@@ -3,7 +3,7 @@ title: DualShock 3/SixAxis de PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds3_es
 folder: instrumentos
-tags: [ps3, mandos, espanol]
+tags: [ps3-es, mandos, espanol]
 summary: "Como configurar mandos DualShock 3 y SixAxis de PS3 en RPCS3."
 toc: false
 ---

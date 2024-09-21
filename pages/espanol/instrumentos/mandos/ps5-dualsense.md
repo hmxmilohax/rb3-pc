@@ -3,7 +3,7 @@ title: DualSense de PlayStation 5
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_dualsense_es
 folder: instrumentos
-tags: [ps5, mandos, espanol]
+tags: [ps5-es, mandos, espanol]
 summary: "Como configurar mandos DualSense de PS5 en RPCS3."
 toc: false
 ---

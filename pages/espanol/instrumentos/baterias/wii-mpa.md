@@ -3,7 +3,7 @@ title: Batería por adaptador MIDI Pro para Nintendo Wii
 sidebar: controllers_es_sidebar
 permalink: ctrls_mpadrums_wii_es
 folder: instrumentos
-tags: [wii, baterias, espanol]
+tags: [wii-es, baterias, espanol]
 summary: "Como configurar tu batería conectada a un MPA para Nintendo Wii en RPCS3."
 toc: false
 ---

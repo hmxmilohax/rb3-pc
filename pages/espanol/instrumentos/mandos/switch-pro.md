@@ -3,7 +3,7 @@ title: Mando Pro de Nintendo Switch
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_switch_es
 folder: instrumentos
-tags: [switch, mandos, espanol]
+tags: [switch-es, mandos, espanol]
 summary: "Como configurar mandos Pro de Switch en RPCS3."
 toc: false
 ---

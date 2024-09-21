@@ -3,7 +3,7 @@ title: Genericasters de GH (World Tour y despues) para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_ps3_es
 folder: instrumentos
-tags: [ps3, guitarras, espanol]
+tags: [ps3-es, guitarras, espanol]
 summary: "Como configurar tu guitarra de GH:World Tour para PC/Mac en RPCS3."
 toc: false
 ---

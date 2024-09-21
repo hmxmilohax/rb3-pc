@@ -1,9 +1,9 @@
 ---
-title: Guitarra Riffmaster (por Adafruit Feather)
+title: Guitarra Riffmaster con Adafruit Feather
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_riffada_es
 folder: instrumentos
-tags: [guitarras, modeado, espanol]
+tags: [modeado, guitarras, espanol]
 summary: "Como configurar tu guitarra de Riffmaster conectada con una Adafruit Feather en RPCS3."
 toc: false
 ---

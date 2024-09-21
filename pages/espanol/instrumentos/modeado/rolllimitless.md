@@ -1,10 +1,10 @@
 ---
-title: Roll Limitless Drums
+title: Baterías con Roll Limitless
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rldrums_es
 folder: instrumentos
-tags: [modeado, espanol]
-summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
+tags: [modeado, baterias, espanol]
+summary: "Como configurar tu batería con un Roll Limitless en RPCS3."
 toc: false
 ---
 

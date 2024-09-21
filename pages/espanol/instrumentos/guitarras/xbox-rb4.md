@@ -3,7 +3,7 @@ title: "Guitarras de Rock Band 4/Fortnite Festival para Xbox One"
 sidebar: controllers_es_sidebar
 permalink: ctrls_rb4gtr_xbox_es
 folder: instrumentos
-tags: [xbox-one, guitarras, espanol]
+tags: [xbox-one-es, guitarras, espanol]
 summary: "Como configurar tu guitarra de Rock Band 4/Fortnite Festival para Xbox One con RPCS3."
 toc: false
 ---

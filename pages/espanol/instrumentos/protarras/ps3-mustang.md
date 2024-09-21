@@ -3,7 +3,7 @@ title: Guitarra Pro Fender Mustang de Rock Band 3 para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_protar_ps3_es
 folder: instrumentos
-tags: [ps3, midi, protarras, espanol]
+tags: [ps3-es, midi-es, protarras, espanol]
 summary: "Como configurar guitarras Fender Mustang Pro (MIDI) para PlayStation 3 en RPCS3."
 toc: false
 ---

@@ -3,7 +3,7 @@ title: Guitarras de Guitar Hero para Nintendo Wii (WiitarThing)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtr_wii_es
 folder: instrumentos
-tags: [wii, guitarras, espanol]
+tags: [wii-es, guitarras, espanol]
 summary: "Como configurar guitarras de Guitar Hero con WiitarThing para Wii en RPCS3."
 toc: false
 ---

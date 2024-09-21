@@ -3,7 +3,7 @@ title: Batería de Guitar Hero para Nintendo Wii (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghdrums_wii_es
 folder: instrumentos
-tags: [wii, baterias, espanol]
+tags: [wii-es, baterias, espanol]
 summary: "Como configurar tu batería de Guitar Hero para Nintendo Wii en RPCS3."
 toc: false
 ---

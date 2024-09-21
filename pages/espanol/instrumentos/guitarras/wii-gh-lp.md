@@ -3,7 +3,7 @@ title: Les Paul de Guitar Hero para Nintendo Wii (Raphnet)
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghlpgtr_wii_es
 folder: instrumentos
-tags: [wii, guitarras, espanol]
+tags: [wii-es, guitarras, espanol]
 summary: "Como configurar una Les Paul de Guitar Hero para Wii en RPCS3."
 toc: false
 ---

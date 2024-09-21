@@ -3,7 +3,7 @@ title: PC Keyboard
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_pckeys_es
 folder: instrumentos
-tags: [pc, mandos, espanol]
+tags: [pc-es, mandos, espanol]
 summary: "Como configurar teclados de PC en RPCS3."
 toc: false
 ---

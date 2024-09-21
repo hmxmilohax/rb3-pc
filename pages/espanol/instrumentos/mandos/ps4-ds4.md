@@ -3,7 +3,7 @@ title: DualShock 4 de PlayStation 4
 sidebar: controllers_es_sidebar
 permalink: ctrls_pad_ds4_es
 folder: instrumentos
-tags: [ps4, mandos, espanol]
+tags: [ps4-es, mandos, espanol]
 summary: "Como configurar mandos DualShock 4 de PS4 en RPCS3."
 toc: false
 ---

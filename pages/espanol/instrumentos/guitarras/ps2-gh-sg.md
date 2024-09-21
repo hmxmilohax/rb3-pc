@@ -3,7 +3,7 @@ title: "Gibson SG de Guitar Hero para PlayStation 2"
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghsggtr_ps2_es
 folder: instrumentos
-tags: [ps2, guitarras, espanol]
+tags: [ps2-es, guitarras, espanol]
 summary: "Como configurar SGs de Guitar Hero para PS2 en RPCS3."
 toc: false
 ---

@@ -3,7 +3,7 @@ title: Les Paul de Guitar Hero para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghlpgtr_ps3_es
 folder: instrumentos
-tags: [ps3, guitarras, espanol]
+tags: [ps3-es, guitarras, espanol]
 summary: "Como configurar una Les Paul de Guitar Hero para PS3 en RPCS3."
 toc: false
 ---

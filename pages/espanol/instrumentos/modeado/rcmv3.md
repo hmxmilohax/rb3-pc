@@ -1,10 +1,10 @@
 ---
-title: RetroCultMods V3 Wii Adapter Guitars
+title: Adaptador de Guitarra V3 por RetroCultMods
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rcmv3_es
 folder: instrumentos
-tags: [modeado, espanol]
-summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
+tags: [modeado, guitarras, espanol]
+summary: "Como configurar tu guitarra conectada con un adaptador de Guitarra V3 por RetroCultMods en RPCS3."
 toc: false
 ---
 

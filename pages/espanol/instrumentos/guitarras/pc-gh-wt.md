@@ -3,7 +3,7 @@ title: "Guitarras de GH:World Tour para PC/Mac"
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_pc_es
 folder: instrumentos
-tags: [pc, guitarras, espanol]
+tags: [pc-es, guitarras, espanol]
 summary: "Como configurar una Les Paul de Guitar Hero para PS3 en RPCS3."
 toc: false
 ---
