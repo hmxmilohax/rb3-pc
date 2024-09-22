@@ -13,18 +13,18 @@ You can eliminate 99% of guitar teleportation bugs by installing a work-in-progr
 
 ![The rb3_ps3_guitar_glitch_fix.7z archive in a browser's download tray.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchfldr.png "rb3_ps3_guitar_glitch_fix.7z")
 
-Extract the rb3_ps3_guitar_glitch_fix.7z archive. Move this window to the right and leave it open.
+Extract the `rb3_ps3_guitar_glitch_fix.7z` archive. Move this window to the right and leave it open.
 
 ![rb3_ps3_guitar_glitch_fix.7z being extracted.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchextr.png "rb3_ps3_guitar_glitch_fix.7z")
 
-Next, open a new file browser window and move it to the left. Go to where your game's disc folder is located.  
-If you followed the guide, it should be within the `C:\RPCS3\games\` folder as `Rock Band 3 [BLUS30463]`.
+Next, go to where your game's disc folder is located.  
+The quickest way to get there is to right click Rock Band 3 in RPCS3 and go to `Open Folder > Open Disc Game Folder`. Move this window to the left.
 
-![A screenshot of the "games" in RPCS3's folder being highlighted.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchgames.png "games")
+![A RPCS3 with Open Disc Game Folder, within the Open Folder menu, highlighted and with a cursor over it.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/patchgames.png "RPCS3")
 
 After that:
-1. Click into the `Rock Band 3 [BLUS30463]` folder and go into `PS3_GAME > USRDIR` on the left window.  
-2. Go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
+1. Go into `PS3_GAME > USRDIR` on the left window.  
+2. On the right window, go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
 3. You should see `gen` in both file browser windows.
 4. Drag the `gen` folder from the right `rb3_ps3_guitar_glitch_fix` folder to the left `USRDIR` folder.  
 5. Click `Replace the file in the destination` when prompted.

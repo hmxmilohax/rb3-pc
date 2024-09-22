@@ -46,8 +46,8 @@ Use Right Click to unmap a button.
 |:------------------:|:---------------------:|
 | Cross | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") |
 | Circle | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") |
-| Triangle | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") |
+| Square | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") |
+| Triangle | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") |
 | L1 | ![Orange Fret](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Orange Fret") |
 | D-Pad: Up | ![Strumbar Up](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Strumbar Up") |
 | D-Pad: Down | ![Strumbar Down](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Strumbar Down") |
