@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_mod_riffada
 folder: instruments
 tags: [guitars, modded, english]
-summary: "How to connect and configure Xbox 360 Wireless keyboards (MIDI) on RPCS3."
+summary: "How to connect and configure a Riffmaster connected with a Feather on RPCS3."
 toc: false
 ---
 

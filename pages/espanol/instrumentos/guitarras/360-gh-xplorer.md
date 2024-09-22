@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* Este control requiere configuración avanzada..
+* Este control requiere configuración avanzada.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:
@@ -30,7 +30,8 @@ toc: false
 ### Mapeo:
 
 * Para la mejor experiencia::
-	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos” y ábrelo.
+	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos” y ábrelo.  
+	![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
 	2. Selecciona a “Guitar Hero X-plorer” y entra a “Propiedades”.
 	3. Entra a la pestaña de “Configuración”.
 	4. Sostén la guitarra en un angulo de 45 grados.

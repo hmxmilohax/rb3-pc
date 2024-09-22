@@ -14,23 +14,40 @@ toc: false
 
 ## NOTAS:
 
-* Este control requiere configuración avanzada..
+* Este control requiere configuración avanzada.
 * La detección de velocidad (intensidad) no funciona.
 
 #### Configuración Adicional:
-1. Put the Roll Limitless Adapter in firmware updating mode. To do this, press and hold the rectangular button on the top of the adapter, near the micro USB port.
-2. Plug it into your computer while keeping the button held. If done successfully, the Roll Limitless will show up as a removable drive.
-3. [[Download the latest universal firmware for the Roll Limitless from the official website]](https://rolllimitless.com/firmwares/).
-4. Place the firmware file on the Roll Limitless device while it's in firmware updating mode (showing up as a removable drive). When it completes, safely remove the device.
-5. Plug the Roll Limitless adapter back into your computer while holding down the round Start button.
-6. Verify that Windows has detected the Roll Limitless adapter by searching for `joy.cpl` in the Start menu. It should show up in the list.
-7. If it shows up, it's ready to go. If not, make sure you're plugging it in while holding down the round Start button.
+1. Pon el adaptador Roll Limitless en modo de actualizar firmware. Necesitas presionar y sostener el botón rectangular que esta mas cercas al puerto de micro USB arriba del adaptador.  
+![Una imagen del adaptador Roll Limitless, con el botón de firmware circulado en rojo.](https://rb3pc.milohax.org/images/instruments/xtra/rolllimitless/fwbutton.png "Botón de firmware Roll Limitless")
+2. Sigue sosteniendo el botón mientras conectas el adaptador a tu computadora.
+3. [[Descarga la firmware "Universal" actual desde el sitio oficial de Roll Limitless]](https://rolllimitless.com/firmwares/).
+4. Coloca el archivo de firmware en el adaptador mientras esta en modo de actualizar (se mira como un disco extraíble.) Cuando termine de transferir, quita el adaptador de la computadora **seguramente**.
+5. Conecta el adaptador de vuelta a la computadora pero, esta vez, presiona y sostén el botón de inicio redondo que esta mas cercas al puerto de USB A.  
+![Una imagen del adaptador Roll Limitless, con el botón de inicio circulado en rojo.](https://rb3pc.milohax.org/images/instruments/xtra/rolllimitless/startbutton.png "Botón de inicio Roll Limitless")
+6. Verifica que Windows detecto el adaptador Roll Limitless correctamente. La manera mas fácil es buscar "Mando" en el menú de Inicio y abrir este panel de control.  
+![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
+7. Si no la detecto, asegúrate que presionaste y manteniste el boton de inicio redondo en el adaptador sostenido y intenta otra vez.
+
+## Mapeo:
+
+| **RPCS3** | **Batería** |
+|:---------:|:---------------:|
+| Cross (Cruz) | ![Parche Verde](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Parche Verde") |
+| Circle (Circulo) | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Parche Rojo") |
+| Square (Cuadro) | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Parche Azul") |
+| Triangle (Triangulo) | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") |
+| Boton R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
+| R3 | Modificador de Platillos |
+| L3 | Modificador de Parches |
 
 ## Perfil
 
 [[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rolllimitlessmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsps3rlmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 

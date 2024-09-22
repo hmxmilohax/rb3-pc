@@ -30,7 +30,8 @@ toc: false
 ### Mapping
 
 * For the best experience:
-	1. Go to the Start menu and look for "Set up USB game controllers," then open it.
+	1. Go to the Start menu and look for "Set up USB game controllers," then open it.  
+	![A screenshot of Windows showing the search results of joy.cpl.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl.png "Set up USB game controllers")
 	2. Right click on "Guitar Hero X-plorer"
 	3. Go to the Settings tab.
 	4. Hold the guitar at a 45 degree angle. This is halfway between a neck at level and full tilt.
