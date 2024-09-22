@@ -56,12 +56,12 @@ Todos los micrófonos tiene problemas,  **menos el Micrófono transparente**. Es
 | ![Una captura de un persona con Rizos divertidos.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Curls-Just-Wanna-Have-Fun.png "Rizos divertidos") | Rizos divertidos |
 | ![Una captura de un corte Dandi (izquierda).](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Dapper-Dan-(Left-Part).png "Dandi (izquierda)") | Dandi (izquierda) |
 | ![Una captura de un corte Dandi (derecha).](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Dapper-Dan-(Right-Part).png "Dandi (derecha)") | Dandi (derecha) |
-| ![Una captura de un corte Engominado.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Grease.png "Grease") | Grease |
-| ![Una captura de un corte Mandana.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Mandana.png "Mandana") | Mandana |
+| ![Una captura de un corte Engominado.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Grease.png "Engominado") | Engominado |
+| ![Una captura de una Mandana.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Mandana.png "Mandana") | Mandana |
 | ![Una captura de un corte Y yo con estos pelos.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Messy-Mop.png "Y yo con estos pelos") | Y yo con estos pelos |
 | ![Una captura de un corte En riesgo de extinción.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Most-Likely-to-Recede.png "En riesgo de extinción") | En riesgo de extinción |
-| ![Una captura de un corte a Lo natural.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-The-Natural.png "The Natural") | The Natural |
-| ![Una captura de un corte con Puntas sajonas.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-The-Quill-Pig.png "The Puntas sajonas") | The Puntas sajonas |
+| ![Una captura de un corte a Lo natural.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-The-Natural.png "Lo natural") | Lo natural |
+| ![Una captura de un corte con Puntas sajonas.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-The-Quill-Pig.png "Puntas sajonas") | Puntas sajonas |
 | ![Una captura de un corte con Pelo-pincho.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Short-Spikes.png "Pelo-pincho") | Pelo-pincho |
 | ![Una captura de un corte Melena lisa.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Sleek-Mop.png "Melena lisa") | Melena lisa |
 | ![Una captura de un corte Genérico total.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/masc/hair-Totally-Generic.png "Genérico total") | Genérico total |
@@ -107,7 +107,7 @@ Todos los micrófonos tiene problemas,  **menos el Micrófono transparente**. Es
 | ![Una captura de un corte Lolita.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-Lolita.png "Lolita") | Lolita |
 | ![Una captura de un corte Corte a lo paje.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-Pageboy.png "Corte a lo paje") | Corte a lo paje |
 | ![Una captura de un Afro cortito.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-T.W.A..png "Afro cortito") | Afro cortito |
-| ![Una captura de un persona a Lo natural.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-The-Natural.png "The Natural") | The Natural |
+| ![Una captura de un persona a Lo natural.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-The-Natural.png "Lo natural") | Lo natural |
 | ![Una captura de una Cresta triple.](https://raw.githubusercontent.com/carlmylo/docu-rpcs3/gh-pages/images/trbl/teleprob/hairs/fem/hair-Trihawk.png "Cresta triple") | Cresta triple |
 
 ### Sombreros
