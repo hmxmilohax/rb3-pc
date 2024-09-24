@@ -47,7 +47,7 @@ toc: false
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsps3rlmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrldrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
 

@@ -1,24 +1,20 @@
 ---
-title: Guitarras de Rock Band para Xbox 360
+title: Guitarras modeadas con kits de RetroCultMods
 sidebar: controllers_es_sidebar
-permalink: ctrls_rbgtr_360_es
+permalink: ctrls_mod_rcmgtr_es
 folder: instrumentos
-tags: [xbox-360-es, guitarras, espanol]
-summary: "Como configurar guitarras de Rock Band para Xbox 360 en RPCS3."
+tags: [modeado, guitarras, espanol]
+summary: "Como configurar tu guitarra modeada con un kit de RetroCultMods en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rbgtrscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rcmgtrs.png" alt="Control" title="Control"></div>
 
 ## NOTAS:
 
-* Guitarras de Rock Band 1 pueden ser conectadas por USB pero guitarras de Rock Band 2 (y después) **requieren un Receptor USB Inalámbrico Gamepad PC Adaptador Para Xbox 360 para conectarse a la computadora**.
-
-![Receptor USB Inalámbrico Gamepad PC Adaptador Para Xbox 360](https://rb3pc.milohax.org/images/btns/ctrls/360/receiver.png "Receptor USB Inalámbrico Gamepad PC Adaptador Para Xbox 360")
-
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
+* **¡Esta pagina es específicamente para guitarras modeadas con kits hechos por [[RetroCultMods]](https://www.etsy.com/shop/RetroCultMods)!** Verifica que tu recibo de venta fue de [[el sitio propio de RetroCultMods]](https://shop.retrocultmods.com/) o [[su tienda de Etsy]](https://www.etsy.com/shop/RetroCultMods).
 
 ## Información de Control:
 
@@ -30,19 +26,44 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Rock Band |
 
+## Configuración:
+
+Si todavía no has iniciado tu control, inicia la herramienta de RetroCultMods para Programar.
+
+En la pantalla de inicio, elije el Dispositivo. Va ser una `Raspberry Pi Pico`  
+Después, elije un `Device Type` dependiendo de que producto de RetroCultMods tienes.  
+Finalmente, elije el `Device Variant`. **¡`Default` esta bien!** Rock Band 3 en RPCS3 no necesita funciones de "Auth", "Slider" o de "Joystick."
+Ya que elegiste las opciones correctas, haz click en `Erase and configure` y deja que termine el proceso.
+
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en Raspberry Pi Pico, "Device Type" esta en "Zeroboard SL (Solderless Kit)" y "Device Variant" esta puesto en "Zeroboard SL - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initsles.png "RetroCultMods: Herramienta de Programación")
+
+Después de que termine, o si ya tienes un control iniciado, haz click en `Configurar`.
+
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en "Zeroboard SL - Default" y el cursor esta sobre "Configurar."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevsles.png "RetroCultMods: Herramienta de Programación")
+
+En Ajustes de Control, cambia la configuración a esto:
+* Cambiar Botones de Cara: (Depende de tu guitarra)
+* Modo de Control en Windows: XInput
+* Usar 'Passthrough' por USB con RPCS3: Deshabilitado
+* Mapear Select al D-Pad Izquierdo en Xbox One/Series: Deshabilitado
+* Inclinación: Habilitado
+* Mapear Joystick a Dpad: Habilitado
+
+![Una captura de los Ajustes de Control, dentro de la herramienta de programación.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/consetes.png "RetroCultMods: Herramienta de Programación")
+
+Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en la herramienta de programación.
+
+**!ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
+
+![Una captura de la herramienta de programación para RetroCultMods, con el cursor sobre Guardar Ajustes](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savesles.png "RetroCultMods: Herramienta de Programación")
+
 ## Mapeo:
-
-Guitarras viejas pueden tener problemas con las palancas de whammy que puede crear dificultades cuando las mapeas. **Si pasa, haz click en "Filter Noise" (filtrar ruido) para mapear correctamente.**
-
-El switch de efectos solo puede ser configurado con la mitad de arriba o de abajo. Recomendamos la mitad de abajo para poder desactivar los efectos.
 
 Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
 | Boton R1 | ![Right Stick](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
-| L2 | ![Palanca derecha presionada](https://rb3pc.milohax.org/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | 
-| Right Stick: <br> Down | ![Gatillo Izquierdo](https://rb3pc.milohax.org/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") |
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -137,10 +158,11 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z){:target="_blank"}
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
+Investigación por [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
+Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures

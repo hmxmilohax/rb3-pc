@@ -47,7 +47,7 @@ toc: false
 
 [[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsps3rlmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrldrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 

@@ -14,75 +14,155 @@ toc: false
 
 ## NOTAS:
 
-* **Please note that your Santroller Configurator may have different settings, depending on how your guitar was modded.** If you purchased your guitar pre-modded, contact the seller for more information.
+* **Tu configurador de Santroller puede tener ajustes diferentes, dependiendo de como fue modeada tu guitarra/adaptador de guitarra**. Si compraste tu guitarra pre-modeada, pregúntale al vendedor para mas información.
 
 ## Información de Control:
 
 | Handlers | Devices |
-|:--------:|:-------:|
-| MMJoystick | Joystick |
+|:------------------:|:---------------------:|
+| XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------:|:--------------:|
+|:------------------:|:---------------------:|
 | Guitar | Rock Band |
 
-## Setup
+## Configuración:
 
-If you haven't initlized your controller yet, start up Santroller.
+Si todavía no has hecho la configuración de Santroller, hazlo.
 
-In the start screen, select your Device. This will depend on what device your modded guitar has. In the tutorial screenshots, it was a "`Raspberry Pi Pico`".
-After that, click on Configure.
+En la pantalla de inicio de Santroller, elije el Dispositivo y Tipo de Entrada depende de que tipo de modificación tienes. En las capturas, fue un "`Raspberry Pi Pico`" y "`Directamente Cableado`".  
+Después de que termine, haz click en `Configurar`.
 
-![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico.](https://rb3pc.milohax.org/images/instruments/xtra/san/initsan.png "initsan")
+![Una captura de la pantalla inicial de Santroller. "Dispositivo Seleccionado" esta en Raspberry Pi Pico y "Tipo de Entrado" esta en Directamente cableado.](https://rb3pc.milohax.org/images/instruments/xtra/san/initsanes.png "Santroller - Inicio")
 
-In Controller Settings, set your configuration to the following:
-* Emulation Type: Controller
-* Controller Type: Rock Band Guitar
-* Swap Switch Face Buttons: (Depends on your guitar)
-* Windows Controller Mode: HID Game Controller
-* Use USB Passthrough with RPCS3: Disabled
-* Ladeo: Enabled
+En Ajustes de Control, cambia la configuración a esto:
+* Tipo de Emulación: Control
+* Tipo de Control: Guitarra de Rock Band
+* Cambiar Botones de Cara: (Depende de tu guitarra)
+* Modo de Control en Windows: XInput
+* Usar 'Passthrough' por USB con RPCS3: Deshabilitado
+* Mapear Select al D-Pad Izquierdo en Xbox One/Series: Deshabilitado
+* Inclinación: Habilitado
+* Mapear Joystick a Dpad: Habilitado
 
-![A screenshot of Santroller's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsan.png "Santroller: Controller Settings")
+![Una captura de los Ajustes de Control, dentro de Santroller.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsanes.png "Santroller: Ajustes de Control")
 
-It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
+Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en Santroller.
 
-**MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
+**!ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
 
-![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savesan.png "RetroCultMods Programming Tool")
+![Una captura de Santroller, con el cursor sobre Guardar Ajustes.](https://rb3pc.milohax.org/images/instruments/xtra/san/savesanes.png "Santroller")
 
 ## Mapeo:
 
-* **To map everything correctly, you will need to first map Whammy Down, which is Right Stick: Left in RPCS3. It should show up as X-. After mapping it, click `"Filter Noise"` and map the rest.**
+Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
-| **RPCS3**          | **Control** |
-|:------------------:|:---------------------:|
-| Cross (Cruz) | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
-| Circle (Circulo) | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
-| Square (Cuadro) | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
-| Triangle (Triangulo) | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
-| L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
-| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
-| D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
-| Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Boton R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
-| Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/360/start.png "Start") |
-| Select | ![Back](https://rb3pc.milohax.org/images/btns/ctrls/360/back.png "Back") |
-| Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/gtrs/home.png "Home") |
+| **RPCS3** | **XInput** | **Guitarra** |
+|:--------:|:-----------:|:-----------:|
+| Boton R1 | ![Right Stick](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
 
-### Passthrough Mode
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
+                            </h4>
+                        </div>
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Guitarra</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cross (Cruz)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+</tr>
+<tr>
+<td align="center">Circle (Circulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+</tr>
+<tr>
+<td align="center">Square (Cuadro)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+</tr>
+<tr>
+<td align="center">Triangle (Triangulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+</tr>
+<tr>
+<td align="center">L1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Arriba <em>o</em> abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
+</tr>
+<tr>
+<td align="center">L2</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
+</tr>
+<tr>
+<td align="center">Botón R1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
+</tr>
+<tr>
+<td align="center">Start</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
+</tr>
+<tr>
+<td align="center">Select</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
+</tr>
+<tr>
+<td align="center">Botón PS</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+</tr>
+</tbody>
+</table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/RetroCultMods%20Solderless%20Kit.7z)
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Santroller%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rcmslmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modsangtrmapping.png" alt="Mapeo" title="Mapeo"></div>
+
+### Modo Passthrough
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, RPCS3 no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te deja conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Investigación por [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
-Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures.
+Investigado por [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
+Gracias a [[@amphobius]](https://twitter.com/amphobius) por capturas adicionales.

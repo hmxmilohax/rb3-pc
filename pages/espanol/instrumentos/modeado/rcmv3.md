@@ -14,80 +14,156 @@ toc: false
 
 ## NOTAS:
 
-* **This is specifically for the** [**[V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4) by RetroCultMods]**](https://www.etsy.com/listing/1536358024/v3-wii-guitar-adapter-with-Ladeo-for)**!** Please consult your sales receipt to confirm that it is indeed a V3 Wii Guitar Adapter WITH Ladeo for Clone Hero and RB4 (Rock Band 4) by RetroCultMods.
-	* You can use this page for reference for V1 and V2 Wii Adapters, but you won't have Ladeo.
+* **¡Esta pagina es específicamente para el** [**[Adaptador de guitarra V3 por RetroCultMods]**](https://www.etsy.com/listing/1536358024/)**!** Verifica que tu recibo de venta fue de [[el sitio propio de RetroCultMods]](https://shop.retrocultmods.com/) o [[su tienda de Etsy]](https://www.etsy.com/shop/RetroCultMods).
+	* Puedes usar esta pagina con los adaptadores V1 y V2 Wii pero no tendrás ladeo (tilt).
 
 ## Información de Control:
 
 | Handlers | Devices |
 |:------------------:|:---------------------:|
-| MMJoystick | Joystick |
+| XInput | XInput Pad |
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
 | Guitar | Rock Band |
 
-## Setup
+## Configuración:
 
-If you haven't initlized your Wii Adapter yet, start up RetroCultMod's Programming Tool.
+Si todavía no has iniciado tu adaptador V3, inicia la herramienta de RetroCultMods para Programar.
 
-In the start screen, select your Device. It will usually show up as "`Raspberry Pi Pico`".
-After that, select "`Wii Adapter`" as your Device Type.
-Then finally, set Device Variant to "RCM Wii Guitar Adapter - Default". **You don't need Auth, Slider, or Joystick** support.
+En la pantalla de inicio, elije el Dispositivo. Va ser una `Raspberry Pi Pico`  
+Después, elije "`Wii Adapter`" or "`USB Adapter`" en `Device Type` dependiendo de que cual puerto estes usando.  
+Finalmente, elije el `Device Variant`. **¡`Default` esta bien!** Rock Band 3 en RPCS3 no necesita funciones de "Auth", "Slider" o de "Joystick."
+Ya que elegiste las opciones correctas, haz click en `Erase and configure` y deja que termine el proceso.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Wii Adapter", and Device Variant is set to "RCM Wii Guitar Adapter - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initv3.png "RetroCultMods Programming Tool")
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en Raspberry Pi Pico, "Device Type" esta en "Wii Adapter" y "Device Variant" esta puesto en "RCM Wii Guitar Adapter - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initv3es.png "RetroCultMods: Herramienta de Programación")
 
-After that, click on Erase and configure and wait for the progress bar to finish.
+Después de que termine, o si ya tienes un control iniciado, haz click en `Configurar`.
 
-When it finishes, click on Configure.
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en "RCM Wii Guitar Adapter - Default" y el cursor esta sobre "Configurar."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevv3es.png "RetroCultMods: Herramienta de Programación")
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "RCM Wii Guitar Adapter - Default" and the mouse is hovering over "Configure."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevv3.png "RetroCultMods Programming Tool")
+En Ajustes de Control, cambia la configuración a esto:
+* Cambiar Botones de Cara: (Depende de tu guitarra)
+* Modo de Control en Windows: XInput
+* Usar 'Passthrough' por USB con RPCS3: Deshabilitado
+* Mapear Select al D-Pad Izquierdo en Xbox One/Series: Deshabilitado
+* Inclinación: Habilitado
+* Mapear Joystick a Dpad: Habilitado
 
-In Controller Settings, set your configuration to the following:
-* Swap Switch Face Buttons: (Depends on your guitar)
-* Windows Controller Mode: HID Game Controller
-* Slider Bar: (Depends on your guitar)
-* Ladeo: Enabled
+![Una captura de los Ajustes de Control, dentro de la herramienta de programación.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/consetes.png "RetroCultMods: Herramienta de Programación")
 
-![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/consetsl.png "RetroCultMods Programming Tool")
+Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en la herramienta de programación.
 
-It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Wii Extension Inputs and calibrate it.
+**!ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
 
-**MAKE SURE YOU CLICK ON "`Save Setting"`" before closing the program or you will lose progress!**
-
-![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savev3.png "RetroCultMods Programming Tool")
+![Una captura de la herramienta de programación para RetroCultMods, con el cursor sobre Guardar Ajustes](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savev3es.png "RetroCultMods: Herramienta de Programación")
 
 ## Mapeo:
 
-* **To map everything correctly, you will need to first map Whammy Down, which is Right Stick: Left in RPCS3. It should show up as X-. After mapping it, click `"Filter Noise"` and map the rest.**
+Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
-| **RPCS3**          | **Control** |
-|:------------------:|:---------------------:|
-| Cross (Cruz) | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
-| Circle (Circulo) | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
-| Square (Cuadro) | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
-| Triangle (Triangulo) | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
-| L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
-| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Boton R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
-| Start | ![Botón + (Mas)](https://rb3pc.milohax.org/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
-| Select | ![Botón - (Menos)](https://rb3pc.milohax.org/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
-| Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/gtrs/home.png "Home") |
+| **RPCS3** | **XInput** | **Guitarra** |
+|:--------:|:-----------:|:-----------:|
+| Boton R1 | ![Right Stick](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
 
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
+                            </h4>
+                        </div>
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
 
-### Passthrough Mode
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Guitarra</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cross (Cruz)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+</tr>
+<tr>
+<td align="center">Circle (Circulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+</tr>
+<tr>
+<td align="center">Square (Cuadro)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+</tr>
+<tr>
+<td align="center">Triangle (Triangulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+</tr>
+<tr>
+<td align="center">L1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Arriba <em>o</em> abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
+</tr>
+<tr>
+<td align="center">L2</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
+</tr>
+<tr>
+<td align="center">Botón R1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
+</tr>
+<tr>
+<td align="center">Start</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
+</tr>
+<tr>
+<td align="center">Select</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
+</tr>
+<tr>
+<td align="center">Botón PS</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+</tr>
+</tbody>
+</table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/picolpmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrcmv3gtrmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Investigación por [[Lynxeption]](https://www.youtube.com/@Lynxeption)  
-Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures
+Gracias a [[@amphobius]](https://twitter.com/amphobius) por capturas adcionales.

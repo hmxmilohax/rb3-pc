@@ -229,8 +229,8 @@ entries:
       output: web
       type: homepage
 
-    - title: Kit SIN SOLDADURA de RetroCultMods
-      url: /ctrls_mod_rcmsl_es
+    - title: Guitarras con kits de RetroCultMods
+      url: /ctrls_mod_rcmgtr_es
       output: web
       type: homepage
 
@@ -453,7 +453,7 @@ entries:
       url: /adv_movedir_es
       output: web
 
-    - title: Add Custom Textures to Rock Band 3 Deluxe
+    - title: Texturas Personalizada
       url: /adv_customtex_es
       output: web
 

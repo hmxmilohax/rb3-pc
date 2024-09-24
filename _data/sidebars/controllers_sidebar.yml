@@ -231,8 +231,8 @@ entries:
       output: web
       type: homepage
 
-    - title: RetroCultMods Solderless Kit
-      url: /ctrls_mod_rcmsl
+    - title: RetroCultMods Kit Guitars
+      url: /ctrls_mod_rcmgtr
       output: web
       type: homepage
 

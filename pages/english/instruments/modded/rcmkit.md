@@ -1,20 +1,20 @@
 ---
-title: Santroller Powered Custom Guitars
+title: RetroCultMods Kit Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_mod_santroller
+permalink: ctrls_mod_rcmgtr
 folder: instruments
 tags: [guitars, modded, english]
-summary: "How to connect and configure your guitar using Santroller on RPCS3."
+summary: "How to connect and configure your guitar modded with a kit from RCM on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" alt="Platform" title="Platform"></div>
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
-* **Please note that your Santroller Configurator may have different settings, depending on how your guitar was modded.** If you purchased your guitar pre-modded, contact the seller for more information.
+* **This page is specifically for guitars using modded kits made by [[RetroCultMods]](https://shop.retrocultmods.com/)!** Check your receipt from either the [[RetroCultMods' own website]](https://www.etsy.com/shop/RetroCultMods) or [[Etsy]] to verify that you indeed have a guitar using a mod kit from RetroCultMods.
 
 ## Pad Information
 
@@ -28,16 +28,22 @@ toc: false
 
 ## Setup
 
-If you haven't initialized your controller yet, start up Santroller.
+If you haven't initialized your controller yet, start up RetroCultMod's Programming Tool.
 
-In the start screen, select your Device and Input Type. This will depend on what device your modded guitar has. In the tutorial screenshots, it was a "`Raspberry Pi Pico`" and "`Directly Wired`" respectively.
-After it finishes, click on `Configure`.
+In the start screen, select your `Device`. It will show up as "`Raspberry Pi Pico`".  
+After that, select your `Device Type` depending on which RetroCultMod product you have.  
+Then finally, set `Device Variant`. **`Default` is fine**! Rock Band 3 on RPCS3 doesn't need need Auth, Slider, or Joystick support.  
+After that, click on `Erase and configure` and wait for the progress bar to finish.
 
-![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/san/initsan.png "Santroller: Initialize")
+In this example, a [[RetroCultMods Solderless Kit]](https://shop.retrocultmods.com/products/solderless-diy-rgb-kit-for-guitar-hero-controllers-by-retrocultmods) was used.
+
+![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Zeroboard SL (Solderless Kit)", and Device Variant is set to "Zeroboard SL - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initsl.png "RetroCultMods Programming Tool")
+
+After that, or if you already have an initialized controller, click on `Configure`.
+
+![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "Zeroboard SL - Default" and the mouse is hovering over "Configure."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevsl.png "RetroCultMods Programming Tool")
 
 In Controller Settings, set your configuration to the following:
-* Emulation Type: Controller
-* Controller Type: Rock Band Guitar
 * Swap Switch Face Buttons: (Depends on your guitar)
 * Windows Controller Mode: XInput
 * Use USB Passthrough with RPCS3: Disabled
@@ -45,13 +51,13 @@ In Controller Settings, set your configuration to the following:
 * Tilt: Enabled
 * Map joystick to Dpad: Enabled
 
-![A screenshot of Santroller's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsan.png "Santroller: Controller Settings")
+![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/conset.png "RetroCultMods Programming Tool")
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
 **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of Santroller. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savesan.png "Santroller")
+![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savesl.png "RetroCultMods Programming Tool")
 
 ## Mappings
 
@@ -154,9 +160,9 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 ## Profile
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Santroller%20Guitar.7z){:target="_blank"}
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modsangtrmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Passthrough Mode
 
@@ -165,4 +171,4 @@ By default, XInput has most things bound correctly. You only need to remap the f
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
 
 Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
-Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures.
+Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures
