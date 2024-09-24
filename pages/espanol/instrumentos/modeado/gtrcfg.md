@@ -24,7 +24,7 @@ El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurar
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
+[[Bajar Perfil]](https://rb3pc.milohax.org/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20%5BPi%20Pico%5D.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/picolpmapping.png" alt="Mapeo" title="Mapeo"></div>
 

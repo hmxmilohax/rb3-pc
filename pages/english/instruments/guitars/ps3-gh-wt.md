@@ -66,6 +66,6 @@ Use Right Click to unmap a button.
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrps3ghmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Guitars]](https://rb3pc.milohax.org/ctrls_guitar)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

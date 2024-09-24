@@ -116,7 +116,7 @@ Examples of common replacements:
 
 In `rb3drums.yml`, you will find `Combo Start`, `Combo Select`, `Combo Toggle Hold Kick`, which allow you to customize the combos to activate their respective buttons.
 
-[[Back to Drums]](https://rb3pc.milohax.org/ctrls_drums)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
 Implemented by [[nswarm]](https://github.com/nswarm){:target="_blank"}

@@ -71,4 +71,4 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padps4mapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Gamepads]](https://rb3pc.milohax.org/ctrls_pads)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)

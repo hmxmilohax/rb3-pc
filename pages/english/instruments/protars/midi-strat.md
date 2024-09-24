@@ -57,6 +57,6 @@ Find whichever way is the most convenient for you then connect your Rock Band Pr
 * ![A tan square with a solid outline](https://rb3pc.milohax.org/images/cust/smalltan.png "Tan Square") :
 	* 🎸 **Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it.**
 
-[[Back to Pro Guitars]](https://rb3pc.milohax.org/ctrls_protars)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Implementation by [[Dark]](https://dark.ski/)

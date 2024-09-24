@@ -41,4 +41,4 @@ toc: false
 | R3 | Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
-[[Back to Drums]](https://rb3pc.milohax.org/ctrls_drums)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)

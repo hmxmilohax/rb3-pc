@@ -164,6 +164,6 @@ This is the recommended mode and should not require any mapping. You simply need
 </div>
 <!-- /.panel-group -->
 
-[[Back to Drums]](https://rb3pc.milohax.org/ctrls_drums)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

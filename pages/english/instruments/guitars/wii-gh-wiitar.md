@@ -141,6 +141,6 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 </div>
 <!-- /.panel-group -->
 
-[[Back to Guitars]](https://rb3pc.milohax.org/ctrls_guitar)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [diogodiogo2]

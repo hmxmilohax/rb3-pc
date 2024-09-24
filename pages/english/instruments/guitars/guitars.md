@@ -49,4 +49,4 @@ toc: false
 | L3 | | ![Solo Buttons](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Solo Buttons") | |
 | R1 | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt") | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt") | Does not work |
 
-[[Back to Guitars]](https://rb3pc.milohax.org/ctrls_guitar)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)

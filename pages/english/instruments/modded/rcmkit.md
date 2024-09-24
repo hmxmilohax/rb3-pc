@@ -37,11 +37,11 @@ After that, click on `Erase and configure` and wait for the progress bar to fini
 
 In this example, a [[RetroCultMods Solderless Kit]](https://shop.retrocultmods.com/products/solderless-diy-rgb-kit-for-guitar-hero-controllers-by-retrocultmods) was used.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Zeroboard SL (Solderless Kit)", and Device Variant is set to "Zeroboard SL - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initsl.png "RetroCultMods Programming Tool")
+![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Zeroboard SL (Solderless Kit)", and Device Variant is set to "Zeroboard SL - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/initsl.png "RetroCultMods Programming Tool")
 
 After that, or if you already have an initialized controller, click on `Configure`.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "Zeroboard SL - Default" and the mouse is hovering over "Configure."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevsl.png "RetroCultMods Programming Tool")
+![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "Zeroboard SL - Default" and the mouse is hovering over "Configure."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevsl.png "RetroCultMods Programming Tool")
 
 In Controller Settings, set your configuration to the following:
 * Swap Switch Face Buttons: (Depends on your guitar)
@@ -51,13 +51,13 @@ In Controller Settings, set your configuration to the following:
 * Tilt: Enabled
 * Map joystick to Dpad: Enabled
 
-![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/conset.png "RetroCultMods Programming Tool")
+![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/conset.png "RetroCultMods Programming Tool")
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
 **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savesl.png "RetroCultMods Programming Tool")
+![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcm/savesl.png "RetroCultMods Programming Tool")
 
 ## Mappings
 
@@ -168,7 +168,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption).  
 Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures

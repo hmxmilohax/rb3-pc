@@ -70,4 +70,4 @@ toc: false
 | ![R1 Button](https://rb3pc.milohax.org/images/btns/ctrls/ps3/r1.png "R1 Button") | Vocal Track Volume (Song) | |
 | ![R2 Trigger](https://rb3pc.milohax.org/images/btns/ctrls/ps3/r2.png "R2 Trigger") | Pitch Correction (Song) | |
 
-[[Back to Gamepads]](https://rb3pc.milohax.org/ctrls_pads)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)

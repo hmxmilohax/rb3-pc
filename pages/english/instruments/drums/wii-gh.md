@@ -59,6 +59,6 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmswiighmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Drums]](https://rb3pc.milohax.org/ctrls_drums)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

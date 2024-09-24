@@ -96,7 +96,7 @@ First, <a href="https://www.tobias-erichsen.de/software/loopmidi.html">[descarga
 <p>Ve a donde extrajiste el archivo <code>.zip</code> y abre la aplicación de freepiano.</p>
 <p><img src="https://rb3pc.milohax.org/images/instruments/xtra/midi/midictrlfreepnodir.png" alt="Una captura con la aplicación de freepiano resaltada." title="freepiano.exe"></p>
 <p>Puedes configurar las teclas a tu gusto usando la sección de <a href="#mapeo"><strong>[#mapeo]</strong></a> hacia arriba.</p>
-<p>También existe un perfil pre-hecho que puedes <a href="https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
+<p>También existe un perfil pre-hecho que puedes <a href="https://rb3pc.milohax.org/downloads/instrument-repo/rb3gamekeys.map"><strong>[descargar aquí]</strong></a>.</p>
 <p>Para usar el perfil, coloca el archivo <code>rb3gamekeys.map</code> en la carpeta llamada <code>keymap</code> donde esta la aplicación de freepiano.</p>
 <p><img src="https://rb3pc.milohax.org/images/instruments/xtra/midi/midictrlfreepnopreset.png" alt="Una captura del perfil llamado rb3gamekeys.map resaltado, dentro de la carpeta llamada keymap.." title="keymap"></p>
 <p>Selecciona el archivo <code>rb3gamekeys.map</code> en el menú despegable de "Keymap" para cargar el perfil. También, si existe creaste tu propio perfil o editaste el perfil pre-hecho, puedes hacer click en <strong>Save</strong> para guardarlo.</p>

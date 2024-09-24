@@ -55,6 +55,6 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrwiirbmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Guitars]](https://rb3pc.milohax.org/ctrls_guitar)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo){:target="_blank"}

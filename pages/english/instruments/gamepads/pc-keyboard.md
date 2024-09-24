@@ -195,7 +195,7 @@ A profile used by Milohax's favorite keyboard player. Has plenty of alt-keys for
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
 
-[[Back to Gamepads]](https://rb3pc.milohax.org/ctrls_pads)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 

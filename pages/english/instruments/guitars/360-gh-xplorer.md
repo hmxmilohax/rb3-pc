@@ -77,6 +77,6 @@ Use Right Click to unmap a button.
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtr360ghxpmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Guitars]](https://rb3pc.milohax.org/ctrls_guitar)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}

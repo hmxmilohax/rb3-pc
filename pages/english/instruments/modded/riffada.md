@@ -15,7 +15,7 @@ toc: false
 ## NOTES
 
 * **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
-* While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/instruments/xbox/rb4gtrs) for that instead.
+* While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://rb3pc.milohax.org/ctrls_rb4gtr_xbox) for that instead.
 
 ## Pad Information
 
@@ -56,6 +56,8 @@ A community made preset exists (courtesy of jnack) to help speed things up. Load
 ![A screenshot of SantrollerConfigurator, with a cursor hovering over "Import Settings from File" under the "Presets" configuration.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanpreload.png "Presets")
 
 After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
+
+![A screenshot of Santroller. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/feather/sansave.png "Santroller")
 
 ## Mapping
 
@@ -163,7 +165,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
 ## Additional Notes
-The picoconfig preset binds a few things for a better experience.
+The picoconfig preset binds a few things for a better experience with a PS4 Riffmaster.  
 - The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
 - D-Pad: Left and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad Left which is very uncomfortable.
 
@@ -181,6 +183,6 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modfeatherriffmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://rb3pc.milohax.org/ctrls)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [jnackmclain](https://github.com/jnackmclain)

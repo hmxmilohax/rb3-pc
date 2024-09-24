@@ -59,6 +59,6 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 	* 🎸 **Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it.**
 
 
-[[Back to Pro Guitars]](https://rb3pc.milohax.org/ctrls_protars)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Implementation by [[Dark]](https://dark.ski/)

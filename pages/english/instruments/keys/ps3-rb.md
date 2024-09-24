@@ -55,6 +55,23 @@ You can shift octaves with the Square and Circle buttons.
 
 ![A GIF of a Rock Band 3 keyboard. When X (which is Square on PS3) is pressed, a yellow highlight, showing which notes are being used, shifts down to C2 to C4. When B (which is Circle on PS3) is pressed, it shifts up to C3 to C5.](https://rb3pc.milohax.org/images/instruments/xtra/midi/rbkeysoctshift.gif "Octave Shifting") 
 
+| **Note** | **Button** |
+|:--------:|:-------------------:|
+| C2 | ![Select](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sel.png "Select") |
+| D2 | ![D-Pad Left](https://rb3pc.milohax.org/images/btns/ctrls/ps3/dl.png "D-Pad Left") |
+| E2 | ![D-Pad Right](https://rb3pc.milohax.org/images/btns/ctrls/ps3/dr.png "D-Pad Right") |
+| F2 | ![D-Pad Up](https://rb3pc.milohax.org/images/btns/ctrls/ps3/du.png "D-Pad Up") |
+| G2 | ![D-Pad Down](https://rb3pc.milohax.org/images/btns/ctrls/ps3/dd.png "D-Pad Down") |
+| A2 | Deploy Overdrive |
+| C#2 | ![Triangle](https://rb3pc.milohax.org/images/btns/ctrls/ps3/t.png "Triangle") |
+| D#2 | ![Square](https://rb3pc.milohax.org/images/btns/ctrls/ps3/s.png "Square") |
+| F#2 | ![Circle](https://rb3pc.milohax.org/images/btns/ctrls/ps3/o.png "Circle") |
+| G#2 | ![Cross](https://rb3pc.milohax.org/images/btns/ctrls/ps3/x.png "Cross") |
+| A#2 | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sta.png "Start") |
+| Modwheel | Deploy Overdrive |
+| Sustain | Deploy Overdrive |
+| Pitch Wheel | Whammy/Touch Strip |
+
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -162,6 +179,6 @@ You will have to reopen these programs every time you want to play.</p>
 </div>
 <!-- /.panel-group -->
 
-[[Back to Keyboards]](https://rb3pc.milohax.org/ctrls_keys)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)

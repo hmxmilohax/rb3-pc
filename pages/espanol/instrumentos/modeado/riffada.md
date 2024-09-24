@@ -14,8 +14,8 @@ toc: false
 
 ## NOTAS:
 
-* **¡Esto es specificamente para la Riffmaster con** [**[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]**](https://www.adafruit.com/product/5723)**!** Verifica que si compraste una [[Adafruit Feather RP2040 **con puerto de USB tipo a de entrada**]](https://www.adafruit.com/product/5723).
-* Puedes conectar una la Riffmaster de Xbox pero mejor deberías usar [[RB4InstrumentMapper]](https://rb3pc.milohax.org/ctrls_rb4gtr_xbox).
+* **¡Esto es specificamente para la Riffmaster con** [**[Adafruit Feather RP2040 con puerto de USB tipo A de entrada]**](https://www.adafruit.com/product/5723)**!** Verifica que si compraste una [[Adafruit Feather RP2040 **con puerto de USB tipo A de entrada**]](https://www.adafruit.com/product/5723).
+* Puedes conectar una la Riffmaster de Xbox pero mejor deberías usar [[RB4InstrumentMapper]](https://rb3pc.milohax.org/ctrls_rb4gtr_xbox_es).
 
 ## Información de Control:
 
@@ -27,35 +27,40 @@ toc: false
 |:------------------:|:---------------------:|
 | Guitar | Rock Band |
 
-## Setup
+## Configuración:
 
 Descarga la versión actual de Santroller.
 
-[![A screenshot of Santroller's Github download page, hovering over the Windows installer.](https://rb3pc.milohax.org/images/instruments/xtra/feather/dlsan.png)](https://github.com/Santroller/Santroller/releases "SantrollerConfigurator")
+[![Una captura de la pagina de descarga de Githubs para Santroller, con el cursor sobre el instalador de Windows.](https://rb3pc.milohax.org/images/instruments/xtra/feather/dlsan.png)](https://github.com/Santroller/Santroller/releases "SantrollerConfigurator")
 
 After downloading Santroller, open "SantrollerConfigurator".
 
-![A screenshot of a cursor hovering over SantrollerConfigurator on a user's desktop](https://rb3pc.milohax.org/images/instruments/xtra/feather/opensan.png "SantrollerConfigurator")
+Después de descargar y instalando Santroller, ábrelo.
 
-Hold the "Boot" button on your Adafruit Feather RP2040 with USB Type A Host if you're plugging it into your computer for the first time.
+![Una captura de el escritorio, con el cursor sobre SantrollerConfigurator.](https://rb3pc.milohax.org/images/instruments/xtra/feather/opensan.png "SantrollerConfigurator")
 
-![A picture of an Adafruit Feather RP2040. Botón A labeled "Boot" is circled in white, red, and black.](https://rb3pc.milohax.org/images/instruments/xtra/feather/bootada.jpg "Adafruit Feather RP2040 with USB Type A Host")
+Presiona y sostén el botón "Boot" en tu Adafruit Feather RP2040 si la estas conectando a tu computadora por la primera vez.
 
-In SantrollerConfigurator, set "`Input Type`" to "`USB Adapter`." The Adafruit Feather RP2040 with USB Type A Host should be detected as "`Raspberry Pi Pico`." Click "`Configure`" after doing this.
+![Una imagen de una Adafruit Feather RP2040. Un botón nombrado "Boot" esta circulado en rojo, blanco y negro.](https://rb3pc.milohax.org/images/instruments/xtra/feather/bootada.jpg "Adafruit Feather RP2040 con puerto de USB tipo A de entrada")
 
-![A screenshot of SantrollerConfigurator, with a cursor hovering over "USB Adapter," next to "Input Type."](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanusb.png "SantrollerConfigurator")
+En Santroller, cambia el "`Tipo de Entrada`" a "`Adaptador USB`." El "`Dispositivo Seleccionado`" debe de estar en "`Raspberry Pi Pico`." Haz click en "`Configurar`" después de confirmar y dale un momento para que inicie.
 
-Give it a moment to program initial configuration. When prompted, click on "`Configure`" again.
-![A screenshot of SantrollerConfigurator, with a cursor hovering over "USB Adapter," next to "Input Type."](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanconf.png "SantrollerConfigurator")
+![Una captura de Santroller, con el cursor sobre "Adaptador USB" para la derecha de "Tipo de Entrada."](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanusbes.png "SantrollerConfigurator")
 
 After you've loaded into the configuration page, scroll down to the "`Presets`" section and click to expand it. Once expanded, click on "`Import Settings from File`"
 
-A community made preset exists (courtesy of jnack) to help speed things up. Load it up via the "Import Settings from File" option.  
-[[Download the picoconfig preset here]](https://github.com/carlmylo/docu-rpcs3/raw/refs/heads/gh-pages/downloads/instrument-repo/RiffmasterFeather.picoconfig)
+Cuando la pagina de configuración cargue, ve para abajo donde esta la sección de "`Preestablecidos`" y haz click en "`Importar Ajustes de Archivo`."  
+Para ayudar con esto, un perfil hecho por la comunidad (gracias a Jnack) fue creado. Cargalo con la opcion de "`Importar Ajustes de Archivo`"  
 
-![A screenshot of SantrollerConfigurator, with a cursor hovering over "Import Settings from File" under the "Presets" configuration.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanpreload.png "Presets")
+[[Descarga el perfil `.picoconfig` aquí]](https://rb3pc.milohax.org/downloads/instrument-repo/RiffmasterFeather.picoconfig).
+
+![Una captura de Santroller, en la sección de "Preestablecidos" con el cursor sobre "Importar Ajustes de Archivo."](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanpreloades.png "Preestablecidos")
 
 After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
+
+!Despues de cargar el archivo `.picoconfig`, **ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
+
+![Una captura de Santroller, con el cursor sobre Guardar Ajustes.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sansavees.png "Santroller")
 
 ## Mapeo:
 
@@ -134,7 +139,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
-<td align="center">Boton R1</td>
+<td align="center">Botón R1</td>
 <td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>
@@ -158,28 +163,31 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 </div>
 <!-- /.panel-group -->
 
-### Passthrough Mode
+## Notas adicionales:
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
+El archivo `.picoconfig` cambia unas cosas para tener una experiencia mejor con la Riffmaster de PS4.  
 
-## Additional Notes
-The picoconfig preset binds a few things for a better experience.
-- The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
-- D-Pad (Cruceta): Izquierda and Select are swapped as the PlayStation Riffmaster. This is because, by default, the PlayStation Riffmaster has Overdrive activation bound to D-Pad (Cruceta) Izquierda which is very uncomfortable.
+- El botón de "Boot" en la Adafruit Feather va funcionar como el botón de guía/Home si lo presionas y el botón de guía/Home en la Riffmaster apaga la guitarra.
 
-If you wish to remove these tweaks, click the "`Remove`" next to the D-pad Left and Back buttons at the bottom of Santroller Configurator.
+- D-Pad (Cruceta): Izquierda y el botón de Select están invertidos. Esto es porque la configuración, por defecto, la Riffmaster de PlayStation tiene activación de Sobrecarga en D-Pad (Cruceta) Izquierda y es muy incomodo
 
-![A screenshot of SantrollerConfigurator, scrolled to the bottom. There are circles over the "Remove" buttons next to Back and D-pad Left.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanrem.png "SantrollerConfigurator")
+Si no quieres tener estos cambios, haz click en `Remover` en `D-pad Derecho` y `Botón Select.`
 
-After that, go to the "`Usb Host Inputs`" section and enable the original buttons again.
+![Una captura de Santroller. Hay círculos sobre "D-pad Derecho" y Botón Select.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanremes.png "SantrollerConfigurator")
 
-![A screenshot of SantrollerConfigurator, in the "Usb Host Inputs" section. There are circles over the disabled Back and D-pad Left buttons, showing them as disabled.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanhostin.png "Usb Host Inputs")
+Después de eso, va a la sección de "`Entradas de Host por USB`" y Habilita `D-pad Derecho` y el `Botón Select.`
 
-## Perfil
+![Una captura de Santroller, en la sección de "Entradas de Host por USB". Hay círculos sobre los botones deshabilitados.](https://rb3pc.milohax.org/images/instruments/xtra/feather/sanhostines.png "Entradas de Host por USB")
+
+## Perfil:
 
 [[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
+
+### Modo Passthrough
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, RPCS3 no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te deja conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 

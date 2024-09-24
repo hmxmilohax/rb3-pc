@@ -36,11 +36,11 @@ Después, elije "`Wii Adapter`" or "`USB Adapter`" en `Device Type` dependiendo 
 Finalmente, elije el `Device Variant`. **¡`Default` esta bien!** Rock Band 3 en RPCS3 no necesita funciones de "Auth", "Slider" o de "Joystick."
 Ya que elegiste las opciones correctas, haz click en `Erase and configure` y deja que termine el proceso.
 
-![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en Raspberry Pi Pico, "Device Type" esta en "Wii Adapter" y "Device Variant" esta puesto en "RCM Wii Guitar Adapter - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/initv3es.png "RetroCultMods: Herramienta de Programación")
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en Raspberry Pi Pico, "Device Type" esta en "Wii Adapter" y "Device Variant" esta puesto en "RCM Wii Guitar Adapter - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/initv3es.png "RetroCultMods: Herramienta de Programación")
 
 Después de que termine, o si ya tienes un control iniciado, haz click en `Configurar`.
 
-![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en "RCM Wii Guitar Adapter - Default" y el cursor esta sobre "Configurar."](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/seldevv3es.png "RetroCultMods: Herramienta de Programación")
+![Una captura de la herramienta de RetroCultMods para Programar. "Dispositivo Seleccionado" esta en "RCM Wii Guitar Adapter - Default" y el cursor esta sobre "Configurar."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevv3es.png "RetroCultMods: Herramienta de Programación")
 
 En Ajustes de Control, cambia la configuración a esto:
 * Cambiar Botones de Cara: (Depende de tu guitarra)
@@ -50,13 +50,13 @@ En Ajustes de Control, cambia la configuración a esto:
 * Inclinación: Habilitado
 * Mapear Joystick a Dpad: Habilitado
 
-![Una captura de los Ajustes de Control, dentro de la herramienta de programación.](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/consetes.png "RetroCultMods: Herramienta de Programación")
+![Una captura de los Ajustes de Control, dentro de la herramienta de programación.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/consetes.png "RetroCultMods: Herramienta de Programación")
 
 Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en la herramienta de programación.
 
 **!ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
 
-![Una captura de la herramienta de programación para RetroCultMods, con el cursor sobre Guardar Ajustes](https://rb3pc.milohax.org/images/instruments/xtra/rcmpt/savev3es.png "RetroCultMods: Herramienta de Programación")
+![Una captura de la herramienta de programación para RetroCultMods, con el cursor sobre Guardar Ajustes](https://rb3pc.milohax.org/images/instruments/xtra/rcm/savev3es.png "RetroCultMods: Herramienta de Programación")
 
 ## Mapeo:
 
@@ -157,11 +157,15 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 </div>
 <!-- /.panel-group -->
 
-## Perfil
+## Perfil:
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z){:target="_blank"}
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z){:target="_blank"}
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrcmv3gtrmapping.png" alt="Mapeo" title="Mapeo"></div>
+
+### Modo Passthrough
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, RPCS3 no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te deja conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
