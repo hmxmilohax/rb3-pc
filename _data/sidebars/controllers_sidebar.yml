@@ -246,7 +246,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Legacy Guitar Configurator Guitars
+    - title: Guitar Configurator Guitars (Obsolete)
       url: /ctrls_mod_gtrcfg
       output: web
       type: homepage
