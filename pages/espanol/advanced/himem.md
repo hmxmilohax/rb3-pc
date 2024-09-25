@@ -14,7 +14,7 @@ Vamos a agregar mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando p
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://rb3pc.milohax.org/custom_config_adv_es). ¡¡¡Si no haces esto, tu juego no va funcionar!!! </b> {{include.content}}</div>
 
-Primero, vas a necesitar [[bajar el archivo que activa memoria adicional. Haz click aquí para bajarlo.]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/memory.zip){:target="_blank"}
+Primero, vas a necesitar [[bajar el archivo que activa memoria adicional. Haz click aquí para bajarlo.]](https://rb3pc.milohax.org/downloads/customconfigs/memory.zip){:target="_blank"}
 
 **Después de bajar el archivo, extrae los contenidos en muevelos a la carpeta donde esta RPCS3. Las carpetas se combinaran si lo hiciste bien.**
 

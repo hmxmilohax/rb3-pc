@@ -17,8 +17,8 @@ Estos archivos son para personas que quieren jugar sin hacer tanta configuració
 
 Abajo están los archivos para instalar una configuración rápida. Descarga lo que queda bien con tu computadora.
 
-* [[Configuración recomendada]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
-* [[Configuración mínima]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración recomendada]](https://rb3pc.milohax.org/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración mínima]](https://rb3pc.milohax.org/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
 
 ## Como Usar
 

@@ -63,7 +63,7 @@ Esto es un error común de RPCS3. Reinicíalo y va a funcionar.
                         <div id="no-mencionaste" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-<a href="https://github.com/carlmylo/docu-rpcs3/issues" target="_blank">[Abre un asunto nuevo]</a> o manda un mensaje por <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[el Discord de Milohax]</strong></a> con tu sugerencia. Si se verifica, puedo ser incluido en la guía.
+<a href="https://github.com/hmxmilohax/rb3-pc/issues" target="_blank">[Abre un asunto nuevo]</a> o manda un mensaje por <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[el Discord de Milohax]</strong></a> con tu sugerencia. Si se verifica, puedo ser incluido en la guía.
 </ul>
                             </div>
                         </div>

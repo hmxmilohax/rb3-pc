@@ -17,8 +17,8 @@ These files are meant for those that just want to play with minimal setup. It is
 
 Below are the quick configuration files. Download whichever is best for your computer.
 
-* [[Recommended settings]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
-* [[Minimum settings]](https://github.com/carlmylo/docu-rpcs3/raw/gh-pages/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
+* [[Recommended settings]](https://rb3pc.milohax.org/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
+* [[Minimum settings]](https://rb3pc.milohax.org/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
 
 ## How to
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
