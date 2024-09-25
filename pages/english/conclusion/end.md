@@ -36,6 +36,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 * [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"}, and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for helping set up scenarios for tutorial pictures.
 * [[RPCS3 Wiki]](https://wiki.rpcs3.net/index.php?title=Main_Page){:target="_blank"} for initial information on controllers and USB passthrough.
 * [[TheNathannator's]](https://github.com/TheNathannator){:target="_blank"} [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand){:target="_blank"} for even better documentation on controllers.
+* [[The YARG team]]((https://yarg.in/)) for inspiring the new version of the guide's instrument documentation.
 * You, for reading this far into the guide. I hope your day went well.
 
 

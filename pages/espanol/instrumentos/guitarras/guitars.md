@@ -47,6 +47,6 @@ toc: false
 | L2 | | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") | |
 | L2 | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | | |
 | L3 | | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | |
-| Boton R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | No funciona |
+| Botón R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | No funciona |
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)

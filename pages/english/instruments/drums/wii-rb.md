@@ -14,8 +14,9 @@ toc: false
 
 ## NOTES
 
-* Works with or without the Pro Cymbal expansions.
-	* Make sure to tell the game which cymbals are connected in the Drum Options menu.
+* Works **with or without** the Pro Cymbal expansions.
+	* Make sure to configure which cymbals are connected within Rock Band 3.
+		* `Menu > Options > Drum Options`
 * Velocity sensitivity doesn't seem to work.
 
 ## Pad Informations

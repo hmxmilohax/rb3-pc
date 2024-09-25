@@ -39,7 +39,7 @@ toc: false
 | Circle (Circulo) | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/gh/rp.png "Parche Rojo") |
 | Square (Cuadro) | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/gh/bp.png "Parche Azul") |
 | Triangle (Triangulo) | ![Platillo Amarillo](https://rb3pc.milohax.org/images/btns/drms/gh/yc.png "Platillo Amarillo") |
-| Boton R1 | ![Platillo Naranja](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Platillo Naranja") |
+| Botón R1 | ![Platillo Naranja](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | Cross (Cruz) | ![Botón Cross (Cruz)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") |
 | Circle (Circulo) | ![Botón Circle (Circulo)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/o.png "Botón Circle (Circulo)") |

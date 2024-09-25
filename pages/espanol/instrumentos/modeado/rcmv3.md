@@ -64,7 +64,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| Boton R1 | ![Right Stick](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Right Stick") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
+| Botón R1 | ![Palanca izquierda](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

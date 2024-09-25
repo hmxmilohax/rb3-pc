@@ -14,17 +14,17 @@ toc: false
 
 [![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMilohax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "Milohax"){:target="_blank"}
 
-Milohax es una comunidad dedicada a modificar y preservar el legado de los juegos de Harmonix. Han estados involucrados en muchas cosas, como [[buscando y preservando copias beta]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilación]](https://decomp.milohax.org/#/about){:target="_blank"} y también ayudando a emuladores como RPCS3 or shadPS4 para mejorar como funcionan los juegos de Harmonix. 
+Milohax es una comunidad dedicada a modificar y preservar el legado de los juegos de Harmonix. Han estados involucrados en muchas cosas, como [[buscando y preservando copias beta]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilación]](https://decomp.milohax.org/#/about){:target="_blank"} y también ayudando a emuladores como RPCS3 o shadPS4 para mejorar como funcionan los juegos de Harmonix. 
 
-[Puedes \[unirte al servidor de MiloHax\]](https://discord.gg/milohax){:target="_blank"} aqui.
+[Puedes \[unirte al Discord de MiloHax\]](https://discord.gg/milohax){:target="_blank"} aquí.
 
 ## RBEnhanced
 
 [![RBEnhanced Logo](https://rb3pc.milohax.org/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced")
 
-Desarrolladores del increíble mod llamado RBEnhanced. Los mismos desarrolladores también ayudan y mantienen el servidor de GoCentral que fue la manera original de jugar Rock Band 3 en linea en Xbox, PS3, y Wii por el Momento.
+Desarrolladores del increíble mod llamado RBEnhanced. Los mismos desarrolladores también ayudan y mantienen el servidor de GoCentral que fue la manera original de jugar Rock Band 3 en linea en Xbox, PS3 y Wii por el Momento.
 
-Puedes [**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWXPYwb){:target="_blank"}.
+Puedes [**\[unirte al Discord de RBEnhanced aquí\]**](https://discord.gg/6rRUWXPYwb){:target="_blank"}.
 
 ## Agradecimientos
 
@@ -35,7 +35,9 @@ Puedes [**\[unirte al servidor de RBEnhanced Aqui\]**](https://discord.gg/6rRUWX
 * [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"} y [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} por ayudarme con las capturas de la guía.
 * [[La Wiki de RPCS3]](https://wiki.rpcs3.net/index.php?title=Main_Page){:target="_blank"} por información sobre los controles y de conexiones directas.
 * [[TheNathannator]](https://github.com/TheNathannator) por su [GitHub de PlasticBand](https://github.com/TheNathannator/PlasticBand) que fue una ayuda tremenda con lo de controles.
+* [[El equipo de YARG]](https://yarg.in/) por inspirar la nueva versión de la lista de instrumentos. ¡Juega YARG!
+* Tu, por leer esta guía. Espero que todo te fue bien.
 
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es).
+[![Licencia Creative Commons](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.es)  
+Este trabajo esta licenciado bajo [Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/deed.es).

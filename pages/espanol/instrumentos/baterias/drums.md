@@ -37,8 +37,8 @@ toc: false
 | Triangle (Triangulo) | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") | ![Platillo Amarillo](https://rb3pc.milohax.org/images/btns/drms/gh/yc.png "Platillo Amarillo") |
 | L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/gh/kp.png "Pedal/Kick") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") |
-| Boton R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") | ![Platillo Naranja](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Platillo Naranja") |
+| Botón R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") | ![Platillo Naranja](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Platillo Naranja") |
 | R3 | Modificador de Platillos | |
 | L3 | Modificador de Parches | |
 
-[[Regresar a baterías]](https://rb3pc.milohax.org/ctrls_drums)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)

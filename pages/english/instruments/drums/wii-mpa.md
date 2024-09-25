@@ -14,7 +14,8 @@ toc: false
 
 ## NOTES
 
-* Make sure to tell the game which cymbals are connected in the Drum Options menu.
+* Make sure to configure which cymbals are connected within Rock Band 3.
+	* `Menu > Options > Drum Options`
 * Velocity sensitivity doesn't seem to work.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
 

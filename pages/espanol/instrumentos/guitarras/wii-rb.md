@@ -42,9 +42,9 @@ toc: false
 | D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
 | D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Right Stick: <br/> Up/Down | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") |
+| Palanca izquierda: <br/> Up/Down | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") |
 | L2 | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") |
-| Boton R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
+| Botón R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
 | Start | ![Botón + (Mas)](https://rb3pc.milohax.org/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
 | Select | ![Botón - (Menos)](https://rb3pc.milohax.org/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/gtrs/home.png "Home") |

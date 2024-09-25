@@ -35,7 +35,7 @@ toc: false
 |:------------------:|:---------------------:|
 | L2 | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
 | L1 | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
-| Boton R1 | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
+| Botón R1 | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
 | R2 | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
 | Cross (Cruz) | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
 | Palanca Izquierda | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
@@ -47,7 +47,7 @@ toc: false
 |:--------:|:-------------------:|
 | L2 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | L1 | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Parche Rojo") |
-| Boton R1 | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| Botón R1 | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | R2 | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Parche Azul") |
 | Cross (Cruz) | ![Parche Verde](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Parche Verde") |
 

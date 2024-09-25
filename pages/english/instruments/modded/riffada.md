@@ -160,10 +160,6 @@ By default, XInput has most things bound correctly. You only need to remap the f
 </div>
 <!-- /.panel-group -->
 
-### Passthrough Mode
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
-
 ## Additional Notes
 The picoconfig preset binds a few things for a better experience with a PS4 Riffmaster.  
 - The "Boot" button on the Adafruit Feather RP2040 with USB Type A Host will act as a guide button as pressing and holding the guide button on the Riffmaster shuts it off.
@@ -182,6 +178,10 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modfeatherriffmapping.png" alt="Mapping" title="Mapping"></div>
+
+### Passthrough Mode
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 

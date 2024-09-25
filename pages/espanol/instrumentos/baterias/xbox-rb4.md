@@ -167,6 +167,6 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a baterías]](https://rb3pc.milohax.org/ctrls_drums)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

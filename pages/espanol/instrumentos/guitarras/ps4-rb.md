@@ -16,7 +16,7 @@ toc: false
 
 * El mapeo no esta confirmado. Si quieres ayudar con este, mándanos un mensaje.
 * **El ladeo (tilt), la palanca de whammy y el switch de efectos no funcionan** para nada. Los botones de solo no funcionan tampoco.
-	* Si eres dueño de una Riffmaster, recomendamos comprar algo como [[Adaptador de guitarra V3 Wii CON INCLINACIÓN para Clone Hero y RB4 (Rock Band 4)]](https://www.etsy.com/mx/listing/1536358024/adaptador-de-guitarra-v3-wii-con) o una [[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]](https://rb3pc.milohax.org/ctrls_mod_riffada_es) para tener ladeo (tilt), la palanca de whammy y el switch de efectos y para convertirla a una guitarra de multi-plataforma.
+	* Si eres dueño de una Riffmaster, recomendamos comprar algo como [[Adaptador de guitarra V3 Wii/USB por RetroCultMods]](https://www.etsy.com/listing/1536358024/adaptador-de-guitarra-v3-wii-con) o una [[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]](https://rb3pc.milohax.org/ctrls_mod_riffada_es) para tener ladeo (tilt), la palanca de whammy y el switch de efectos y para convertirla a una guitarra de multi-plataforma.
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")

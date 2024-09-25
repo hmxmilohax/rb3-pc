@@ -3,7 +3,7 @@ title: Baterías con Roll Limitless
 sidebar: controllers_es_sidebar
 permalink: ctrls_mod_rldrums_es
 folder: instrumentos
-tags: [modeado, baterias, espanol]
+tags: [modeado, baterias, midi-es, espanol]
 summary: "Como configurar tu batería con un Roll Limitless en RPCS3."
 toc: false
 ---
@@ -27,7 +27,7 @@ toc: false
 ![Una imagen del adaptador Roll Limitless, con el botón de inicio circulado en rojo.](https://rb3pc.milohax.org/images/instruments/xtra/rolllimitless/startbutton.png "Botón de inicio Roll Limitless")
 6. Verifica que Windows detecto el adaptador Roll Limitless correctamente. La manera mas fácil es buscar "Mando" en el menú de Inicio y abrir este panel de control.  
 ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
-7. Si no la detecto, asegúrate que presionaste y manteniste el boton de inicio redondo en el adaptador sostenido y intenta otra vez.
+7. Si no la detecto, asegúrate que presionaste y manteniste el Botón de inicio redondo en el adaptador sostenido y intenta otra vez.
 
 ## Mapeo:
 
@@ -39,7 +39,7 @@ toc: false
 | Triangle (Triangulo) | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") |
-| Boton R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
+| Botón R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
 | R3 | Modificador de Platillos |
 | L3 | Modificador de Parches |
 

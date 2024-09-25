@@ -121,10 +121,10 @@ Este perfil es inspirado por la configuración Pro de Fortnite Festival y Frets 
 | `3` | Square (Cuadro) | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
 | `4` | Triangle (Triangulo) | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
 | `5` | L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
-| `L` y `Arriba` | D-Pad (Cruceta) <br> Up | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| `P` y `Izquierda` | D-Pad (Cruceta) <br> Down | ![Rasgueo hacia abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo hacia abajo") |
+| `L` y `Arriba` | D-Pad (Cruceta) <br> Arriba | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| `P` y `Izquierda` | D-Pad (Cruceta) <br> Abajo | ![Rasgueo hacia abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo hacia abajo") |
 | `W`, `A`, `S` y `D`  | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación |
-| `;` y `Abajo` | Right Stick: <br> Right | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
+| `;` y `Abajo` | Palanca izquierda: <br> Derecha | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
 | `'` y `Derecha` | Select | Sobrecarga |
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapeo" title="Mapeo"></div>

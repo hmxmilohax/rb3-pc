@@ -15,8 +15,9 @@ toc: false
 ## NOTES
 
 * **This is for unknown controllers.** You may have to use try different handlers until your controller is detected.
-* To play Guitar/Bass/Keys on a Controller (Padtar), you will need Rock Band 3 Deluxe so you can pick them.
-	- Additionally you can configure the layout within Rock Band 3 Deluxe's Advanced settings in-game.
+* To play Guitar/Bass/Keys/Drums parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
+	- You can also rebind your controller within Deluxe.  
+	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
 ## Pad Information
 

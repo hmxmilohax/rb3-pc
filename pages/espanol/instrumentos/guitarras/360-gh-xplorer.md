@@ -66,7 +66,7 @@ Usa el click derecho para borrar botones.
 | D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
 | Palanca Derecha: Abajo | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") |
-| Boton R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
+| Botón R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") |
 | Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Back](https://rb3pc.milohax.org/images/btns/ctrls/360/back.png "Back") |
 | Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/ctrls/360/home.png "Home") |

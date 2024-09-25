@@ -43,7 +43,7 @@ toc: false
 | R3 | Modificador de Platillos |
 | L3 | Modificador de Parches |
 | L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| Boton R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
+| Botón R1 | ![Segundo Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
 | Cross (Cruz) | ![Botón A](https://rb3pc.milohax.org/images/btns/ctrls/wii/a.png "Botón A") |
 | Circle (Circulo) | ![Botón B](https://rb3pc.milohax.org/images/btns/ctrls/wii/b.png "Botón B") |
 | Square (Cuadro) | ![Botón 1](https://rb3pc.milohax.org/images/btns/ctrls/wii/1.png "Botón 1") |

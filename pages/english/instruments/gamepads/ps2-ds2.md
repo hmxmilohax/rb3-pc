@@ -16,9 +16,11 @@ toc: false
 
 * There is no binding file as it varies too much per computer.
 * This has only been verified to work with an OSTENT PS1 PS2 To PC USB 2.0 Controller Adapter Converter For Sony PS2 Wired Controller (Model Number/SKU: 014800)
-* To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
+* To play Guitar/Bass/Keys/Drums parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
+	- You can also rebind your controller within Deluxe.  
+	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
 ## Pad Information
 

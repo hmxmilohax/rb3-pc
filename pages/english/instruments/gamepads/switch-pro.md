@@ -17,9 +17,11 @@ toc: false
 * Nintendo Switch Pro controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 * Nintendo Switch Pro controllers have a Japanese layout. This may cause problems with muscle memory.
 	* To make the your experience more comfortable, the mapping information below reverses A/B and X/Y. 
-* To play Guitar/Bass/Keys parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
+* To play Guitar/Bass/Keys/Drums parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.
+	- You can also rebind your controller within Deluxe.  
+	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
 ## Pad Information
 

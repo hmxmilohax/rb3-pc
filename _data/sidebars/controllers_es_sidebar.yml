@@ -156,7 +156,7 @@ entries:
       type: homepage
 
     - title: Guitarras de Guitar Hero para Xbox 360
-      url: /ctrls_ghgtr_360
+      url: /ctrls_ghgtr_360_es
       output: web
       type: homepage
 
@@ -186,7 +186,7 @@ entries:
       type: homepage
 
     - title: Guitarras de GH:World Tour y despues para PlayStation 3
-      url: /ctrls_ghwtgtr_ps3
+      url: /ctrls_ghwtgtr_ps3_es
       output: web
       type: homepage
 
@@ -224,7 +224,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Adaptador V3 de Wii RetroCultMods
+    - title: Adaptador V3 de RetroCultMods
       url: /ctrls_mod_rcmv3_es
       output: web
       type: homepage

@@ -226,7 +226,7 @@ entries:
       output: web
       type: homepage
 
-    - title: RetroCultMods V3 Wii Adapter
+    - title: RetroCultMods V3 Adapter
       url: /ctrls_mod_rcmv3
       output: web
       type: homepage

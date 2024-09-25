@@ -15,7 +15,7 @@ toc: false
 ## NOTAS:
 
 * Mandos DualShock 3 de PlayStation 3 pueden ser conectados por USB o por Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
-* Esto solo ha sido probado con  **DsHidMini. **¡NO INSTALES A ScpToolKit PORQUE ES OBSOLETO!**
+* Esto solo ha sido probado con  **DsHidMini. ¡NO INSTALES A ScpToolKit PORQUE ES OBSOLETO!**
 	* Mas informacion (en Ingles) esta en la [[pagina de ayuda de RPCS3]](https://wiki.rpcs3.net/index.php?title=Help:Controller_Configuration#Using_DualShock_3_controller).
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).

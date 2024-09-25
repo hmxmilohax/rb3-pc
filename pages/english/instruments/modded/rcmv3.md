@@ -1,5 +1,5 @@
 ---
-title: RetroCultMods V3 Wii Adapter Guitars
+title: RetroCultMods V3 Adapter Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_mod_rcmv3
 folder: instruments
