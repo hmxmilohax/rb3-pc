@@ -14,7 +14,7 @@ To begin with, make sure you have the correct dongle or the MIDI PRO Adapter.
 
 | **Mustang Guitar<br>Dongle** | **Wireless Keyboard<br>Dongle** | **MIDI PRO Adapter<br>(Each Mode)** |
 |:------------------:|:---------------------:|:---------------------:|
-| ![Dongle for the RB3 Mustang Guitar](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recprotar.png "Dongle for the RB3 Mustang Guitar") | ![Dongle for the RB3 Wireless Keyboard](https://rb3pc.milohax.org/images/btns/ctrls/ps3/reckeys.png "Dongle for the RB3 Wireless Keyboard") ![MIDI PRO Adapter](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recmpa.png "MIDI PRO Adapter")
+| ![Dongle for the RB3 Mustang Guitar](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recprotar.png "Dongle for the RB3 Mustang Guitar") | ![Dongle for the RB3 Wireless Keyboard](https://rb3pc.milohax.org/images/btns/ctrls/ps3/reckeys.png "Dongle for the RB3 Wireless Keyboard") | ![MIDI PRO Adapter](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recmpa.png "MIDI PRO Adapter")
 
 **Please note that you will need to repeat this process three times for each mode on the MIDI PRO Adapter!**
 
