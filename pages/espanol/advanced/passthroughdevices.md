@@ -8,15 +8,17 @@ summary: "Como configurar controles para tener conexión directa para RPCS3."
 toc: false
 ---
 
-Jugando con un Teclado o Guitarra Pro (Mustang) de PlayStation 3 es fácil. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador.
+Jugando con un Teclado o Guitarra Pro (Mustang) con sus receptores de PlayStation 3 es fácil. Igualmente si tienes un adaptador MIDI PRO para PlayStation 3. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador.
 
-Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento.
+Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento o el adaptador MIDI PRO.
 
-| **Receptor para la<br>guitarra Mustang** | **Receptor para el<br>teclado inalámbrico** |
-|:------------------:|:---------------------:|
-| ![Receptor para la guitarra Mustang](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recprotar.png "Receptor para la guitarra Mustang") | ![Receptor para el teclado inalámbrico](https://rb3pc.milohax.org/images/btns/ctrls/ps3/reckeys.png "Receptor para el teclado inalámbrico") |
+| **Receptor para la<br>guitarra Mustang** | **Receptor para el<br>teclado inalámbrico** | **Adaptador MIDI PRO<br>(Cada modo)** |
+|:------------------:|:---------------------:|:---------------------:|
+| ![Receptor para la guitarra Mustang](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recprotar.png "Receptor para la guitarra Mustang") | ![Receptor para el teclado inalámbrico](https://rb3pc.milohax.org/images/btns/ctrls/ps3/reckeys.png "Receptor para el teclado inalámbrico") | ![Adaptador MIDI PRO](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recmpa.png "Adaptador MIDI PRO") |
 
-Después de comprobar que tengas el receptor correcto, **cierra RPCS3** y conecta el receptor del instrumento a tu computadora.
+**¡Toma en cuenta que tienes que repetir este proceso tres veces para cada "modo" del adaptador MIDI PRO!**
+
+Después de comprobar que tengas el receptor o adaptador MIDI PRO correcto, **cierra RPCS3 y conecta el receptor del instrumento o adaptador MIDI PRO** a tu computadora.
 
 Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/){:target="_blank"} y **descárgalo**. Cuando termine de bajar, **ábrelo**.
 [![Una captura de la pagina de Zadig](https://rb3pc.milohax.org/images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
@@ -30,7 +32,7 @@ Deberías ver una lista de dispositivos ahora. **Selecciona tu Instrumento Pro d
 Después de seleccionar el dispositivo correcto, deberías ver la opción para reemplazar el controlador. **ASEGÚRATE DE QUE SOLO ESTÁS REEMPLAZANDO EL CONTROLADOR DEL INSTRUMENTO PRO DE ROCK BAND 3**. **Haz click en "Replace Driver" (Reemplazar controlador)**.  
 ![Una captura de Zadig con "Reemplazar controlador" resaltado.](https://rb3pc.milohax.org/images/pass/zadigreplace.png "Zadig: Reemplazar controlador")
 
-Va a parecer una advertencia. **Nuevamente, asegúrate de haber seleccionado tu Guitarra Mustang Pro o teclado de Rock Band 3.** Después de haberlo verificado, haz click en "**Yes**" (Sí).  
+Va a parecer una advertencia. **Otra vez, asegúrate de haber seleccionado el receptor/adaptador de tu instrumento Pro de Rock Band 3.** Después de haberlo verificado, haz click en "**Yes**" (Sí).  
 ![Una captura de Zadig advirtiendo al usuario que está a punto de modificar un controlador del sistema, con "Sí" resaltado](https://rb3pc.milohax.org/images/pass/zadigreplace.png "Zadig: Advertencia - Controlador del sistema")
 
 Luego, se instalará el controlador. Como dice el programa, esto puede llevar algunos minutos.  
@@ -39,7 +41,7 @@ Luego, se instalará el controlador. Como dice el programa, esto puede llevar al
 Si todo sale bien, verás este mensaje:  
 ![Una captura de Zadig que indica al usuario que el controlador se instaló correctamente, con "Cerrar" resaltado.](https://rb3pc.milohax.org/images/pass/zadigdone.png "Zadig: Éxito")
 
-**Cierra Zadig** y, con el receptor todavía conectado, **abre RPCS3** y **abre Rock Band 3**.
+**Cierra Zadig** y, con el receptor/adaptador todavía conectado, **abre RPCS3** y **abre Rock Band 3**.
 
 Enciende tu controlador y deberías ver que automáticamente se le asigna un número de jugador.
 ![Una imagen de una Guitarra Mustang Pro con el LED del segundo jugador encendido.](https://rb3pc.milohax.org/images/pass/protaron.png "Guitarra Mustang Pro de Fender: Jugador 2")
