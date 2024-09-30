@@ -19,7 +19,9 @@ First, **right click on Rock Band 3** in RPCS3, then click on "**Change Custom C
 
 In the GPU tab:
 * Set "`Framelimit`" to "`Off`"
-* Set "`VSync`" to "`Off`"
+* Set "`VSync`" to "`Off`"  
+
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Framelimit and VSync in blue with a dotted outline.](https://rb3pc.milohax.org/images/xtra/rtss/rpcs3disable.png "GPU")
 
 Don't forget to click "`Apply`" and "`Save custom configuration`" after.  
 When you're done, close out RPCS3.
@@ -40,7 +42,8 @@ Go the Start menu and search for `RivaTuner Statistics Server` or `RTSS`. Both s
 When RTSS opens, you will be on the `Global` profile by default.  
 In this profile:
 * Set `Application detection level` to `None`.
-* Set `Show On-Screen Display` to `Off`.
+* Set `Show On-Screen Display` to `Off`.  
+
 ![A screenshot of RivaTuner Statistics Server, showing "Show On-Screen Display", "Application detection level", and "Add" highlighted in blue with a dotted outline.](https://rb3pc.milohax.org/images/xtra/rtss/rtssglobal.png "Rivatuner Statistics Server: Global")
 
 Click on `Add` when you're done.  
@@ -58,3 +61,7 @@ In this profile:
 
 After setting up RTSS, you can now just open it up whenever you want to limit your framerate without having judder!  
 If you're feeling lazy, you can even have it set to Start with Windows so you never have to do this manually.
+
+For the best results, turn VSync off in Rock Band 3 through Deluxe's Graphics options menu:
+* `Menu > Options > Deluxe Settings > Graphics > VSync`  
+![A screenshot of Rock Band 3 Deluxe's Graphics menu. VSync is selected and set to off](https://rb3pc.milohax.org/images/xtra/rtss/rb3vsync.png "VSync: Off")

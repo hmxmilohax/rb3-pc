@@ -34,13 +34,21 @@ In the installer:
 2. Click `Install now`  
 ![A screenshot of Python's installer. "Add python.exe to PATH" and "Install now" are highlighted in tan with a dotted black outline.](https://rb3pc.milohax.org/images/xtra/rpc/pyinstall.png "Python 3.12.6")
 
-After that finishes downloading, download [[`dx_config_default.ini`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini) and [[`dx_discordrp.py`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py).
-
-* [[Click here to download `dx_config_default.ini`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini)
-
-* [[Click here to download `dx_discordrp.py`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py)
+<p>After that finishes downloading, download <a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[<code>dx_config_default.ini</code>]</a> and <a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[<code>dx_discordrp.py</code>]</a>.</p>
+<ul>
+<li>
+<p><a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[Click here to download <code>dx_config_default.ini</code>]</a></p>
+</li>
+<li>
+<p><a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[Click here to download <code>dx_discordrp.py</code>]</a></p>
+</li>
+</ul>
 
 ![A screenshot of "dx_config_default.ini" and "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+
+<a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[<code>dx_config_default.ini</code>]</a>
+
+<a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[<code>dx_discordrp.py</code>]</a>
 
 Put them in a folder of your preference. Since you'll need to launch this every time you want to do this, it should in an easy to reach spot.
 
