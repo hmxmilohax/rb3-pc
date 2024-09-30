@@ -1,5 +1,5 @@
 ---
-title: Problemas Visuales
+title: Objetos Bugeados
 sidebar: espanol_sidebar
 permalink: trbl_teleprob_es
 folder: espanol
@@ -19,6 +19,8 @@ Extrae el archivo `rb3_ps3_guitar_glitch_fix.7z`. Mueve esta pantalla para un la
 
 Ahora, ve a la carpeta donde esta tu disco.  
 La manera mas rápida de encontrarla es por RPCS3. Haz click derecho en Rock Band 3 y después en `Open Folder > Open Disc Game Folder`. Arrastra esta pantalla para la izquierda.
+
+.
 
 ![Una captura de RPCS3, con el cursor sobre Open Game Folder, dentro del menú despegable de Open Folder.](https://rb3pc.milohax.org/images/trbl/teleprob/patchgames.png "RPCS3")
 

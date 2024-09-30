@@ -16,7 +16,7 @@ toc: false
 
 * **Do NOT map this instrument via the "Pads" menu.**
 * Your MIDI Drum Kit needs to:
-	* **be set to MIDI Channel 10**
+	* **be set to MIDI Channel 10.**
 	* **be set to standard GM mapping.**  
 These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.

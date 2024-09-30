@@ -127,6 +127,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Objetos Bugeados
+      url: /trbl_teleprob_es
+      output: web
+      type: homepage
+
     - title: Internet
       url: /trbl_online_es
       output: web
@@ -172,7 +177,15 @@ entries:
       url: /adv_movedir_es
       output: web
 
-    - title: Add Custom Textures to Rock Band 3 Deluxe
+    - title: Status en Discord
+      url: /adv_discordrp_es
+      output: web
+
+    - title: Fotogramas Fluidas
+      url: /adv_rtss_es
+      output: web
+
+    - title: Texturas Personalizada
       url: /adv_customtex_es
       output: web
 

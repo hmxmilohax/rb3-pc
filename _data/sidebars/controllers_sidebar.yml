@@ -405,6 +405,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Teleporting Items
+      url: /trbl_teleprob
+      output: web
+      type: homepage
+
     - title: Online
       url: /trbl_online
       output: web
@@ -446,12 +451,20 @@ entries:
       url: /adv_customsongs
       output: web
 
-    - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex
-      output: web
-
     - title: Move Game Files
       url: /adv_movedir
+      output: web
+
+    - title: Discord Rich Presence
+      url: /adv_discordrp
+      output: web
+
+    - title: Improve frame-pacing with RTSS
+      url: /adv_rtss
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
       output: web
 
   - title: Conclusion

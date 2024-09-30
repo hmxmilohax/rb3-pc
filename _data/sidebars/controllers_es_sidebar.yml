@@ -408,6 +408,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Objetos Bugeados
+      url: /trbl_teleprob_es
+      output: web
+      type: homepage
+
     - title: Internet
       url: /trbl_online_es
       output: web
@@ -451,6 +456,14 @@ entries:
 
     - title: Mover archivos de el juego
       url: /adv_movedir_es
+      output: web
+
+    - title: Status en Discord
+      url: /adv_discordrp_es
+      output: web
+
+    - title: Fotogramas Fluidas
+      url: /adv_rtss_es
       output: web
 
     - title: Texturas Personalizada
