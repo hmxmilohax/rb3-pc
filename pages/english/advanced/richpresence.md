@@ -30,41 +30,51 @@ Now, you'll need to download the latest version of [[Python 3]](https://www.pyth
 
 Once it finishes downloading, open the installer.  
 In the installer:
-1. Click `Add python.exe to PATH`
+1. Activate `Add python.exe to PATH`
 2. Click `Install now`  
 ![A screenshot of Python's installer. "Add python.exe to PATH" and "Install now" are highlighted in tan with a dotted black outline.](https://rb3pc.milohax.org/images/xtra/rpc/pyinstall.png "Python 3.12.6")
 
-<p>After that finishes downloading, download <a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[<code>dx_config_default.ini</code>]</a> and <a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[<code>dx_discordrp.py</code>]</a>.</p>
-<ul>
-<li>
-<p><a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[Click here to download <code>dx_config_default.ini</code>]</a></p>
-</li>
-<li>
-<p><a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[Click here to download <code>dx_discordrp.py</code>]</a></p>
-</li>
-</ul>
+After that finishes installing, you'll need to download the `dx_discordrp.py` script.
 
-![A screenshot of "dx_config_default.ini" and "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+[[Right click here and then "Save link as" to download `dx_discordrp.py`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py)
 
-<a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_config_default.ini" download>[<code>dx_config_default.ini</code>]</a>
+![A screenshot of a user right clicking on "dx_discordrp.py" then on hovering their cursor over "Save link as".](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+
+![A screenshot of "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
 
 <a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[<code>dx_discordrp.py</code>]</a>
 
-Put them in a folder of your preference. Since you'll need to launch this every time you want to do this, it should in an easy to reach spot.
+Put it in a folder of your preference. Since you'll need to launch this every time you want to do this, it should in an easy to reach spot.
 
-Once in the folder, make a copy of `dx_config_default` and rename it `dx_config`.  
-![A GIF of a copy of "dx_config_default" being created then being renamed to "dx_config".](https://rb3pc.milohax.org/images/xtra/rpc/inicopy.gif "Creating a copy")
+Go into the folder where you dropped the file and, in the address bar at the top of your file browser window, type in `cmd` then press the Enter key.
+![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/cmdopen.png "Windows Explorer")
 
-Open the `dx_config` file you just renamed.
+Once the command line window opens up, type in:  
+`pip install requests pypresence pylast`  
+![A screenshot of a Windows command line, with it runing the "pip install requests pypresence pylast" command.](https://rb3pc.milohax.org/images/xtra/rpc/cmdpip.png "cmd.exe")
 
-Remove the `#` from the line with `rpcs3_path`  
-Put the folder where `/dev_hdd0/` is within quotes. This is usually the same folder as your RPCS3 installation.  
-If you followed the suggestion to put RPCS3 in `C:\Games`, you simply have to remove the `#` and nothing else.  
-![A screenshot of "dx_config_default.ini" and "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/iniedit.png "dx_config.ini")
+After it has successfully installed the dependencies, type in:
+`dx_discordrp.py`  
+into the command line and press the Enter key.
 
-Save your changes and close the file out.
+It will ask you to setup a path or Xbox console IP.  
+Type in `1` and press Enter (unless you want to set up a modded Xbox 360 along with this script).
+![A screenshot of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to select a platform.](https://rb3pc.milohax.org/images/xtra/rpc/cmddrp.png "cmd.exe")
 
-## Usage
+
+After that, you will be asked to enter the path to your RPCS3 installation.  
+Drag and drop the RPCS3 folder into the command window then press the Enter key.  
+**If there are quotes around the path, remove them!**  
+
+It will ask you once again if you want to set up an Xbox console IP.  
+Press `2` then the Enter key if you're not interested.
+
+It will start updating your presence and will continue to do so until you close it out.  
+![A screenshot of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to select a platform.](https://rb3pc.milohax.org/images/xtra/rpc/cmdinit.gif "cmd.exe")
+
+## Future Usage
+
+After the initial setup, you won't have to set up anything when you open the file again.
 
 In the address bar at the top of your file browser window, type in `cmd` then press the Enter key.
 ![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/cmdopen.png "Windows Explorer")
@@ -72,7 +82,7 @@ In the address bar at the top of your file browser window, type in `cmd` then pr
 Once the command line window opens up, type in `py dx_discord.py` and press the Enter key.
 
 If you did everything right, it should show that it has connected to Discord RPC successfully and that it's updating presence.  
-![A screenshot of a Windows command line, with it running the Discord Rich Presence script.](https://rb3pc.milohax.org/images/xtra/rpc/iniedit.png "cmd.exe")
+![A screenshot of a Windows command line, with it running the Discord Rich Presence script.](https://rb3pc.milohax.org/images/xtra/rpc/cmdrun.png "cmd.exe")
 
 That's it! Remember to close it out after you're done and to repeat this when you want to open this up again.
 
