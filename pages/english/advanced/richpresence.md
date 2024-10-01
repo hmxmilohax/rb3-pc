@@ -12,14 +12,14 @@ Want to show off to others what song you're in or just want to share the love of
 You can do this with the Rich Presence script made for Rock Band 3 Deluxe.  
 ![A screenshot of a blank Discord profile showing that they're playing Rock Band 3 Deluxe and in Bodhisattva by Steely Dan on drums.](https://rb3pc.milohax.org/images/xtra/rpc/discordrp.png "Discord Rich Presence")
 
-## Initial Setup
+## Initial Setup:
 
 First, we're going to disable RPCS3's presence because it will conflict and look weird.
 
 Click the `Config` button.  
 ![A screenshot of RPCS3 with the cursor hovering over "Config"](https://rb3pc.milohax.org/images/xtra/rpc/rpcs3config.png "RPCS3")
 
-Under the `GUI` tab, disable `Use Discord Rich Presence` .  
+Under the `GUI` tab, disable `Use Discord Rich Presence`.  
 ![A screenshot of RPCS3 with the "Use Discord Rich Presence" checkbox disabled.](https://rb3pc.milohax.org/images/xtra/rpc/rpcs3drpoff.png "RPCS3: Settings")
 
 Now, you'll need to download the latest version of [[Python 3]](https://www.python.org/downloads/){:target="_blank"}.
@@ -29,7 +29,7 @@ Now, you'll need to download the latest version of [[Python 3]](https://www.pyth
 ![A screenshot of Python download website. A cursor hovers over "Download Python 3.12.6.](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png "Python 3.12.6")
 
 Once it finishes downloading, open the installer.  
-In the installer:
+In the installer:  
 1. Activate `Add python.exe to PATH`
 2. Click `Install now`  
 ![A screenshot of Python's installer. "Add python.exe to PATH" and "Install now" are highlighted in tan with a dotted black outline.](https://rb3pc.milohax.org/images/xtra/rpc/pyinstall.png "Python 3.12.6")
@@ -38,29 +38,26 @@ After that finishes installing, you'll need to download the `dx_discordrp.py` sc
 
 [[Right click here and then "Save link as" to download `dx_discordrp.py`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py)
 
-![A screenshot of a user right clicking on "dx_discordrp.py" then on hovering their cursor over "Save link as".](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+![A screenshot of a user right clicking on "dx_discordrp.py" then on hovering their cursor over "Save link as".](https://rb3pc.milohax.org/images/xtra/rpc/drpdl.png "Save link as")
 
 ![A screenshot of "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
 
-<a href="https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py" download>[<code>dx_discordrp.py</code>]</a>
-
 Put it in a folder of your preference. Since you'll need to launch this every time you want to do this, it should in an easy to reach spot.
 
-Go into the folder where you dropped the file and, in the address bar at the top of your file browser window, type in `cmd` then press the Enter key.
+Go into the folder where you dropped the file and, in the address bar at the top of your file browser window, type in `cmd` then press the Enter key.  
 ![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/cmdopen.png "Windows Explorer")
 
 Once the command line window opens up, type in:  
 `pip install requests pypresence pylast`  
 ![A screenshot of a Windows command line, with it runing the "pip install requests pypresence pylast" command.](https://rb3pc.milohax.org/images/xtra/rpc/cmdpip.png "cmd.exe")
 
-After it has successfully installed the dependencies, type in:
+After it has successfully installed the dependencies, type in:  
 `dx_discordrp.py`  
-into the command line and press the Enter key.
+into the command line and press the Enter key.  
 
 It will ask you to setup a path or Xbox console IP.  
-Type in `1` and press Enter (unless you want to set up a modded Xbox 360 along with this script).
+Type in `1` and press Enter (unless you want to set up a modded Xbox 360 along with this script).  
 ![A screenshot of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to select a platform.](https://rb3pc.milohax.org/images/xtra/rpc/cmddrp.png "cmd.exe")
-
 
 After that, you will be asked to enter the path to your RPCS3 installation.  
 Drag and drop the RPCS3 folder into the command window then press the Enter key.  
@@ -72,11 +69,11 @@ Press `2` then the Enter key if you're not interested.
 It will start updating your presence and will continue to do so until you close it out.  
 ![A screenshot of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to select a platform.](https://rb3pc.milohax.org/images/xtra/rpc/cmdinit.gif "cmd.exe")
 
-## Future Usage
+## Future Usage:
 
 After the initial setup, you won't have to set up anything when you open the file again.
 
-In the address bar at the top of your file browser window, type in `cmd` then press the Enter key.
+In the address bar at the top of your file browser window, type in `cmd` then press the Enter key.  
 ![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/cmdopen.png "Windows Explorer")
 
 Once the command line window opens up, type in `py dx_discord.py` and press the Enter key.
