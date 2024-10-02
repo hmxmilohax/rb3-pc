@@ -10,13 +10,13 @@ toc: false
 
 Want to show off to others what song you're in or just want to share the love of Rock Band 3 Deluxe?  
 You can do this with the Rich Presence script made for Rock Band 3 Deluxe.  
-![A screenshot of a blank Discord profile showing that they're playing Rock Band 3 Deluxe and in Bodhisattva by Steely Dan on drums.](https://rb3pc.milohax.org/images/xtra/rpc/discordrp.png "Discord Rich Presence")
+![A screenshot of a Discord profile showing that they're playing Rock Band 3 Deluxe.](https://rb3pc.milohax.org/images/xtra/rpc/discordrp.png "Discord Rich Presence")
 
 ## Initial Setup:
 
 First, we're going to disable RPCS3's presence because it will conflict and look weird.
 
-Click the `Config` button.  
+Open up RPCS3 then click on the `Config` button at the top.  
 ![A screenshot of RPCS3 with the cursor hovering over "Config"](https://rb3pc.milohax.org/images/xtra/rpc/rpcs3config.png "RPCS3")
 
 Under the `GUI` tab, disable `Use Discord Rich Presence`.  
@@ -52,7 +52,7 @@ Once the command line window opens up, type in:
 ![A screenshot of a Windows command line, with it runing the "pip install requests pypresence pylast" command.](https://rb3pc.milohax.org/images/xtra/rpc/cmdpip.png "cmd.exe")
 
 After it has successfully installed the dependencies, type in:  
-`dx_discordrp.py`  
+`py dx_discordrp.py`  
 into the command line and press the Enter key.  
 
 It will ask you to setup a path or Xbox console IP.  
@@ -67,23 +67,23 @@ It will ask you once again if you want to set up an Xbox console IP.
 Press `2` then the Enter key if you're not interested.
 
 It will start updating your presence and will continue to do so until you close it out.  
-![A screenshot of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to select a platform.](https://rb3pc.milohax.org/images/xtra/rpc/cmdinit.gif "cmd.exe")
+![A GIF of a Windows command line, with it runing the "py dx_discordrp.py" script. It asks the user to input the RPCS3 path.](https://rb3pc.milohax.org/images/xtra/rpc/cmdinit.gif "cmd.exe")
 
 ## Future Usage:
 
 After the initial setup, you won't have to set up anything when you open the file again.
 
-In the address bar at the top of your file browser window, type in `cmd` then press the Enter key.  
-![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/cmdopen.png "Windows Explorer")
-
-Once the command line window opens up, type in `py dx_discord.py` and press the Enter key.
+All you have to do is double click the `dx_discordrp.py` file.  
+![A screenshot of a file browser window with "cmd" typed into the address bar.](https://rb3pc.milohax.org/images/xtra/rpc/pyopen.png "Windows Explorer")
 
 If you did everything right, it should show that it has connected to Discord RPC successfully and that it's updating presence.  
-![A screenshot of a Windows command line, with it running the Discord Rich Presence script.](https://rb3pc.milohax.org/images/xtra/rpc/cmdrun.png "cmd.exe")
+![A screenshot of a Windows command line, with it running the Discord Rich Presence script.](https://rb3pc.milohax.org/images/xtra/rpc/pyrun.png "cmd.exe")
 
 That's it! Remember to close it out after you're done and to repeat this when you want to open this up again.
 
+If it doesn't open correctly, make sure that you've set Python as the default application for `.py` files.  
+![A screenshot of a Windows' default application selection. Python is selected and the cursor is over "Set Default."](https://rb3pc.milohax.org/images/xtra/rpc/pyrun.png "cmd.exe")
+
+If you're on [[the Milohax Discord]](https://discord.gg/milohax), you can use the `!richpresence` for more information, like getting a "Warped"/"Your Year in Review" stats and how to set it up for Xbox 360!
+
 {% include links.html %}
-
-
-
