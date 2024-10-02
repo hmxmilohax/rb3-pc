@@ -8,60 +8,64 @@ summary: "Como agregar mas canciones Rock Band 3."
 toc: false
 ---
 
-Rock Band 3 is a game that benefits from having a smooth frame rate as judder can make it distracting to read the note track. RPCS3's frame limiter sometimes isn't up to the task. To fix this, you'll need to Rivatuner Statistics Server (or RTSS).
+Rock Band 3 es un juego en cual se requiere tener FPS fluidas. Cada vez que hay un tirón o inestabilidad, la pista de notas se vera rara, cual puede causar distracciones. Aveces, el limitador de fotogramas de RPCS3 no ayuda con esto. Para arreglar esto, puedes usar Rivatuner Statistics Server (o RTSS).
 
-## Initial Setup:
+## Configuración Inicial:
 
-For this to work correctly, you'll first need to change some things in RPCS3.
+Para que todo funcione bien, primero debes de cambiar unas cosas en RPCS3.
 
-First, **right click on Rock Band 3** in RPCS3, then click on "**Change Custom Configuration**".  
-![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+Primero, **haz click derecho en Rock Band 3** en RPCS3, luego presiona “**Change Custom Configuration**” (Cambiar Configuración Personalizada)  
+![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-In the GPU tab:
-* Set "`Framelimit`" to "`Off`"
-* Set "`VSync`" to "`Off`"  
+En la pestaña de GPU:
+* Cambia "`Framelimit`" a "`Off`"
+* Desactiva la opción de "`VSync`" si la tienes activada.  
 
-![A screenshot of Rock Band 3's GPU custom settings, highlighting Framelimit and VSync in blue with a dotted outline.](https://rb3pc.milohax.org/images/xtra/rtss/rpcs3disable.png "GPU")
+![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "VSync" y "VSync" en un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/xtra/rtss/rpcs3disable.png "GPU")
 
-Don't forget to click "`Apply`" and "`Save custom configuration`" after.  
-When you're done, close out RPCS3.
+¡Recuerda de hacer click en "`Apply`" y luego "`Save custom configuration`" después de hacer ajustes!  
+Cuando termines, cierra RPCS3.
 
-Now, go to [[Rivatuner Statistics Server's download page.]](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/).  
-Click here to go to [[Rivatuner Statistics Server's download page.]](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)  
-![A screenshot of RTSS' download website. The cursor is hovering "Download Version 7.3.6 Final"](https://rb3pc.milohax.org/images/xtra/rtss/rtssdl.png "Guru3D RTSS Rivatuner Statistics Server Download 7.3.6 Final")
+Ahora, ve al [[sitio de descarga para Rivatuner Statistics Server.]](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/).  
+Haz click aquí para ir al [[sitio de descarga para Rivatuner Statistics Server.]](https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/)  
+![Una captura del sitio de descarga para Rivatuner Statistics Server. El cursor esta sobre  "Download Version 7.3.6 Final."](https://rb3pc.milohax.org/images/xtra/rtss/rtssdl.png "Guru3D RTSS Rivatuner Statistics Server Download 7.3.6 Final")
 
-It should start downloading a `.zip` archive shortly after.  
-![A screenshot of RTSS' .zip folder that contains the installer.](https://rb3pc.milohax.org/images/xtra/rtss/rtssdlbrowser.png "[Guru3D.com]-RTSS.zip")
 
-When it finishes downloading, open the installer and install RTSS. 
-![A screenshot of RTSS' .zip folder that contains the installer.](https://rb3pc.milohax.org/images/xtra/rtss/install6.png "[Guru3D.com]-RTSS.zip")
+Se va descargar un archivo `.zip` después de un poco tiempo.  
+![Una captura con el archivo .zip de RTSS que contiene el instalador.](https://rb3pc.milohax.org/images/xtra/rtss/rtssdlbrowseres.png "[Guru3D.com]-RTSS.zip")
 
-Go the Start menu and search for `RivaTuner Statistics Server` or `RTSS`. Both should give you the app. Open it.  
-![A screenshot of the Start Menu, with "RivaTuner Statistics Server" in the search results.](https://rb3pc.milohax.org/images/xtra/rtss/rtssstart.png "Start search")
+Cuando termine de descargar, abre el instalador dentro del archivo `.zip` y instálalo.
+![Una captura del instalador de RTSS, en la ultima pagina.](https://rb3pc.milohax.org/images/xtra/rtss/install6.png "[Guru3D.com]-RTSS.zip")
 
-When RTSS opens, you will be on the `Global` profile by default.  
-In this profile:
-* Set `Application detection level` to `None`.
-* Set `Show On-Screen Display` to `Off`.  
+Ve al menú de Inicio y busca "`RivaTuner Statistics Server`" o "`RTSS`" para abrir la aplicación.  
+![Una captura del menu de Inicio buscando "RivaTuner Statistics Server".](https://rb3pc.milohax.org/images/xtra/rtss/rtssstartes.png "Start search")
 
-![A screenshot of RivaTuner Statistics Server, showing "Show On-Screen Display", "Application detection level", and "Add" highlighted in blue with a dotted outline.](https://rb3pc.milohax.org/images/xtra/rtss/rtssglobal.png "Rivatuner Statistics Server: Global")
 
-Click on `Add` when you're done.  
-A file browser window will open. Find where you have RPCS3 located and select the `rpcs3` application.
-![A screenshot of a file browser titled "Open". RPCS3 is selected and a cursor is over it.](https://rb3pc.milohax.org/images/xtra/rtss/rtssaddrpcs3.png "Open")
+Cuando se abra RTSS, estaras en el perfil `Global` por defecto.  
+En este perfil:
+* Cambia "`Application detection level`" a `None`.
+* Cambia "`Show On-Screen Display`" a `Off`.  
 
-When you add RPCS3, you'll be on the `rpcs3.exe` profile.
-In this profile:
-* Set `Application detection level` to `Low`.
-* Right click `Framerate limit` and set it to whatever display you're displaying RPCS3 on.
-	* Alternatively you can click on the number and set it to a specific framerate or set it to the VRR cap of your display.
-![A screenshot of RivaTuner Statistics Server, showing "Application detection level" and "Framerate limit" highlighted in blue with a dotted outline. "Framerate limit" has a popout menu with the cursor over a display.](https://rb3pc.milohax.org/images/xtra/rtss/rtssrpcs3.png "Rivatuner Statistics Server: rpcs3.exe")
+![Una captura de RivaTuner Statistics Server, resaltando "Show On-Screen Display", "Application detection level" y "Add" en un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/xtra/rtss/rtssglobal.png "Rivatuner Statistics Server: Global")
 
-## Usage:
+Después de esos dos ajustes, haz click en "`Add`".  
+Un explorador de archivos se va abrir. Localiza tu carpeta de RPCS3 y elige la aplicación de `rpcs3`.  
+![Una captura de un explorar de archivos con el titulo "Abrir." RPCS3 esta seleccionado y esta abajo de un cursor.](https://rb3pc.milohax.org/images/xtra/rtss/rtssaddrpcs3.png "Abrir")
 
-After setting up RTSS, you can now just open it up whenever you want to limit your framerate without having judder!  
-If you're feeling lazy, you can even have it set to Start with Windows so you never have to do this manually.
+Cuando agregues a RPCS3, estarás en el perfil de `rpcs3.exe`.
+En este perfil:
+* Cambia "`Application detection level`" to `Low`.
+* Haz click derecho en "`Framerate limit`" y seleciona el monitor que estés usando.
+	* Alternativamente, puedes hacer click en el numero y entrar un FPS specifico o elegir el limite de frecuencia de actualización variable.  
+![Una captura de RTSS, resaltando "Application detection level" y "Framerate limit" en un cuadro azul con contorno punteado. "Framerate limit" tiene un menú despegable con el cursor sobre un monitor.](https://rb3pc.milohax.org/images/xtra/rtss/rtssrpcs3.png "Rivatuner Statistics Server: rpcs3.exe")
 
-For the best results, turn VSync off in Rock Band 3 through Deluxe's Graphics options menu:
-* `Menu > Options > Deluxe Settings > Graphics > VSync`  
-![A screenshot of Rock Band 3 Deluxe's Graphics menu. VSync is selected and set to off](https://rb3pc.milohax.org/images/xtra/rtss/rb3vsync.png "VSync: Off")
+## Uso:
+
+Después de la configuración inicial, solo tienes que abrir RTSS para tener FPS fluidas y suaves.  
+Si quieres hacerlo mas fácil todavía, puedes activar la opción de "Start with Windows" (Abrir con Windows) en RTSS para que abra cuando se encienda tu compu.
+
+Para tener la mejor experiencia con RTSS, desactiva VSync en el menú de gráficas dentro de Rock Band 3 Deluxe:
+* `Menú > Opciones > Configuración Deluxe > Gráficos > VSync`  
+![Una captura del menú de Gráficos dentro de Deluxe. VSync esta seleccionada y desactivada.](https://rb3pc.milohax.org/images/xtra/rtss/rb3vsynces.png "VSync: Desactivado")
+
+{% include links.html %}

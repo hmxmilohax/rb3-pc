@@ -82,7 +82,7 @@ If you did everything right, it should show that it has connected to Discord RPC
 That's it! Remember to close it out after you're done and to repeat this when you want to open this up again.
 
 If it doesn't open correctly, make sure that you've set Python as the default application for `.py` files.  
-![A screenshot of a Windows' default application selection. Python is selected and the cursor is over "Set Default."](https://rb3pc.milohax.org/images/xtra/rpc/pyrun.png "cmd.exe")
+![A screenshot of a Windows' default application selection. Python is selected and the cursor is over "Set Default."](https://rb3pc.milohax.org/images/xtra/rpc/pydefault.png "Set default app for .py files")
 
 If you're on [[the Milohax Discord]](https://discord.gg/milohax), you can use the `!richpresence` for more information, like getting a "Warped"/"Your Year in Review" stats and how to set it up for Xbox 360!
 

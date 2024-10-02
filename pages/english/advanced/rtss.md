@@ -34,7 +34,7 @@ It should start downloading a `.zip` archive shortly after.
 ![A screenshot of RTSS' .zip folder that contains the installer.](https://rb3pc.milohax.org/images/xtra/rtss/rtssdlbrowser.png "[Guru3D.com]-RTSS.zip")
 
 When it finishes downloading, open the installer and install RTSS. 
-![A screenshot of RTSS' .zip folder that contains the installer.](https://rb3pc.milohax.org/images/xtra/rtss/install6.png "[Guru3D.com]-RTSS.zip")
+![A screenshot of RTSS' installer on the last page.](https://rb3pc.milohax.org/images/xtra/rtss/install6.png "[Guru3D.com]-RTSS.zip")
 
 Go the Start menu and search for `RivaTuner Statistics Server` or `RTSS`. Both should give you the app. Open it.  
 ![A screenshot of the Start Menu, with "RivaTuner Statistics Server" in the search results.](https://rb3pc.milohax.org/images/xtra/rtss/rtssstart.png "Start search")
@@ -46,7 +46,7 @@ In this profile:
 
 ![A screenshot of RivaTuner Statistics Server, showing "Show On-Screen Display", "Application detection level", and "Add" highlighted in blue with a dotted outline.](https://rb3pc.milohax.org/images/xtra/rtss/rtssglobal.png "Rivatuner Statistics Server: Global")
 
-Click on `Add` when you're done.  
+After those two adjustments, click on `Add`.  
 A file browser window will open. Find where you have RPCS3 located and select the `rpcs3` application.
 ![A screenshot of a file browser titled "Open". RPCS3 is selected and a cursor is over it.](https://rb3pc.milohax.org/images/xtra/rtss/rtssaddrpcs3.png "Open")
 
@@ -65,3 +65,5 @@ If you're feeling lazy, you can even have it set to Start with Windows so you ne
 For the best results, turn VSync off in Rock Band 3 through Deluxe's Graphics options menu:
 * `Menu > Options > Deluxe Settings > Graphics > VSync`  
 ![A screenshot of Rock Band 3 Deluxe's Graphics menu. VSync is selected and set to off](https://rb3pc.milohax.org/images/xtra/rtss/rb3vsync.png "VSync: Off")
+
+{% include links.html %}
