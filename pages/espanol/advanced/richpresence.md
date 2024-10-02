@@ -40,9 +40,9 @@ Después de Python termine de instalarse, necesitas descargar el archivo `dx_dis
 
 [[Haz click derecho aquí y selecciona "Guardar vínculo como" para descargar `dx_discordrp.py`]](https://raw.github.com/hmxmilohax/rock-band-3-deluxe/develop/scripts/dx_discordrp.py).
 
-![Una captura de un usuario haciendo click derecho en "dx_discordrp.py" y luego teniendo el cursor sobre "Guardar vínculo como".](https://rb3pc.milohax.org/images/xtra/rpc/drpdl.png "Save link as")
+![Una captura de un usuario haciendo click derecho en "dx_discordrp.py" y luego teniendo el cursor sobre "Guardar vínculo como".](https://rb3pc.milohax.org/images/xtra/rpc/drpdles.png "Guardar vínculo como")
 
-![Una captura de "dx_discordrp.py" en la bandeja de descargar.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+![Una captura de "dx_discordrp.py" en la bandeja de descargar.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdles.png "dx_discordrp.py")
 
 Mete el archivo en una carpeta donde puedas encontrarlo fácilmente. Vas a tener que abrir este archivo cada vez que quieras activar esta opción.
 

@@ -40,7 +40,7 @@ After that finishes installing, you'll need to download the `dx_discordrp.py` sc
 
 ![A screenshot of a user right clicking on "dx_discordrp.py" then on hovering their cursor over "Save link as".](https://rb3pc.milohax.org/images/xtra/rpc/drpdl.png "Save link as")
 
-![A screenshot of "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "Python 3.12.6")
+![A screenshot of "dx_discordrp.py" in a browser's downloads.](https://rb3pc.milohax.org/images/xtra/rpc/rpcdl.png "dx_discordrp.py")
 
 Put it in a folder of your preference. Since you'll need to launch this every time you want to do this, it should in an easy to reach spot.
 
