@@ -28,8 +28,8 @@ Ahora, necesitas bajar la versión mas actual de [[Python 3]](https://www.python
 [[Haz click aquí para ir a la pagina de Python 3]](https://www.python.org/downloads/){:target="_blank"}.
 
 Haz click en el botón amarillo de "Download Python [versión]".  
+[![Una captura de la pagina de descarga para Python. El cursor esta sobre "Download Python 3.12.6".](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png)](https://www.python.org/downloads/ "Python 3.12.6"){:target="_blank"}
 
-![Una captura de la pagina de descarga para Python. El cursor esta sobre "Download Python 3.12.6".](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png "Python 3.12.6")
 Cuando termine, abre el instalador.  
 En el instalador:  
 1. Activa `Add python.exe to PATH` (Agregar python.exe a RUTA)
