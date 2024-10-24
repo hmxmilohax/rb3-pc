@@ -22,30 +22,30 @@ Puedes resolver este problema con Nautilus.
 ### Arreglar los IDs antes de instalar
 
 1\. Abre Nautilus y elije `Batch DTA Processor`.   
-![Una captura de Nautilus. El cursor esta sobre "Batch Processor."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilushomebatchproc.png "Nautilus")
+![Una captura de Nautilus. El cursor esta sobre "Batch Processor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomebatchproc.png "Nautilus")
 
 2\. Arrastra y suelta cualquier archivo CON en tu carpeta y haz click en `Begin` para procesar todos los archivos CON en la carpeta.   
 **Asegúrate que `Automatically change alphanumeric song IDs` esté activado.**   
-![Una animación de Nautilus' Batch DTA Processor. Las canciones son arrastradas a la pantalla y luego empiezan a hacer procesadas después de presionar "Begin."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusbatchfix.gif "Batch DTA Processor")
+![Una animación de Nautilus' Batch DTA Processor. Las canciones son arrastradas a la pantalla y luego empiezan a hacer procesadas después de presionar "Begin."](https://rb3pc.milohax.org/images/xtra/customs/nautilusbatchfix.gif "Batch DTA Processor")
 
-3\. Cuando termine, puedes cerrar `Batch Processor` y continuar con la cuarta parte del [[tutorial principal]](https://carlmylo.github.io/rb3-pc/customs_360toPS3_es#4){:target="_blank"}.
+3\. Cuando termine, puedes cerrar `Batch Processor` y continuar con la cuarta parte del [[tutorial principal]](https://rb3pc.milohax.org/customs_360toPS3_es#4){:target="_blank"}.
 
 ### Arreglando IDs de customs que ya están instaladas
 
 1\. Abre Nautilus y elije `PS3 Converter`.  
-![Una captura de Nautilus. El cursor esta sobre "PS3 Converter."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilushomeps3.png "Nautilus")
+![Una captura de Nautilus. El cursor esta sobre "PS3 Converter."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomeps3.png "Nautilus")
 
 2\. Arriba de la pantalla de `PS3 Converter`, ve a:  
 `Numeric ID Options > Batch replace song IDs`  
-![A screenshot of Nautilus's PS3 Converter. A cursor hovers over "Batch replace song IDs" under the "Numeric ID Options" menu.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusps3batchid.png "PS3 Converter")
+![A screenshot of Nautilus's PS3 Converter. A cursor hovers over "Batch replace song IDs" under the "Numeric ID Options" menu.](https://rb3pc.milohax.org/images/xtra/customs/nautilusps3batchid.png "PS3 Converter")
 
 3\. En PS3 o RPCS3, entra a la carpeta de la canción/paquete que tenga un ID incorrecto (usualmente es `dev_hdd0\game\BLUS30463\USRDIR\[SONGNAME]\songs`).  
 Busca el archivo que se llama `songs.dta` dentro de la carpeta. 
-![Una captura de un explorador de archivos. "dev_hdd0" is selected and El cursor esta sobre "Open".](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusps3batchselectes.png "Select DTA file to edit")
+![Una captura de un explorador de archivos. "dev_hdd0" is selected and El cursor esta sobre "Open".](https://rb3pc.milohax.org/images/xtra/customs/nautilusps3batchselectes.png "Select DTA file to edit")
 
 
 4\. Espera que termine de procesar las canciones de la carpeta. Cuando termine, puedes compartir el archivo `songs.dta` con tus amigos para finalmente poder jugar las canciones juntos.  
-![A screenshot of Nautilus's PS3 Converter. It has just finished replacing custom songs without numeric IDs.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusps3batchdone.png "PS3 Converter")
+![A screenshot of Nautilus's PS3 Converter. It has just finished replacing custom songs without numeric IDs.](https://rb3pc.milohax.org/images/xtra/customs/nautilusps3batchdone.png "PS3 Converter")
 
 
 ## Canciones se traban al final
@@ -54,51 +54,51 @@ A veces, algunas canciones se pueden quedar trabadas al final, repitiendo el úl
 * **¡No metas canciones que no tengan este problema, porque el sonido de la canción va ser procesado otra vez y va perder un poco de calidad!**
 
 1\. Abre Nautilus y ve a `PS3 Converter`.  
-![A screenshot of Nautilus. A cursor hovers over "PS3 Converter."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilushomeps3.png "Nautilus")
+![A screenshot of Nautilus. A cursor hovers over "PS3 Converter."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomeps3.png "Nautilus")
 
 2\. Arriba de la pantalla de `PS3 Converter`, ve a:  
 `Tools > Batch fix looping songs`  
-![A screenshot of Nautilus's PS3 Converter. A cursor hovers over "Batch fix looping songs" under the "Tools" menu.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusps3batchloop.png "PS3 Converter")
+![A screenshot of Nautilus's PS3 Converter. A cursor hovers over "Batch fix looping songs" under the "Tools" menu.](https://rb3pc.milohax.org/images/xtra/customs/nautilusps3batchloop.png "PS3 Converter")
 
 3\. Va la carpeta donde esta el CON con problemas y selecciona la carpeta.  
 Espera que termine.  
-![A screenshot of Nautilus's PS3 Converter. It is in the process of fixing a looping file.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilusps3batchloopproc.png "PS3 Converter")
+![A screenshot of Nautilus's PS3 Converter. It is in the process of fixing a looping file.](https://rb3pc.milohax.org/images/xtra/customs/nautilusps3batchloopproc.png "PS3 Converter")
 
-4\. Cuando termine, Ya puedes continuar a la cuarta parte del[[tutorial principal]](https://carlmylo.github.io/rb3-pc/customs_360toPS3_es#4){:target="_blank"}.
+4\. Cuando termine, Ya puedes continuar a la cuarta parte del[[tutorial principal]](https://rb3pc.milohax.org/customs_360toPS3_es#4){:target="_blank"}.
 
 ## Borrar canciones individuales de un paquete
 
 Rock Band 3 puede borrar canciones dentro del juego, pero si la canción es parte de un paquete, también va a borrar el resto del paquete.  
-![A screenshot from Rock Band 3, warning the user that they're about to delete many songs from the library.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/rb3delwarnes.png "Delete song")
+![A screenshot from Rock Band 3, warning the user that they're about to delete many songs from the library.](https://rb3pc.milohax.org/images/xtra/customs/rb3delwarnes.png "Delete song")
 
 La mejor manera de arreglar esto es usando el "Quick Pack Editor"
 
 1\. Abre Nautilus y elije `Quick Pack Editor`.  
-![A screenshot of Nautilus. A cursor hovers over "Quick Pack Editor."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilushomepack.png "Nautilus")
+![A screenshot of Nautilus. A cursor hovers over "Quick Pack Editor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomepack.png "Nautilus")
 
 2\. Abre un explorador de archivos y entra a la carpeta del paquete que tiene la canción que quieras eliminar. Encuentra el archivo `songs.dta`.  
 (Usualmente va estar en `dev_hdd0\game\BLUS30463\USRDIR\[PACKNAME]\songs`).
-![Una captura de un explorador de archivos. "songs.dta" is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/findfolder.png "songs")
+![Una captura de un explorador de archivos. "songs.dta" is selected.](https://rb3pc.milohax.org/images/xtra/customs/findfolder.png "songs")
 
 3\. Arrastra y suelta el archivo `songs.dta` dentro de la carpeta en la pantalla de `Quick Pack Editor`.  
 Selecciona la(s) canción(es) que quieres borrar y haz click en `Remove selected`.  
 Cuando termines, haz click en `Save` para guardar tus cambios.  
-![A GIF of a "songs.dta" file being dragged and dropped into Nautilus' Quick Pack Editor.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautiluspackdrag.gif "Quick Pack Editor")
+![A GIF of a "songs.dta" file being dragged and dropped into Nautilus' Quick Pack Editor.](https://rb3pc.milohax.org/images/xtra/customs/nautiluspackdrag.gif "Quick Pack Editor")
 
 4.\. Eso que borraste las canciones del archivo `songs.dta` y el juego no las detecta, van a seguir tomando espacio.  
 Tienes que borrar sus carpetas también.  
-![Una captura de un explorador de archivos. Multiple songs are selected and the cursor hovers over a popup menu option that says "Delete."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/packdelfolderes.png "songs")
+![Una captura de un explorador de archivos. Multiple songs are selected and the cursor hovers over a popup menu option that says "Delete."](https://rb3pc.milohax.org/images/xtra/customs/packdelfolderes.png "songs")
 
 ## PS3: Canciones grises
 
 Por defecto, el control paterno del PlayStation 3 esta en nivel 9.  
 Esto no te va dejar tocar canciones que tienen el dato de "Sin Calificación", y aparecerán grises. 
-![A screenshot of Rock Band 3's song library. It shows as greyed out song.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/ps3grey.png "Rock Band 3: Grey Songs")
+![A screenshot of Rock Band 3's song library. It shows as greyed out song.](https://rb3pc.milohax.org/images/xtra/customs/ps3grey.png "Rock Band 3: Grey Songs")
 
 Si elijes una de estas canciones, el juego va a crashear.
 Para arreglar esto, cambia el `Control paterno` a `No` en:  
 XMB: [ **Ajustes** ] -> [ **Ajustes de seguridad** ] -> [ **Control paterno** ] -> [ **No** ]  
-![A screenshot of the parental control menu in PlayStation 3's XMB home menu. The level is set to "Off".](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/ps3parentales.png "Parental Control")
+![A screenshot of the parental control menu in PlayStation 3's XMB home menu. The level is set to "Off".](https://rb3pc.milohax.org/images/xtra/customs/ps3parentales.png "Parental Control")
 
 ## Canciones siguen atoradas cargando
 
@@ -108,23 +108,23 @@ Esto se puede arreglar con la opcion de `Batch Cryptor` en Nautilus.
 Toma en cuenta que vas a necesitar la version "1.1 Beta" de Rock Band 3 Deluxe si estas en PS3.  
 
 1\. Abre Nautilus y elije `Batch Cryptor`.  
-![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautilushomepack.png "Nautilus")
+![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomepack.png "Nautilus")
 
 2\. Cambia a la opcion de `Decrypt` abajo de la pantalla.  
-![A screenshot of Batch Cryptor. The mode has been switched to "Decrypt."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautiluscryptdecrypt.png "Batch Cryptor")
+![A screenshot of Batch Cryptor. The mode has been switched to "Decrypt."](https://rb3pc.milohax.org/images/xtra/customs/nautiluscryptdecrypt.png "Batch Cryptor")
 
 3\. Si juegas en PS3 o RPCS3, ve a la carpeta donde está la canción que quieres arreglar.  
 Usualmente va estar en `dev_hdd0\game\BLUS30463\USRDIR\[NOMBRE_DE_PAQUETE]\songs\[CANCION_CON_PROBLEMAS]`).  
 Va a haber un archivo `.mogg` en la carpeta de la canción.  
-![Una captura de un explorador de archivos. A mogg file is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/findmogg.png "MOGG File")
+![Una captura de un explorador de archivos. A mogg file is selected.](https://rb3pc.milohax.org/images/xtra/customs/findmogg.png "MOGG File")
 
 4\. Arrastra el archivo `.mogg` en la pantalla de `Batch Cryptor` y haz click en `Begin`.  
-![A GIF of a .mogg file being dropped into "Batch Cryptor" the being decrypted.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/nautiluscryptdecryptmogg.gif "Quick Convert")
+![A GIF of a .mogg file being dropped into "Batch Cryptor" the being decrypted.](https://rb3pc.milohax.org/images/xtra/customs/nautiluscryptdecryptmogg.gif "Quick Convert")
 
 5\. Una carpeta llamada `decrypted` va a aparecer cuando termine.  
 Entra a la carpeta de `decrypted` y corta el archivo `.mogg` adentro.  
 Regresa una carpeta para atrás y pega el archivo `.mogg`, remplazando el original.  
-![A GIF of a .mogg file within the "decrypted" folder being cut then pasted in the folder before it. It replaces the old .mogg file.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/moggreplace.gif "Quick Convert")
+![A GIF of a .mogg file within the "decrypted" folder being cut then pasted in the folder before it. It replaces the old .mogg file.](https://rb3pc.milohax.org/images/xtra/customs/moggreplace.gif "Quick Convert")
 
 {% include custom/series_customses_next.html %}
 

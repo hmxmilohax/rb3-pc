@@ -75,7 +75,7 @@ Todavía podrás elegir la parte que quieras antes de empezar una canción/lista
                                 <ul>
 <p><img src="https://rb3pc.milohax.org/images/trbl/online/missingsong.png" alt="Una captura de Rock Band 3, mostrando canciones desactivadas en una sala de multijugador." title="Rock Band 3: Ejemplo de canciones no disponibles"></p>
 
-<li>Lee la guía de customs, especialmente la <a href="https://docs.google.com/document/d/1kx3-NN2lzQUFXX31KcLQ4sJ35a6pq4pnkPujm6-O2Jw/edit#heading=h.qxzngdakbkv" target="_blank"><strong>[sección aplicable a este problema]</strong></a>.</li>
+<li>Lee la guía de customs, especialmente la <a href="https://rb3pc.milohax.org/customs_troubleshooting_es#canciones-no-salen-en-l%C3%ADnea--puntajes-no-se-guardan" target="_blank"><strong>[sección aplicable a este problema]</strong></a>.</li>
 </ul>
                             </div>
                         </div>

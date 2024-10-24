@@ -76,7 +76,7 @@ You will still be able to pick the part you want when the song’s part select s
                                 <ul>
 <p><img src="https://rb3pc.milohax.org/images/trbl/online/missingsong.png" alt="A screenshot of Rock Band 3, showing songs with a darker color as they are disabled." title="Rock Band 3: Missing Songs Example"></p>
 
-<li>Please read the <a href="https://docs.google.com/document/d/1YwGNT1oPUgfek-p3sLCZv4b-PsO8Yv9eobx5fV6W2vQ/edit#heading=h.qxzngdakbkv" target="_blank"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
+<li>Please read the <a href="https://rb3pc.milohax.org/customs_troubleshooting#customs-not-working-online--scores-not-saving" target="_blank"><strong>[PS3 Customs guide]</strong></a> section on this.</li>
 </ul>
                             </div>
                         </div>

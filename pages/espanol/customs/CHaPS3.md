@@ -26,31 +26,31 @@ Si lo haces como quiera, **no te podemos ayudar con ningún problema** causado p
 
 #### 1.
 Después de descargar las canciones que quieras usar, entra a Onyx y elige `Batch recompile`.  
-![Una captura de la pantalla principal de Onyx. A cursor hovers over "Batch recompile."](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatch.png "Onyx Console")
+![Una captura de la pantalla principal de Onyx. A cursor hovers over "Batch recompile."](https://rb3pc.milohax.org/images/xtra/customs/onyxbatch.png "Onyx Console")
 
 #### 2.
 Arriba de la pantalla de "Batch Recompile", haz click en `Edit` y luego `Preferences`.  
-![A screenshot of Onyx's Batch Recompile. The "Edit" menu has been expanded and "Preferences" is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchprefs.png "Batch Recompile")
+![A screenshot of Onyx's Batch Recompile. The "Edit" menu has been expanded and "Preferences" is selected.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchprefs.png "Batch Recompile")
 
 #### 3.
 Entra a la pestaña de `Rock Band`. 
 Cambia a `Magma optional`.  
-![A screenshot of Onyx's Preferences window. Under the "Rock Band" tab, "Magma optional" is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchprefsrb.png "Batch Recompile")
+![A screenshot of Onyx's Preferences window. Under the "Rock Band" tab, "Magma optional" is selected.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchprefsrb.png "Batch Recompile")
 
 #### 4.
 Te dara una advertencia.  
 Haz click en `OK`.  
-![A screenshot of a warning from Onyx. It warns that disabling Magma will crash Rock Band.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchwarn.png "Magma Warning")
+![A screenshot of a warning from Onyx. It warns that disabling Magma will crash Rock Band.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchwarn.png "Magma Warning")
 
 #### 5.
 Cambia a la pestaña de `Audio`. 
 Baja a la barra de `OGG Vorbis quality` a `3.00`.  
 Después, haz click en `Save`.  
-![A screenshot of Onyx's Preferences window. Under the "Audio" tab, "Magma optional" is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchprefsaud.png "Batch Recompile")
+![A screenshot of Onyx's Preferences window. Under the "Audio" tab, "Magma optional" is selected.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchprefsaud.png "Batch Recompile")
 
 #### 6.
 Arrastra la(s) carpeta(s) que contiene(n) las canciones que quieres convertir a la pantalla de `Batch recompile`.  
-![A GIF of customs in Clone Hero format being dragged and dropped into the "Songs" tab of Onyx's Batch Recompile.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchdrag.gif "Batch Recompile")
+![A GIF of customs in Clone Hero format being dragged and dropped into the "Songs" tab of Onyx's Batch Recompile.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchdrag.gif "Batch Recompile")
 
 
 #### 7.
@@ -59,7 +59,7 @@ Cambia a la pestaña de `RB3`.
 * `Fill empty parts with first guitar, then drums` - Llena partes vacías con guitarra y luego batería
 * `Copy guitar to bass/keys/drums` - Copia guitarra a bajo/teclado/batería
 * `Copy drums/dance to guitar/bass/keys` - Copia batería/coreografía a guitarra/bajo/teclado
-![A screenshot of Onyx's Batch Recompile window. Under the "RB3" tab, "Fill empty parts with first guitar, then drums" is selected.](https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchparts.png "Batch Recompile")
+![A screenshot of Onyx's Batch Recompile window. Under the "RB3" tab, "Fill empty parts with first guitar, then drums" is selected.](https://rb3pc.milohax.org/images/xtra/customs/onyxbatchparts.png "Batch Recompile")
 
 
 #### 8.
@@ -72,28 +72,28 @@ Para terminar, haz click en `Create PS3 PKG files` o en `Create PS3/RPCS3 folder
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="folders">
-<p><img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchfolders.png" alt="A screenshot of Onyx's Batch Recompile window. Under the &quot;RB3&quot; tab, &quot;Create PS3/RPCS3 folders&quot; is selected." title="Batch Recompile"></p>
+<p><img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchfolders.png" alt="A screenshot of Onyx's Batch Recompile window. Under the &quot;RB3&quot; tab, &quot;Create PS3/RPCS3 folders&quot; is selected." title="Batch Recompile"></p>
 <h4 id="section">9.</h4>
 <p>Ve a donde tienes tu carpeta de <code>dev_hdd0</code>. Usualmente está en la carpeta de RPCS3.<br>
 Si vas a instalar el paquete a un PS3 por FTP, elije cualquier carpeta que te conviene mas.<br>
-<img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/savefolder.png" alt="Una captura de un explorador de archivos. A location is set and El cursor esta sobre &quot;Select Folder.&quot;" title="Select Folder"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/savefolder.png" alt="Una captura de un explorador de archivos. A location is set and El cursor esta sobre &quot;Select Folder.&quot;" title="Select Folder"></p>
 <h4 id="section-1">10.</h4>
 <p>Cuando termines, tendrás las canciones en la carpeta, listas para jugar, si estas en emulador.<br>
 Si estas en PS3, tendrás que copiar la carpeta por FTP a <code>dev_hdd0/game/BLUS30463/USRDIR</code>.
 Hasta puedes actualizar tu colección musical mientras estés dentro del juego con RB3DX. Dentro de Rock Band 3, ve a:<br>
 <code>Opciones &gt; Extras &gt; Actualizar Colección Musical</code> para cargar las canciones nuevas.<br>
-<img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
 
 </div>
 <div role="tabpanel" class="tab-pane" id="pkg">
-<p><img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchpkg.png" alt="A screenshot of Onyx's Batch Recompile window. Under the &quot;RB3&quot; tab, &quot;Create PS3/RPCS3 folders&quot; is selected." title="Batch Recompile"></p>
+<p><img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchpkg.png" alt="A screenshot of Onyx's Batch Recompile window. Under the &quot;RB3&quot; tab, &quot;Create PS3/RPCS3 folders&quot; is selected." title="Batch Recompile"></p>
 <h4 id="section">9.</h4>
 <p>Elige una carpeta para poner el archivo PKG file y dale un nombre.<br>
-<img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/savepkgfolder.png" alt="Una captura de un explorador de archivos. A location is set and El cursor esta sobre &quot;Select Folder.&quot;" title="Select Folder"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/savepkgfolder.png" alt="Una captura de un explorador de archivos. A location is set and El cursor esta sobre &quot;Select Folder.&quot;" title="Select Folder"></p>
 <h4 id="section-1">10.</h4>
 <p>Se crearan archivos PKG cuando termine.<br>
 Puedes instalar estos archivos como otros archivos PKG.<br>
-<img src="https://raw.githubusercontent.com/carlmylo/rb3-pc/refs/heads/main/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
 
 </div>
 </div>
