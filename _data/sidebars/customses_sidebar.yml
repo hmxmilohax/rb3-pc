@@ -1,0 +1,31 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Guia
+  version: 
+  folders:
+
+  - title: Convirtiendo Customs
+    output: web
+    folderitems:
+
+    - title: Introduccion
+      url: /customs_intro_es
+      output: web
+      type: homepage
+
+    - title: "CONs de Xbox 360 a formato PS3/RPCS3"
+      url: /customs_360toPS3_es
+      output: web
+      type: homepage
+
+    - title: "Clone Hero/YARG a formato PS3/RPCS3"
+      url: /customs_CHtoPS3_es
+      output: web
+      type: homepage
+
+    - title: Problemas y Soluciones
+      url: /customs_troubleshooting_es
+      output: web
+      type: homepage

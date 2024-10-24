@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* Es mejor que uses el teclado con su receptor propio, si lo tienes. [[Haz click aquí para ver como usarlo con el receptor]](https://rb3pc.milohax.org/adv_passthrough_es).
+* Es mejor que uses el teclado con su receptor propio, si lo tienes. [[Haz click aquí para ver como usarlo con el receptor]](https://rb3pc.milohax.org/adv_passthrough_es){:target="_blank"}.
 * **NO mapeés este instrumento por el menú de "Pads".**
 * No existe un perfil para este instrumento.
 * Los botones del teclado no van a funcionar normalmente porque esta en modo MIDI.

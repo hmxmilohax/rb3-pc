@@ -14,7 +14,7 @@ toc: false
 
 ## NOTES
 
-* It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/english/passthroughdevices/)
+* It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/adv_passthrough){:target="_blank"}
 * **Do NOT map this instrument via Gamepad Configuration.**
 * There is no binding file.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.

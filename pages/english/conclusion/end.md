@@ -29,6 +29,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 ## Special Thanks
 
 * [[Dark]](https://dark.ski/){:target="_blank"}, [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"}, [[lunalawl]](https://github.com/lunalawl){:target="_blank"}, [[Hughtobasic]](https://www.youtube.com/@thisisRK){:target="_blank"}, [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591){:target="_blank"}, and [[LysiX]](https://www.youtube.com/@LysiX){:target="_blank"} for technical information regarding RPCS3 and/or Rock Band 3.
+* [[SonicSBL]](https://github.com/SonicSBL){:target="_blank"} for starting the 360 to PS3 customs guide and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for continuing it.
 * [[lunalawl]](https://github.com/lunalawl){:target="_blank"} for helping improve new users' experiences and helping a ton with guide flow.
 * [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Lynxeption]](https://www.twitch.tv/lynxeption){:target="_blank"}, [[Le Fish]](https://ko-fi.com/lefishe){:target="_blank"}, and [[Aloquendiar]](https://www.twitch.tv/aloquendiar){:target="_blank"} for helping with the Spanish version.
 * [[KaijuChomps]](https://github.com/KaijuChomps){:target="_blank"} for helping with Jekyll and GitHub Pages.
