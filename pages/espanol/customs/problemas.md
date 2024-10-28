@@ -6,7 +6,7 @@ folder: espanol
 tags: [customs-es, espanol]
 summary: "Como resolver problemas comúnes con customs."
 series: "Convirtiendo Customs"
-weight: 4
+weight: 5
 ---
 
 ## Canciones no salen en línea / Puntajes no se guardan

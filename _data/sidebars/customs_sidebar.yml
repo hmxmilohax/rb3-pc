@@ -25,6 +25,11 @@ entries:
       output: web
       type: homepage
 
+    - title: "Merging Song Folders"
+      url: /customs_CHtoPS3
+      output: web
+      type: homepage
+
     - title: Troubleshooting
       url: /customs_troubleshooting
       output: web

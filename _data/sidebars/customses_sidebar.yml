@@ -25,6 +25,11 @@ entries:
       output: web
       type: homepage
 
+    - title: "Combinando Carpetas de Customs"
+      url: /customs_CHtoPS3_es
+      output: web
+      type: homepage
+
     - title: Problemas y Soluciones
       url: /customs_troubleshooting_es
       output: web

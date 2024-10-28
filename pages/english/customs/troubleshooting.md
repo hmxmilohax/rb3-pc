@@ -6,7 +6,7 @@ folder: english
 tags: [customs, english]
 summary: "How to solve common issues with Rock Band 3 customs."
 series: "Converting Customs"
-weight: 4
+weight: 5
 ---
 
 ## Customs not working online / Scores not saving
