@@ -14,8 +14,11 @@ Over time, you might amass a large amount of customs folders. This is a problem 
 ![A screenshot of Rock Band 3 loading downloaded content. It is loading 94 packages.](https://rb3pc.milohax.org/images/xtra/customs/rb3merge.png "RPCS3")  
 
 
+
 Ideally, you should put as many songs as possible into a pack to load things efficiently.  
 ![A screenshot of Rock Band 3 loading downloaded content. It is loading 48 packages.](https://rb3pc.milohax.org/images/xtra/customs/rb3mergeafter.png "RPCS3")  
+
+
 
 Thanks to Onyx, you can do this easily! It is basically the same as the earlier as [[the Xbox 360 CON to PS3/RPCS3 format tutorial]](https://rb3pc.milohax.org/customs_360toPS3).  
 Before starting, keep in mind that you will temporarily need to have the original separated packs and the merged pack installed.  
@@ -59,7 +62,7 @@ At the bottom left, make sure `Encrypt .mid.edat` is enabled, then select betwee
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutfoldermerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Folders (PS3)&quot; and &quot;Encrypted .mid.edat&quot; has been enabled." title="Quick Convert">
 <h4>6.</h4>
 <p><em>(Optional but highly recommended)</em><br>
-With these methods, the USRDIR subfolder will have an auto-generated name. For single songs and packs, it'll be <code>OxxxxxSongName</code>. However, if you make a pack, the folder name will only include the first song in the pack.<br>
+With these methods, the USRDIR subfolder will have an auto-generated name. It'll be <code>OxxxxxSongName</code>, with the <code>SongName</code> being the first song in the pack.<br>
 If you want to find the folder easily, it's recommended to select <code>Custom USRDIR subfolder</code> instead of <code>Combine into one new USRDIR subfolder per pack</code> and entering the name of your choice.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3merge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
@@ -73,7 +76,7 @@ Simply change the number at the bottom left to something absurdly high like <cod
 <p>At the bottom, select the big button labeled <code>Make pack</code> (or <code>Start</code> if you used the <code>Make Songs</code> option.)<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackrpcs3merge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is over &quot;Make 1 pack.&quot;" title="Quick Convert"></p>
 <p>Navigate to your RPCS3 folder and select the <code>dev_hdd0</code> folder.<br>
-If you\re going to be installing to a PS3 via FTP, select the most convenient folder.<br>
+If you're going to be installing to a PS3 via FTP, select the most convenient folder.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/savefolder.png" alt="A screenshot of a file browser window. &quot;dev_hdd0&quot; is selected and the cursor is over &quot;Select folder.&quot;" title="Select Folder"></p>
 <p>It should successfully convert and auto-install into your RPCS3 directory, ready to play.<br>
 If using RB3DX, you can even do this while the game is running. Within RB3, select:<br>

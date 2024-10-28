@@ -14,8 +14,10 @@ Con el paso del tiempo, puede que tengas un montón de carpetas de customs. Esto
 ![Una captura de Rock Band 3 cargando descargas de contenido. Esta cargando 94 descargas.](https://rb3pc.milohax.org/images/xtra/customs/rb3mergees.png "RPCS3")  
 
 
+
 Idealmente, deberías empaquetar la mayor cantidad de canciones posibles en un solo pack para que Rock Band 3 cargue más rápido.  
 ![Una captura de Rock Band 3 cargando descargas de contenido. Esta cargando 48 descargas.](https://rb3pc.milohax.org/images/xtra/customs/rb3mergeafteres.png "RPCS3")  
+
 
 
 Gracias a la herramienta Onyx, esto es fácil. El proceso es casi igual a [[la guía de convertir archivos de Xbox 360 a RPCS3/PS3]](https://rb3pc.milohax.org/customs_360toPS3_es).  
@@ -60,8 +62,8 @@ Abajo a la izquierda, asegúrate que `Encrypt .mid.edat` este activado, y elije 
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutfoldermergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Folders (PS3)&quot; y &quot;Encrypted .mid.edat&quot; esta activado." title="Quick Convert">
 <h4>6.</h4>
 <p><em>(Opcional pero recomendado)</em><br>
-Con estos métodos, el PKG va crear una carpeta con un nombre generado automáticamente. Si es una canción o un paquete, va a salir como <code>OxxxxxSongName</code>. En caso de que crees un paquete, se usara el nombre de la primera canción.<br>
-Recomendamos, en caso de hacer paquetes, cambiar la opción de <code>Combine into one new USRDIR subfolder per pack</code> por la de <code>Custom USRDIR subfolder</code> y ponerle el nombre que tu quieras.<br>
+Con estos métodos, el PKG va crear una carpeta con un nombre generado automáticamente. Por defecto, va a salir como <code>OxxxxxSongName</code>, con <code>SongName</code> siendo el nombre de la primera canción.<br>
+Recomendamos cambiar la opción de <code>Combine into one new USRDIR subfolder per pack</code> por la de <code>Custom USRDIR subfolder</code> y ponerle el nombre que tu quieras.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3mergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Custom USRDIR subfolder&quot; en vez de &quot;Keep original USRDIR subfolders&quot;." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. El paquete fue nombrado &quot;paquete_de_customs.&quot;" title="Quick Convert"></p>
 <h4>7.</h4>
@@ -85,13 +87,13 @@ Hasta puedes actualizar tu colección musical mientras estés dentro del juego c
 </div>
 <div role="tabpanel" class="tab-pane" id="pkg">
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutpkgmergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. The cursor is selecting &quot;PS3 (PS3)&quot; and &quot;Encrypted .mid.edat&quot; has been enabled." title="Quick Convert">
-<h4>12.</h4>
+<h4>6.</h4>
 <p><em>(Opcional pero recomendado)</em><br>
 Con estos métodos, el PKG va crear una carpeta con un nombre generado automáticamente. Por defecto, va a salir como <code>OxxxxxSongName</code>, con <code>SongName</code> siendo el nombre de la primera canción.<br>
 Recomendamos cambiar la opción de <code>Combine into one new USRDIR subfolder per pack</code> por la de <code>Custom USRDIR subfolder</code> y ponerle el nombre que tu quieras.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamepkgmergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Custom USRDIR subfolder&quot; en vez de &quot;Keep original USRDIR subfolders&quot;." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
-<h4>13.</h4>
+<h4>7.</h4>
 <p>Abajo va ver un un botón verde que dice <code>Make pack</code>.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackpkgmergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Make 1 pack.&quot;" title="Quick Convert"></p>
 <p>Elige una carpeta para poner el archivo PKG file y dale un nombre.<br>
