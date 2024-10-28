@@ -7,6 +7,7 @@ tags: [customs, english]
 summary: "How to merge multiple song folders to reduce startup time."
 series: "Converting Customs"
 weight: 4
+toc: false
 ---
 
 Over time, you might amass a large amount of customs folders. This is a problem since, the more folders you have, the longer Rock Band 3 takes to count your songs.  

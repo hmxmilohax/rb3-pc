@@ -7,6 +7,7 @@ tags: [customs-es, espanol]
 summary: "Como combinar carpetas de canciones para iniciar el juego mas rápido."
 series: "Convirtiendo Customs"
 weight: 4
+toc: false
 ---
 
 Con el paso del tiempo, puede que tengas un montón de carpetas de customs. Esto es un problema, ya que Rock Band 3 carga por carpeta y mientras más carpetas tengas, más tardará en cargar el juego.  

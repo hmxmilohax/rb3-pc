@@ -26,7 +26,7 @@ entries:
       type: homepage
 
     - title: "Combinando Carpetas de Customs"
-      url: /customs_CHtoPS3_es
+      url: /customs_merging_es
       output: web
       type: homepage
 

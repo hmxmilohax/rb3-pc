@@ -26,7 +26,7 @@ entries:
       type: homepage
 
     - title: "Merging Song Folders"
-      url: /customs_CHtoPS3
+      url: /customs_merging
       output: web
       type: homepage
 
