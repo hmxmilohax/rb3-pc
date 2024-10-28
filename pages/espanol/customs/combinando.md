@@ -37,7 +37,7 @@ Ahora, abre Onyx y haz click en `Quick convert/pack`.
 
 #### 3.
 Quédate en la pestaña de `RB quick convert + pack creator`.  
-Ahora, arrastra los archivos que acabas de procesar. También puedes usar `Add Rock Band Song` para elegirlas.  
+Ahora, arrastra las carpetas que quieres combinar. También puedes usar `Add Rock Band Song` para elegirlas.  
 ![Una animación de carpetas de customs siendo arrastradas a la pestaña de "RB quick convert + pack creator" dentro de Onyx.](https://rb3pc.milohax.org/images/xtra/customs/onyxdraganddropmerge.gif "Quick Convert")
 
 Es recomendado que actives la opción de `Author to DTA tag` abajo a la derecha.  
@@ -50,7 +50,7 @@ Abajo de la primera línea de botones grises, haz click en el primer menú y lue
 
 #### 5.
 Abajo a la izquierda, asegúrate que `Encrypt .mid.edat` este activado, y elije entre `PKG (PS3)` o `Folders (PS3)`. 
-* `Folders (PS3)` compila las canciones a un carpeta sin crear un archivo PKG. Esta opción es recomendada si usas RPCS3 o un PS3 con FTP. Es **mucho mas** rápido que hacer PKGs. Si estas en RPCS3, también puedes crear carpetas mas grandes que 4 GBs.
+* `Folders (PS3)` compila las canciones a un carpeta sin crear un archivo PKG. Esta opción es recomendada si usas RPCS3 o un PS3 con FTP. Es **mucho mas** rápido que hacer PKGs. También puedes crear carpetas mas grandes que 4 GBs.
 * `PKG (PS3)` compila un archivo PKG. Esto solo es recomendado si tienes un PS3 con cual tienes que usar una memoria USB para agregar canciones.
 
 <ul id="profileTabs" class="nav nav-tabs">
@@ -67,10 +67,9 @@ Recomendamos cambiar la opción de <code>Combine into one new USRDIR subfolder p
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3mergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Custom USRDIR subfolder&quot; en vez de &quot;Keep original USRDIR subfolders&quot;." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. El paquete fue nombrado &quot;paquete_de_customs.&quot;" title="Quick Convert"></p>
 <h4>7.</h4>
-<p><em>(Opcional pero recomendado para usuarios de RPCS3)</em><br>
-RPCS3 puede tener carpetas mas grandes que el tamaño que viene por defecto en Onyx (4000 MiB o 4.1 GBs). Esto es porque mayoría de computadoras usan sistemas de archivos (como NTFS, ext4 y APFS) que pueden superar el limite de FAT32.<br>
+<p><em>(Opcional pero recomendado)</em><br>
+Como estas creando una carpeta con archivos sueltos, puedes tener carpetas mas grandes que el tamaño que viene por defecto en Onyx (4000 MiB o 4.1 GBs). Puedes usar esto para crear carpetas mas grandes que 4GB.<br>
 Simplemente, entra un numero alto como <code>99999</code> en la parte abajo a la izquierda.<br>
-<strong>No hagas esto en PS3 porque su sistema de archivos es FAT32 y tiene un limite de 4.1 GBs por carpeta. ¡Si cambias esto, puede romper todo!</strong><br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackfilesizees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. &quot;Max Pack Size (MiB)&quot; esta puesto en &quot;99999&quot;." title="Quick Convert"></p>
 <h4>8.</h4>
 <p>Abajo va ver un un botón verde que dice <code>Make pack</code> o <code>Start</code> si elegiste la opción de <code>Make Songs</code><br>

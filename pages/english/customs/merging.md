@@ -37,7 +37,7 @@ Now, open Onyx Music Game Toolkit and click `Quick convert/pack`.
 
 #### 3.
 Stay on the `RB quick convert + pack creator` tab.  
-You can either drag and drop the files you modified or click on `Add Rock Band Song` to select them.  
+Drag and drop the folders you want to merge or click on `Add Rock Band Song` to select them.  
 ![A GIF of folders of customs being dragged and dropped into the "RB quick convert + pack creator" tab of Onyx.](https://rb3pc.milohax.org/images/xtra/customs/onyxdraganddropmerge.gif "Quick Convert")
 
 It is also recommended to enable `Author to DTA tag` at the bottom right.  
@@ -50,7 +50,7 @@ Below the first row of gray buttons, click the first menu and select `Make Packs
 
 #### 5.
 At the bottom left, make sure `Encrypt .mid.edat` is enabled, then select between either `PKG (PS3)` or `Folders (PS3)`.  
-* `Folders (PS3)` is recommended for RPCS3 users and PS3 users who know how to use FTP. It is **much** faster than PKG creation. RPCS3 users can also bypass the 4GB folder limit.
+* `Folders (PS3)` is recommended for RPCS3 users and PS3 users who know how to use FTP. It is **much** faster than PKG creation. You can also bypass the 4GB folder limit.
 * `PKG (PS3)` is only recommended for PS3 users who can only use USB flash drives to add more songs.
 
 <ul id="profileTabs" class="nav nav-tabs">
@@ -67,10 +67,9 @@ If you want to find the folder easily, it's recommended to select <code>Custom U
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3merge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
 <h4>7.</h4>
-<p><em>(Optional but highly recommended for RPCS3 users)</em><br>
-RPCS3 can smash through the default maximum pack size of 4000 MiB (4.1 GB) since most computers will be running file systems that allow this (NTFS, ext4, APFS.)<br>
+<p><em>(Optional but highly recommended)</em><br>
+Since you'll be installing things as loose folders and files, you can easily bypass the 4000 MiB (or 4GB) folder limit. You can use this to pack extra dense folders!<br>
 Simply change the number at the bottom left to something absurdly high like <code>99999</code><br>
-<strong>Please do not do this on PS3 as its file system (FAT32) is limited to 4.1 GBs per folder and changing this can cause severe issues!</strong><br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackfilesize.png" alt="A screenshot of Onyx's Quick Convert screen. &quot;Max Pack Size (MiB)&quot; has been set to &quot;99999&quot;." title="Quick Convert"></p>
 <h4>8.</h4>
 <p>At the bottom, select the big button labeled <code>Make pack</code> (or <code>Start</code> if you used the <code>Make Songs</code> option.)<br>
