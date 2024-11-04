@@ -21,15 +21,15 @@ Idealmente, deberías empaquetar la mayor cantidad de canciones posibles en un s
 
 
 Gracias a la herramienta Onyx, esto es fácil. El proceso es casi igual a [[la guía de convertir archivos de Xbox 360 a RPCS3/PS3]](https://rb3pc.milohax.org/customs_360toPS3_es).  
-Antes de empezar, toma en cuenta que necesitas tener espacio libre no solo para las carpetas originales, si no la carpeta combinada.  
+Antes de empezar, toma en cuenta que necesitas tener espacio libre no solo para las carpetas originales, si no la carpeta combinada **temporalmente**.  
 ¡Asegúrate que tengas suficiente espacio!
 
 #### 1.
 Abre un explorador de archivos y entra a la carpeta donde están instaladas tus customs.  
 Usualmente, esto es `dev_hdd0\game\BLUS30463\USRDIR\`.  
 Si estas en PS3, vas a tener que transferir las carpetas que quieres combinar. Esto puede tomar un rato.  
-Si estas en RPCS3, puedes llegar ahí rápidamente haciendo un click derecho en Rock Band 3 y después en `Open Folder > Open Disc Game Folder`.  
-![Una captura de RPCS3, con el cursor sobre Open Game Folder, dentro del menú despegable de Open Folder.](https://rb3pc.milohax.org/images/trbl/teleprob/patchgames.png "RPCS3")
+Si estas en RPCS3, puedes llegar ahí rápidamente haciendo un click derecho en Rock Band 3 y después en `Open Folder > Open Game Data Folder`.  
+![Una captura de RPCS3, con el cursor sobre Open Game Data Folder, dentro del menú despegable de Open Folder.](https://rb3pc.milohax.org/images/xtra/customs/rpcs3gamedata.png "RPCS3")
 
 #### 2.
 Ahora, abre Onyx y haz click en `Quick convert/pack`.  
@@ -73,7 +73,7 @@ Simplemente, entra un numero alto como <code>99999</code> en la parte abajo a la
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackfilesizees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. &quot;Max Pack Size (MiB)&quot; esta puesto en &quot;99999&quot;." title="Quick Convert"></p>
 <h4>8.</h4>
 <p>Abajo va ver un un botón verde que dice <code>Make pack</code> o <code>Start</code> si elegiste la opción de <code>Make Songs</code><br>
-<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackrpcs3mergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Make 1 pack.&quot;" title="Quick Convert"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackrpcs3mergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Make 1 pack.&quot;" title="Quick Convert">
 <p>Ve a donde tienes tu carpeta de <code>dev_hdd0</code>. Usualmente está en la carpeta de RPCS3.<br>
 Si vas a instalar el paquete a un PS3 por FTP, elije cualquier carpeta que te conviene mas.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/savefolderes.png" alt="Una captura de un explorador de archivos. La carpeta de &quot;dev_hdd0&quot; esta elegida y el cursor esta sobre &quot;Select folder.&quot;" title="Select Folder"></p>
@@ -91,7 +91,7 @@ Hasta puedes actualizar tu colección musical mientras estés dentro del juego c
 Con estos métodos, el PKG va crear una carpeta con un nombre generado automáticamente. Por defecto, va a salir como <code>OxxxxxSongName</code>, con <code>SongName</code> siendo el nombre de la primera canción.<br>
 Recomendamos cambiar la opción de <code>Combine into one new USRDIR subfolder per pack</code> por la de <code>Custom USRDIR subfolder</code> y ponerle el nombre que tu quieras.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamepkgmergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Custom USRDIR subfolder&quot; en vez de &quot;Keep original USRDIR subfolders&quot;." title="Quick Convert"></p>
-<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert">
 <h4>7.</h4>
 <p>Abajo va ver un un botón verde que dice <code>Make pack</code>.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackpkgmergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Make 1 pack.&quot;" title="Quick Convert"></p>
@@ -104,6 +104,6 @@ Puedes instalar este archivo como cualquier otro PKG.<br>
 </div>
 </div>
 
-{% include custom/series_customs_next.html %}
+{% include custom/series_customses_next.html %}
 
 {% include links.html %}

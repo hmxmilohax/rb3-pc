@@ -24,8 +24,9 @@ Puedes resolver este problema con Nautilus.
 1\. Abre Nautilus y elije `Batch DTA Processor`.   
 ![Una captura de Nautilus. El cursor esta sobre "Batch Processor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomebatchproc.png "Nautilus")
 
-2\. Arrastra y suelta cualquier archivo CON en tu carpeta y haz click en `Begin` para procesar todos los archivos CON en la carpeta.   
-**Asegúrate que `Automatically change alphanumeric song IDs` esté activado.**   
+2\. Arrastra cualquier archivo CON de tu carpeta a Nautilus y **asegúrate que `Automatically change alphanumeric song IDs` esté activado.**  
+Haz click en `Begin` para procesar todos los archivos CON seleccionados.  
+Cuando termine, cierra `Batch Processor`.  
 ![Una animación de Nautilus' Batch DTA Processor. Las canciones son arrastradas a la pantalla y luego empiezan a hacer procesadas después de presionar "Begin."](https://rb3pc.milohax.org/images/xtra/customs/nautilusbatchfix.gif "Batch DTA Processor")
 
 3\. Cuando termine, puedes cerrar `Batch Processor` y continuar con la cuarta parte del [[tutorial principal]](https://rb3pc.milohax.org/customs_360toPS3_es#4){:target="_blank"}.
@@ -108,7 +109,7 @@ Esto se puede arreglar con la opcion de `Batch Cryptor` en Nautilus.
 Toma en cuenta que vas a necesitar la version "1.1 Beta" de Rock Band 3 Deluxe si estas en PS3.  
 
 1\. Abre Nautilus y elije `Batch Cryptor`.  
-![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomepack.png "Nautilus")
+![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomecrypt.png "Nautilus")
 
 2\. Cambia a la opcion de `Decrypt` abajo de la pantalla.  
 ![A screenshot of Batch Cryptor. The mode has been switched to "Decrypt."](https://rb3pc.milohax.org/images/xtra/customs/nautiluscryptdecrypt.png "Batch Cryptor")

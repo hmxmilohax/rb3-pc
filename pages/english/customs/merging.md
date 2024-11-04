@@ -28,8 +28,8 @@ Make sure you have enough space!
 Open a file browser and navigate to where your customs are installed.  
 This is normally within `dev_hdd0\game\BLUS30463\USRDIR\`.  
 For PS3, you will have to transfer the folder you want to combine to your computer for processing, which may take a while.  
-If you're on RPCS3, you can get there quickly by right clicking Rock Band 3 within RPCS3 then `Open Folder > Open Disc Game Folder`.  
-![A RPCS3 with Open Disc Game Folder, within the Open Folder menu, highlighted and with a cursor over it.](https://rb3pc.milohax.org/images/trbl/teleprob/patchgames.png "RPCS3")
+If you're on RPCS3, you can get there quickly by right clicking Rock Band 3 within RPCS3 then `Open Folder > Open Game Data Folder`.  
+![A RPCS3 with Open Game Data Folder, within the Open Folder menu, highlighted and with a cursor over it.](https://rb3pc.milohax.org/images/xtra/customs/rpcs3gamedata.png "RPCS3")
 
 #### 2.
 Now, open Onyx Music Game Toolkit and click `Quick convert/pack`.  
@@ -65,7 +65,7 @@ At the bottom left, make sure `Encrypt .mid.edat` is enabled, then select betwee
 With these methods, the USRDIR subfolder will have an auto-generated name. It'll be <code>OxxxxxSongName</code>, with the <code>SongName</code> being the first song in the pack.<br>
 If you want to find the folder easily, it's recommended to select <code>Custom USRDIR subfolder</code> instead of <code>Combine into one new USRDIR subfolder per pack</code> and entering the name of your choice.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3merge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
-<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert">
 <h4>7.</h4>
 <p><em>(Optional but highly recommended)</em><br>
 Since you'll be installing things as loose folders and files, you can easily bypass the 4000 MiB (or 4GB) folder limit. You can use this to pack extra dense folders!<br>
@@ -90,7 +90,7 @@ If using RB3DX, you can even do this while the game is running. Within RB3, sele
 With these methods, the USRDIR subfolder will have an auto-generated name. It'll be <code>OxxxxxSongName</code>, with the <code>SongName</code> being the first song in the pack.<br>
 If you want to find the folder easily, it's recommended to select <code>Custom USRDIR subfolder</code> instead of <code>Combine into one new USRDIR subfolder per pack</code> and entering the name of your choice.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamepkgmerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
-<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
+<img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert">
 <h4>7.</h4>
 <p>At the bottom, select the big button labeled <code>Make pack</code>.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackpkgmerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is over &quot;Make 1 pack.&quot;" title="Quick Convert"></p>

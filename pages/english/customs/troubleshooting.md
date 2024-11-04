@@ -104,7 +104,7 @@ You can fix this with Nautilus' Batch Cryptor.
 Do note that you'll need to have "Rock Band 3 Deluxe 1.1 Beta 4" or newer if you're on PS3.  
 
 1\. Open Nautilus and select `Batch Cryptor`.  
-![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomepack.png "Nautilus")
+![A screenshot of Nautilus. A cursor hovers over "Batch Cryptor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomecrypt.png "Nautilus")
 
 2\. Swap to `Decrypt` at the bottom of the screen.  
 ![A screenshot of Batch Cryptor. The mode has been switched to "Decrypt."](https://rb3pc.milohax.org/images/xtra/customs/nautiluscryptdecrypt.png "Batch Cryptor")
