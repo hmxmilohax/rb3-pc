@@ -48,3 +48,7 @@ Enciende tu controlador y deberías ver que automáticamente se le asigna un nú
 
 Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.  
 ![Una captura de Rock Band 3 con una Guitarra Pro lista para unirse.](https://rb3pc.milohax.org/images/pass/rb3player.png "Rock Band 3: Guitarra Pro lista para unirse")
+
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como un teclado de PC o un mando estándar.</b> {{include.content}}</div>
+
+{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 

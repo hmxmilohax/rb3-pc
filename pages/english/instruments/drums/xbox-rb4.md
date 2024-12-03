@@ -15,6 +15,7 @@ toc: false
 ## NOTES
 
 * Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
+* **Linux** users can install [[`xone` kernel drivers]](https://github.com/dlundqvist/xone) to use Xbox One peripherals.
 * You need a Microsoft Xbox Wireless Adapter to connect these drums to your computer.  
     ![Microsoft Xbox Wireless Adapter for Windows 10](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")  
 * Works **with or without** the Pro Cymbal expansions.

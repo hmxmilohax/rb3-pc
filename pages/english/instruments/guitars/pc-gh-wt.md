@@ -16,7 +16,8 @@ toc: false
 
 * **NOT A RECOMMENDED CONTROLLER** but kept in this list since it's unlikely many people will have this and since not much documentation exists on this controller.
 * Whammy doesn't work, which means a crucial gameplay element doesn't work.
-* Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
+* **Tilt is busted on this controller!**
+    * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
@@ -52,8 +53,8 @@ Use Right Click to unmap a button.
 | D-Pad: Left | ![D-Pad: Left](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") |
-| Left Stick: Down | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt Vertical") |
-| Left Stick: Down | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt Horizontal") |
+| Left Stick: Down (Not recommended) | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt Vertical") |
+| Left Stick: Down (Not recommended) | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Tilt Horizontal") |
 | Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sel.png "Select") |
 | PS Button | ![Home](https://rb3pc.milohax.org/images/btns/gtrs/home.png "Home") |

@@ -14,7 +14,8 @@ toc: false
 
 ## NOTES
 
-* Tilt does not work. Various things have been attempted to get it to work, but the weird gyroscope configuration does not work well with RPCS3 and constantly inputs garbage.
+* **Tilt is busted on this controller!**
+    * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * This was tested with a Raphnet "Classic controller to USB adapter".
 	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.

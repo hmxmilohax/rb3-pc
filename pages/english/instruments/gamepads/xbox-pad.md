@@ -18,6 +18,7 @@ toc: false
 
 ![Microsoft Xbox Wireless Adapter for Windows 10](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")
 
+* **Linux** users can install [[`xone` kernel drivers]](https://github.com/dlundqvist/xone) to use Xbox One peripherals.
 * There is no binding file as all controls are default.
 * This controller auto-strums like god intended.
 * To play Guitar/Bass/Keys/Drums parts on a Controller (Padtar), you will need Rock Band 3 Deluxe.

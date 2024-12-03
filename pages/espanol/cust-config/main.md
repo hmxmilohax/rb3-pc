@@ -79,12 +79,11 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <li><strong>Activa "VSync"</strong> (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia pero casi no se puede sentir. <strong>¡No uses esto con "Frame Limit" activado!</strong></li>
 <li><strong>Cambia "Frame Limit"</strong>(Limite de fotogramas):
 <ul>
-<li>A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.</li>
-<li>"Auto" va usar lo predeterminado de RPCS3.</li>
-<li>Recomendamos usando el panel de control de tu tarjeta de gráficas para limitar la fotogramas o utilizar un programa como MSI Afterburner.</li>
+<li>A "Off" (Desactivado) si quieres tener fotogramas sobre 60. Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.</li>
+<li>"Display" va usar la frecuencia de actualización de tu pantalla.</li>
 <li>Aumentando las fotogramas sobre 60 utiliza muchos más recursos. No es recomendado para sistemas de gama baja.</li>
 <li>Fotogramas sobre 60 pueden causar problemas con la detección de vocales.</li>
-<li>Recomendamos que desactives VSync dentro de Rock Band 3 Deluxe <br> <code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos &gt; VSync</code></li>
+<li>Recomendamos que cambies "Framelimit" a "Off" y actives Vsync en esta pestaña y luego desactives VSync dentro del menú de Rock Band 3 Deluxe <br> <code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos &gt; VSync</code></li>
 </ul>
 </li>
 <li><strong>Cambia "ZCULL Accuracy"</strong> (Precisión de ZCull) <strong>a "Relaxed"</strong> (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.</li>
@@ -197,11 +196,6 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <li>
 <p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Ajusta el "VBlank Frequency"</strong> (intervalo vertical) <strong>si quieres unos fotogramas internos altos.</strong> Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. <strong>Es mejor dejarlo tal como esta.</strong>. Aumentando esto usa mas recursos.
-<ul>
-<li>Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.</li>
-</ul>
-</li>
 <li><strong>Cambia a "Maximum Number of SPURS Threads"</strong> (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[CPUs de Intel i5 de la cuarta generación]</a>.</li>
 </ul>
 </li>

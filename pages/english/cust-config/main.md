@@ -78,14 +78,13 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on graphics card</strong>:</p>
 <ul>
 <li><strong>Enable “VSync”</strong> - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. <strong>Do not enable this with the frame limiter</strong>.</li>
-<li><strong>Change "Frame Limit"</strong>
+<li><strong>Change "Framelimit"</strong>
 <ul>
-<li>Set it to “Off” to use higher VBlank Frequencies, which may introduce jitter, <strong>or if you're using VSync.</strong></li>
-<li>Auto will use default RPCS3 settings.</li>
-<li>It is suggested to use your graphics driver's settings or software like MSI Afterburner to limit your framerate instead.</li>
+<li>Set it to “Off” to have framerates above 60 <strong>or if you're using VSync.</strong></li>
+<li>"Display" will use use your monitor's refresh rate.</li>
 <li>Adjusting the frame rate to be higher than 60 exponentially uses more resources, so this is not recommended for low end machines.</li>
 <li>Be aware that framerates higher than 60 may cause the vocal pitch detection to behave incorrectly.</li>
-<li>It's suggested to disable VSync within Rock Band 3 Deluxe itself in <br> <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
+<li>It's suggested to set "Framelimit" to "Off" and enable VSync in this GPU tab and to disable VSync within Rock Band 3 Deluxe's menus in <br> <code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics &gt; VSync</code></li>
 </ul>
 </li>
 <li><strong>Change “ZCULL Accuracy” to “Relaxed”</strong> - Provides a slight performance improvement but may cause graphical anomalies in very rare situations.</li>
@@ -195,11 +194,6 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>
 <p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
 <ul>
-<li><strong>Adjust VBlank Frequency</strong> if you want a higher internal framerate. This can make it easier to hit notes but may cause graphical instability and connection issues while online. <strong>It's best left alone</strong> and not recommended to go above 75 Hz if adjusting it for online play. Increasing it exponentially uses more CPU and GPU.
-<ul>
-<li>Once again, having a higher VBlank can cause issues with vocal detection.</li>
-</ul>
-</li>
 <li><strong>Change “Maximum Number of SPURS Threads”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
 </ul>
 </li>

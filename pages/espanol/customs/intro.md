@@ -10,13 +10,12 @@ weight: 1
 toc: false
 ---
 
-La mayoría de las canciones customs para Rock Band 3 están hechas para el Xbox 360. Existen como archivos CON que se pueden convertir para la PS3 e incluso el emulador RPCS3. Esta guía te va a enseñar como convertir estos archivos al formato PKG para que puedas instalarlos fácilmente.
+La mayoría de las canciones custom para Rock Band 3 están hechas para el Xbox 360. Igualmente, varios archivos oficiales (hechos por Harmonix) están en este formato. Existen como archivos CON que se pueden convertir para la PS3 e incluso el emulador RPCS3. Esta guía te va a enseñar como convertir estos archivos a formatos que puedes instalar fácilmente.
 
-<span style="font-size:xx-large;">¡Esta guía está enfocada en canciones custom! ¡No intentes procesar las canciones oficiales de Rock Band!</span>
 
-La guía principal en la segunda página te va a ayudar a arreglar los dos peores problemas que afectan la versión de PS3 pero no en 360. Debes de seguir esta guía para todas las canciones que quieres agregar.
+La guía va cubrir varios pasos para evitar problemas antes de que pasen. También hay una pagina para reparar problemas comunes como:
 * Carga infinita/atorada
-* Crasheos/trabas causadas por calidad demasiada alta
+* Crasheos/trabas causadas por calidad
 
 ### Requisitos:
 * Una consola PS3 con HEN o CFW (con una manera de meterle archivos) o [[el emulador RPCS3

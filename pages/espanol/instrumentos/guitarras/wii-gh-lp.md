@@ -14,9 +14,10 @@ toc: false
 
 ## NOTAS:
 
-* El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurarlo pero no te va a ir bien así que no lo recomendamos. Esto es porque el sensor le tira pura basura a RPCS3.
 * Esto fue probado con el adaptador de Raphnet "Classic controller to USB adapter" (Adaptador de control clásico a USB).
 	* Si tu control no funciona, trata de instalar la [[herramienta de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
+* El sensor de ladeo (Tilt) no funciona correctamente.
+    * Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para).
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:
@@ -51,7 +52,7 @@ Usa el click derecho para borrar botones.
 | L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
 | D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
 | D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
+| Right Stick: <br/> Left/Right | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
 | Start | ![Botón + (Mas)](https://rb3pc.milohax.org/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
 | Select | ![Botón - (Menos)](https://rb3pc.milohax.org/images/btns/ctrls/wii/min.png "Botón - (Menos)") |
 | Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/gtrs/home.png "Home") |

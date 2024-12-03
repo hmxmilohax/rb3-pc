@@ -18,6 +18,7 @@ toc: false
 
 ![Adaptador inalámbrico para Windows](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")
 
+* Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
 * No existe un perfil porque la configuración es por defecto.
 * Este control auto-rasguea (tiene auto-strum).
 * Necesitas Rock Band 3 Deluxe si quieres tocar Guitarra/Bajo/Teclado/Batería con mando (Padtar).

@@ -15,6 +15,7 @@ toc: false
 ## NOTES
 
 * Requires installing and running [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/){:target="_blank"} along with its dependencies.
+* **Linux** users can install [[`xone` kernel drivers]](https://github.com/dlundqvist/xone) to use Xbox One peripherals.
 * This profile works for Xbox One Fender Stratocaster, Fender Jaguar, and PDP Riffmaster guitars.
 	* Fender Stratocaster and Fender Jaguar guitars require a Microsoft Xbox Wireless Adapter.  
 	![Microsoft Xbox Wireless Adapter for Windows 10](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Microsoft Xbox Wireless Adapter for Windows 10")  

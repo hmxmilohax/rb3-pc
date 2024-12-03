@@ -14,8 +14,8 @@ toc: false
 
 ## NOTES
 
-* **This controller is known for having horrible latency.**
-	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
+* **Tilt is busted on this controller!**
+    * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
@@ -39,7 +39,7 @@ Use Right Click to unmap a button.
 
 **Map** the following:
 
-* Tilt can be set up but it is very complicated and will take up the select button. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
+* Tilt can be set up but it is very complicated and will take up the Select button. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not use tilt.
 	* To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.
 * Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you try mapping a button and always get "U+" or something similar, click "Filter Noise"** at the bottom left of the controller configuration window **then try mapping**.
 

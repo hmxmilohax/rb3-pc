@@ -16,6 +16,8 @@ toc: false
 
 * This has only been verified to work with an OSTENT PS1 PS2 To PC USB 2.0 Controller Adapter Converter For Sony PS2 Wired Controller (Model Number/SKU: 014800). Other adapters may have issues.
 * You may be able to [[use X360CE]](https://www.x360ce.com/){:target="_blank"} to force a problematic adapter to work.
+* **Tilt can range from unreliable to non-functional depending on your adapter!**
+	* It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
@@ -40,7 +42,7 @@ Use Right Click to unmap a button.
 **Map** the following:
 
 * May need "Filter Noise" to bind correctly, depending on your luck. Sometimes the adapter is flooded by D-Pad presses.
-* Tilt can be set up but it is very complicated. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not tilt.
+* Tilt can be set up but it is very complicated and will take up the Select button. You will have have to mess with "Filter Noise" until it catches the tilt accelerometer. It's suggested to not bother with this and not use tilt.
 	* To bind multiple buttons to one RPCS3 button, hold Shift then click on the RPCS3 button you want to assign multiple buttons to.
 
 | **RPCS3**          | **Controller** |

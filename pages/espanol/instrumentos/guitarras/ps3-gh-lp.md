@@ -14,7 +14,9 @@ toc: false
 
 ## NOTAS:
 
-* **Estas guitarra es notoria por tener latencia inestable.**
+* **Estas guitarra:
+	* es notoria por tener latencia inestable.
+	* tiene un sensor de ladeo (Tilt) no funciona correctamente.**
 	* Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
@@ -55,7 +57,7 @@ Usa el click derecho para borrar botones.
 | D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
 | D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Palanca Derecha: <br/> Izq./Der. | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Select | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo Vertical") |
+| Select (No es recomendado) | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo Vertical") |
 | Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sel.png "Select") |
 | Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/ctrls/ps3/home.png "Home") |

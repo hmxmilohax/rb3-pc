@@ -10,13 +10,12 @@ weight: 1
 toc: false
 ---
 
-Custom songs for Rock Band 3 are generally made with only the Xbox 360 in mind. They exist as CON files that can be converted for PS3. This guide will show you how to convert these files to PKG files you can install on PS3.
+Custom songs for Rock Band 3 are generally made with only the Xbox 360 in mind. Likewise, various files of official content (made by Harmonix) are like this. They exist as CON files that can be converted to work with the PS3 version of the game. This guide will show you how to convert these files to formats that can be used on PS3 and emulator!
 
-<span style="font-size:xx-large;">This guide is primarily focused on customs songs, do not attempt to run official RB content through the fixer.</span>
 
-The main guide on page 2 will fix two major problems the PS3 has with customs that the 360 doesn't and should follow for every custom you add.
+Following the guide will help prevent common issues before they happen. There is also a troubleshooting page to fix customs with problems such as:
 * Infinite loading from improper encryption
-* Crash from too high-quality audio
+* Crashes from audio quality
 
 ### Requirements:
 * A modded PS3 console (with a method of transferring files to it) or the [[RPCS3 emulator]](https://rb3pc.milohax.org/gs_disc){:target="_blank"}

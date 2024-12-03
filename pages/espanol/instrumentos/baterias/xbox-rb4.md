@@ -14,6 +14,7 @@ toc: false
 
 ## NOTAS:
 * Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
+* Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
 * Estas baterias requieren un Adaptador inalámbrico para Windows.  
     ![Adaptador inalámbrico para Windows](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")  
 * Funciona **con o sin** platillos PRO.

@@ -17,7 +17,7 @@ toc: false
 * Si quieres usar este instrumento, necesitas instalar [[**WiitarThing**]](https://github.com/Meowmaritus/WiitarThing){:target="_blank"} y sus dependencias.
 * Esta configuración **requiere un receptor de Bluetooth para conectarse.** Si no computadora no tiene un adaptador de Bluetooth, no va a funcionar.
     * Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para){:target="_blank"}.
-* El sensor de ladeo (Tilt) no funciona correctamente. Puedes tratar de configurarlo pero no te va a ir bien así que no lo recomendamos. Esto es porque el sensor le tira pura basura a RPCS3.
+* El sensor de ladeo (Tilt) no funciona correctamente.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
 
 ## Información de Control:

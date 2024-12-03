@@ -15,8 +15,6 @@ weight: 8
 	* **Cambia el "Driver Wake-up Delay"** (Retraso de activacion de controlador) **a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.** Si todavía sigue pasando (muy raro),  subele en incrementos de 20 cada vez.
 
 * ![Un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
-	* **Ajusta el "VBlank Frequency"** (intervalo vertical) **si quieres unos fotogramas internos altos. Esto puede hacer que atinar las notas sea mas facil, pero puede causar inestabilidad gráfica o problemas de conexión en linea. Es mejor dejarlo tal como esta.**
-		* Otra vez, tener fotogramas mas altas que 60 puede causar problemas con la detección de vocales.
 	* **Cambia a "Maximum Number of SPURS Threads"** (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como [[CPUs de Intel i5 de la cuarta generación]](https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005){:target="_blank"}.
 
 * ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/smalltan.png "Cuadro bronceado"): **Recomendado**:
