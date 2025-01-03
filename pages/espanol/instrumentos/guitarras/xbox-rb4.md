@@ -14,7 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
+* Requiere que descargues y instales [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} con ViGEmBus.
 * Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
 * Este perfil funciona con la Fender Stratocaster, Fender Jaguar y la PDP Riffmaster para Xbox One.
 	* La Fender Stratocaster y la Fender Jaguar requieren un Adaptador inalámbrico para Windows.  

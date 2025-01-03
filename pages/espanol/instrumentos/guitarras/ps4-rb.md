@@ -14,9 +14,7 @@ toc: false
 
 ## NOTAS:
 
-* El mapeo no esta confirmado. Si quieres ayudar con este, mándanos un mensaje.
-* **El ladeo (tilt), la palanca de whammy y el switch de efectos no funcionan** para nada. Los botones de solo no funcionan tampoco.
-	* Si eres dueño de una Riffmaster, recomendamos comprar algo como [[Adaptador de guitarra V3 Wii/USB por RetroCultMods]](https://www.etsy.com/listing/1536358024/adaptador-de-guitarra-v3-wii-con) o una [[Adafruit Feather RP2040 con puerto de USB tipo a de entrada]](https://rb3pc.milohax.org/ctrls_mod_riffada_es) para tener ladeo (tilt), la palanca de whammy y el switch de efectos y para convertirla a una guitarra de multi-plataforma.
+* Requiere que descargues y instales [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} con ViGEmBus.
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
@@ -24,9 +22,9 @@ toc: false
 
 ## Información de Control:
 
-| Handlers | Devices |	
+| Handlers | Devices |
 |:------------------:|:---------------------:|
-| MMJoystick | Joystick |
+| XInput | XInput Pad |
 
 | Device Class | Device Subtype |
 |:------------------:|:---------------------:|
@@ -34,24 +32,112 @@ toc: false
 
 ## Mapeo:
 
-| **RPCS3**          | **Control** |
-|:------------------:|:---------------------:|
-| Cross (Cruz) | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
-| Circle (Circulo) | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
-| Square (Cuadro) | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
-| Triangle (Triangulo) | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
-| L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
-| D-Pad (Cruceta): Arriba | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| D-Pad (Cruceta): Abajo | ![Rasgueo para abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| D-Pad (Cruceta): Izquierda | ![D-Pad (Cruceta): Izquierda](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
-| D-Pad (Cruceta): Derecha | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
-| L2 | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") |
-| Start | ![Options](https://rb3pc.milohax.org/images/btns/ctrls/ps4/opt.png "Options") |
-| Select | ![Share](https://rb3pc.milohax.org/images/btns/ctrls/ps4/shr.png "Share") |
-| Botón PS | ![Home](https://rb3pc.milohax.org/images/btns/ctrls/ps3/home.png "Home") |
+Guitarras viejas pueden tener problemas con las palancas de whammy que puede crear dificultades cuando las mapeas. **Si pasa, haz click en "Filter Noise" (filtrar ruido) para mapear correctamente.**  
+
+Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
+
+| **RPCS3** | **XInput** | **Guitarra** |
+|:--------:|:-----------:|:-----------:|
+| Botón R1 | ![Palanca izquierda](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.png "Ladeo") | 
+| L2 | ![Palanca derecha presionada](https://rb3pc.milohax.org/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | 
+
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
+                            </h4>
+                        </div>
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Guitarra</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cross (Cruz)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+</tr>
+<tr>
+<td align="center">Circle (Circulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+</tr>
+<tr>
+<td align="center">Square (Cuadro)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+</tr>
+<tr>
+<td align="center">Triangle (Triangulo)</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+</tr>
+<tr>
+<td align="center">L1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
+</tr>
+<tr>
+<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+</tr>
+<tr>
+<td align="center">Palanca Derecha: <br> Arriba <em>e</em> abajo</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
+</tr>
+<tr>
+<td align="center">L2</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
+</tr>
+<tr>
+<td align="center">Botón R1</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
+</tr>
+<tr>
+<td align="center">Start</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
+</tr>
+<tr>
+<td align="center">Select</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
+</tr>
+<tr>
+<td align="center">Botón PS</td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+</tr>
+</tbody>
+</table>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
 
 ## Perfil
 
-N/A
+[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z){:target="_blank"}
+
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
+
+Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} y [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}
