@@ -34,7 +34,7 @@ toc: false
                             <div class="panel-body">
 <ul><p><img src="https://carlmylo.github.io/rb3-pc/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character's hat teleporting off of his head."><br>
 This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
-There is currently a patch to fix guitars teleporting along with a list of what equipable items have issues.<br>
+Thankfully, there is a patch to fix all of this.<br>
 <a href="https://carlmylo.github.io/rb3-pc/trbl_teleprob" target="_blank">[Click here for more information]</a>.</p></ul>
                             </div>
                         </div>

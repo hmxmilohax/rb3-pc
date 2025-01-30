@@ -29,3 +29,5 @@ Después de eso, arrastra la carpeta de `PS3_GAME`, que estaba adentro de la car
 ![Una animación del proceso de reemplazo.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchinstalles.gif "Reemplazando la carpeta gen")
 
 ¡Eso es todo!
+
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Si el juego se vuelve inestable, ¡activa el modo de memoria expandida! <a href="https://carlmylo.github.io/rb3-pc/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a> </b> {{include.content}}</div>

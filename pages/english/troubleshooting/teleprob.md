@@ -7,6 +7,8 @@ tags: [troubleshooting, english]
 summary: "How to deal with the visual glitches in Rock Band 3."
 ---
 
+
+
 Have you ever been distracted by your character's guitar, hair, or hat were suddenly trying to travel to space?
 
 ![A screenshot of Rock Band 3, with a character's hat teleporting off of his head.](https://carlmylo.github.io/rb3-pc/images/trbl/common/flyinst.png)
