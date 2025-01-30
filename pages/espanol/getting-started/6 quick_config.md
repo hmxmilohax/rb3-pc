@@ -4,7 +4,7 @@ sidebar: espanol_sidebar
 permalink: gs_quick_config_es
 folder: espanol
 tags: [empezando, espanol]
-summary: "La pagina central para configuraciones rápida de RPCS3"
+summary: "La pagina central para configuraciones rápida de RPCS3."
 series: "Empezando"
 weight: 6
 toc: false

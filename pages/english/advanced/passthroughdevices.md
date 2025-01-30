@@ -51,7 +51,6 @@ Likewise, in Rock Band 3, you will see the instrument ready to join.
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.</b> {{include.content}}</div>
 
-{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
-
+[[Click here for instructions on how to set one up.]](https://rb3pc.milohax.org/ctrls#gamepads)
 
 {% include links.html %}

@@ -4,12 +4,24 @@ sidebar: espanol_sidebar
 permalink: gs_init_es
 folder: espanol
 tags: [empezando, espanol]
-summary: "Lo que tienes que hacer con lo que bajaste en la pagina anterior"
+summary: "Lo que tienes que hacer con lo que bajaste en la pagina anterior."
 series: "Empezando"
 weight: 4
 ---
 
-Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en "Continue"** (Continuar).  
+<p>Ahora, <strong>ve a la carpeta donde extrajiste a RPCS3 y ábrelo.</strong> Deja esta carpeta abierta en el fondo.<br>
+<strong>Activa</strong>:</p>
+<ul>
+<li><a href="#" data-toggle="tooltip" data-original-title="Crear atajo en el escritorio">Create desktop shortcut</a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="Crear atajo en el Menu de Inicio">Create Start Menu shortcut</a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="He leído la guía de inicio rápido">I have read the Quickstart guide</a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="No mostrar de nuevo">Do not show again</a></li>
+</ul>
+<p><strong>Desactiva</strong>:</p>
+<ul>
+<li><a href="#" data-toggle="tooltip" data-original-title="Siempre mostrar al iniciar">Show at startup</a></li>
+</ul>
+
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](https://rb3pc.milohax.org/images/install/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 ## Firmware
