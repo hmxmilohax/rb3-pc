@@ -9,12 +9,12 @@ series: "Custom Configuration"
 weight: 3
 ---
 
-![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png "GPU")
+![A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/gpu.png "GPU")
 
-* ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
+* ![A green square with a dashed outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
 
-* ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Blue Square") **Tweak depending on graphics card**: 
+* ![A blue square with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Blue Square") **Tweak depending on graphics card**: 
 	* **Enable "VSync"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with the frame limiter**.
 	* **Change "Frame Limit"** 
 		* Set it to "Off" to use higher VBlank Frequencies, which may introduce jitter, **or if you're using VSync.**

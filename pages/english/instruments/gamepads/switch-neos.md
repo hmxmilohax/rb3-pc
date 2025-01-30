@@ -8,9 +8,9 @@ summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/switch.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/switch.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/swineos.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/swineos.png" alt="Controller" title="Controller"></div>
 
 ## NOTES:
 
@@ -28,7 +28,7 @@ These bindings are here in case you need ideas on how to configure your device. 
 
 #### CRKD App Setup
 
-![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/doohickey/default.jpg "CRKD CTRL")
+![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/doohickey/default.jpg "CRKD CTRL")
 
 | Lane | Button |
 |:------:|:--:|
@@ -52,22 +52,22 @@ These bindings are here in case you need ideas on how to configure your device. 
 
 | **Lane** | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l1.png "Lane 1") | ![Left D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/dleft.png "Left D-Pad") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l2.png "Lane 2") | ![Right D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/360/dright.png "Right D-Pad") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l3.png "Lane 3") | ![X Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/x.png "X Button") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l4.png "Lane 4") | ![B Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/b.png "B Button") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l5.png "Lane 5") | ![Y Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/y.png "Y Button") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![View Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l1.png "Lane 1") | ![Left D-Pad](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/dleft.png "Left D-Pad") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l2.png "Lane 2") | ![Right D-Pad](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/dright.png "Right D-Pad") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l3.png "Lane 3") | ![X Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/x.png "X Button") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l4.png "Lane 4") | ![B Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/b.png "B Button") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l5.png "Lane 5") | ![Y Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/y.png "Y Button") |
+| ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![View Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswipromapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padswipromapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Retro Guitars/Bass/Keys
 * This configuration sets the fret buttons to mimic the padtar buttons from Guitar Hero 1, 2, 80s, 3, and Aerosmith.
 
 #### CRKD App Setup
 
-![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/doohickey/custom.jpg "CRKD CTRL")
+![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/doohickey/custom.jpg "CRKD CTRL")
 
 | Lane | Button |
 |:------:|:--:|
@@ -91,22 +91,22 @@ These bindings are here in case you need ideas on how to configure your device. 
 
 | **Lane** | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l1.png "Lane 1") | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l2.png "Lane 2") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l3.png "Lane 3") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l4.png "Lane 4") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l5.png "Lane 5") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![View Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l1.png "Lane 1") | ![Green Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Green Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l2.png "Lane 2") | ![Red Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Red Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l3.png "Lane 3") | ![Yellow Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Yellow Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l4.png "Lane 4") | ![Blue Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Blue Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l5.png "Lane 5") | ![Orange Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Orange Fret") |
+| ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![View Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswipromapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padswipromapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Pro Guitar/Bass
 * This configuration requires you to strum after holding down frets.
 
 #### CRKD App Setup
 
-![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/doohickey/custom.jpg "CRKD CTRL")
+![A screenshot of the CRKD CTRL application. Easy/Medium/Hard, Expert, and Pro are set to off. Custom is switched to on. Lane 1 is set to LT. Lane 2 is set to LB. Lane 3 is set to RB. Lane 4 is set to RT. Lane 5 is set to A.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/doohickey/custom.jpg "CRKD CTRL")
 
 | Lane | Button |
 |:------:|:--:|
@@ -130,18 +130,18 @@ These bindings are here in case you need ideas on how to configure your device. 
 
 | **Lane** | **Rock Band** |
 |:------------------:|:---------------------:|
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l1.png "Lane 1") | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l2.png "Lane 2") | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l3.png "Lane 3") | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l4.png "Lane 4") | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| ![Lane 1](https://carlmylo.github.io/docu-rpcs3/images/btns/doohickey/l5.png "Lane 5") | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| ![D-Pad Up](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/dup.png "D-Pad Up") | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| ![D-Pad Down](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ddown.png "D-Pad Down") | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Up") |
-| ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| ![View Button](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l1.png "Lane 1") | ![Green Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Green Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l2.png "Lane 2") | ![Red Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Red Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l3.png "Lane 3") | ![Yellow Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Yellow Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l4.png "Lane 4") | ![Blue Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Blue Fret") |
+| ![Lane 1](https://carlmylo.github.io/rb3-pc/images/btns/doohickey/l5.png "Lane 5") | ![Orange Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Orange Fret") |
+| ![D-Pad Up](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dup.png "D-Pad Up") | ![Strumbar Up](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Strumbar Up") |
+| ![D-Pad Down](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ddown.png "D-Pad Down") | ![Strumbar Down](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Strumbar Up") |
+| ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
+| ![View Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padswineopro.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padswineopro.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://carlmylo.github.io/docu-rpcs3/ctrls#instrument-list)
+[[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 
 Mapped by [[qtipman64]](https://www.twitch.tv/qtipman64)

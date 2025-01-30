@@ -9,9 +9,9 @@ series: "Configuración Personalizada"
 weight: 6
 ---
 
-![Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando Console Language y Keyboard Type resaltados en cafe con una linea blanca solida.](https://carlmylo.github.io/docu-rpcs3/images/cust/system.png "System")
+![Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando Console Language y Keyboard Type resaltados en cafe con una linea blanca solida.](https://carlmylo.github.io/rb3-pc/images/cust/system.png "System")
 
-* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Cuadro bronceado") **Para cambiar el lenguaje del juego**: 
+* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Para cambiar el lenguaje del juego**: 
 	* Cambia **Console Language** (Idioma del Sistema) a **Spanish** (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.
 	* Cambia **Keyboard Type** (Tipo de teclado) a **Spanish Keyboard** (Teclado Español) para cambiar el teclado virtual de Ingles a Español.
 

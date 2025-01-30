@@ -17,17 +17,17 @@ While a Quick Configuration should work in most cases, some things require addit
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="changecustomconfig">
 <p>If you're editing a Custom Configuration (like the one you installed from Quick Configuration), <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Change Custom Configuration</strong>”.<br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfigchange.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
+<img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
 
 <div role="tabpanel" class="tab-pane" id="createcustomconfig">
 <p>If you don't have a Custom Configuration yet, <strong>right click on Rock Band 3</strong> in RPCS3, then click on “<strong>Create Custom Configuration From Default Settings</strong>”.<br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/rpcs3customconfig.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Create Custom Configuration From Default Settings&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
+<img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfig.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Create Custom Configuration From Default Settings&quot; highlighted" title="Create Custom Configuration From Default Settings"></p></div>
 </div>
 <br/>
 
 **Don't forget to click "Apply" then "Save custom configuration" after adjusting settings!**  
 Keep in mind that you'll have to restart the game for most of these settings.  
-![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/docu-rpcs3/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
+![A screenshot of Rock Band 3's Custom Configuration within RPCS3 with a mouse hovering over "Save custom configuration".](https://carlmylo.github.io/rb3-pc/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Color Guide
 
@@ -35,9 +35,9 @@ This may seem overwhelming because of the sheer number of options, but I have co
 
 | COLOR | MEANING |
 |---|---|
-| ![A green square with a dashed outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/biggreen.png "Green Square") | **REQUIRED** |
-| ![A blue square with a dotted outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
-| ![A tan square with a solid outline.](https://carlmylo.github.io/docu-rpcs3/images/cust/bigtan.png "Tan Square") | **Recommended** |
+| ![A green square with a dashed outline.](https://carlmylo.github.io/rb3-pc/images/cust/biggreen.png "Green Square") | **REQUIRED** |
+| ![A blue square with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/bigblue.png "Blue Square") | **Performance Tweaks** |
+| ![A tan square with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/bigtan.png "Tan Square") | **Recommended** |
 
 <br/>
 
@@ -54,9 +54,9 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="cpu">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/cpu.png" alt="A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline." title="CPU"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/cpu.png" alt="A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline." title="CPU"></p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Improved performance, depending on machine</strong>:
+<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Improved performance, depending on machine</strong>:
 <ul>
 <li><strong>Change “SPU Block Size” to “Mega”</strong> - Ties smaller SPU compiled together, which can help machines with fewer cores/threads. Drastically speeds up game startup time on certain machines.</li>
 <li><strong>Change “Preferred SPU Threads” to “1”, “2”, “3”, or “4”</strong> - May help prevent stutter caused by CPU overloads on systems with fewer cores/threads. <strong>Start at 4 and lower it one by one until it improves</strong>.</li>
@@ -66,16 +66,16 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="gpu">
-    <p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline." title="GPU"></p>
+    <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/gpu.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline, Framelimit, Anisotropic Filter, ZCull Accuracy, Output Scaling and VSync highlighted in blue with a dotted outline." title="GPU"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
 <ul>
 <li><strong>Enable “Write Color Buffers”</strong> - Characters will have severe graphical bugs without this.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on graphics card</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on graphics card</strong>:</p>
 <ul>
 <li><strong>Enable “VSync”</strong> - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. <strong>Do not enable this with the frame limiter</strong>.</li>
 <li><strong>Change "Framelimit"</strong>
@@ -106,10 +106,10 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline." title="Audio"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, Audio Buffer and Audio Out highlighted in blue with a dotted outline, and Microphone Settings, Microphone Type (Standard), Mic1, Mic2, Mic3, and Mic4 highlighted in tan with a solid outline." title="Audio"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>
 <ul>
 <li><strong>Adjust “Audio Buffer Duration”</strong> depending on system. Ideally you want this as low as possible.
 <ul>
@@ -123,7 +123,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For Vocalists</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For Vocalists</strong>:</p>
 <ul>
 <li><strong>Set Microphone type to Standard or Rocksmith</strong>.</li>
 <li><strong>Select an input device in “Mic1”, “Mic2”, and “Mic3”</strong> for vocals. If not playing vocals, Mic1 will be used for voice chat.</li>
@@ -136,20 +136,20 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <p><strong>This section is for people playing with USB/MIDI Keyboards, Pro Guitars, or MIDI Drums!</strong></p>
 <ul>
 <li><strong>If you're not playing with a wired Pro Guitar, Pro Drums, or a USB/MIDI keyboard, you can skip this section.</strong></li>
-<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/docu-rpcs3/adv_passthrough" target="_blank"> <strong>[[Passthrough Devices]]</strong></a> section. </li>
+<li><strong>If you're playing with a PS3 Rock Band 3 Keyboard or wireless PS3 Mustang Pro Guitar,</strong> visit the <a href="https://carlmylo.github.io/rb3-pc/adv_passthrough" target="_blank"> <strong>[[Passthrough Devices]]</strong></a> section. </li>
 </ul>
 <p><strong>Make sure your MIDI instrument is connected.</strong> After that, let's go ahead and <strong>focus on RPCS3’s I/O tab.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong><br>
-<img src="https://carlmylo.github.io/docu-rpcs3/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline." title="I/O"></p>
+<img src="https://carlmylo.github.io/rb3-pc/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline, and Pad Handler Mode highlighted in blue with a dotted outline." title="I/O"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Performance Tweaks</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Performance Tweaks</strong>:</p>
 <ul>
 <li><p><strong>Change “Pad Handler Mode” to “Multi-threaded”</strong> - May help with thread distribution, leading to more even performance. Your mileage may vary.</p>
 </li>
 </ul>
 </li>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Recommended</strong>:
+<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Recommended</strong>:
 <ul>
 <li>🎹 <strong>MIDI Keyboard Players: Leave your “Emulated MIDI type” on “Keyboard” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
 <li>🎸 <strong>MIDI Pro Guitar Players: Change your “Emulated MIDI type” from “Keyboard” to “Guitar (17 Frets)” if you have a Mustang Pro Guitar, or “Guitar (22 Frets)” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
@@ -158,19 +158,19 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </li>
 </ul>
-<p>Revisit the <a href="https://carlmylo.github.io/docu-rpcs3/ctrls" target="_blank">[Controllers page]</a> if you need help.</p>
+<p>Revisit the <a href="https://carlmylo.github.io/rb3-pc/ctrls" target="_blank">[Controllers page]</a> if you need help.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/network.png" alt="A screenshot of Rock Band 3's Network custom settings, highlighting Network Status (Connected) in green with a dashed outline, IP/Hosts switches (set to rb3ps3live.hmxservices.com=45.33.44.103), PSN Status (RPCN), and Enable UPNP (not checked) highlighted in tan with a solid outline." title="Network"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
 <ul>
 <li><strong>Change the Network Status to “Connected” as highlighted in the picture. If left on “Disconnected,” the game will temporarily freeze when browsing the song library.</strong></li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>For online</strong>:</p>
 <ul>
 <li>You can tick <strong>“Enable UPNP”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
 <li>Add Rock Band Enhanced's Server IP.
@@ -183,34 +183,34 @@ This may seem overwhelming because of the sheer number of options, but I have co
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="advanced">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/advanced.png" alt="A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, &quot;Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline." title="Advanced"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/advanced.png" alt="A screenshot of Rock Band 3's Advanced custom settings, highlighting Driver Wake-Up Delay (1µ) in green with a dashed outline, &quot;Exclusive Fullscreen Mode, VBlank Frequency, and Maximum Number of SPURS Threads highlighted in blue with a dotted outline, and Debug Console Mode highlighted in tan with a solid outline." title="Advanced"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
 <ul>
 <li><strong>Change “Driver Wake-up Delay” to “20µ”</strong> to avoid crashing after a few songs. Increase it to “40µ” if the issue persists. If it keeps happening, keep increasing it by increments of 20.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
 <ul>
 <li><strong>Change “Maximum Number of SPURS Threads”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
 <ul>
-<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem" target="_blank">[Click here for more information.]</a></li>
+<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/rb3-pc/adv_himem" target="_blank">[Click here for more information.]</a></li>
 <li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
 </ul>
 </li>
 </ul>
 </div>
 <div role="tabpanel" class="tab-pane" id="emulator">
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/emulator.png" alt="A screenshot of Rock Band 3's Emulator custom settings, showing &quot;Show trophy popups&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show Shader Compilation hint&quot;, &quot;Start Games in fullscreen mode&quot;, &quot;Use native user interface.&quot;" title="Emulator"></p>
 <p>You can leave this as is if you want, but I would consider changing the following options:</p>
 <ul>
-<li><img src="https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Optional tweaks</strong>:
+<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Optional tweaks</strong>:
 <ul>
 <li><strong>"Show trophy popups"</strong> - Mimics the way Trophy notifications appear on the PS3. I personally disable this as the game has its own pop-ups.</li>
 <li><strong>"Show PPU compilation hint"</strong> - This creates a popup whenever RPCS3 is compiling units for the PPU. This only comes up once as the “Recompiler (LLVM)” setting in the CPU tab does this when launching the game.</li>

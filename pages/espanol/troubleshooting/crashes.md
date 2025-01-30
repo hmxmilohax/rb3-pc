@@ -18,7 +18,7 @@ toc: false
                         <div id="juego-no-inicia" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-<li>Es probable que instalaste el <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem_es" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Es probable que instalaste el <a href="https://carlmylo.github.io/rb3-pc/adv_himem_es" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://carlmylo.github.io/rb3-pc/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Asegúrate que tengas firmware actual.</li>
 <li>Si no fue esto, tienes una copia de Rock Band 3 corrupta.</li>
 </ul>

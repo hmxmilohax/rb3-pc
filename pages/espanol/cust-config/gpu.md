@@ -9,12 +9,12 @@ series: "Configuración Personalizada"
 weight: 3
 ---
 
-![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Settings" en un cuadro verde con una línea discontinua, "ZCULL Accuracy", "Resolution Scale", "Anisotropic Filtering", "Anti-Alising", "Framelimit", "Output Scaling" y "VSync" resaltados en un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/gpu.png "GPU")
+![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Settings" en un cuadro verde con una línea discontinua, "ZCULL Accuracy", "Resolution Scale", "Anisotropic Filtering", "Anti-Alising", "Framelimit", "Output Scaling" y "VSync" resaltados en un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/gpu.png "GPU")
 
-* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
+* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Activa "Write Color Buffers"** (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción
 
-* ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/docu-rpcs3/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
+* ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* **Activa "VSync"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. **No uses esto con "Frame Limit" activado!**
 	* **Cambia "Frame Limit"** (Limite de fotogramas):
 		* A "Off" (Desactivado) si quieres tener fotogramas altas (VBlank Frequency). Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.

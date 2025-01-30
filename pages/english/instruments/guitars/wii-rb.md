@@ -8,9 +8,9 @@ summary: "How to setup Nintendo Wii Rock Band guitars on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/rbgtrscontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbgtrscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -32,29 +32,29 @@ toc: false
 
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|
-| Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| Triangle | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad: Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad: Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpl.png "D-Pad: Left") |
-| D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/dpr.png "D-Pad: Right") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Right Stick: <br/> Up/Down | ![Effects Switch](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/fx.png "Effects Switch") |
-| L2 | ![Solo Buttons](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/solo.png "Solo Buttons") |
-| R1 | ![Tilt](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/ts.png "Tilt") |
-| Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus") |
-| Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
-| PS Button | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
+| Cross | ![Green Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Green Fret") |
+| Circle | ![Red Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Red Fret") |
+| Square | ![Blue Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Blue Fret") |
+| Triangle | ![Yellow Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Yellow Fret") |
+| L1 | ![Orange Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Orange Fret") |
+| D-Pad: Up | ![Strumbar Up](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Strumbar Up") |
+| D-Pad: Down | ![Strumbar Down](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Strumbar Down") |
+| D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png "D-Pad: Left") |
+| D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad: Right") |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
+| Right Stick: <br/> Up/Down | ![Effects Switch](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Effects Switch") |
+| L2 | ![Solo Buttons](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Solo Buttons") |
+| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") |
+| Start | ![Plus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/plu.png "Plus") |
+| Select | ![Minus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/min.png "Minus") |
+| PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/home.png "Home") |
 
 ## Profile
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiirbmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrwiirbmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://carlmylo.github.io/docu-rpcs3/ctrls#instrument-list)
+[[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 
 Mapped by [[Carl Mylo]](www.twitch.tv/carlmylo){:target="_blank"}

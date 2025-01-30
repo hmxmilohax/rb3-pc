@@ -18,7 +18,7 @@ Following the guide will help prevent common issues before they happen. There is
 * Crashes from audio quality
 
 ### Requirements:
-* A modded PS3 console (with a method of transferring files to it) or the [[RPCS3 emulator]](https://carlmylo.github.io/docu-rpcs3/gs_disc){:target="_blank"}
+* A modded PS3 console (with a method of transferring files to it) or the [[RPCS3 emulator]](https://carlmylo.github.io/rb3-pc/gs_disc){:target="_blank"}
 * [[An installation of Rock Band 3 Deluxe]](https://rb3dx.milohax.org/){:target="_blank"} (Optional but highly recommended)
 * [[Nautilus version 4.8.4 or later]](https://nemosnautilus.com/nautilus/){:target="_blank"} (Previously known as C3 CON Tools/C3Tools)
 	* [[Mirror Link]](https://github.com/trojannemo/Nautilus/releases/){:target="_blank"}

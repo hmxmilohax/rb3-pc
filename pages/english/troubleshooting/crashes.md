@@ -18,7 +18,7 @@ toc: false
                         <div id="my-game-crashes-on-boot" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-<li>You probably installed the <a href="https://carlmylo.github.io/docu-rpcs3/adv_himem" target="_blank"><strong>[High Memory File]</strong></a> and forgot to enable “Debug Console Mode” in the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_adv" target="_blank">[Advanced tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
+<li>You probably installed the <a href="https://carlmylo.github.io/rb3-pc/adv_himem" target="_blank"><strong>[High Memory File]</strong></a> and forgot to enable “Debug Console Mode” in the <a href="https://carlmylo.github.io/rb3-pc/custom_config_adv" target="_blank">[Advanced tab when setting up the Custom Configuration]</a> for Rock Band 3.</li>
 <li>If it’s not this, you have a bad dump or an incompatible computer.</li>
 </ul>
                             </div>

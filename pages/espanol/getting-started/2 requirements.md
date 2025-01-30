@@ -34,7 +34,7 @@ Puedes usar:
 <sup>a</sup> <sub>A unos instrumentos no les funciona whammy, ladeo, o el switch de efectos. Lee la pagina de instrumentos para mas información.</sub>  
 <sup>b</sup> <sub>Los mandos se funcionan con auto-strum (rasgueo automático) como en GH1-GH3. Los teclados se pueden configurar para tener rasgueo manual o auto-strum.</sub>  
 <sup>c</sup> <sub>Ciertos instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi_es){:target="_blank"}</sub>  
+<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}</sub>  
 
 #### Un micrófono
 Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar hasta tres micrófonos al mismo tiempo.

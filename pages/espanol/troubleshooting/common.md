@@ -17,9 +17,9 @@ toc: false
                         </div>
                         <div id="tex-malas" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="Una captura de Rock Band 3, con un personaje que tiene texturas corruptas." title="Graphical issues"></p>
-<p>No leíste la guía y no <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_gpu_es" target="_blank"><strong>[activaste Write Color Buffers en la pestaña de la configuración de GPU]</strong></a>.</p>
-<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando Write Color Settings en un cuadro verde con una línea discontinua." title="GPU"></p></ul>
+<ul><p><img src="https://carlmylo.github.io/rb3-pc/images/trbl/common/wcb.png" alt="Una captura de Rock Band 3, con un personaje que tiene texturas corruptas." title="Graphical issues"></p>
+<p>No leíste la guía y no <a href="https://carlmylo.github.io/rb3-pc/custom_config_gpu_es" target="_blank"><strong>[activaste Write Color Buffers en la pestaña de la configuración de GPU]</strong></a>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/trbl/common/wcbon.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando Write Color Settings en un cuadro verde con una línea discontinua." title="GPU"></p></ul>
                             </div>
                         </div>
                     </div>
@@ -32,10 +32,10 @@ toc: false
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accessorios."><br>
+<ul><p><img src="https://carlmylo.github.io/rb3-pc/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accesorios."><br>
 Esto pasa en PlayStation 3 pero es peor en RPCS3.<br>
 Existe un parche que arregla las guitarras y una lista de todo los accesorios que tienen problemas.<br>
-<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a></p></ul>
+<a href="https://carlmylo.github.io/rb3-pc/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a></p></ul>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ Existe un parche que arregla las guitarras y una lista de todo los accesorios qu
                         </div>
                         <div id="online-crasheos-de-puerto" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net_es" target="_blank">[pestaña de Network en la configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter]]</a>.</p></ul>
+<ul><p>Tu rúter tiene problemas con UPNP. Ve a la <a href="https://carlmylo.github.io/rb3-pc/custom_config_net_es" target="_blank">[pestaña de Network en la configuración personalizada de Rock Band 3]</a>, y desactiva “Enable UPNP.” Vas a necesitar investigar como <a href="https://es.wikihow.com/configurar-el-reenv%C3%ADo-de-puertos-en-un-router" target="_blank">[reenviar los puertos en tu rúter]]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ Puedes ajustar esto en:<br>
                         <div id="sonido-feo" class="panel-collapse collapse">
                             <div class="panel-body">
 <ul><p><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
-Aumenta “Audio Buffer Duration” como mencionado en <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_aud_es" target="_blank">[la pestaña de Audio en la configuración de Rock Band 3]</a> hasta que se escuche mejor el juego. Si tienes una computadora de baja gama, empieza con 100 ms y bajale hasta lo que puedas.<br>
+Aumenta “Audio Buffer Duration” como mencionado en <a href="https://carlmylo.github.io/rb3-pc/custom_config_aud_es" target="_blank">[la pestaña de Audio en la configuración de Rock Band 3]</a> hasta que se escuche mejor el juego. Si tienes una computadora de baja gama, empieza con 100 ms y bajale hasta lo que puedas.<br>
 Alternativamente, puedes ver la sección de problemas comunes de rendimiento abajo.</p></ul>
                             </div></div></div>
                     <!-- /.panel -->
@@ -91,7 +91,7 @@ Alternativamente, puedes ver la sección de problemas comunes de rendimiento aba
                             <div class="panel-body">
 <ul>
 <li>Activa <a href="https://help.ableton.com/hc/es/articles/115000211304-Utilizar-el-plan-de-energ%C3%ADa-de-alto-rendimiento-Windows" target="_blank">[el plan de energía de alto rendimiento]</a>.</li>
-<li>Regresa a la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_es#configuraci%C3%B3n-personalizada" target="_blank">[sección de configuración personalizada]</a> y trata la los ajustes recomendados para computadoras de baja gama.</li>
+<li>Regresa a la <a href="https://carlmylo.github.io/rb3-pc/custom_config_es#configuraci%C3%B3n-personalizada" target="_blank">[sección de configuración personalizada]</a> y trata la los ajustes recomendados para computadoras de baja gama.</li>
 <li>Desactiva los efectos en la configuración de Deluxe.
 <ul>
 <li><code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos</code></li>

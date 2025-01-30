@@ -9,11 +9,11 @@ series: "Configuración Personalizada"
 weight: 9
 ---
 
-![Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", y "Use native user interface." resaltados en cuadros bronceados con contornos solidos.](https://carlmylo.github.io/docu-rpcs3/images/cust/emulator.png "Emulator")
+![Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando "Show trophy popups", "Show PPU compilation hint", "Show Shader Compilation hint", "Start Games in fullscreen mode", y "Use native user interface." resaltados en cuadros bronceados con contornos solidos.](https://carlmylo.github.io/rb3-pc/images/cust/emulator.png "Emulator")
 
 Puedes dejar esto como quieras, pero consideraría ajustar estas opciones:
 
-* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/docu-rpcs3/images/cust/smalltan.png "Cuadro bronceado") **Opcional**: 
+* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Opcional**: 
 	* **"Show trophy popups"** (Enseñar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3. Personalmente desactivo esto ya que el juego tiene sus propias notificaciones.
 	* **"Show PPU compilation hint"** (Enseñar notificaciones de PPUs compilándose) - Esto crea una notificación cuando RPCS3 esta compilando unidades del PPU. Esto solo sale si tienes la opción "Recompiler (LLVM)" activada en la pestaña de CPU.
 	* **"Show shader compilation hint"** (Enseñar notificaciones de shaders compilándose) - Esto crea una notificación cuando RPCS3 esta compilando shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los Gráficas de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabándose mientras esto pase** . **Esto pasa en TODOS las PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.

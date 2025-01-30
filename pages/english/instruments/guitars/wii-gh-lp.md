@@ -8,9 +8,9 @@ summary: "How to setup Nintendo Wii Les Pauls on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/wiilpcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiilpcontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -18,7 +18,7 @@ toc: false
     * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * This was tested with a Raphnet "Classic controller to USB adapter".
 	* If the controller doesn't work at all, try installing [[Raphnet's management tool]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/docu-rpcs3/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls_pads){:target="_blank"}.
 
 ## Pad Information
 
@@ -45,24 +45,24 @@ Use Right Click to unmap a button.
 
 | **RPCS3**          | **Controller** |
 |:------------------:|:---------------------:|
-| Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
-| Circle | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
-| Square | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
-| Triangle | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
-| L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
-| D-Pad: Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
-| D-Pad: Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
-| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
-| Start | ![Plus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/plu.png "Plus") |
-| Select | ![Minus](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/wii/min.png "Minus") |
-| PS Button | ![Home](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/home.png "Home") |
+| Cross | ![Green Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Green Fret") |
+| Circle | ![Red Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Red Fret") |
+| Square | ![Yellow Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Yellow Fret") |
+| Triangle | ![Blue Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Blue Fret") |
+| L1 | ![Orange Fret](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Orange Fret") |
+| D-Pad: Up | ![Strumbar Up](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Strumbar Up") |
+| D-Pad: Down | ![Strumbar Down](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Strumbar Down") |
+| Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
+| Start | ![Plus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/plu.png "Plus") |
+| Select | ![Minus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/min.png "Minus") |
+| PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/home.png "Home") |
 
 ## Profile
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/gtrwiilpmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrwiilpmapping.png" alt="Mapping" title="Mapping"></div>
 
-[[Back to Controllers]](https://carlmylo.github.io/docu-rpcs3/ctrls#instrument-list)
+[[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 
 Mapped by [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}
