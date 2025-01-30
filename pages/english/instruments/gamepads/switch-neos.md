@@ -24,7 +24,7 @@ toc: false
 These bindings are here in case you need ideas on how to configure your device. You can leave the binding on default and just remap within Deluxe as mentioned above.
 
 ### Default Guitars/Bass/Keys
-* This is the auto of the box experience.
+* This is the out-of-the-box experience.
 
 #### CRKD App Setup
 

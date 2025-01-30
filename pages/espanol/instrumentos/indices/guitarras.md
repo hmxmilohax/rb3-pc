@@ -49,6 +49,6 @@ toc: false
 |[![Guitarra de GH:World Tour](https://rb3pc.milohax.org/images/instruments/list/gtrwt.png)](https://rb3pc.milohax.org/ctrls_ghwtgtr_pc_es "Genericaster de Guitar Hero") | Guitarra de GH:World Tour | ![PC](https://rb3pc.milohax.org/images/instruments/plat/pc.png) | ![Compatibilidad terrible](https://rb3pc.milohax.org/images/instruments/compat/bad.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_ghwtgtr_pc_es) |
 |[![Guitarra desconocida](https://rb3pc.milohax.org/images/instruments/list/gtrmyst.png)](https://rb3pc.milohax.org/ctrls_gtr_gen_es "Guitarra desconocida") | Guitarra desconocida | ![Sistema desconocido](https://rb3pc.milohax.org/images/instruments/plat/myst.png) | N/A |[[VER MAS]](https://rb3pc.milohax.org/ctrls_gtr_gen_es) |
 
-{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 
+
 
 {% include links.html %}

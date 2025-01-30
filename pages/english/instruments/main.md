@@ -43,7 +43,7 @@ Once you've finished configuring, **remember to click "Save".**
 
 ## Instrument List
 
-{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
+
 
 ### Drums
 
@@ -154,7 +154,6 @@ Once you've finished configuring, **remember to click "Save".**
 |[![Nintendo Wii Fender Mustang](https://rb3pc.milohax.org/images/instruments/list/promust.png)](https://rb3pc.milohax.org/ctrls_protar_wii "Fender Mustang") | Fender Mustang | ![Nintendo Wii](https://rb3pc.milohax.org/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_protar_wii) |
 |[![Squier Stratocaster](https://rb3pc.milohax.org/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/ctrls_protar_midi "Squier Stratocaster") | Squier Stratocaster | ![MIDI](https://rb3pc.milohax.org/images/instruments/plat/midi.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_protar_midi) |
 
-{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
 
 ## Using Profiles
 

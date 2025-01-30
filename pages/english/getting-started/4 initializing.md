@@ -9,7 +9,17 @@ series: "Getting Started"
 weight: 4
 ---
 
-Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**. **Tick "I have read the Quickstart guide" and "Do not show again", then click "Continue."**  
+Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**.  
+**Tick**:
+* "Create desktop shortcut"
+* "Create Start Menu shortcut"
+* "I have read the Quickstart guide"
+* "Do not show again"  
+
+**Disable**:
+* "Show at startup"  
+
+After that, **click "Continue."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](https://rb3pc.milohax.org/images/install/rpcs3init.png "Welcome to RPCS3")
 
 ## Firmware
@@ -30,7 +40,7 @@ Now, **go to the folder where you extracted RPCS3.** Keep this folder open in th
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](https://rb3pc.milohax.org/images/install/rpcs3fwcomp.png "Compiling PPU modules...")
 
-## Rock Band 3
+## Rock Band 3 + Instrument patch
 
 Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
 
@@ -40,9 +50,36 @@ After dragging it in, click "Refresh" in RPCS3.
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://rb3pc.milohax.org/images/install/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
+## Teleport Patch
+
+We'll now be installing a community made patch to remove distracting visual glitches. These happen on real PS3 hardware as well, but are worse on emulator.  
+![A screenshot of Rock Band 3, with a character's hat teleporting off of his head.](https://rb3pc.milohax.org/images/trbl/common/flyinst.png)
+
+First, download the [[`rb3_ps3_guitar_glitch_fix.7z` archive]](https://github.com/hmxmilohax/rock-band-3-deluxe/raw/main/dependencies/ps3_patcher/rb3_ps3_guitar_glitch_fix.7z).
+
+![The rb3_ps3_guitar_glitch_fix.7z archive in a browser's download tray.](https://rb3pc.milohax.org/images/trbl/teleprob/patchfldr.png "rb3_ps3_guitar_glitch_fix.7z")
+
+Extract the `rb3_ps3_guitar_glitch_fix.7z` archive. Move this window to the right and leave it open.
+
+![rb3_ps3_guitar_glitch_fix.7z being extracted.](https://rb3pc.milohax.org/images/trbl/teleprob/patchextr.png "rb3_ps3_guitar_glitch_fix.7z")
+
+Next, go to where your game's disc folder is located.  
+The quickest way to get there is to right click Rock Band 3 in RPCS3 and go to `Open Folder > Open Disc Game Folder`. Move this window to the left.
+
+![A RPCS3 with Open Disc Game Folder, within the Open Folder menu, highlighted and with a cursor over it.](https://rb3pc.milohax.org/images/trbl/teleprob/patchgames.png "RPCS3")
+
+After that:
+1. Go into `PS3_GAME > USRDIR` on the left window.  
+2. On the right window, go into the `rb3_ps3_guitar_glitch_fix` folder you extracted. 
+3. You should see `gen` in both file browser windows.
+4. Drag the `gen` folder from the right `rb3_ps3_guitar_glitch_fix` folder to the left `USRDIR` folder.  
+5. Click `Replace the file in the destination` when prompted.
+
+![A GIF of the files within the gen folder being replaced.](https://rb3pc.milohax.org/images/trbl/teleprob/patchrepl.gif "Replacing gen folder")
+
 ## Rock Band 3 Deluxe
 
-After Rock Band 3 appears in your library, go get [**[*Rock Band 3 Deluxe*]**](https://rb3dx.milohax.org/){:target="_blank"}.
+Finally, let's [**[*Rock Band 3 Deluxe*]**](https://rb3dx.milohax.org/){:target="_blank"}.
 
 This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.milohax.org/features){:target="_blank"}.
 

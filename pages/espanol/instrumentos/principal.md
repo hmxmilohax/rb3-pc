@@ -45,8 +45,6 @@ Cuando termines de configurar algo, **asegúrate hacer click en "Save"** (Guarda
 
 ## Lista de instrumentos
 
-{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 
-
 ### Baterías
 
 | Imagen | Nombre | Sistema | Reseña | Configuración |
@@ -128,6 +126,7 @@ Cuando termines de configurar algo, **asegúrate hacer click en "Save"** (Guarda
 |[![Control de Xbox 360](https://rb3pc.milohax.org/images/instruments/list/pad360.png)](https://rb3pc.milohax.org/ctrls_pad_360_es "Control de Xbox 360") | Control de Xbox 360 | ![Xbox 360](https://rb3pc.milohax.org/images/instruments/plat/360.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_360_es) |
 |[![Teclado de PC](https://rb3pc.milohax.org/images/instruments/list/padkey.png)](https://rb3pc.milohax.org/ctrls_pad_pckeys_es "Teclado de PC") | Teclado de PC | ![PC](https://rb3pc.milohax.org/images/instruments/plat/pc.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_pckeys_es) |
 |[![Control Pro de Nintendo Switch](https://rb3pc.milohax.org/images/instruments/list/padswipro.png)](https://rb3pc.milohax.org/ctrls_pad_switch_es "Control Pro de Nintendo Switch") | Control Pro de Nintendo Switch | ![Nintendo Switch](https://rb3pc.milohax.org/images/instruments/plat/switch.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_switch_es) |
+|[![Control CRKD NEO S Wave](https://rb3pc.milohax.org/images/instruments/list/padswineos.png)](https://rb3pc.milohax.org/ctrls_pad_doohickey_es "Control CRKD NEO S Wave") | Control CRKD NEO S Wave | ![Nintendo Switch](https://rb3pc.milohax.org/images/instruments/plat/switch.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_doohickey_es) |
 |[![Control DualSense](https://rb3pc.milohax.org/images/instruments/list/padds.png)](https://rb3pc.milohax.org/ctrls_pad_dualsense_es "Control DualSense") | Control DualSense | ![PlayStation 5](https://rb3pc.milohax.org/images/instruments/plat/ps5.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_dualsense_es) |
 |[![Control DualShock 4](https://rb3pc.milohax.org/images/instruments/list/padds4.png)](https://rb3pc.milohax.org/ctrls_pad_ds4_es "Control DualShock 4") | Control DualShock 4 | ![PlayStation 4](https://rb3pc.milohax.org/images/instruments/plat/ps4.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_ds4_es) |
 |[![Control DualShock 3](https://rb3pc.milohax.org/images/instruments/list/padds3.png)](https://rb3pc.milohax.org/ctrls_pad_ds3_es "DualShock 3 Controller") | DualShock 3 Controller | ![PlayStation 3](https://rb3pc.milohax.org/images/instruments/plat/ps3.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_pad_ds3_es) |
@@ -155,7 +154,7 @@ Cuando termines de configurar algo, **asegúrate hacer click en "Save"** (Guarda
 |[![Fender Mustang para Nintendo Wii](https://rb3pc.milohax.org/images/instruments/list/promust.png)](https://rb3pc.milohax.org/ctrls_protar_wii_es "Fender Mustang") | Fender Mustang | ![Nintendo Wii](https://rb3pc.milohax.org/images/instruments/plat/wii.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_protar_wii_es) |
 |[![Squier Stratocaster](https://rb3pc.milohax.org/images/instruments/list/prostrat.png)](https://rb3pc.milohax.org/ctrls_protar_midi_es "Squier Stratocaster") | Squier Stratocaster | ![MIDI](https://rb3pc.milohax.org/images/instruments/plat/midi.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_protar_midi_es) |
 
-{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 
+
 
 ## Usando perfiles
 

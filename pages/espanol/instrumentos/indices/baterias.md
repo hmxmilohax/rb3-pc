@@ -24,6 +24,6 @@ toc: false
 |[![Batería de Rock Band 4 con platillos](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/ctrls_rb4drums_ps4_es "Batería de Rock Band 4 para PlayStation 4") | Batería de Rock Band 4 (sin platillos) | ![PlayStation 4](https://rb3pc.milohax.org/images/instruments/plat/ps4.png) | ![Compatibilidad terrible](https://rb3pc.milohax.org/images/instruments/compat/bad.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_rb4drums_ps4_es) |
 |[![Batería desconocida](https://rb3pc.milohax.org/images/instruments/list/drrmyst.png)](https://rb3pc.milohax.org/ctrls_drums_gen_es "Batería desconocida") | Batería desconocida | ![Sistema desconocido](https://rb3pc.milohax.org/images/instruments/plat/myst.png) | N/A |[[VER MAS]](https://rb3pc.milohax.org/ctrls_drums_gen_es) |
 
-{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 
+
 
 {% include links.html %}
