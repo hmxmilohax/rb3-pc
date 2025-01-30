@@ -17,9 +17,9 @@ toc: false
                         </div>
                         <div id="bugged-textures" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/wcb.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues." title="Graphical issues"></p>
-<p>You did not follow the guide and did not <a href="https://rb3pc.milohax.org/custom_config#custom-configuration" target="_blank"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
-<p><img src="https://rb3pc.milohax.org/images/trbl/common/wcbon.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline." title="GPU"></p></ul>
+<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcb.png" alt="A screenshot of Rock Band 3, with a character displaying severe texture issues." title="Graphical issues"></p>
+<p>You did not follow the guide and did not <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank"><strong>[enable Write Color Buffers in the GPU section]</strong></a>.</p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/wcbon.png" alt="A screenshot of Rock Band 3's GPU custom settings, highlighting Write Color Settings highlighted in green with a dotted outline." title="GPU"></p></ul>
                             </div>
                         </div>
                     </div>
@@ -32,10 +32,10 @@ toc: false
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character's hat teleporting off of his head."><br>
+<ul><p><img src="https://carlmylo.github.io/docu-rpcs3/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character's hat teleporting off of his head."><br>
 This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
 There is currently a patch to fix guitars teleporting along with a list of what equipable items have issues.<br>
-<a href="https://rb3pc.milohax.org/trbl_teleprob" target="_blank">[Click here for more information]</a>.</p></ul>
+<a href="https://carlmylo.github.io/docu-rpcs3/trbl_teleprob" target="_blank">[Click here for more information]</a>.</p></ul>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ There is currently a patch to fix guitars teleporting along with a list of what 
                         </div>
                         <div id="online-i-crash-when-joining-sessionssearching-for-players" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://rb3pc.milohax.org/custom_config_net" target="_blank">[Network section]</a>, and disable “Enable UPNP.”</p>
+<ul><p>Your router may have issues with RPCS3’s UPNP feature. Go to Rock Band 3’s Custom Configuration <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_net" target="_blank">[Network section]</a>, and disable “Enable UPNP.”</p>
 <p>You will need to <a href="https://www.noip.com/support/knowledgebase/general-port-forwarding-guide" target="_blank">[to set up port forwarding in your router's control panel]</a>.</p></ul>
                             </div>
                         </div>
@@ -78,7 +78,7 @@ You can access the system menu by going to:<br>
                         <div id="my-audio-is-stutteringchoppy" class="panel-collapse collapse">
                             <div class="panel-body">
 <ul><p><iframe src="https://www.youtube.com/embed/UoCMEQbNThs" width="420" height="315">&#10;</iframe><br> 
-Increase “Audio Buffer Duration” as mentioned in <a href="https://rb3pc.milohax.org/custom_config#configuration" target="_blank">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers.<br>
+Increase “Audio Buffer Duration” as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#configuration" target="_blank">[the Audio tab of Rock Band 3’s Custom Configuration]</a> until the stuttering stops. 100 ms is a great starting point for low end computers.<br>
 Alternatively, you can check the general performance issues section right below this.</p></ul>
                             </div></div></div>
                     <!-- /.panel -->
@@ -92,7 +92,7 @@ Alternatively, you can check the general performance issues section right below 
                             <div class="panel-body">
 <ul>
 <li>Set your computer to the <a href="https://help.ableton.com/hc/en-us/articles/115000211304-Using-the-High-performance-power-plan-Windows-" target="_blank">[High Performance power plan]</a>.</li>
-<li>Go back to the <a href="https://rb3pc.milohax.org/custom_config#custom-configuration" target="_blank">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
+<li>Go back to the <a href="https://carlmylo.github.io/docu-rpcs3/custom_config#custom-configuration" target="_blank">[Custom Configuration setup section]</a> and apply suggested low performance tweaks.</li>
 <li>Disable Post Effects in Deluxe Settings.
 <ul>
 <li><code>Menu &gt; Options &gt; Deluxe Settings &gt; Graphics</code></li>

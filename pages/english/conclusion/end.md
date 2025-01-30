@@ -20,7 +20,7 @@ Milohax is a community centered around modding and preserving the legacy of Harm
 
 ## RBEnhanced
 
-[![RBEnhanced Logo](https://rb3pc.milohax.org/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced"){:target="_blank"}
+[![RBEnhanced Logo](https://carlmylo.github.io/docu-rpcs3/images/xtra/rbe.png)](https://rb3e.rbenhanced.rocks/ "RBEnhanced"){:target="_blank"}
 
 Developers of the amazing RBEnhanced mod. The same developers also help run and maintain the GoCentral server that is the original online revival server for Rock Band 3. Without this, this game would be more or less dead and the entire online portion of this guide wouldn't exist.
 

@@ -10,24 +10,24 @@ weight: 6
 toc: false
 ---
 
-Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://rb3pc.milohax.org/custom_config_es){:target="_blank"} para ajustar todo a lo mejor que pueda tu computadora.  
-**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://rb3pc.milohax.org/gs_init_es#rock-band-3-deluxe){:target="_blank"} o no te va ir mal. Si no lo tienes instalado en este momento, no estás leyendo la guía.
+Estos archivos son para personas que quieren jugar sin hacer tanta configuración. Como quiera recomiendo que hagas una [[configuración personalizada]](https://carlmylo.github.io/docu-rpcs3/custom_config_es){:target="_blank"} para ajustar todo a lo mejor que pueda tu computadora.  
+**DEBES de tener** [[**Rock Band 3 Deluxe instalado**]](https://carlmylo.github.io/docu-rpcs3/gs_init_es#rock-band-3-deluxe){:target="_blank"} o no te va ir mal. Si no lo tienes instalado en este momento, no estás leyendo la guía.
 
 ## Perfiles de Configuraciones Rápidas
 
 Abajo están los archivos para instalar una configuración rápida. Descarga lo que queda bien con tu computadora.
 
-* [[Configuración recomendada]](https://rb3pc.milohax.org/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
-* [[Configuración mínima]](https://rb3pc.milohax.org/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración recomendada]](https://carlmylo.github.io/docu-rpcs3/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://carlmylo.github.io/docu-rpcs3/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración mínima]](https://carlmylo.github.io/docu-rpcs3/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://carlmylo.github.io/docu-rpcs3/gs_reqs_es#una-computadora){:target="_blank"}.
 
 ## Como Usar
 
 Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
 El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
 
-![Una animación de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://rb3pc.milohax.org/images/cust/quickconf.gif "Recommended.zip")
+![Una animación de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://carlmylo.github.io/docu-rpcs3/images/cust/quickconf.gif "Recommended.zip")
 
-Todavía vas a tener que configurar [[tus instrumentos y controles]](https://rb3pc.milohax.org/ctrls_es){:target="_blank"}. [[Micrófonos]](https://rb3pc.milohax.org/custom_config_aud_es){:target="_blank"} y [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://rb3pc.milohax.org/adv_passthrough_es){:target="_blank"} también requieren configuración adicional.
+Todavía vas a tener que configurar [[tus instrumentos y controles]](https://carlmylo.github.io/docu-rpcs3/ctrls_es){:target="_blank"}. [[Micrófonos]](https://carlmylo.github.io/docu-rpcs3/custom_config_aud_es){:target="_blank"} y [[guitarras PS3 Mustang o teclados RB3 con receptores]](https://carlmylo.github.io/docu-rpcs3/adv_passthrough_es){:target="_blank"} también requieren configuración adicional.
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

@@ -18,7 +18,7 @@ Primero, crea una carpeta donde vas a mover esta carpeta.
 
 En las capturas, yo nombre la carpeta "RPCS3 Directory" (Directorio de RPCS3).
 
-![Una captura de la carpeta creada, que se llama "RPCS3 Directory."](https://rb3pc.milohax.org/images/xtra/dir/dirfolder.png "RPCS3 Directory")
+![Una captura de la carpeta creada, que se llama "RPCS3 Directory."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfolder.png "RPCS3 Directory")
 
 Ahora, en la carpeta donde esta RPCS3, corta estas carpetas:
 * `dev_bdvd`
@@ -30,30 +30,30 @@ Ahora, en la carpeta donde esta RPCS3, corta estas carpetas:
 * `dev_usb000`
 * `games`
 
-![Una captura de las carpetas siendo cortadas.](https://rb3pc.milohax.org/images/xtra/dir/dircut.png "Cut (CTRL+X")
+![Una captura de las carpetas siendo cortadas.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dircut.png "Cut (CTRL+X")
 
 Pega las carpetas en la carpeta que creaste.
 
-![Una animación de las carpetas que fueron cortadas siendo pegadas en la carpeta "RPCS3 Directory."](https://rb3pc.milohax.org/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
+![Una animación de las carpetas que fueron cortadas siendo pegadas en la carpeta "RPCS3 Directory."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
 
 Cuando termine de mover los archivos, abre RPCS3.
 
 Haz click en `Manage > Virtual File System` (Administrar > Sistema de archivos virtual)
 
 
-![Una captura de RPCS3, con el cursor sobre "Virtual File System", en la categoría de "Manage."](https://rb3pc.milohax.org/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
+![Una captura de RPCS3, con el cursor sobre "Virtual File System", en la categoría de "Manage."](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
 En la pantalla de Virtual File System, haz click en símbolo `+` hacia la parte inferior derecha.
 
-![Una captura de Virtual File System, con el cursor sobre el símbolo +.](https://rb3pc.milohax.org/images/xtra/dir/dirvfsadd.png "Virtual File System")
+![Una captura de Virtual File System, con el cursor sobre el símbolo +.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfsadd.png "Virtual File System")
 
 Busca la carpeta que creaste, selecciónala, y haz click a "`Select Folder`" (Elegir Carpeta).
 
-![Una captura con la carpeta creada siendo seleccionada.](https://rb3pc.milohax.org/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
+![Una captura con la carpeta creada siendo seleccionada.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
 
 Finalmente, haz click en "`Save`" (Guardar).
 
-![Una captura de Virtual File System, con la carpeta creada en la lista de EmulatorDir.](https://rb3pc.milohax.org/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
+![Una captura de Virtual File System, con la carpeta creada en la lista de EmulatorDir.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 
 ¡Eso es todo!
 

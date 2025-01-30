@@ -22,8 +22,8 @@ toc: false
 <li>Trata de mover la palanca de whammy o el switch de efectos en tu guitarra.</li>
 <li>Re-conecta el control.</li>
 <li>Abre el menú de "Pads" y ciérralo. Esto va a reiniciar tus controles.</li>
-<li>Desactiva "Native Interface" como dijo la guía en la <a href="https://rb3pc.milohax.org/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
-<li>Usa un <a href="https://rb3pc.milohax.org/ctrls_pads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
+<li>Desactiva "Native Interface" como dijo la guía en la <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Usa un <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_pads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
 </ul>
                             </div>
                         </div>
@@ -38,7 +38,7 @@ toc: false
                         <div id="solo-auto-strum" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <p>En la configuración de "Pads", borra cualquier botón tienes mapeado a L2.</p>
-<p><img src="https://rb3pc.milohax.org/images/instruments/xtra/gtrs/solol2.gif" alt="Una animaction de Gamepad Configuracion de RPCS3. Se borra el boton que esta puesto en L2." title="L2 Borrado"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="Una animaction de Gamepad Configuracion de RPCS3. Se borra el boton que esta puesto en L2." title="L2 Borrado"></p>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ toc: false
                         </div>
                         <div id="ps3-rb-dos-instrumentos" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Creaste una <a href="https://rb3pc.milohax.org/ctrls_es#mapeando" target="_blank">[configuración de controles personalizada]</a> para un control de Rock Band para PS3, eso que necesitas hacer eso porque tiene conexión directa. Borra la configuración y todo debe de estar bien.
+                                Creaste una <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_es#mapeando" target="_blank">[configuración de controles personalizada]</a> para un control de Rock Band para PS3, eso que necesitas hacer eso porque tiene conexión directa. Borra la configuración y todo debe de estar bien.
                             </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ toc: false
                             <div class="panel-body">
                                 <ul>
                                 <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li>
-                                <li>Asegúrate que tu batería este mapeada correctamente y en el canal correcto (Canal 10). Revisa <a href="https://rb3pc.milohax.org/ctrls_drums_midi_es" target="_blank">[la pagina de información para baterías MIDI]</a>.</li>
+                                <li>Asegúrate que tu batería este mapeada correctamente y en el canal correcto (Canal 10). Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi_es" target="_blank">[la pagina de información para baterías MIDI]</a>.</li>
                                 </ul>
                             </div>
                         </div>
@@ -95,7 +95,7 @@ toc: false
                             <div class="panel-body">
                                 <ul>
                                 <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li> 
-                                <li>Asegúrate que tu teclado este mapeado correctamente y en el canal correcto (Canal 1). Revisa <a href="https://rb3pc.milohax.org/ctrls_keys_midi_es" target="_blank">[la pagina de información para teclados MIDI]</a>.</li>
+                                <li>Asegúrate que tu teclado este mapeado correctamente y en el canal correcto (Canal 1). Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi_es" target="_blank">[la pagina de información para teclados MIDI]</a>.</li>
                                 <li>Si estas usando un teclado de Rock Band 3 conectado por el puerto de MIDI, es posible que activaste el modo de batería. Presiona la D-Pad (Cruceta) Arriba para desactivarlo.</li>
                                 </ul>
                             </div>
@@ -111,7 +111,7 @@ toc: false
                         <div id="protarra-no-funciona" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Guitarras Pro requieren una interfaz de MIDI a USB que tome datos SYSEX. Revisa <a href="https://rb3pc.milohax.org/ctrls_es#guitarras-pro" target="_blank">[la pagina de tu guitarra Pro]</a> para ver cuales interfaces funcionan.</li>
+                                <li>Guitarras Pro requieren una interfaz de MIDI a USB que tome datos SYSEX. Revisa <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_es#guitarras-pro" target="_blank">[la pagina de tu guitarra Pro]</a> para ver cuales interfaces funcionan.</li>
                                 <li>Windows no deja que aplicaciones compartan instrumentos de MIDI. Si tienes algo mas abierto que esta usando el instrumento (incluso MIDI Monitor), ciérralo antes de iniciar Rock Band 3.</li>
                                 </ul>
                             </div>

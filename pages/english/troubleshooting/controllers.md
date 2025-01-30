@@ -22,9 +22,9 @@ toc: false
 <li>Try moving the whammy or effects switch on your guitar.</li>
 <li>Reconnect your controller.</li>
 <li>Open the Gamepad Configuration menu and close it.</li>
-<li>Enable <strong>"Keep Pads Connected"</strong> as mentioned in <a href="https://rb3pc.milohax.org/custom_config_io" target="_blank">[the I/O section of Custom Configuration]</a>.</li>
-<li>Disable the Native Interface as mentioned in <a href="https://rb3pc.milohax.org/custom_config_emu" target="_blank">[the Emulator section of Custom Configuration]</a>.</li>
-<li>Use a standard <a href="https://rb3pc.milohax.org/ctrls_pads" target="_blank">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
+<li>Enable <strong>"Keep Pads Connected"</strong> as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_io" target="_blank">[the I/O section of Custom Configuration]</a>.</li>
+<li>Disable the Native Interface as mentioned in <a href="https://carlmylo.github.io/docu-rpcs3/custom_config_emu" target="_blank">[the Emulator section of Custom Configuration]</a>.</li>
+<li>Use a standard <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_pads" target="_blank">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
 </ul>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ toc: false
                         <div id="solos-have-auto-strum-enabled" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <p>Unbind L2 from your guitar in your gamepad configuration by right clicking it.</p>
-<p><img src="https://rb3pc.milohax.org/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a RPCS3's Gamepad Configuration. L2 button is being unbound." title="L2 Unbound"></p>
+<p><img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/xtra/gtrs/solol2.gif" alt="A GIF of a RPCS3's Gamepad Configuration. L2 button is being unbound." title="L2 Unbound"></p>
                             </div>
                         </div>
                     </div>
@@ -52,7 +52,7 @@ toc: false
                         </div>
                         <div id="my-ps3-rock-band-instrument-controller-shows-up-as-two-controlle" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                You did <a href="https://rb3pc.milohax.org/ctrls#mapping" target="_blank">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
+                                You did <a href="https://carlmylo.github.io/docu-rpcs3/ctrls#mapping" target="_blank">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@ toc: false
                             <div class="panel-body">
                                 <ul>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
-                                <li>Make sure your E-Kit is mapped correctly and on the right channel (Channel 10). Refer to <a href="https://rb3pc.milohax.org/ctrls_drums_midi" target="_blank">[the MIDI Drums page]</a> for more help.</li>
+                                <li>Make sure your E-Kit is mapped correctly and on the right channel (Channel 10). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_drums_midi" target="_blank">[the MIDI Drums page]</a> for more help.</li>
                                 </ul>
                             </div>
                         </div>
@@ -96,7 +96,7 @@ toc: false
                             <div class="panel-body">
                                 <ul>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li> 
-                                <li>Make sure your keyboard the right channel (Channel 1). Refer to <a href="https://rb3pc.milohax.org/ctrls_keys_midi" target="_blank">[the MIDI Keyboard page]</a> for more help.</li>
+                                <li>Make sure your keyboard the right channel (Channel 1). Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_keys_midi" target="_blank">[the MIDI Keyboard page]</a> for more help.</li>
                                 <li>If you're on a Rock Band 3 keyboard in MIDI mode, you may have activated drum mode by pressing D-Pad Up. Press D-Pad Up again to toggle it off.</li>
                                 </ul>
                             </div>
@@ -112,7 +112,7 @@ toc: false
                         <div id="miditar-my-protar-doesnt-work" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 <ul>
-                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://rb3pc.milohax.org/ctrls_protars" target="_blank">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li>
+                                <li>Pro Guitars require a MIDI interface with SYSEX capabilities. Refer to <a href="https://carlmylo.github.io/docu-rpcs3/ctrls_protars" target="_blank">[your Pro Guitar's page]</a> to see which interfaces are confirmed to work.</li>
                                 <li>Windows doesn’t let programs share MIDI devices. If you have anything else open that is using the port (including MIDI Monitor), close it before starting Rock Band 3 in RPCS3.</li>
                                 </ul>
                             </div>

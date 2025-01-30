@@ -18,7 +18,7 @@ First, create a folder where all of this stuff will be moved to.
 
 I'll be naming the folder "RPCS3 Directory" in this tutorial.
 
-![A screenshot of the folder created, which is named "RPCS3 Directory" in this tutorial.) en la categoría de 7-Zip.](https://rb3pc.milohax.org/images/xtra/dir/dirfolder.png "RPCS3 Directory")
+![A screenshot of the folder created, which is named "RPCS3 Directory" in this tutorial.) en la categoría de 7-Zip.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfolder.png "RPCS3 Directory")
 
 Now, back in the folder RPCS3 is in, cut the following folders:
 * `dev_bdvd`
@@ -30,29 +30,29 @@ Now, back in the folder RPCS3 is in, cut the following folders:
 * `dev_usb000`
 * `games`
 
-![A screenshot of the folders listed being cut.](https://rb3pc.milohax.org/images/xtra/dir/dircut.png "Cut (CTRL+X")
+![A screenshot of the folders listed being cut.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dircut.png "Cut (CTRL+X")
 
 Paste them inside of the folder you created.
 
-![A GIF of the folders that were cut being pasted into the "RPCS3 Directory" folder.](https://rb3pc.milohax.org/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
+![A GIF of the folders that were cut being pasted into the "RPCS3 Directory" folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirpaste.gif "RPCS3 Directory")
 
 When it finishes pasting, reopen RPCS3.
 
 Click on `Manage > Virtual File System`
 
-![A screenshot of RPCS3, with the user hovering over "Virtual File System", under the "Manage" category.](https://rb3pc.milohax.org/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
+![A screenshot of RPCS3, with the user hovering over "Virtual File System", under the "Manage" category.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirrpcs3.png "RPCS3 Directory")
 
 In the Virtual File System window, click on the `+` symbol near the bottom right.
 
-![A screenshot of RPCS3's Virtual File System Menu, showing the cursor hovering over the plus symbol at the bottom.](https://rb3pc.milohax.org/images/xtra/dir/dirvfsadd.png "Virtual File System")
+![A screenshot of RPCS3's Virtual File System Menu, showing the cursor hovering over the plus symbol at the bottom.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfsadd.png "Virtual File System")
 
 Go to the folder you created, click on it, and then click on "`Select Folder`."
 
-![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://rb3pc.milohax.org/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
+![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirfoldersel.png "RPCS3 Directory")
 
 Finally, click "`Save`".
 
-![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://rb3pc.milohax.org/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
+![A screenshot of RPCS3's "Choose a directory" window, selecting the created folder.](https://carlmylo.github.io/docu-rpcs3/images/xtra/dir/dirvfssave.png "RPCS3 Directory")
 
 That's it!
 

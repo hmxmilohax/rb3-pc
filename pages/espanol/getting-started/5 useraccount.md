@@ -10,14 +10,14 @@ weight: 5
 ---
 
 En RPCS3, ve a **Manage > User Accounts** (Administrar > Cuentas de usuario)  
-![RPCS3 mostrando "User Accounts" abajo del menú de "Manage".](https://rb3pc.milohax.org/images/conf/rpcs3user.png "RPCS3: User Accounts")
+![RPCS3 mostrando "User Accounts" abajo del menú de "Manage".](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3user.png "RPCS3: User Accounts")
 
 Una vez que estés ahí, dale click en el nombre de usuario predeterminado (00000001 - User) y luego click en **"Rename user"** (Renombrar usuario).
 
-!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://rb3pc.milohax.org/images/conf/rpcs3rename.png "RPCS3: User Accounts")
+!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3rename.png "RPCS3: User Accounts")
 
 **Ahora cámbialo** al nombre que quieras y luego haz click en "Close" (Cerrar).  
-!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://rb3pc.milohax.org/images/conf/rpcs3namepanel.png "RPCS3: Rename User")
+!["User Manager" de RPCS3, mostrando usuario predeterminado.](https://carlmylo.github.io/docu-rpcs3/images/conf/rpcs3namepanel.png "RPCS3: Rename User")
 
 {% include custom/series_empezando_next.html %}
 

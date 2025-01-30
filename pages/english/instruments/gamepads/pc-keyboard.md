@@ -8,9 +8,9 @@ summary: "How to setup PC Keyboards on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/pckeyboardcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/cont/pckeyboardcontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -42,22 +42,22 @@ These are the default keyboard mappings that come with RPCS3.
 
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** | **Alt Use 1** | **Alt Use 2** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
-| `Q` | L1 | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
-| `R` | L2 | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
-| `E` | R1 | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
-| `T` | R2 | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
-| `X` | Cross | ![Orange Fret](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Green Pad") | Select | |
+| `Q` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
+| `R` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
+| `E` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
+| `T` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
+| `X` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") | Select | |
 | `C` | Circle | | | Back | Mic 3 Volume (Song) |
 | `Z` | Square | | | Mic 1 Volume (Song) | |
 | `V` | Triangle | | | View More Info (Library) | Mic 2 Volume (Song) |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
-| `W`, `A`, `S`, and `D` | ![Left Stick](https://rb3pc.milohax.org/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") | N/A | Navigation | |
+| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
+| `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A | Navigation | |
 | `Return` | Start | | | Options | Pause (Song) |
 | `Space` | Select | Overdrive | Overdrive | Options | Pause (Song) |
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbdefdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbdefdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Fortnite Festival
 A profile heavily inspired by Fortnite Festival's keyboard scheme. Modified by Luna.
@@ -78,23 +78,23 @@ A profile heavily inspired by Fortnite Festival's keyboard scheme. Modified by L
 
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** | **Alt Use 1** | **Alt Use 2** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
-| `F`, and `Q` | L1 | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
-| `D`, and `R` | L2 | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
-| `J`, and `E` | R1 | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
-| `K`, and `T` | R2 | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
-| `L`, and `X` | Cross | ![Orange Fret](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Green Pad") | Select | |
+| `F`, and `Q` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
+| `D`, and `R` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
+| `J`, and `E` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
+| `K`, and `T` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
+| `L`, and `X` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") | Select | |
 | `C` | Circle | | | Back | Mic 3 Volume (Song) |
 | `Z` | Square | | | Mic 1 Volume (Song) | |
 | `V` | Triangle | | | View More Info (Library) | Mic 2 Volume (Song) |
-| `W`, `A`, `S`, and `D` | ![Left Stick](https://rb3pc.milohax.org/images/btns/ctrls/ps3/ls.png "Left Stick") | | | Navigation | |
-| `Up`, `Left`, `Down`, and `Right` | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
-| `S`, and `D` | ![Left Stick](https://rb3pc.milohax.org/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") | N/A | Navigation | |
+| `W`, `A`, `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps3/ls.png "Left Stick") | | | Navigation | |
+| `Up`, `Left`, `Down`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
+| `S`, and `D` | ![Left Stick](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") | N/A | Navigation | |
 | `Return` | Start | | | Options | Pause (Song) |
 | `Space` | Select | Overdrive | Overdrive | Options | Pause (Song) |
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Fortnite Pro Guitars/Bass/Keys
 A profile inspired by both Fortnite Festival's Pro bindings and Frets on Fire. Modified by Doom05 to work a bit better with Rock Band 3.
@@ -115,18 +115,18 @@ A profile inspired by both Fortnite Festival's Pro bindings and Frets on Fire. M
 
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** |
 |:------------------:|:------------------:|:---------------------:|
-| `1` | Cross | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") |
-| `2` | Circle | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") |
-| `3` | Square | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") |
-| `4` | Triangle | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") |
-| `5` | L1 | ![Orange Fret](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Orange Fret") |
-| `L`, and `Up Arrow` | D-Pad <br> Up | ![Strumbar Up](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Strumbar Up") |
-| `P`, and `Left Arrow` | D-Pad <br> Down | ![Strumbar Down](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Strumbar Down") |
-| `W`, `A`, `S`, and `D`  | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
-| `;`, and `Down Arrow` | Right Stick: <br> Right | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") |
+| `1` | Cross | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") |
+| `2` | Circle | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") |
+| `3` | Square | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") |
+| `4` | Triangle | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") |
+| `5` | L1 | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") |
+| `L`, and `Up Arrow` | D-Pad <br> Up | ![Strumbar Up](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbu.png "Strumbar Up") |
+| `P`, and `Left Arrow` | D-Pad <br> Down | ![Strumbar Down](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/sbd.png "Strumbar Down") |
+| `W`, `A`, `S`, and `D`  | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | Navigation |
+| `;`, and `Down Arrow` | Right Stick: <br> Right | ![Whammy Bar](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/wb.png "Whammy Bar") |
 | `'`, and `Right Arrow` | Select | Overdrive |
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Pro Drums
 A profile used by our favorite Colombian key-drummer, Ashun. Scientists are still questioning how anyone could use this profile.
@@ -145,19 +145,19 @@ A profile used by our favorite Colombian key-drummer, Ashun. Scientists are stil
 
 | **Keyboard** | **RPCS3** | **Drums** |
 |:--------:|:-------------------:|:-----------------:|
-| `A` | Circle | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") |
-| `S` | Triangle | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") |
-| `O` | Square | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Blue Pad") |
-| `P` | Cross | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Green Pad") |
-| `W` | Triangle | ![Yellow Cymbal](https://rb3pc.milohax.org/images/btns/drms/rb/yc.png "Yellow Cymbal") |
-| `0` | Square | ![Blue Cymbal](https://rb3pc.milohax.org/images/btns/drms/rb/bc.png "Blue Cymbal") |
-| `-` | Cross | ![Green Cymbal](https://rb3pc.milohax.org/images/btns/drms/rb/gc.png "Green Cymbal") |
-| `,` and `Space` | L1 | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") |
-| `C` | R1 | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `A` | Circle | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") |
+| `S` | Triangle | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") |
+| `O` | Square | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") |
+| `P` | Cross | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") |
+| `W` | Triangle | ![Yellow Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yc.png "Yellow Cymbal") |
+| `0` | Square | ![Blue Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bc.png "Blue Cymbal") |
+| `-` | Cross | ![Green Cymbal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gc.png "Green Cymbal") |
+| `,` and `Space` | L1 | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
+| `C` | R1 | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") |
 | `A`, `O`, `P`, and `S` | L3 | Pad Modifier |
 | `W`, `0`, and `-` | R3 | Cymbal Modifier |
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Linos' Profile
 A profile used by Milohax's favorite keyboard player. Has plenty of alt-keys for acceptable drumming as well as guitar playing.
@@ -178,26 +178,26 @@ A profile used by Milohax's favorite keyboard player. Has plenty of alt-keys for
 
 | **Keyboard** | **RPCS3** | **Guitars/Bass/Keys** | **Drums** | **Alt Use 1** | **Alt Use 2** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
-| `2`, `8`, `A`, and `W` | L1 | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
-| `1`, `7`, `Q`, and `SPACE` | L2 | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
-| `3`, `9`, `E`, and `S` | R1 | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
-| `0`, `4`, `D`, and `R` | R2 | ![Blue Fret](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
-| `-`, `5`, `F`, and `T` | Cross | ![Orange Fret](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Green Pad") | Select | |
+| `2`, `8`, `A`, and `W` | L1 | ![Green Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/gf.png "Green Fret") | ![Red Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/rp.png "Red Pad") | Guide Part Selection (Practice) | |
+| `1`, `7`, `Q`, and `SPACE` | L2 | ![Red Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/rf.png "Red Fret") | ![Foot Pedal](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/kp.png "Foot Pedal") | Vocal Part Selection (Practice) | |
+| `3`, `9`, `E`, and `S` | R1 | ![Yellow Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/yf.png "Yellow Fret") | ![Yellow Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/yp.png "Yellow Pad") | Vocal Track Volume (Song) | |
+| `0`, `4`, `D`, and `R` | R2 | ![Blue Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/bf.png "Blue Fret") | ![Blue Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/bp.png "Blue Pad") | Pitch Correction (Song) | |
+| `-`, `5`, `F`, and `T` | Cross | ![Orange Fret](https://carlmylo.github.io/docu-rpcs3/images/btns/gtrs/of.png "Orange Fret") | ![Green Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/drms/rb/gp.png "Green Pad") | Select | |
 | `C` | Circle | | | Back | Mic 3 Volume (Song) |
 | `Z` | Square | | | Mic 1 Volume (Song) | |
 | `V` | Triangle | | | View More Info (Library) | Mic 2 Volume (Song) |
-| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
+| `Up`, `Down`, `Left`, and `Right` | ![D-Pad](https://carlmylo.github.io/docu-rpcs3/images/btns/ctrls/ps4/dp.png "D-Pad") | | | Navigation | |
 | `Shift Right` | Select | Overdrive | Overdrive | Filters (Library) | |
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/docu-rpcs3/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ## Profiles
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
 
-[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
+[[Back to Controllers]](https://carlmylo.github.io/docu-rpcs3/ctrls#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 
