@@ -7,3 +7,4 @@ _pdf
 vendor/
 .bundle/
 .psd
+_config.yml
