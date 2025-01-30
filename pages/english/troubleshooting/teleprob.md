@@ -26,6 +26,6 @@ The quickest way to get there is to right click Rock Band 3 in RPCS3 and go to `
 
 After that, drag the `PS3_GAME` folder from the `rb3_ps3_guitar_glitch_fix` folder window on the right into the folder that contains your copy of Rock Band 3. Click `Replace the file in the destination` when prompted.
 
-![A GIF of the files within the gen folder being replaced.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchrepl.gif "Replacing gen folder")
+![A GIF of the files within the gen folder being replaced.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchinstall.gif "Replacing gen folder")
 
 That's it!

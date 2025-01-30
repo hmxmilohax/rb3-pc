@@ -26,6 +26,6 @@ La manera mas rápida de encontrarla es por RPCS3. Haz click derecho en Rock Ban
 
 Después de eso, arrastra la carpeta de `PS3_GAME`, que estaba adentro de la carpeta de `rb3_ps3_guitar_glitch_fix`, a la carpeta que contiene tu copia de Rock Band 3. Si te pregunta si quieres reemplaza archivos, dile que si.
 
-![Una animación del proceso de reemplazo.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchrepl.gif "Reemplazando la carpeta gen")
+![Una animación del proceso de reemplazo.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchinstalles.gif "Reemplazando la carpeta gen")
 
 ¡Eso es todo!
