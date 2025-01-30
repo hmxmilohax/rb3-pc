@@ -1,7 +1,7 @@
 ---
 title: Add more memory to Rock Band 3
 sidebar: english_sidebar
-permalink: adv_himem
+permalink: memory
 folder: english
 tags: [advanced, english]
 summary: "How to add more memory to Rock Band 3."

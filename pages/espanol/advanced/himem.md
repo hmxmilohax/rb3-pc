@@ -1,7 +1,7 @@
 ---
 title: Agregar mas memoria a Rock Band 3
 sidebar: espanol_sidebar
-permalink: adv_himem_es
+permalink: memoria
 folder: espanol
 tags: [avanzado, espanol]
 summary: "Como agregar mas memoria a Rock Band 3."
