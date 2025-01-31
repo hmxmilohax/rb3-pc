@@ -21,8 +21,10 @@ Before you begin, **make sure your drivers and operating system are up to date**
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="win11">
 <p><strong>Let’s start by downloading NanaZip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have NanaZip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
+<p>NanaZip is a modified version of 7-Zip which works better with Windows 11's new context menu.</p>
 <p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank"><strong>[Click here to go to NanaZip’s download page]</strong></a>.</p>
 <p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank" title="NanaZip"><img src="https://carlmylo.github.io/rb3-pc/images/install/nanazip.png" alt="A screenshot of NanaZip's download page, with a cursor hovering over the download button."></a></p>
+<p>From here on out, any step involving 7-Zip can be done via NanaZip.</p>
 </div>
 <div role="tabpanel" class="tab-pane" id="win10">
 <p><strong>Let’s start by downloading 7-Zip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have 7-Zip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
@@ -52,9 +54,9 @@ Scroll down a bit and download the Windows version.
 **Once it downloads, extract the .7zip file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://carlmylo.github.io/rb3-pc/images/install/extractrpcs3.png "Extract Files")
 
-I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+We suggest extracting the files into `C:\Games\RPCS3` or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
-**Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Do not use a USB drive or from a synced folder (Dropbox, OneDrive, etc.), as this usually leads to an unstable experience! </b> {{include.content}}</div>  
 
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://carlmylo.github.io/rb3-pc/images/install/extractdir.png "Extract")
 
