@@ -13,7 +13,7 @@ Before you begin, **make sure your drivers and operating system are up to date**
 
 ## Prerequisites
 
-<div role="tabpanel" class="tab-pane" id="createcustomconfig">
+
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#win11" data-toggle="tab">Windows 11</a></li>
     <li><a href="#win10" data-toggle="tab">Windows 10</a></li>
@@ -21,13 +21,13 @@ Before you begin, **make sure your drivers and operating system are up to date**
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="win11">
 <p><strong>Let’s start by downloading NanaZip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have NanaZip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
-<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R"><strong>[Click here to go to NanaZip’s download page]</strong></a>{:target="_blank"}.</p>
-<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" title="NanaZip"><img src="https://carlmylo.github.io/rb3-pc/images/install/nanazip.png" alt="A screenshot of NanaZip's download page, with a cursor hovering over the download button."></a>{:target="_blank"}</p>
+<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank"><strong>[Click here to go to NanaZip’s download page]</strong></a>{:target="_blank"}.</p>
+<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank" title="NanaZip"><img src="https://carlmylo.github.io/rb3-pc/images/install/nanazip.png" alt="A screenshot of NanaZip's download page, with a cursor hovering over the download button."></a></p>
 </div>
 <div role="tabpanel" class="tab-pane" id="win10">
 <p><strong>Let’s start by downloading 7-Zip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have 7-Zip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
-<p><a href="https://www.7-zip.org/download.html"><strong>[Click here to go to 7-Zip’s download page]</strong></a>{:target="_blank"}.</p>
-<p><a href="https://www.7-zip.org/download.html" title="7-zip.org/download"><img src="https://carlmylo.github.io/rb3-pc/images/install/7zip.png" alt="A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer."></a>{:target="_blank"}</p>
+<p><a href="https://www.7-zip.org/download.html" target="_blank"><strong>[Click here to go to 7-Zip’s download page]</strong></a>.</p>
+<p><a href="https://www.7-zip.org/download.html" target="_blank" title="7-zip.org/download"><img src="https://carlmylo.github.io/rb3-pc/images/install/7zip.png" alt="A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer."></a>{:target="_blank"}</p>
 </div>
 </div>
 
