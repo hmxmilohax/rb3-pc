@@ -7,8 +7,6 @@ tags: [troubleshooting, english]
 summary: "How to deal with the visual glitches in Rock Band 3."
 ---
 
-
-
 Have you ever been distracted by your character's guitar, hair, or hat were suddenly trying to travel to space?
 
 ![A screenshot of Rock Band 3, with a character's hat teleporting off of his head.](https://carlmylo.github.io/rb3-pc/images/trbl/common/flyinst.png)
@@ -31,3 +29,5 @@ After that, drag the `PS3_GAME` folder from the `rb3_ps3_guitar_glitch_fix` fold
 ![A GIF of the files within the gen folder being replaced.](https://carlmylo.github.io/rb3-pc/images/trbl/teleprob/patchinstall.gif "Replacing gen folder")
 
 That's it!
+
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>If your game becomes unstable after installing, enable High Memory Mode! <a href="https://carlmylo.github.io/rb3-pc/memory" target="_blank">[Click here for more info.]</a> </b> {{include.content}}</div>

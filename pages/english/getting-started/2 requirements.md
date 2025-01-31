@@ -12,7 +12,7 @@ toc: false
 
 You will need:
 #### A copy of Rock Band 3 for the PS3 on your computer
-**BLUS-30463 version only!** 
+**BLUS30463 version only!** 
 
 #### A controller
 You can use:

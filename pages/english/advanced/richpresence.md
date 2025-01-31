@@ -84,6 +84,6 @@ That's it! Remember to close it out after you're done and to repeat this when yo
 If it doesn't open correctly, make sure that you've set Python as the default application for `.py` files.  
 ![A screenshot of a Windows' default application selection. Python is selected and the cursor is over "Set Default."](https://carlmylo.github.io/rb3-pc/images/xtra/rpc/pydefault.png "Set default app for .py files")
 
-If you're on [[the Milohax Discord]](https://discord.gg/milohax), you can use the `!richpresence` for more information, like getting a "Warped"/"Your Year in Review" stats and how to set it up for Xbox 360!
+If you're on [[the MiloHax Discord]](https://discord.gg/milohax), you can use the `!richpresence` for more information, like getting a "Warped"/"Your Year in Review" stats and how to set it up for Xbox 360!
 
 {% include links.html %}

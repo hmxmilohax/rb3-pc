@@ -187,7 +187,7 @@ Paste it into:
 
 ## Contributing
 
-Do you have a controller we don't have documentation on? Want to help expand this list further? Contact us on [**[the Milohax discord]**](https://discord.gg/milohax){:target="_blank"} or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new){:target="_blank"}.  
+Do you have a controller we don't have documentation on? Want to help expand this list further? Contact us on [**[the MiloHax discord]**](https://discord.gg/milohax){:target="_blank"} or [[open an issue]](https://github.com/hmxmilohax/rb3-pc/issues/new){:target="_blank"}.  
 The following information is needed:
 * Instrument brand and model (Guitar Hero Les Paul)
 * Adapter(s) used (RetroCultMods V3 Adapter)

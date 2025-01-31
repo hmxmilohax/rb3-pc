@@ -161,7 +161,7 @@ Este perfil fue creado por nuestro tecla- baterista Colombiano favorito. Los cie
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 ### Perfil de Linos
-Un perfil usado por el tecladista favorito de Milohax. Tiene muchas teclas para poder tocar bateria sin problema y también para guitarra.
+Un perfil usado por el tecladista favorito de MiloHax. Tiene muchas teclas para poder tocar bateria sin problema y también para guitarra.
 
 * No se requiere rasguear con esta configuración.
 

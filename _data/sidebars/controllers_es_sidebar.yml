@@ -447,7 +447,7 @@ entries:
       type: homepage
 
     - title: Agregar mas memoria
-      url: /adv_himem_es
+      url: /memoria
       output: web
 
     - title: Agregar canciones

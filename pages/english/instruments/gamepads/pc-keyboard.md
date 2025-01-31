@@ -160,7 +160,7 @@ A profile used by our favorite Colombian key-drummer, Ashun. Scientists are stil
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 
 ### Linos' Profile
-A profile used by Milohax's favorite keyboard player. Has plenty of alt-keys for acceptable drumming as well as guitar playing.
+A profile used by MiloHax's favorite keyboard player. Has plenty of alt-keys for acceptable drumming as well as guitar playing.
 
 * This profile does not require strumming.
 

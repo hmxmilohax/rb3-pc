@@ -202,7 +202,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Recomendado</strong>:</p>
 <ul>
-<li><strong>Activa "Debug Console Mode"</strong> (Modo de depuración) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/rb3-pc/adv_himem_es" target="_blank">[Haz click aquí para mas información.]</a></li>
+<li><strong>Activa "Debug Console Mode"</strong> (Modo de depuración) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/rb3-pc/memory_es" target="_blank">[Haz click aquí para mas información.]</a></li>
 <li><strong>Cambia el "Exclusive Fullscreen Mode</strong> (Modo de exclusividad de pantalla llena) <strong>a "Prefer borderless fullscreen"</strong> (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.</li>
 </ul>
 </li>

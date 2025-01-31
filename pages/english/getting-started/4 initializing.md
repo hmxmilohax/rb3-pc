@@ -42,7 +42,7 @@ It will start compiling modules to load the PS3 XMB into the emulator, which may
 
 ## Rock Band 3 + Instrument patch
 
-Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [[I used "PS3 Disc Dumper" for this because it's the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
+Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [["PS3 Disc Dumper" is the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 

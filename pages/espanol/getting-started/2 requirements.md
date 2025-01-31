@@ -13,7 +13,7 @@ toc: false
 Necesitarás:
 
 #### Una copia de Rock Band 3 para PS3 en tu computadora.
-**¡La versión BLUS-30463!**
+**¡Solo la versión BLUS30463!**
 
 #### Un control o instrumento
 Puedes usar:
@@ -48,7 +48,7 @@ Pos obvio.
 | `Procesador:` <br>Intel Core i5-4460 <br>(o equivalente con AVX2) | `Processor:` <br>AMD Ryzen 5 2600 <br>(o equivalente), o mejor |
 | `Memoria:` <br>8 GBs | `Memoria:` <br>16 GBs o mas |
 | `Gráficas:` <br>GeForce GT 730 2GB (o equivalente) <br>con Vulkan | `Gráficas:` <br>NVIDIA GeForce GTX 1650 (o equivalente), o mejor <br>con Vulkan |
-| `Almacenamiento:` <br>Disco Duro de 7200 RPM con ~11.2 GBs de espacio libre después de la instalación para <br>• Rock Band 3 <br>• Rock Band 3 Deluxe <br>• Ningún DLC <br>• Canciones adicionales (customs) requieren mas espacio. <br>• **¡Discos duros lentos pueden tener pausas temporarias!** | `Almacenamiento:` <br>Disco de Estado Sólido (SSD) SATA con ~67.4 GBs libre después de la instalación para <br>• Rock Band 3 <br>• Rock Band 3 Deluxe <br>• Todo los DLCs y exportaciones de Harmonix <br>• 16.7 GBs adicionales son requeridos Rock Band 4, Rock Band Rivals y DLC de Rock Band 4 <br>• ~80 GBs adicionales son requeridos para RBN 1+2 <br>• Canciones adicionales (customs) requieren mas espacio. |
+| `Almacenamiento:` <br>Disco Duro de 7200 RPM con ~11.2 GBs de espacio libre después de la instalación para <br>• Rock Band 3 <br>• Rock Band 3 Deluxe <br>• Ningún DLC <br>• Canciones adicionales (customs) requieren mas espacio. <br>• **¡Discos duros pueden tener pausas temporarias!** | `Almacenamiento:` <br>Disco de Estado Sólido (SSD) SATA con ~67.4 GBs libre después de la instalación para <br>• Rock Band 3 <br>• Rock Band 3 Deluxe <br>• Todo los DLCs y exportaciones de Harmonix <br>• 16.7 GBs adicionales son requeridos Rock Band 4, Rock Band Rivals y DLC de Rock Band 4 <br>• ~80 GBs adicionales son requeridos para RBN 1+2 <br>• Canciones adicionales (customs) requieren mas espacio. |
 | `Notas:` La configuración más básica que te va a permitir jugar. <br>• 720p/60Hz sin efectos adicionales <br>• Latencia de audio de 100ms <br>• Tirones ocasióneles | `Notas:` Rendimiento excelente. <br>• 1080p/60Hz con todos los efectos, <br>• Latencia de audio de 32 ms (o mas baja) |
 
 * Puedes ver [[la página de requisitos de RPCS3 aquí]](https://rpcs3.net/quickstart#supported_devices_laptops){:target="_blank"} (en Ingles), aunque están exagerado para este juego.

@@ -7,7 +7,7 @@ tags: [resolviendo-problemas, espanol]
 summary: "Como evitar problemas visuales en Rock Band 3."
 ---
 
-¿Has estado jugando y luego te distraes porque la guitarra, cabello o sombrero decidieron tratar de viajara al espacio de la nada?
+¿Has estado jugando y luego ve que una guitarra, cabello o sombrero decidieron tomarse un vuelo de la nada?
 
 ![Una captura de Rock Band 3 con un personaje que tiene problemas con sus accesorios.](https://carlmylo.github.io/rb3-pc/images/trbl/common/flyinst.png)
 
@@ -30,4 +30,4 @@ Después de eso, arrastra la carpeta de `PS3_GAME`, que estaba adentro de la car
 
 ¡Eso es todo!
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Si el juego se vuelve inestable, ¡activa el modo de memoria expandida! <a href="https://carlmylo.github.io/rb3-pc/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a> </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Si el juego se vuelve inestable, ¡activa el modo de memoria expandida! <a href="https://carlmylo.github.io/rb3-pc/memoria" target="_blank">[Haz click para mas información.]</a> </b> {{include.content}}</div>

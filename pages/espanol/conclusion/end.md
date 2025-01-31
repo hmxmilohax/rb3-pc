@@ -10,11 +10,11 @@ toc: false
 
 ¡Eso es todo! Ahora (con un poco de suerte) tienes un manera funcional para jugar Rock Band 3 en tu computadora. Mientras estás acá, ¿por qué no te unes a algunas comunidades que están ayudando a mantener viva la Comunidad de Rock Band?
 
-## Milohax
+## MiloHax
 
-[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMilohax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "Milohax"){:target="_blank"}
+[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMiloHax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "MiloHax"){:target="_blank"}
 
-Milohax es una comunidad dedicada a modificar y preservar el legado de los juegos de Harmonix. Han estados involucrados en muchas cosas, como [[buscando y preservando copias beta]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilación]](https://decomp.milohax.org/#/about){:target="_blank"} y también ayudando a emuladores como RPCS3 o shadPS4 para mejorar como funcionan los juegos de Harmonix. 
+MiloHax es una comunidad dedicada a modificar y preservar el legado de los juegos de Harmonix. Han estados involucrados en muchas cosas, como [[buscando y preservando copias beta]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilación]](https://decomp.milohax.org/#/about){:target="_blank"} y también ayudando a emuladores como RPCS3 o shadPS4 para mejorar como funcionan los juegos de Harmonix. 
 
 [Puedes \[unirte al Discord de MiloHax\]](https://discord.gg/milohax){:target="_blank"} aquí.
 

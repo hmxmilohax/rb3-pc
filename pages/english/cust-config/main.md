@@ -200,7 +200,7 @@ This may seem overwhelming because of the sheer number of options, but I have co
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
 <ul>
-<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/rb3-pc/adv_himem" target="_blank">[Click here for more information.]</a></li>
+<li><strong>Enable “Debug Console Mode”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/rb3-pc/memory" target="_blank">[Click here for more information.]</a></li>
 <li><strong>Change “Exclusive Fullscreen Mode” to “Prefer borderless fullscreen”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
 </ul>
 </li>

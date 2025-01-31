@@ -444,7 +444,7 @@ entries:
       type: homepage
 
     - title: Add more memory to Rock Band 3
-      url: /adv_himem
+      url: /memory
       output: web
 
     - title: Add Custom Songs to Rock Band 3 Deluxe

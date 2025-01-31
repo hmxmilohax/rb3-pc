@@ -191,7 +191,7 @@ Págalo entre:
 
 ## Contribuyendo
 
-¿Tienes un instrumento que no tenemos documentado? ¿Quieres ayudar a extender esta lista? Ponte en contacto por [**[el Discord de Milohax]**](https://discord.gg/milohax){:target="_blank"} o [[abre un "Issue"]](https://github.com/hmxmilohax/rb3-pc/issues/new){:target="_blank"}.  
+¿Tienes un instrumento que no tenemos documentado? ¿Quieres ayudar a extender esta lista? Ponte en contacto por [**[el Discord de MiloHax]**](https://discord.gg/milohax){:target="_blank"} o [[abre un "Issue"]](https://github.com/hmxmilohax/rb3-pc/issues/new){:target="_blank"}.  
 
 Se necesita esta información:
 * Modelo y marca de instrumento (Les Paul de Guitar Hero)
