@@ -8,7 +8,7 @@ summary: "Como configurar controles para tener conexión directa para RPCS3."
 toc: false
 ---
 
-Jugando con un Teclado o Guitarra Pro (Mustang) con sus receptores de PlayStation 3 es fácil. Igualmente si tienes un adaptador MIDI PRO para PlayStation 3. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador.
+Jugando con un Teclado o Guitarra Pro (Mustang) con sus receptores de PlayStation 3 es fácil. Igualmente si tienes un adaptador MIDI PRO para PlayStation 3. Solo requiere una configuración simple. Después de hacer esto, se pueden usar en el emulador. Esto es gracias Passthrough (conexión directa).
 
 Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento o el adaptador MIDI PRO.
 
@@ -20,7 +20,9 @@ Para empezar, asegúrate que tengas el recibidor correcto para tu instrumento o 
 
 Después de comprobar que tengas el receptor o adaptador MIDI PRO correcto, **cierra RPCS3 y conecta el receptor del instrumento o adaptador MIDI PRO** a tu computadora.
 
-Ahora, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/){:target="_blank"} y **descárgalo**. Cuando termine de bajar, **ábrelo**.
+## Instalando
+
+Primero, [**\[ve al sitio de Zadig\]**](https://zadig.akeo.ie/){:target="_blank"} y **descárgalo**. Cuando termine de bajar, **ábrelo**.
 [![Una captura de la pagina de Zadig](https://carlmylo.github.io/rb3-pc/images/pass/zadigdles.png)](https://zadig.akeo.ie/ "Bajar a Zadig")
 
 Haz click en **Options** (Opciones) y luego en **List All Devices** (Listar todos los dispositivos).  
@@ -51,4 +53,27 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como un teclado de PC o un mando estándar.</b> {{include.content}}</div>
 
-{% include callout.html content="<sup>a</sup> Conectando **tres o mas instrumentos de Rock Band 3** (baterías, teclados, guitarras) puede causar problemas con detección de instrumentos. Esto **solo pasa** con instrumentos de Rock Band para PlayStation 3 y solo si están todos conectados al mismo tiempo." type="warning" %} 
+[[Haz click para instrucciones para configurar un mando o teclado.]](https://carlmylo.github.io/rb3-pc/ctrls_es#mandos)
+
+## Desinstalando
+
+Aplicando un controlador de Zadig restringirá a aplicaciones que usen Passthrough. Lo bueno es que es fácil revertir esto.
+
+Abre el menú de Inicio y busca el `Administrador de dispositivos`.
+
+![Una captura del menú de Inicio con un resultado de "Administrador de dispositivos".](https://carlmylo.github.io/rb3-pc/images/pass/startdevmanes.png "Administrador de dispositivos")
+
+Baja a la categoría de `Dispositivos de bus seria universal (USB)` y haz click para expandirla.  
+Haz click en el instrumento a cual le modificaste el controlador con Zadig y luego a `Desinstalar dispositivo`.  
+En el ejemplo abajo, se uso la Guitarra Pro (`Harmonix RB3 Mustang Guitar for PlayStation 3®`).
+
+![Una captura del Administrador de dispositivos, con un menú despegable abierto. El cursor esta sobre "Desinstalar dispositivo."](https://carlmylo.github.io/rb3-pc/images/pass/devmanes.png "Administrador de dispositivos")
+
+En la pantalla que se abre, asegúrate de hacer click en `Intenta quitar el controlador para este dispositivo.`  
+Después de eso, haz click en `Desinstalar` y eso es todo.  
+
+![Una captura de la pantalla para Desinstalar el dispositivo. "Intenta quitar el controlador para este dispositivo" esta activado y el cursor esta sobre "Desinstalar."](https://carlmylo.github.io/rb3-pc/images/pass/devmanunes.png "Administrador de dispositivos")
+
+Cuando desconectes y vuelvas a conectar el instrumento, regresara al controlador original.
+
+{% include links.html %}

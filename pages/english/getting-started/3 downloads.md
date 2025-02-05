@@ -13,25 +13,11 @@ Before you begin, **make sure your drivers and operating system are up to date**
 
 ## Prerequisites
 
+**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next step**.
 
-<ul id="configTabs" class="nav nav-tabs">
-    <li class="active"><a href="#win11" data-toggle="tab">Windows 11</a></li>
-    <li><a href="#win10" data-toggle="tab">Windows 10</a></li>
-</ul>
-<div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="win11">
-<p><strong>Let’s start by downloading NanaZip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have NanaZip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
-<p>NanaZip is a modified version of 7-Zip which works better with Windows 11's new context menu.</p>
-<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank"><strong>[Click here to go to NanaZip’s download page]</strong></a>.</p>
-<p><a href="https://www.microsoft.com/store/apps/9N8G7TSCL18R" target="_blank" title="NanaZip"><img src="https://carlmylo.github.io/rb3-pc/images/install/nanazip.png" alt="A screenshot of NanaZip's download page, with a cursor hovering over the download button."></a></p>
-<p>From here on out, any step involving 7-Zip can be done via NanaZip.</p>
-</div>
-<div role="tabpanel" class="tab-pane" id="win10">
-<p><strong>Let’s start by downloading 7-Zip</strong>, which will open the compressed .7z archives most of these downloads will be stored inside of. <strong>If you already have 7-Zip</strong> or an alternative installed, you can <strong>skip to the next steps.</strong></p>
-<p><a href="https://www.7-zip.org/download.html" target="_blank"><strong>[Click here to go to 7-Zip’s download page]</strong></a>.</p>
-<p><a href="https://www.7-zip.org/download.html" target="_blank" title="7-zip.org/download"><img src="https://carlmylo.github.io/rb3-pc/images/install/7zip.png" alt="A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer."></a></p>
-</div>
-</div>
+[**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html){:target="_blank"}.
+
+[![A screenshot of 7-zip.org's download page, with a cursor hovering over the 64 bit .exe installer.](https://carlmylo.github.io/rb3-pc/images/install/7zip.png)](https://www.7-zip.org/download.html "7-zip.org/download"){:target="_blank"}
 
 **Now**, **let's** go ahead and **install Microsoft Visual C++ 2019 Redistributable**, which is required by RPCS3. You probably already have this, but it doesn't hurt to double check.
 
@@ -51,7 +37,7 @@ Scroll down a bit and download the Windows version.
 
 [![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
 
-**Once it downloads, extract the .7zip file.**  
+**Once it downloads, extract the .7z file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://carlmylo.github.io/rb3-pc/images/install/extractrpcs3.png "Extract Files")
 
 We suggest extracting the files into `C:\Games\RPCS3` or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 

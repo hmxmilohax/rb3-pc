@@ -24,6 +24,30 @@ toc: false
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls_pads){:target="_blank"}.
 
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How to map your instrument.</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul><p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
+This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Follow the instructions below and match the assignments.</p>
+<p>In the example below, a The Beatles: Rock Band Höfner is being mapped.</p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+</div>
+<!-- /.panel-group -->
+
 ## Pad Information
 
 | Handlers | Devices |

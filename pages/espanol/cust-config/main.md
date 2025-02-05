@@ -51,7 +51,7 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
     <li><a href="#advanced" data-toggle="tab">Advanced</a></li>
     <li><a href="#emulator" data-toggle="tab">Emulator</a></li>
 </ul>
-  <div class="tab-content">
+<div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="cpu">
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/cpu.png" alt="Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU XFloat Accuracy, Thread Scheduler, SPU Block Size, y Preferred SPU Threads resaltados en cuadros azules con contornos punteados." title="CPU"></p>
 <ul>

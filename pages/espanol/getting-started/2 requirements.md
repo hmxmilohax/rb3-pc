@@ -37,7 +37,7 @@ Puedes usar:
 <sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}</sub>  
 
 #### Un micrófono
-Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar hasta tres micrófonos al mismo tiempo.
+Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar y usar tres micrófonos al mismo tiempo.
 
 #### Una computadora
 Pos obvio.

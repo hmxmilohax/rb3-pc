@@ -10,7 +10,7 @@ toc: false
 
 ## Intro
 
-Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. To make things easier, we cataloged various instruments that work with Rock Band 3 on RPCS3 with their respective mappings.
+Rock Band 3 on RPCS3 can be configured to be played with a variety of controllers. To make things easier, we've cataloged various instruments that work with Rock Band 3 on RPCS3 with their respective mappings.
 
 Controllers have been sorted by and given a "Compatibility" rating depending on whether or not they have issues and/or missing features.
 
@@ -28,21 +28,20 @@ Controllers have been sorted by and given a "Compatibility" rating depending on 
 
 On the instrument pages, click on the instrument's icon or the **"[CLICK HERE]"** link to be taken to their respective pages for more information.
 
-![A screenshot of the instrument mapping page, showing the cursor over the "Click Here" menu.](https://carlmylo.github.io/rb3-pc/images/instruments/padclickinfo.png "Rock Band Hofner")
+![A screenshot of the instrument mapping page, showing the cursor over the "Click Here" menu.](https://carlmylo.github.io/rb3-pc/images/instruments/padclickinfo.png "Rock Band Höfner")
 
 Follow the instructions and match the assignments.
 
-![A picture showing how the instrument page and RPCS3 can be used as a mapping reference.](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapping the Rock Band Hofner")
+![A picture showing how the instrument page and RPCS3 can be used as a mapping reference.](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapping the Rock Band Höfner")
 
 Pro Tips:
-* If you are planning on plugging in multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
-* **PlayStation 3 guitars, drums, and MIDI Pro Adapters for the Rock Band series are plug and play and require no additional setup. DO NOT MAP THEM!**
+* If you need to bind multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
+* **PlayStation 3 guitars and drums for the Rock Band series are plug and play and require no additional setup. DO NOT MAP THEM!**
 * If your controller isn't being detected, click "Refresh". If that doesn't solve it, restart RPCS3.
 
 Once you've finished configuring, **remember to click "Save".**
 
 ## Instrument List
-
 
 
 ### Drums
@@ -69,7 +68,7 @@ Once you've finished configuring, **remember to click "Save".**
 |--|--|--|--|--|
 |![Rock Band Stratocaster](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrb2.png) | Rock Band Stratocaster | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
 |![Rock Band Precision Bass](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrpbass.png) | Rock Band Precision Bass | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
-|![The Beatles: Rock Band Hofner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png) | Rock Band Hofner | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
+|![The Beatles: Rock Band Höfner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png) | Rock Band Höfner | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
 |![The Beatles: Rock Band Gretsch](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrgret.png) | Rock Band Gretsch | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
 |![The Beatles: Rock Band Rickenbacker](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrick.png) | Rock Band Rickenbacker | ![PlayStation 3](https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) | Plug and play!<sup>a |
 |[![PDP Riffmaster](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrriff.png)](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox "PDP Riffmaster") | PDP Riffmaster | ![Xbox One](https://carlmylo.github.io/rb3-pc/images/instruments/plat/xbx.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox) |
@@ -77,12 +76,12 @@ Once you've finished configuring, **remember to click "Save".**
 |[![Rock Band 4 Jaguar](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrjag.png)](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox "Rock Band Jaguar") | Rock Band 4 Jaguar | ![Xbox One](https://carlmylo.github.io/rb3-pc/images/instruments/plat/xbx.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox) |
 |[![Rock Band Stratocaster](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrb2.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Stratocaster | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
 |[![Rock Band Precision Bass](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrpbass.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Precision Bass | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
-|[![The Beatles: Rock Band Hofner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Hofner | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
+|[![The Beatles: Rock Band Höfner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Höfner | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
 |[![The Beatles: Rock Band Gretsch](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrgret.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Gretsch | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
 |[![The Beatles: Rock Band Rickenbacker](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrick.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360 "Xbox 360 Rock Band Guitars") | Rock Band Rickenbacker | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_360) |
 |[![Rock Band Stratocaster](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrb2.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Stratocaster | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
 |[![Rock Band Precision Bass](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrpbass.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Precision Bass | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
-|[![The Beatles: Rock Band Hofner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Hofner | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
+|[![The Beatles: Rock Band Höfner](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrhof.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Höfner | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
 |[![The Beatles: Rock Band Gretsch](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrgret.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Gretsch | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
 |[![The Beatles: Rock Band Rickenbacker](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrrick.png)](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii "Nintendo Wii Rock Band Guitars") | Rock Band Rickenbacker | ![Nintendo Wii](https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_rbgtr_wii) |
 |[![Guitar Hero Les Paul](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrlp.png)](https://carlmylo.github.io/rb3-pc/ctrls_ghgtr_360 "Guitar Hero Les Paul") | Guitar Hero Les Paul | ![Xbox 360](https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png) | ![Okay Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/okay.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_ghlpgtr_360) |
