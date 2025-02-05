@@ -22,7 +22,7 @@ toc: false
 	* PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")  
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

@@ -24,7 +24,7 @@ toc: false
 <li>Open the Gamepad Configuration menu and close it.</li>
 <li>Enable <strong>"Keep Pads Connected"</strong> as mentioned in <a href="https://carlmylo.github.io/rb3-pc/custom_config_io" target="_blank">[the I/O section of Custom Configuration]</a>.</li>
 <li>Disable the Native Interface as mentioned in <a href="https://carlmylo.github.io/rb3-pc/custom_config_emu" target="_blank">[the Emulator section of Custom Configuration]</a>.</li>
-<li>Use a standard <a href="https://carlmylo.github.io/rb3-pc/ctrls_pads" target="_blank">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
+<li>Use a standard <a href="https://carlmylo.github.io/rb3-pc/ctrls#gamepads" target="_blank">[gamepad]</a> or keyboard for any sort of character customization or naming.</li>
 </ul>
                             </div>
                         </div>

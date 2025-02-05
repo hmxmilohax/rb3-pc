@@ -22,7 +22,7 @@ toc: false
 	* **tener una manera de controlar modulación y tono.**
 * Se puede conectar un pedal de sostén para activar sobrecarga.
 * Se requiere una versión de [[RPCS3 actual]](https://rpcs3.net/download).
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
 ## Instrucciones:
 

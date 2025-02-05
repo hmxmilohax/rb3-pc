@@ -20,7 +20,7 @@ toc: false
 	* **estar configurada a el mapeo de GM.**  
 Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
 * D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usadas. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
 ## Instrucciones:
 

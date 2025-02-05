@@ -30,11 +30,11 @@ La lista fue organizada por dificultad y compatibilidad. Cada instrumento tiene 
 
 En la lista de instrumentos, haz click en la imagen del instrumento o en **"[VER MAS]"** para ir a la pagina de tu instrumento.
 
-![Una captura de la pagina listando a los instrumentos, con el cursor sobre "VER MAS".](https://carlmylo.github.io/rb3-pc/images/instruments/padclickinfo.png "Hofner de Rock Band")
+![Una captura de la pagina listando a los instrumentos, con el cursor sobre "VER MAS".](https://carlmylo.github.io/rb3-pc/images/instruments/padclickinfo.png "Höfner de Rock Band")
 
 Sigue las instrucciones y configúralo todo como dice la pagina.
 
-![Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3..](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapeando la Hofner de Rock Band")
+![Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3..](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapeando la Höfner de Rock Band")
 
 Toma en cuenta:
 * Si vas a jugar con mas de un instrumento, _tienes que configurar cada uno en un puerto diferente_ (Player 1, Player 2, etc).

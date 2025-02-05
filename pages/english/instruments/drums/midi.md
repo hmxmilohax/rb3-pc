@@ -20,7 +20,7 @@ toc: false
 	* **be set to standard GM mapping.**  
 These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
 ## Instructions:
 

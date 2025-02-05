@@ -18,7 +18,7 @@ toc: false
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
 ## Información de Control:
 

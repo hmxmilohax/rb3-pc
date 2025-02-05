@@ -18,7 +18,7 @@ toc: false
 	* Si tu control no funciona, trata de instalar la [[herramienta de Raphnet]](https://www.raphnet-tech.com/products/adapter_manager/index.php){:target="_blank"}.
 * El sensor de ladeo (Tilt) no funciona correctamente.
     * Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para).
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
 ## Información de Control:
 

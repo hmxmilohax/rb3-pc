@@ -17,7 +17,7 @@ toc: false
 * **PRO Cymbals do not work at all.**
 * Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * Velocity sensitivity doesn't seem to work.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
 ## Pad Information
 

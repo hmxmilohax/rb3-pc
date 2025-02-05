@@ -15,7 +15,7 @@ toc: false
 ## NOTAS:
 * No existe un perfil para este instrumento.
 * **NO mapeés este instrumento por el menú de "Pads".**
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 * Esto es para los jugadores que tienen sus guitarras PRO conectadas con una una interfaz de MIDI a USB.
 
 ## Advertencia de SYSEX:

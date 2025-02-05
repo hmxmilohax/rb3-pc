@@ -22,7 +22,7 @@ toc: false
 	* La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")  
 * Si tienes una Fender Jaugar, es posible que vas a necesitar instalar una [[actualización de firmware]](https://bit.ly/2UHzonU){:target="_blank"} para conectarla al receptor. [[Haz click aqui para mas información.]](https://bit.ly/2UHzonU){:target="_blank"}.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
 ## Información de Control:
 
