@@ -90,8 +90,7 @@ Use Right Click to unmap a button.
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PS2%20Guitar%20Hero%20SG%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrps2ghsgmapping.png" alt="Mapping" title="Mapping"></div>
-
+<!-- /.panel-group -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -116,9 +115,10 @@ Use Right Click to unmap a button.
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
+
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrps2ghsgmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 

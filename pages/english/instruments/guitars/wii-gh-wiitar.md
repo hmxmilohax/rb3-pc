@@ -167,6 +167,7 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 </div>
 <!-- /.panel-group -->
 
+<!-- /.panel-group -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -191,7 +192,6 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 
