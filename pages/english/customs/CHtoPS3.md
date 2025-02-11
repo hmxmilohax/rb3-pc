@@ -20,8 +20,8 @@ Do this as a **last resort** if the charts you want to convert were specifically
 * Incompatibility with online play and leaderboards
 * Animation data such as character lipsync will be lost
 
-<span style="font-size:x-large;">Should you decide to ignore the disclaimer and proceed, you will be **refused any support** from the MiloHax Discord if you run into any issues.
-**YOU HAVE BEEN WARNED!**</span>
+Should you decide to ignore the disclaimer and proceed, you will be **refused any support** from the MiloHax Discord if you run into any issues.
+<span style="font-size:x-large;">**YOU HAVE BEEN WARNED!**</span>
 
 #### 1.
 After downloading the charts you want, open Onyx and select `Batch recompile`.  
@@ -77,7 +77,6 @@ If you're going to be installing to a PS3 via FTP, select the most convenient fo
 If using RB3DX, you can even do this while the game is running. Within RB3, select:<br>
 <code>Options &gt; Extras &gt; Refresh Library</code> to reload your song list.<br>
 <img src="https://carlmylo.github.io/rb3-pc/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
-
 </div>
 <div role="tabpanel" class="tab-pane" id="pkg">
 <p><img src="https://carlmylo.github.io/rb3-pc/images/xtra/customs/onyxbatchpkg.png" alt="A screenshot of Onyx's Batch Recompile window. Under the &quot;RB3&quot; tab, &quot;Create PS3/RPCS3 folders&quot; is selected." title="Batch Recompile"></p>
@@ -88,7 +87,6 @@ If using RB3DX, you can even do this while the game is running. Within RB3, sele
 <p>It should successfully convert and a PKG file(s) will be created, ready to install.<br>
 Simply install it(them) like any other PKG.<br>
 <img src="https://carlmylo.github.io/rb3-pc/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
-
 </div>
 </div>
 
