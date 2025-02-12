@@ -48,15 +48,15 @@ This is so you can change configuration profiles in case you want to play games 
 ## Bindings:
 
 <ul id="configTabs" class="nav nav-tabs">
-    <li class="active"><a href="#fortnite" data-toggle="tab">Fortnite</a></li>
+    <li class="active"><a href="#fortnitefest" data-toggle="tab">Fortnite</a></li>
     <li><a href="#fortnitepro" data-toggle="tab">Fortnite Pro</a></li>
-    <li><a href="#linos-profile" data-toggle="tab">Linos Binds</a></li>
+    <li><a href="#linos-binds" data-toggle="tab">Linos Binds</a></li>
     <li><a href="#ashunprodrums" data-toggle="tab">Ashun Pro Drums</a></li>
-    <li><a href="#default-mapping" data-toggle="tab">Default</a></li>
+    <li><a href="#default-binds" data-toggle="tab">Default</a></li>
 </ul>
   <div class="tab-content">
 <!-- first tab start -->
-<div role="tabpanel" class="tab-pane active" id="fornite">
+<div role="tabpanel" class="tab-pane active" id="fortnitefest">
 <!-- tab content start -->
 <h3 id="fortnite">Fortnite Festival</h3>
 <p>A profile heavily inspired by Fortnite Festival’s keyboard scheme. Modified by lunalawl.</p>
@@ -377,7 +377,7 @@ This is so you can change configuration profiles in case you want to play games 
 </div>
 <!-- end tab start -->
 <!-- next tab start -->
-<div role="tabpanel" class="tab-pane" id="linos-profile">
+<div role="tabpanel" class="tab-pane" id="linos-binds">
 <!-- tab content start -->
 <h3 id="linos-profile">Linos’ Profile</h3>
 <p>A profile used by MiloHax’s favorite keyboard player. Has plenty of alt-keys for acceptable drumming as well as guitar playing.</p>
@@ -540,7 +540,7 @@ This is so you can change configuration profiles in case you want to play games 
 <!-- end tab start -->
 <div role="tabpanel" class="tab-pane" id="ashunprodrums">
 <!-- tab content start -->
-<h3 id="pro-drums">Pro Drums</h3>
+<h3 id="ashun-pro-drums">Ashun Pro Drums</h3>
 <p>A profile used by our favorite Colombian key-drummer, Ashun. Scientists are still questioning how anyone could use this profile.</p>
 <ul>
 <li>To bind multiple keys to one button, hold Shift then click on the button you want to assign multiple keys to.</li>
@@ -658,7 +658,7 @@ This is so you can change configuration profiles in case you want to play games 
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
-<div role="tabpanel" class="tab-pane" id="default-mapping">
+<div role="tabpanel" class="tab-pane" id="default-binds">
 <!-- tab content start -->
 <h3 id="default-mapping">Default Mapping</h3>
 <p>These are the default keyboard mappings that come with RPCS3.</p>
