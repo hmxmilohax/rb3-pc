@@ -13,9 +13,9 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbprotar.png" alt="Control" title="Control"></div>
 
 ## NOTAS:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* No existe un perfil para este instrumento.
-* **NO mapeés este instrumento por el menú de "Pads".**
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 * Esto es para los jugadores que tienen sus guitarras PRO conectadas con una una interfaz de MIDI a USB.
 

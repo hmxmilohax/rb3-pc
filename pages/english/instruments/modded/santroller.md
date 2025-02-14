@@ -12,13 +12,9 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
 
-
-
-
-## NOTES
-
+## NOTES:
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
-<div align="center"> <b>Do NOT map this instrument via the "Pads" menu.</b></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
 * **Please note that your Santroller Configurator may have different settings, depending on how your guitar was modded.** If you purchased your guitar pre-modded, contact the seller for more information.
 

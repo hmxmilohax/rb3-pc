@@ -12,10 +12,10 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiirbkeyscontroller.png" alt="Controller" title="Controller"></div>
 
-## NOTES
+## NOTES:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.

@@ -13,8 +13,9 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/mididrumscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* **Do NOT map this instrument via the "Pads" menu.**
 * Your MIDI Drum Kit needs to:
 	* **be set to MIDI Channel 10.**
 	* **be set to standard GM mapping.**  

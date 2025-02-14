@@ -12,10 +12,10 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbprotar.png" alt="Controller" title="Controller"></div>
 
-## NOTES
+## NOTES:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
 

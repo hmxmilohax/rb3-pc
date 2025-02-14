@@ -13,10 +13,10 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ps3rbkeyscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
 * Es mejor que uses el teclado con su receptor propio, si lo tienes. [[Haz click aquí para ver como usarlo con el receptor]](https://carlmylo.github.io/rb3-pc/adv_passthrough_es){:target="_blank"}.
-* **NO mapeés este instrumento por el menú de "Pads".**
-* No existe un perfil para este instrumento.
 * Los botones del teclado no van a funcionar normalmente porque esta en modo MIDI.
 * Se puede conectar un pedal de sostén para activar sobrecarga.
 * Se requiere una versión de [[RPCS3 actual]](https://rpcs3.net/download).

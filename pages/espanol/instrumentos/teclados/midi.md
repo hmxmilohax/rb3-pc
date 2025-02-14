@@ -13,9 +13,9 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/midikeyscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS:
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* No existe un perfil para este instrumento.
-* **NO mapeés este instrumento por el menú de "Pads".**
 * Necesitas un teclado  **37 teclas a lo mínimo** o 27 teclas y 11 "pads" de batería.
 * Tu teclado MIDI necesita:
 	* **estar en canal MIDI 1.**
