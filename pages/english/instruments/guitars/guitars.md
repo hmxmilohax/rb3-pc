@@ -16,6 +16,31 @@ toc: false
 
 * **This is for unknown guitar controllers**. You may have to use try different handlers until your guitar is detected.
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
+This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## Pad Information
 
 | Handlers | Devices |

@@ -20,11 +20,12 @@ toc: false
 	![PDP Riffmaster Wireless Receiver](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
+<!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my instrument?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
                             </h4>
                         </div>
                         <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
@@ -41,9 +42,8 @@ This is so you can change configuration profiles in case you want to play games 
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
+<!-- Map End -->
 
 ## Pad Information
 
@@ -161,7 +161,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PS4%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
-<!-- /.panel-group -->
+<!-- Profile Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -187,8 +187,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
                         </div>
                     </div>
 </div>
-<!-- /.panel-group -->
-
+<!-- Profiles End -->
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)

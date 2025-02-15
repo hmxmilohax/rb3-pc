@@ -12,6 +12,31 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
+This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## NOTES
 
 * **This page is specifically for guitars using modded kits made by [[RetroCultMods]](https://shop.retrocultmods.com/)!** Check your receipt from either the [[RetroCultMods' own website]](https://www.etsy.com/shop/RetroCultMods) or [[Etsy]] to verify that you indeed have a guitar using a mod kit from RetroCultMods.
@@ -19,11 +44,11 @@ toc: false
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Setup
@@ -162,11 +187,35 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z){:target="_blank"}
 
+<!-- Profile Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-use-profiles">How do I use profiles?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-use-profiles" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
+<p>After downloading the profile,</p>
+<ol>
+<li>Extract the .7z file.</li>
+<li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
+</ol>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
+<p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
+<p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Profiles End -->
+
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapping" title="Mapping"></div>
-
-### Passthrough Mode
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 

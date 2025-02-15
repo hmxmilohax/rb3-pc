@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiirbkeyscontroller.png" alt="Controller" title="Controller"></div>
 
-## NOTES:
+## NOTES
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
 <div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
@@ -46,7 +46,7 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 * ![A tan square with a solid outline](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Tan Square") : 
 	* 🎹 **Leave your "Emulated MIDI type" on "Keyboard" and select your MIDI interface in the drop-down menu next to it.**.
 
-### Additional Information:
+### Additional Information
 
 Since the keyboard controller buttons don't function like they do when connected with a dongle, you will have to shift octaves to access the buttons on the keys.
 

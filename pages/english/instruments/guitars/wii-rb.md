@@ -18,11 +18,12 @@ toc: false
 	* It can be unmapped by removing the Right Stick: Up/Down mappings.
 	* You can alternatively configure the Device Class as a Guitar Hero Guitar to remove the option. You will have to swap Blue and Yellow frets.
 
+<!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my instrument?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
                             </h4>
                         </div>
                         <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
@@ -39,9 +40,8 @@ This is so you can change configuration profiles in case you want to play games 
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
+<!-- Map End -->
 
 ## Pad Information
 
@@ -78,7 +78,7 @@ This is so you can change configuration profiles in case you want to play games 
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
-<!-- /.panel-group -->
+<!-- Profile Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -104,7 +104,7 @@ This is so you can change configuration profiles in case you want to play games 
                         </div>
                     </div>
 </div>
-<!-- /.panel-group -->
+<!-- Profiles End -->
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrwiirbmapping.png" alt="Mapping" title="Mapping"></div>
 

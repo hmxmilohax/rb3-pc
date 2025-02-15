@@ -12,24 +12,25 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbprotar.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 * Esto es para los jugadores que tienen sus guitarras PRO conectadas con una una interfaz de MIDI a USB.
 
-## Advertencia de SYSEX:
+## Advertencia de SYSEX
 
 **¡Necesitas una interfaz de MIDI a USB que tome datos SYSEX!** Consulta el manual o el fabricante de tu interfaz para mas detalles.
 
 | Interfaces de MIDI a USB <br> verificadas |
 |:------------------:|
-| **M-Audio** <br> Midisport Uno |
-| **Roland** <br> UM-ONE mk2 |
 | **Focusrite** <br> Scarlett (4i4 o mejor) [Gen 3a] |
+| **M-Audio** <br> Midisport Uno |
+| **MOTU** <br> M2/M4 |
+| **Roland** <br> UM-ONE mk2 |
 
-## Instrucciones:
+## Instrucciones
 
 Como no puedes conectar la guitarra con el receptor, necesitas conectarla con el puerto de MIDI por abajo.
 

@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_mod_riffada
 folder: instruments
 tags: [guitars, modded, english]
-summary: "How to connect and configure a Riffmaster connected with a Feather on RPCS3."
+summary: "How to set up a PS4 Riffmaster connected with a Feather on RPCS3."
 toc: false
 ---
 
@@ -16,6 +16,31 @@ toc: false
 
 * **This is specifically for the** [**[Adafruit Feather RP2040 with USB Type A Host]**](https://www.adafruit.com/product/5723)**!** Please consult your sales receipt to confirm that it is indeed an [[Adafruit Feather RP2040 **with USB Type A Host**]](https://www.adafruit.com/product/5723).
 * While you can use the Xbox One Riffmaster too but you should just use [[RB4InstrumentMapper]](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox) for that instead.
+
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
+This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
 
 ## Pad Information
 

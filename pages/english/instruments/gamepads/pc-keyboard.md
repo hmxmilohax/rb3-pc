@@ -48,8 +48,8 @@ This is so you can change configuration profiles in case you want to play games 
 ## Bindings:
 
 <ul id="configTabs" class="nav nav-tabs">
-    <li class="active"><a href="#fortnitefest" data-toggle="tab">Fortnite</a></li>
-    <li><a href="#fortnitepro" data-toggle="tab">Fortnite Pro</a></li>
+    <li class="active"><a href="#fortnitefest" data-toggle="tab">Auto-Strum</a></li>
+    <li><a href="#fortnitepro" data-toggle="tab">Manual Strum</a></li>
     <li><a href="#linos-binds" data-toggle="tab">Linos Binds</a></li>
     <li><a href="#ashunprodrums" data-toggle="tab">Ashun Pro Drums</a></li>
     <li><a href="#default-binds" data-toggle="tab">Default</a></li>
@@ -58,7 +58,7 @@ This is so you can change configuration profiles in case you want to play games 
 <!-- first tab start -->
 <div role="tabpanel" class="tab-pane active" id="fortnitefest">
 <!-- tab content start -->
-<h3 id="fortnite">Fortnite Festival</h3>
+<h3 id="autostrum">Autostrum</h3>
 <p>A profile heavily inspired by Fortnite Festival’s keyboard scheme. Modified by lunalawl.</p>
 <ul>
 <li>This profile does not require strumming.</li>
@@ -260,7 +260,7 @@ This is so you can change configuration profiles in case you want to play games 
 <!-- next tab start -->
 <div role="tabpanel" class="tab-pane" id="fortnitepro">
 <!-- tab content start -->
-<h3 id="fortnite-pro-guitarsbasskeys">Fortnite Pro Guitars/Bass/Keys</h3>
+<h3 id="manual-strum-guitarsbasskeys">Manual Strum Guitars/Bass/Keys</h3>
 <p>A profile inspired by both Fortnite Festival’s Pro bindings and Frets on Fire. Modified by Doom05 to work a bit better with Rock Band 3.</p>
 <ul>
 <li>This profile requires strumming. While holding a fret, press the strum buttons.</li>

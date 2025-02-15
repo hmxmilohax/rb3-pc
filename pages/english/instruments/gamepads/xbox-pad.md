@@ -25,6 +25,28 @@ toc: false
 	- You can also rebind your controller within Deluxe.  
 	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I set up gamepad up?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/gamepadlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping an Xbox Controller"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## Pad Information
 
 | Handlers | Devices |
@@ -35,7 +57,7 @@ toc: false
 |:------------------:|:---------------------:|
 | Standard (Pad) | PS3 Controller |
 
-## Guitar/Bass/Keys
+## Default Guitar/Bass/Keys
 
 | **Xbox One/Series Controller**          | **Rock Band** |
 |:------------------:|:---------------------:|
@@ -48,10 +70,10 @@ toc: false
 | ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ls.png "Left Stick") | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
 | ![View Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/viw.png "View Button") | Overdrive |
 
-## Drums
+## Default Drums
 
-| **Xbox One/Series Controller**          | **Rock Band** |
-|:------------------:|:---------------------:|
+| **Xbox One/Series Controller** | **Rock Band** |
+|:----------------------:|:---------------------:|
 | ![Left Trigger](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/lt.png "Left Trigger") | ![Kick Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Kick Pedal") |
 | ![Left Bumper](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/lb.png "Left Bumper") | ![Red Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Red Pad") |
 | ![Right Trigger](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/rt.png "Right Trigger") | ![Yellow Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Kick Pedal") |
@@ -61,8 +83,8 @@ toc: false
 
 ## Vocals
 
-| **Xbox One/Series Controller** | **Use**                         | **Alt Use**         |
-|:---------------------:|:-------------------------------:|:-------------------:|
+| **Xbox One/Series Controller** | **Use** | **Alt Use** |
+|:---------------------:|:----------------:|:-----------:|
 | ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/ls.png "Left Stick") | Navigation |
 | ![Left Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png "D-Pad") | Navigation |
 | ![A Button](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/a.png "A Button") | Select                          |

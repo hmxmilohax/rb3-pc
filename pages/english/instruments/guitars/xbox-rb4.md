@@ -24,11 +24,12 @@ toc: false
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
+<!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my instrument?</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
                             </h4>
                         </div>
                         <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
@@ -45,9 +46,8 @@ This is so you can change configuration profiles in case you want to play games 
                             </div>
                         </div>
                     </div>
-                    <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
+<!-- Map End -->
 
 ## Pad Information
 
@@ -167,7 +167,7 @@ This is the recommended mode and should not require any mapping. You simply need
 </div>
 <!-- /.panel-group -->
 
-<!-- /.panel-group -->
+<!-- Profile Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -193,7 +193,7 @@ This is the recommended mode and should not require any mapping. You simply need
                         </div>
                     </div>
 </div>
-<!-- /.panel-group -->
+<!-- Profiles End -->
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 
