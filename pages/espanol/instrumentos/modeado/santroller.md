@@ -16,7 +16,7 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* **Tu configurador de Santroller puede tener ajustes diferentes, depende de como fue modeada tu guitarra/adaptador de guitarra**. Si compraste tu guitarra pre-modeada, pregúntale al vendedor para mas información.
+* **Tu configurador de Santroller puede tener ajustes diferentes, depende de como fue modeada tu guitarra/adaptador de guitarra**. Si compraste tu guitarra pre-modeada o un adaptador prefabricado, pregúntale, al vendedor para mas información.
 
 ## Configuración:
 
@@ -38,7 +38,7 @@ En Ajustes de Control, cambia la configuración a esto:
 
 Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en Santroller.
 
-**!ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
+**¡ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
 
 ![Una captura de Santroller, con el cursor sobre Guardar Ajustes.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/san/savesanes.png "Santroller")
 
