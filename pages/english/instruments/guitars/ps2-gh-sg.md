@@ -48,11 +48,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Guitar Hero |
 
 ## Mappings
@@ -82,7 +82,7 @@ Use Right Click to unmap a button.
 | Right Stick: Up | ![Strumbar Up](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Strumbar Up") |
 | Right Stick: Down | ![Strumbar Down](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Strumbar Down") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
-| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt Vertical") |
+| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt Vertical") |
 | Start | ![Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sel.png "Select") |
 

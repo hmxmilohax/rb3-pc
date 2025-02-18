@@ -47,11 +47,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Informations
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Drums | Rock Band Pro |
 
 ## Mapping

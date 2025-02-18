@@ -45,14 +45,14 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
-### Mapping
+### Initial Setup
 
 * For the best experience:
 	1. Go to the Start menu and look for "Set up USB game controllers," then open it.  
@@ -91,7 +91,7 @@ Use Right Click to unmap a button.
 | D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: Down | ![Effects Switch](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Effects Switch") |
-| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") |
+| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") |
 | Start | ![Plus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/start.png "Start") |
 | Select | ![Minus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/home.png "Home") |

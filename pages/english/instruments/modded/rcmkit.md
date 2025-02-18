@@ -90,7 +90,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") | 
+| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") | 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -101,7 +101,19 @@ By default, XInput has most things bound correctly. You only need to remap the f
                         </div>
                         <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-
+<h4 id="profile">Profile</h4>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z">[Download Profile]</a></p>
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
+<p>After downloading the profile,</p>
+<ol>
+<li>Extract the .7z file.</li>
+<li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
+</ol>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
+<p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
+<p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
+<h4 id="profile">Bindings</h4>
 <table>
 <thead>
 <tr>
@@ -160,7 +172,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Tilt" title="Tilt"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
@@ -182,38 +194,6 @@ By default, XInput has most things bound correctly. You only need to remap the f
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
-
-## Profile
-
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z){:target="_blank"}
-
-<!-- Profile Start -->
-<div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-use-profiles">How do I use profiles?</a>
-                            </h4>
-                        </div>
-                        <div id="how-to-use-profiles" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body">
-<ul>
-<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
-<p>After downloading the profile,</p>
-<ol>
-<li>Extract the .7z file.</li>
-<li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
-</ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
-<p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
-<p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
-</ul>
-                            </div>
-                        </div>
-                    </div>
-</div>
-<!-- Profiles End -->
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapping" title="Mapping"></div>
 

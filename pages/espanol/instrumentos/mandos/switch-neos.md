@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/swineos.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Mandos CRKD NEO S Wave pueden ser conectados por USB o por Bluetooth/receptor inalámbrico. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 * Para cambiar la configuración de tu mando, necesitas usar la aplicación de CRKD en tu teléfono (iOS/Android).
@@ -20,7 +20,7 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Mapeo:
+## Mapeo
 Estas configuraciones están aquí solo para los que quieren ideas para su mando. Puedes dejar todo en lo predeterminado y ajusta dentro de Deluxe.
 
 ### Guitarra/Bajo/Teclado por defecto:
@@ -38,7 +38,7 @@ Estas configuraciones están aquí solo para los que quieren ideas para su mando
 | Lane 4 | RT |
 | Lane 5 | A |
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
 |:--------:|:-----------------:|
@@ -77,7 +77,7 @@ Estas configuraciones están aquí solo para los que quieren ideas para su mando
 | Lane 4 | RT |
 | Lane 5 | A |
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
 |:--------:|:-----------------:|

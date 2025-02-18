@@ -65,7 +65,7 @@ This is so you can change configuration profiles in case you want to play games 
 | R1 | ![Second Foot Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 | Cymbal Modifier | |
 | D-Pad: Up | Yellow Cymbal Modifier | |
-| D-Pad: Up | Blue Cymbal Modifier | |
+| D-Pad: Down | Blue Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)

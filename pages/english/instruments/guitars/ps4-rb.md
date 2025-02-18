@@ -48,11 +48,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Mapping
@@ -63,7 +63,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") | 
+| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") | 
 | L2 | ![Right Stick Click](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rsc.png "Right Stick Click") | ![Solo Buttons](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Solo Buttons") | 
 
 <div class="panel-group" id="accordion">
@@ -134,7 +134,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Tilt" title="Tilt"></td>
 </tr>
 <tr>
 <td align="center">Start</td>

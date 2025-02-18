@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rolllimitlesscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Este control requiere configuración avanzada.
 * La detección de velocidad (intensidad) no funciona.
@@ -29,23 +29,23 @@ toc: false
 ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
 7. Si no la detecto, asegúrate que presionaste y manteniste el Botón de inicio redondo en el adaptador sostenido y intenta otra vez.
 
-## Mapeo:
+## Mapeo
 
 | **RPCS3** | **Batería** |
 |:---------:|:---------------:|
-| Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
-| Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
-| Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
-| Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| Cross | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
+| Circle | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
+| Square | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
+| Triangle | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png "D-Pad (Cruceta)") |
-| Botón R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
+| R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
 | R3 | Modificador de Platillos |
 | L3 | Modificador de Parches |
 
 ## Perfil
 
-[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
+[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Roll%20Limitless%20Drums.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrldrmsmapping.png" alt="Mapeo" title="Mapeo"></div>
 

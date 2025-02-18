@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbdrmscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 * Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
 * Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
 * Estas baterias requieren un Adaptador inalámbrico para Windows.  
@@ -23,15 +23,40 @@ toc: false
 * La detección de velocidad (intensidad) no funciona.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#como-mapear-pads">¿Como configuro mi batería?</a>
+                            </h4>
+                        </div>
+                        <div id="como-mapear-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
+Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
 
-## Información de Control:
+
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Drums | Rock Band Pro |
 
 ### Configuración Adicional:
@@ -39,7 +64,7 @@ toc: false
 Por favor lee la documentación de RB4InstrumentMapper.  
 [[Haz click aquí para leerla]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md){:target="_blank"}.
 
-## Mapeo:
+## Mapeo
 
 ### Controller Emulation Mode: ViGEmBus (RPCS3 compatibility)
 
@@ -56,7 +81,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z" target="_blank">[Bajar Perfil]</a></p>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z" target="_blank">[Descargar Perfil]</a></p>
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <p>Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:</p>
 
@@ -70,7 +95,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </thead>
 <tbody>
 <tr>
-<td align="center">Boton R1</td>
+<td align="center">R1</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/lsc.png" alt="Palanca izquierda presionada" title="Palanca izquierda presionada"></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
@@ -103,19 +128,19 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </thead>
 <tbody>
 <tr>
-<td align="center">Cross (Cruz)</td>
+<td align="center">Cross</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
 </tr>
 <tr>
-<td align="center">Circle (Circulo)</td>
+<td align="center">Circle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
 </tr>
 <tr>
-<td align="center">Square (Cuadro)</td>
+<td align="center">Square</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
 </tr>
 <tr>
-<td align="center">Triangle (Triangulo)</td>
+<td align="center">Triangle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Parche Amarillo" title="Parche Amarillo"></td>
 </tr>
 <tr>
@@ -131,31 +156,31 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
-<td align="center">Boton R1</td>
+<td align="center">R1</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
 <tr>
-<td align="center">Cross (Cruz)</td>
+<td align="center">Cross</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/a.png" alt="Botón A" title="Botón A"></td>
 </tr>
 <tr>
-<td align="center">Circle (Circulo)</td>
+<td align="center">Circle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/b.png" alt="Botón B" title="Botón B"></td>
 </tr>
 <tr>
-<td align="center">Square (Cuadro)</td>
+<td align="center">Square</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/x.png" alt="Botón X" title="Botón X"></td>
 </tr>
 <tr>
-<td align="center">Triangle (Triangulo)</td>
+<td align="center">Triangle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/y.png" alt="Botón Y" title="Botón Y"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta)</td>
+<td align="center">D-Pad</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png" alt="D-Pad (Cruceta)" title="D-Pad (Cruceta)"></td>
 </tr>
 <tr>
-<td align="center">Botón PS</td>
+<td align="center">PS Button</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>

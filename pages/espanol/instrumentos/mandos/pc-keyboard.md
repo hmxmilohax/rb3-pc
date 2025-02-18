@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/pckeyboardcontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.
 * **Para que whammy funcione correctamente, tendrás que poner "Stick Multiplier" y "Stick Interpolation" para "Left" y "Right" en `0.90`.**
@@ -20,7 +20,7 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Mapeo:
+## Mapeo
 
 ### Guitarra/Bajo/Teclado Predeterminado
 Esta es la configuración que viene por defecto con RPCS3.
@@ -28,17 +28,17 @@ Esta es la configuración que viene por defecto con RPCS3.
 * No se requiere rasguear con esta configuración.
 * Esta configuración **no es recomendada** para tocar canciones, solo para controlar menús.
 
-#### Información de Control:
+#### Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Keyboard | Keyboard |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Mapeo:
+#### Mapeo
 
 | **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** | **Uso** | **Uso alt.** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
@@ -46,10 +46,10 @@ Esta es la configuración que viene por defecto con RPCS3.
 | `R` | L2 | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") | Selección de Parte Vocal (Práctica) | |
 | `E` | R1 | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") | Volumen de Pista Vocal (Canción) | |
 | `T` | R2 | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") | Corrección de Tono (Canción) | |
-| `X` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
-| `C` | Circle (Circulo) | | | Atrás | Volumen micro 3 (Canción) |
-| `Z` | Square (Cuadro) | | | Volumen micro 1 (Canción) | |
-| `V` | Triangle (Triangulo) | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
+| `X` | Cross | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
+| `C` | Circle | | | Atrás | Volumen micro 3 (Canción) |
+| `Z` | Square | | | Volumen micro 1 (Canción) | |
+| `V` | Triangle | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
 | `Arriba`, `Abajo`, `Izquierda` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | | | Navegación | |
 | `W`, `A`, `S` y `D` | ![Palanca Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") | N/A | Navegación | |
 | `Entrar` | Start | | | Opciones | Pausa (Canción) |
@@ -64,17 +64,17 @@ Este perfil esta inspirado por la configuración de Fortnite Festival. Modificad
 
 * No se requiere rasguear con esta configuración.
 
-#### Información de Control:
+#### Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Keyboard | Keyboard |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Mapeo:
+#### Mapeo
 
 | **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** | **Uso** | **Uso alt.** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
@@ -82,10 +82,10 @@ Este perfil esta inspirado por la configuración de Fortnite Festival. Modificad
 | `D` y `R` | L2 | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") | Selección de Parte Vocal (Práctica) | |
 | `J` y `E` | R1 | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") | Volumen de Pista Vocal (Canción) | |
 | `K` y `T` | R2 | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") | Corrección de Tono (Canción) | |
-| `L` y `X` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
-| `C` | Circle (Circulo) | | | Atrás | Volumen micro 3 (Canción) |
-| `Z` | Square (Cuadro) | | | Volumen micro 1 (Canción) | |
-| `V` | Triangle (Triangulo) | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
+| `L` y `X` | Cross | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
+| `C` | Circle | | | Atrás | Volumen micro 3 (Canción) |
+| `Z` | Square | | | Volumen micro 1 (Canción) | |
+| `V` | Triangle | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
 | `W`, `A`, `S` y `D` | ![Palanca Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") | | | Navegación | |
 | `Arriba`, `Izquierda`, `Abajo` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | | | Navegación | |
 | `S` y `D` | ![Palanca Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/ls.png "Palanca Izquierda") | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") | N/A | Navegación | |
@@ -102,29 +102,29 @@ Este perfil es inspirado por la configuración Pro de Fortnite Festival y Frets 
 
 * Esta configuración requiere rasguear. ¡Presiona el botón de rasgueo mientras mantienes el del carril!
 
-#### Información de Control:
+#### Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Keyboard | Keyboard |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Guitar Hero |
 
-#### Mapeo:
+#### Mapeo
 
 | **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** |
 |:------------------:|:------------------:|:---------------------:|
-| `1` | Cross (Cruz) | ![Traste Verde](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Traste Verde") |
-| `2` | Circle (Circulo) | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") |
-| `3` | Square (Cuadro) | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") |
-| `4` | Triangle (Triangulo) | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") |
+| `1` | Cross | ![Traste Verde](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Traste Verde") |
+| `2` | Circle | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") |
+| `3` | Square | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") |
+| `4` | Triangle | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") |
 | `5` | L1 | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") |
 | `L` y `Arriba` | D-Pad (Cruceta) <br> Arriba | ![Rasgueo para arriba](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
 | `P` y `Izquierda` | D-Pad (Cruceta) <br> Abajo | ![Rasgueo hacia abajo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Rasgueo hacia abajo") |
 | `W`, `A`, `S` y `D`  | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | Navegación |
-| `;` y `Abajo` | Palanca izquierda: <br> Derecha | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") |
+| `;` y `Abajo` | Left Stick: <br> Derecha | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") |
 | `'` y `Derecha` | Select | Sobrecarga |
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapeo" title="Mapeo"></div>
@@ -132,28 +132,28 @@ Este perfil es inspirado por la configuración Pro de Fortnite Festival y Frets 
 ### Batería Pro
 Este perfil fue creado por nuestro tecla- baterista Colombiano favorito. Los científicos siguen averiguando como es posible que alguien pueda jugar con este perfil.
 
-#### Información de Control:
+#### Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Keyboard | Keyboard |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Drum | Rock Band Pro |
 
-#### Mapeo:
+#### Mapeo
 
 | **Teclado** | **RPCS3** | **Batería** |
 |:--------:|:-------------------:|:-----------------:|
-| `A` | Circle (Circulo) | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
-| `S` | Triangle (Triangulo) | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
-| `O` | Square (Cuadro) | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
-| `P` | Cross (Cruz) | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
-| `W` | Triangle (Triangulo) | ![Platillo Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yc.png "Platillo Amarillo") |
-| `0` | Square (Cuadro) | ![Platillo Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bc.png "Platillo Azul") |
-| `-` | Cross (Cruz) | ![Platillo Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gc.png "Platillo Verde") |
-| `,` and `Espacio` | L1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| `A` | Circle | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
+| `S` | Triangle | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| `O` | Square | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
+| `P` | Cross | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
+| `W` | Triangle | ![Platillo Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yc.png "Platillo Amarillo") |
+| `0` | Square | ![Platillo Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bc.png "Platillo Azul") |
+| `-` | Cross | ![Platillo Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gc.png "Platillo Verde") |
+| `,` y `Espacio` | L1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | `C` | R1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | `A`, `O`, `P` y `S` | L3 | Modificador de parches |
 | `W`, `0` y `-` | R3 | Modificador de platillos |
@@ -165,17 +165,17 @@ Un perfil usado por el tecladista favorito de MiloHax. Tiene muchas teclas para 
 
 * No se requiere rasguear con esta configuración.
 
-#### Información de Control:
+#### Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Keyboard | Keyboard |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
-#### Mapeo:
+#### Mapeo
 
 | **Teclado** | **RPCS3** | **Guitarra/Bajo/Teclado** | **Batería** | **Uso** | **Uso alt.** |
 |:------------:|:---------:|:---------------------:|:---------:|:-------------:|:-------------:|
@@ -183,10 +183,10 @@ Un perfil usado por el tecladista favorito de MiloHax. Tiene muchas teclas para 
 | `1`, `7`, `Q` y `Espacio` | L2 | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") | Selección de Parte Vocal (Práctica) | |
 | `3`, `9`, `E` y `S` | R1 | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") | Volumen de Pista Vocal (Canción) | |
 | `0`, `4`, `D` y `R` | R2 | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") | Corrección de Tono (Canción) | |
-| `-`, `5`, `F` y `T` | Cross (Cruz) | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
-| `C` | Circle (Circulo) | | | Atrás | Volumen micro 3 (Canción) |
-| `Z` | Square (Cuadro) | | | Volumen micro 1 (Canción) | |
-| `V` | Triangle (Triangulo) | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
+| `-`, `5`, `F` y `T` | Cross | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") | Seleccionar | |
+| `C` | Circle | | | Atrás | Volumen micro 3 (Canción) |
+| `Z` | Square | | | Volumen micro 1 (Canción) | |
+| `V` | Triangle | | | Ver Más Información (Biblioteca) | Volumen micro 2 (Canción) |
 | `Arriba`, `Abajo`, `Izquierda` y `Derecha` | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") | | | Navegación | |
 | `Shift (Mayús) Izquierdo` | Select | Sobrecarga | Sobrecarga | Filtros (Biblioteca) | |
 
@@ -196,7 +196,7 @@ Un perfil usado por el tecladista favorito de MiloHax. Tiene muchas teclas para 
 
 ## Perfiles
 
-[[Bajar Perfiles]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
+[[Descargar Perfiles]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PC%20Keyboard.7z)
 
 [[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
 

@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ps3rbkeyscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 

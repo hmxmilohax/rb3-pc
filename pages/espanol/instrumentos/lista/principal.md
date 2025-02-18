@@ -34,10 +34,10 @@ En la lista de instrumentos, haz click en la imagen del instrumento o en **"[VER
 
 Sigue las instrucciones y configúralo todo como dice la pagina.
 
-![Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3..](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapeando la Höfner de Rock Band")
+![Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3.](https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png "Mapeando la Höfner de Rock Band")
 
 Toma en cuenta:
-* Si vas a jugar con mas de un instrumento, _tienes que configurar cada uno en un puerto diferente_ (Player 1, Player 2, etc).
+* Si vas a jugar con más de un instrumento, _tienes que configurar cada uno en un puerto diferente_ (Player 1, Player 2, etc).
 * **Guitarras, baterías y adaptadores MIDI de Rock Band para el PlayStation 3 no requieren configuración manual. ¡NO LOS CONFIGURES!**
 * Si tu control no se detecta, haz click en "Refresh". Si eso no lo arregla, reinicia RPCS3.
 
@@ -173,9 +173,9 @@ Después de eso, puedes seleccionar el perfil en el menú de **"Pads"**.
 ![Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil.](https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png "Gamepad Settings")
 
 
-La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, trata de cambiar el control en "`Devices`", al lado del botón de "`Refresh`" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.
+La mayoría del tiempo, estos perfiles funcionan sin configuración adicional. Por si acaso no, trata de cambiar el control en "`Devices`", al lado del botón de "`Refresh`" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.
 
-Toma en cuenta que estos perfiles están hechos para solo un instrumento. Puedes usar las páginas de los instrumentos para agregar mas instrumentos.
+Toma en cuenta que estos perfiles están hechos para solo un instrumento. Puedes usar las páginas de los instrumentos para agregar más instrumentos.
 
 Si le sabes, puedes combinar perfiles si editas los archivos con un programa como "Notepad++" o "SublimeText".
 

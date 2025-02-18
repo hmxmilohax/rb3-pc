@@ -48,11 +48,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Guitar Hero |
 
 ## Mappings
@@ -78,8 +78,8 @@ Use Right Click to unmap a button.
 | D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
-| Left Stick: Down (Not recommended) | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt Vertical") |
-| Left Stick: Down (Not recommended) | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt Horizontal") |
+| Left Stick: Down (Not recommended) | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt Vertical") |
+| Left Stick: Down (Not recommended) | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt Horizontal") |
 | Start | ![Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sel.png "Select") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/home.png "Home") |

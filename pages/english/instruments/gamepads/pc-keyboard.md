@@ -101,7 +101,6 @@ This is so you can change configuration profiles in case you want to play games 
 <th align="center"><strong>RPCS3</strong></th>
 <th align="center"><strong>Keyboard</strong></th>
 <th align="center"><strong>Guitars/Bass/Keys</strong></th>
-<th align="center"><strong>Drums</strong></th>
 <th align="center"><strong>Alt Use 1</strong></th>
 <th align="center"><strong>Alt Use 2</strong></th>
 </tr>
@@ -111,7 +110,6 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">L1</td>
 <td align="center"><code>F</code>, and <code>Q</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
 <td align="center">Guide Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
@@ -119,7 +117,6 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">L2</td>
 <td align="center"><code>D</code>, and <code>R</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
 <td align="center">Vocal Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
@@ -127,7 +124,6 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">R1</td>
 <td align="center"><code>E</code>, and <code>J</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
 <td align="center">Vocal Track Volume (Song)</td>
 <td align="center"></td>
 </tr>
@@ -135,7 +131,6 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">R2</td>
 <td align="center"><code>K</code>, and <code>T</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
 <td align="center">Pitch Correction (Song)</td>
 <td align="center"></td>
 </tr>
@@ -143,14 +138,12 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Cross</td>
 <td align="center"><code>L</code>, and <code>X</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
 <td align="center">Select</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
 <td align="center"><code>C</code></td>
-<td align="center"></td>
 <td align="center"></td>
 <td align="center">Back</td>
 <td align="center">Mic 3 Volume (Song)</td>
@@ -159,14 +152,12 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Square</td>
 <td align="center"><code>Z</code></td>
 <td align="center"></td>
-<td align="center"></td>
 <td align="center">Mic 1 Volume (Song)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>V</code></td>
-<td align="center"></td>
 <td align="center"></td>
 <td align="center">View More Info (Library)</td>
 <td align="center">Mic 2 Volume (Song)</td>
@@ -175,14 +166,12 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Left Stick: Up</td>
 <td align="center"><code>W</code>, and <code>Left Shift</code></td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
-<td align="center">you</td>
 <td align="center">Navigation</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Left Stick: Left</td>
 <td align="center"><code>A</code></td>
-<td align="center"></td>
 <td align="center"></td>
 <td align="center">Navigation</td>
 <td align="center"></td>
@@ -191,7 +180,6 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Left Stick: Down</td>
 <td align="center"><code>S</code></td>
 <td align="center"></td>
-<td align="center"></td>
 <td align="center">Navigation</td>
 <td align="center"></td>
 </tr>
@@ -199,38 +187,12 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Left Stick: Right</td>
 <td align="center"><code>D</code></td>
 <td align="center"></td>
-<td align="center"></td>
 <td align="center">Navigation</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Up</td>
 <td align="center"><code>Up</code></td>
-<td align="center"></td>
-<td align="center">Navigation</td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Down</td>
-<td align="center"><code>Down</code></td>
-<td align="center"></td>
-<td align="center">Navigation</td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Left</td>
-<td align="center"><code>Left</code></td>
-<td align="center"></td>
-<td align="center">Navigation</td>
-<td align="center"></td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Right</td>
-<td align="center"><code>Right</code></td>
-<td align="center"></td>
 <td align="center">Navigation</td>
 <td align="center"></td>
 <td align="center"></td>
@@ -239,14 +201,12 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Start</td>
 <td align="center"><code>Return</code></td>
 <td align="center"></td>
-<td align="center"></td>
 <td align="center">Options</td>
 <td align="center">Pause (Song)</td>
 </tr>
 <tr>
 <td align="center">Select</td>
 <td align="center"><code>Space</code></td>
-<td align="center">Overdrive</td>
 <td align="center">Overdrive</td>
 <td align="center"></td>
 <td align="center">Pause (Song)</td>

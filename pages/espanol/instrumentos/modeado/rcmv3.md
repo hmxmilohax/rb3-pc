@@ -12,19 +12,19 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrswii.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * **¡Esta pagina es específicamente para el** [**[Adaptador de guitarra V3 por RetroCultMods]**](https://www.etsy.com/listing/1536358024/)**!** Verifica que tu recibo de venta fue de [[el sitio propio de RetroCultMods]](https://shop.retrocultmods.com/) o [[su tienda de Etsy]](https://www.etsy.com/shop/RetroCultMods).
 	* Puedes usar esta pagina con los adaptadores V1 y V2 Wii pero no tendrás ladeo (tilt).
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Configuración:
@@ -58,13 +58,13 @@ Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en l
 
 ![Una captura de la herramienta de programación para RetroCultMods, con el cursor sobre Guardar Ajustes](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/rcm/savev3es.png "RetroCultMods: Herramienta de Programación")
 
-## Mapeo:
+## Mapeo
 
 Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| Botón R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Ladeo") | 
+| R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") | 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -85,19 +85,19 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 </thead>
 <tbody>
 <tr>
-<td align="center">Cross (Cruz)</td>
+<td align="center">Cross</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
-<td align="center">Circle (Circulo)</td>
+<td align="center">Circle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
-<td align="center">Square (Cuadro)</td>
+<td align="center">Square</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
-<td align="center">Triangle (Triangulo)</td>
+<td align="center">Triangle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
@@ -105,27 +105,27 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center">D-Pad: Up</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center">D-Pad: Down</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center">D-Pad: Left</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center">D-Pad: Right</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
 </tr>
 <tr>
-<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center">Right Stick: <br> Left/Right</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
-<td align="center">Palanca Derecha: <br> Arriba <em>o</em> abajo</td>
+<td align="center">Right Stick: <br> Up/Down</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
 </tr>
 <tr>
@@ -133,8 +133,8 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
-<td align="center">Botón R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
+<td align="center">R1</td>
+<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
@@ -145,7 +145,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
 </tr>
 <tr>
-<td align="center">Botón PS</td>
+<td align="center">PS Button</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
@@ -159,7 +159,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 ## Perfil:
 
-[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z){:target="_blank"}
+[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z){:target="_blank"}
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmv3gtrmapping.png" alt="Mapeo" title="Mapeo"></div>
 

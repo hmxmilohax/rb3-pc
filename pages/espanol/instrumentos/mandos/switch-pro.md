@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/swiprocontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Mandos Pro de Nintendo Switch pueden ser conectados por USB o por Bluetooth/receptor inalámbrico. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 * Lo Mandos Pro de Switch tienen esquema Japones. Esto puede causar problemas con tu memoria muscular.
@@ -23,14 +23,14 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | SDL | Nintendo Switch Pro Controller |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
 ## Guitarra/Bajo/Teclado:

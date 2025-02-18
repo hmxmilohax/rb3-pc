@@ -52,7 +52,7 @@ toc: false
 | SDL | Nintendo Switch Pro Controller |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
 ## Default Guitars/Bass/Keys

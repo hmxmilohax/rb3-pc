@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
@@ -53,7 +53,7 @@ Entra la pestaña de I/O.
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
-## Mapeo:
+## Mapeo
 Mapeo Predeterminado:
 * `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la snare (caja).
 * `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (aro de la caja).

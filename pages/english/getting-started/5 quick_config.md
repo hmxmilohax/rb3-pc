@@ -7,26 +7,23 @@ permalink: gs_quick_config
 toc: false
 folder: english
 series: "Getting Started"
-weight: 6
+weight: 5
 ---
-
-These files are meant for those that just want to play with minimal setup. It is still strongly suggested that you do [[custom configuration]](https://carlmylo.github.io/rb3-pc/custom_config){:target="_blank"} to tweak to what's best for your computer.  
-[[**Rock Band 3 Deluxe must be installed**]](https://carlmylo.github.io/rb3-pc/gs_init#rock-band-3-deluxe){:target="_blank"} but if it's not already installed, you're not reading this guide and should go back and read it.  
-
 ## Quick Configuration Profiles
 
-Below are the quick configuration files. Download whichever is best for your computer.
+Now that the game is in the library, we'll download some files to adjust RPCS3 for the best experience.  
+Below are the quick configuration files. Download whichever is best for your computer.  
 
 * [[Recommended settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
 * [[Minimum settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
 
-## How to
+## Applying A Profile
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 In the GIF example below, the "Recommended" requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/rb3-pc/images/cust/quickconf.gif "Recommended.zip")
 
-You will still have to set up [[your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/rb3-pc/custom_config_aud){:target="_blank"} or [[PS3 Mustang guitars or RB3 Keyboards with dongles]](https://carlmylo.github.io/rb3-pc/adv_passthrough){:target="_blank"}  will still need to configure those.
+You will still have to set up [[your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/rb3-pc/custom_config_aud){:target="_blank"} or [[PS3 Mustang Pro Guitars, or ]](https://carlmylo.github.io/rb3-pc/adv_passthrough){:target="_blank"}  will still need to configure those.
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -63,7 +60,8 @@ You will still have to set up [[your instruments and controllers]](https://carlm
 <li><strong>Network</strong>:
 <ul>
 <li>Network Status: Connected</li>
-<li>IP Hosts/Switches: Configured for RBEnhanced</li>
+<li>IP Hosts/Switches: <code>rb3ps3live.hmxservices.com=45.33.44.103</code></li>
+<li>PSN Status: RPCN</li>
 <li>Enable UPNP: On</li>
 </ul>
 </li>
@@ -103,7 +101,8 @@ You will still have to set up [[your instruments and controllers]](https://carlm
 <li><strong>Network</strong>:
 <ul>
 <li>Network Status: Connected</li>
-<li>DNS: Configured for RBEnhanced</li>
+<li>IP Hosts/Switches: <code>rb3ps3live.hmxservices.com=45.33.44.103</code></li>
+<li>PSN Status: RPCN</li>
 <li>Enable UPNP: On</li>
 </ul>
 </li>

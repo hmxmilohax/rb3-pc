@@ -46,11 +46,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | MMJoystick | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Mappings
@@ -69,7 +69,7 @@ This is so you can change configuration profiles in case you want to play games 
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: <br/> Up/Down | ![Effects Switch](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Effects Switch") |
 | L2 | ![Solo Buttons](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Solo Buttons") |
-| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") |
+| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") |
 | Start | ![Plus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/plu.png "Plus") |
 | Select | ![Minus](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/min.png "Minus") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/home.png "Home") |

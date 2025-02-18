@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/midikeyscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
@@ -52,7 +52,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Cha
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🎹 **Deja tu “Emulated MIDI type”** (Tipo de MIDI emulado) **en “Keyboard”** (teclado) **y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él.**
 
-### Mapeo:
+### Mapeo
 
 Teclados MIDI tienen mapeo fijo y no puede ser cambiado dentro de RPCS3. Como no tienen botones de PS3,  la primera octava está emulando botones de PS3. Utiliza la siguiente imagen como referencia. Recomendamos poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores. 
 

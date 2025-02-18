@@ -44,11 +44,11 @@ This is so you can change configuration profiles in case you want to play games 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | Unknown | Unknown |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Unknown |
 
 
@@ -72,6 +72,6 @@ This is so you can change configuration profiles in case you want to play games 
 | L2 | | ![Effects Switch](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Effects Switch") | |
 | L2 | ![Solo Buttons](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Solo Buttons") | | |
 | L3 | | ![Solo Buttons](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Solo Buttons") | |
-| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Tilt") | Does not work |
+| R1 | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") | Does not work |
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)

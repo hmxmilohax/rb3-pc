@@ -12,19 +12,19 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/riffmastercontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * **¡Esto es specificamente para la Riffmaster con** [**[Adafruit Feather RP2040 con puerto de USB tipo A de entrada]**](https://www.adafruit.com/product/5723)**!** Verifica que si compraste una [[Adafruit Feather RP2040 **con puerto de USB tipo A de entrada**]](https://www.adafruit.com/product/5723).
 * Puedes conectar una la Riffmaster de Xbox pero mejor deberías usar [[RB4InstrumentMapper]](https://carlmylo.github.io/rb3-pc/ctrls_rb4gtr_xbox_es).
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | Joystick |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Configuración:
@@ -62,15 +62,15 @@ After loading the preset, **MAKE SURE YOU CLICK ON "`Save Settings`" before clos
 
 ![Una captura de Santroller, con el cursor sobre Guardar Ajustes.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/feather/sansavees.png "Santroller")
 
-## Mapeo:
+## Mapeo
 
 Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| Botón R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png "Ladeo") | 
+| R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") | 
 | L2 | ![Palanca derecha presionada](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Botón de solos") | 
-| Palanca izquierda: <br> Abajo | ![Gatillo Izquierdo](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | ![Switch de efectos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Switch de efectos") |
+| Left Stick: <br> Abajo | ![Gatillo Izquierdo](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | ![Switch de efectos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Switch de efectos") |
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -91,19 +91,19 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 </thead>
 <tbody>
 <tr>
-<td align="center">Cross (Cruz)</td>
+<td align="center">Cross</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
-<td align="center">Circle (Circulo)</td>
+<td align="center">Circle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
-<td align="center">Square (Cuadro)</td>
+<td align="center">Square</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
-<td align="center">Triangle (Triangulo)</td>
+<td align="center">Triangle</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
@@ -111,27 +111,27 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Arriba</td>
+<td align="center">D-Pad: Up</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Abajo</td>
+<td align="center">D-Pad: Down</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Izquierda</td>
+<td align="center">D-Pad: Left</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
 </tr>
 <tr>
-<td align="center">D-Pad (Cruceta): Derecha</td>
+<td align="center">D-Pad: Right</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
 </tr>
 <tr>
-<td align="center">Palanca Derecha: <br> Izq./Der.</td>
+<td align="center">Right Stick: <br> Left/Right</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
-<td align="center">Palanca Derecha: <br> Arriba <em>o</em> abajo</td>
+<td align="center">Right Stick: <br> Up/Down</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
 </tr>
 <tr>
@@ -139,8 +139,8 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
-<td align="center">Botón R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.png" alt="Ladeo" title="Ladeo"></td>
+<td align="center">R1</td>
+<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
@@ -151,7 +151,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/back.png" alt="Botón - (Menos)" title="Back"></td>
 </tr>
 <tr>
-<td align="center">Botón PS</td>
+<td align="center">PS Button</td>
 <td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
@@ -181,7 +181,7 @@ Después de eso, va a la sección de "`Entradas de Host por USB`" y Habilita `D-
 
 ## Perfil:
 
-[[Bajar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
+[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Feather%20Riffmaster.7z)
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
