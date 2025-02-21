@@ -30,7 +30,7 @@ weight: 3
 		* "`Nearest`" is completely unfiltered and gives you a raw unmodified image. This can cause the game to look pixelated.
 		* "`Bilinear`" uses smoothing to scale the image up. This may cause the game to look blurry.
 		* "`FidelityFX Super Resolution`" (FSR) uses complicated math to sharpen and enhance the image when it gets blown up to your monitor's resolution. This can create odd artifacts in some instances.
-			* You can use "RCAS Sharpening Strength" below to adjust the strength of its effect.
+			* You can use "`RCAS Sharpening Strength`" below to adjust the strength of its effect.
 
 <br/>
 
