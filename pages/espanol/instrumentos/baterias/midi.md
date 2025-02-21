@@ -47,11 +47,11 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Cha
 
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-Entra la pestaña de I/O.  
+Entra la pestaña de "`I/O`".  
 
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/rb3-pc/images/cust/iod.png "I/O")
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Un cuadrado bronceado.") : 
-	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
+	* 🥁 **Cambia el "`Emulated MIDI type`"** (Tipo de MIDI emulado) **de "`Keyboard`"** (teclado) **a "`Drums`"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
 ## Mapeo
 Mapeo Predeterminado:

@@ -42,13 +42,15 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 
 Find whichever way is the most convenient for you then connect your MIDI Drum Kit to your computer.
 
-After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+After that, **right click on Rock Band 3** in RPCS3, then click on “**`Change Custom Configuration`**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
+After that, go to the "`I/O`" tab.
+
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/iod.png "I/O")
 * ![A tan square with a solid outline](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Tan Square") : 
-	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+	* 🥁 **Change your "`Emulated MIDI type`" from "`Keyboard`" to "`Drums`", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 ## Mapping
 Default Mapping:

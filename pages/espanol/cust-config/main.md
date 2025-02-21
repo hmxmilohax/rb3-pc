@@ -180,15 +180,26 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
 <!-- Network Start -->
-![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando "Network Status (Connected)" resaltado en un cuadro verde con una línea discontinua, "IP/Hosts switches" (rb3ps3live.hmxservices.com=45.33.44.103), "PSN Status" (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](https://carlmylo.github.io/rb3-pc/images/cust/network.png "Network")
-
-* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
-    * **Cambia "`Network Status`"** (estado de red) **a "`Connected`"** (conectado) **como en la imagen. Si la dejas en "`Disconnected`"** (desconectado), **el juego se congelara mientras navegas por la biblioteca de canciones.**
-
-* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
-    * Activa **"`Enable UPNP`"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
-    * Para jugar Rock Band 3 en linea, agrega la direccion IP de Rock Band Enhanced.
-        * Cambia "`IP/Hosts switches`" a `rb3ps3live.hmxservices.com=45.33.44.103`
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/network.png" alt="Una captura de la configuración personalizada de Red de Rock Band 3, mostrando &quot;Network Status (Connected)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;IP/Hosts switches&quot; (rb3ps3live.hmxservices.com=45.33.44.103), &quot;PSN Status&quot; (RPCN) y &quot;Enable UPNP&quot; (no marcado) resaltado en azul claro." title="Network"></p>
+<ul>
+<li>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
+<ul>
+<li><strong>Cambia “<code>Network Status</code>”</strong> (estado de red) <strong>a “<code>Connected</code>”</strong> (conectado) <strong>como en la imagen. Si la dejas en “<code>Disconnected</code>”</strong> (desconectado), <strong>el juego se congelara mientras navegas por la biblioteca de canciones.</strong></li>
+</ul>
+</li>
+<li>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugar en linea</strong>:</p>
+<ul>
+<li>Activa <strong>“<code>Enable UPNP</code>”</strong> (activar UPnP) o <strong>reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto</strong> porque esto puede causar crasheos.</li>
+<li>Para jugar Rock Band 3 en linea, agrega la direccion IP de Rock Band Enhanced.
+<ul>
+<li>Cambia “<code>IP/Hosts switches</code>” a <code>rb3ps3live.hmxservices.com=45.33.44.103</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <!-- Network End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="advanced">

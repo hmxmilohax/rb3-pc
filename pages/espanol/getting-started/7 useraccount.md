@@ -4,10 +4,15 @@ sidebar: espanol_sidebar
 permalink: gs_user_es
 folder: espanol
 tags: [empezando, espanol]
-summary: "Como configurar una cuenta de usuario en RPCS3."
+summary: "Como renombrar el usuario en RPCS3."
 series: "Empezando"
-weight: 5
+weight: 7
 ---
+
+Por defecto, el nombre del usuario en RPCS3 es "`User`" si estas jugando sin conexión al Internet.  
+![Una captura de Rock Band 3, con el nombre del usuario siendo "User."](https://carlmylo.github.io/rb3-pc/images/conf/rb3useres.png "Rock Band 3: User")
+
+¡Cambiando esto es muy fácil!
 
 En RPCS3, ve a **Manage > User Accounts** (Administrar > Cuentas de usuario)  
 ![RPCS3 mostrando "User Accounts" abajo del menú de "Manage".](https://carlmylo.github.io/rb3-pc/images/conf/rpcs3user.png "RPCS3: User Accounts")

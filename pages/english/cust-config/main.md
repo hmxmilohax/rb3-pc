@@ -113,7 +113,7 @@ To make things easier, all configuration tweaks have been color coded.
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
 <!-- Audio Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, &quot;Audio Buffer Duration&quot; and &quot;Audio Out&quot; highlighted in blue with a dotted outline, and &quot;Microphone Settings&quot;, &quot;Microphone Type&quot; (&quot;Standard&quot;), &quot;Mic1&quot;, &quot;Mic2&quot;, &quot;Mic3&quot;, and &quot;Mic4&quot; highlighted in tan with a solid outline." title="Audio"></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="A screenshot of Rock Band 3's Audio custom settings, highlighting &quot;Audio Buffer Duration&quot; and &quot;Audio Out&quot; highlighted in blue with a dotted outline, and &quot;Microphone Settings&quot;, &quot;Microphone Type&quot; (&quot;Standard&quot;), &quot;Mic1&quot;, &quot;Mic2&quot;, &quot;Mic3&quot;, and &quot;Mic4&quot; in tan with a solid outline." title="Audio"></p>
 <ul>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Blue Square"> <strong>Tweak depending on audio hardware and CPU</strong>:</p>

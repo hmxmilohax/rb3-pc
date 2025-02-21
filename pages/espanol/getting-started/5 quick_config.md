@@ -6,7 +6,7 @@ folder: espanol
 tags: [empezando, espanol]
 summary: "La pagina central para configuraciones rápida de RPCS3."
 series: "Empezando"
-weight: 6
+weight: 5
 toc: false
 ---
 

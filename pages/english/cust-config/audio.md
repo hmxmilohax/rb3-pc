@@ -9,7 +9,7 @@ series: "Custom Configuration"
 weight: 4
 ---
 
-![A screenshot of Rock Band 3's Audio custom settings, highlighting Enable Buffering in green with a dashed outline, "Audio Buffer Duration" and "Audio Out" highlighted in blue with a dotted outline, and "Microphone Settings", "Microphone Type" ("Standard"), "Mic1", "Mic2", "Mic3", and "Mic4" highlighted in tan with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/audio.png "Audio")
+![A screenshot of Rock Band 3's Audio custom settings, highlighting "Audio Buffer Duration" and "Audio Out" highlighted in blue with a dotted outline, and "Microphone Settings", "Microphone Type" ("Standard"), "Mic1", "Mic2", "Mic3", and "Mic4" in tan with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/audio.png "Audio")
 
 * ![A blue square with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Blue Square") **Tweak depending on audio hardware and CPU**: 
 	* **Adjust "`Audio Buffer Duration`"** depending on system.

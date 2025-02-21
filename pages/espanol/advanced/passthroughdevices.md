@@ -53,7 +53,7 @@ Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como un teclado de PC o un mando estándar.</b> {{include.content}}</div>
 
-[[Haz click para instrucciones para configurar un mando o teclado.]](https://carlmylo.github.io/rb3-pc/ctrls_es#mandos)
+[[Haz click para instrucciones para configurar un mando o teclado.]](https://carlmylo.github.io/rb3-pc/ctrls_es#mandos){:target="_blank"}
 
 ## Desinstalando
 

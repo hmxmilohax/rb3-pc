@@ -2,12 +2,17 @@
 title: User Account
 sidebar: english_sidebar
 tags: [getting-started, english]
-summary: "How to set up a proper user account for RPCS3."
+summary: "How to rename your user account on RPCS3."
 permalink: gs_user
 folder: english
 series: "Getting Started"
-weight: 6
+weight: 7
 ---
+
+By default, RPCS3's default username is "`User`" when you're playing offline.  
+![Rock Band 3's menu, showing the username set to the default "User."](https://carlmylo.github.io/rb3-pc/images/conf/rb3user.png "Rock Band 3: User")
+
+Changing it is very easy!
 
 In RPCS3, go to **Manage > User Accounts** 
 ![RPCS3 showing "User Accounts" option under the "Manage" menu.](https://carlmylo.github.io/rb3-pc/images/conf/rpcs3user.png "RPCS3: User Accounts")

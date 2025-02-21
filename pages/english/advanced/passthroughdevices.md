@@ -51,9 +51,9 @@ Turn your controller on and you should see it automatically assign a player numb
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
 ![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](https://carlmylo.github.io/rb3-pc/images/pass/rb3player.png "Rock Band 3: Pro Guitar ready to join")
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.</b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a [[typing keyboard or a gamepad.]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"} </b> {{include.content}}</div>
 
-[[Click here for instructions on how to set one up.]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads)
+[[Click here for instructions on how to set one up.]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}
 
 ## Uninstalling
 Applying a Zadig driver on a device will make it only work on applications with passthrough. Thankfully, reverting this is very easy.  
