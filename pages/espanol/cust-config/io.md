@@ -21,7 +21,7 @@ weight: 5
 	* 🎹 **[[Jugadores de teclado]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}: Deja el "`Emulated MIDI type`" (Tipo de MIDI emulado) en "`Keyboard`" (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él**.
 	* 🎸 **[[Jugadores de Guitarra Pro]]((https://carlmylo.github.io/rb3-pc/ctrls_protar_midi){:target="_blank"}): Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Guitar (17 Frets)`"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o "`Guitar (22 Frets)`"** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él**.
 	* 🥁 **[[Jugadores con Baterías MIDI]](https://carlmylo.github.io/rb3-pc/ctrls_drums_midi){:target="_blank"}: Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Drums`" (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
-	* Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es).
+	* Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es){:target="_blank"}.
 
 <br/>
 

@@ -30,7 +30,7 @@ weight: 3
 		* "`Nearest`" (aproximación) es la interpolación mas cruda. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en pixelización.
 		* "`Bilinear`" (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.
 		* "`FidelityFX Super Resolution`" (FSR) usa un algoritmo complejo para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
-			* Puedes usar "RCAS Sharpening Strength" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.
+			* Puedes usar "`RCAS Sharpening Strength`" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.
 
 <br/>
 

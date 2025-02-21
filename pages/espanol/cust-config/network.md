@@ -17,7 +17,7 @@ weight: 7
 * ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
 	* Activa **"`Enable UPNP`"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
 	* Para jugar Rock Band 3 en linea, agrega la direccion IP de Rock Band Enhanced.
-		* Cambia "`IP/Hosts switches`" a `rb3ps3live.hmxservices.com=45.33.44.103`.  
+		* Cambia "`IP/Hosts switches`" a `rb3ps3live.hmxservices.com=45.33.44.103`
 
 <br/>
 

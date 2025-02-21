@@ -17,7 +17,7 @@ weight: 6
 * ![A tan square with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Tan Square") **For online multiplayer**: 
 	* You can tick **"`Enable UPNP`"** or **forward port 9103 (UDP) in your firewall**.
 	* To play Rock Band 3 online, add Rock Band Enhanced's Server IP.
-		* Set "`IP/Hosts switches`" to `rb3ps3live.hmxservices.com=45.33.44.103`.  
+		* Set "`IP/Hosts switches`" to `rb3ps3live.hmxservices.com=45.33.44.103`
 
 <br/>
 

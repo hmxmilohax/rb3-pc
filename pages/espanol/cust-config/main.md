@@ -16,20 +16,21 @@ Aunque la configuración rápida es buena para la mayoría de las personas, algu
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="changecustomconfig">
-<p>Si quieres cambiar una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong>Change Custom Configuration</strong>” (Cambiar Configuración Personalizada)<br>
+<p>Si quieres cambiar una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong><code>Change Custom Configuration</code></strong>” (Cambiar Configuración Personalizada)<br>
 <img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Change Custom Configuration&quot; (Cambiar configuración personalizada) resaltado" title="Change Custom Configuration"></p></div>
 <div role="tabpanel" class="tab-pane" id="createcustomconfig">
-<p>Si no tienes una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong>Create Custom Configuration From Default Settings</strong>” (Crear configuración personalizada basada en la configuración por defecto)<br>
+<p>Si no tienes una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong><code>Create Custom Configuration From Default Settings</code></strong>” (Crear configuración personalizada basada en la configuración por defecto)<br>
 <img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfig.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Create Custom Configuration From Default Settings&quot; resaltado" title="Create Custom Configuration From Default Settings"></p></div>
 </div>
 
-**¡Recuerda de hacer click en "Apply"** (Aplicar) **y luego "Save custom configuration"** (Guardar configuración personalizada) **después de hacer ajustes!**
+**¡Recuerda de hacer click en "`Apply`"** (Aplicar) **y luego "`Save custom configuration`"** (Guardar configuración personalizada) **después de hacer ajustes!**
 Toma en cuenta que vas a necesitar reiniciar el juego para aplicar mayoría de estos ajustes.  
 ![Una captura de la configuración personalizada de Rock Band 3 dentro de RPCS3 con el ratón sobre "Save custom configuration".](https://carlmylo.github.io/rb3-pc/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Guía de Colores
 
-Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he coloreado las cosas que vas a ajustar. Todo lo que no esté coloreado debe estar en las opciones predeterminadas.
+Para hacer todo mas facil, todos los ajustes han sido colorados.
+**Todo lo que no esté coloreado debe estar en las opciones predeterminadas.**
 
 | COLOR | SIGNIFICADO |
 |---|---|
@@ -53,49 +54,55 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="cpu">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/cpu.png" alt="Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU XFloat Accuracy, Thread Scheduler, SPU Block Size, y Preferred SPU Threads resaltados en cuadros azules con contornos punteados." title="CPU"></p>
+<!-- CPU Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/cpu.png" alt="Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU Block Size, Thread Scheduler y Preferred SPU Threads resaltados en cuadros azules con contornos punteados." title="CPU"></p>
 <ul>
 <li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Rendimiento mejorado, dependiendo en tu sistema</strong>:
 <ul>
-<li><strong>Cambia el "SPU Block Size"</strong> (Tamaño de bloques del SPU) <strong>a "Mega""</strong> - Para juntar hilos de SPU a ser más pequeños, requiriendo menos núcleos/hilos. También tardara menos tiempo para iniciar el juego, dependiendo en tu sistema.</li>
-<li><strong>Cambia el "Preferred SPU Threads"</strong> (Hilos preferidos del SPU) <strong>a “1”, “2”, “3” o “4”</strong> - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. <strong>Empieza con 4 y bájalo si no mejora</strong>.</li>
-<li><strong>Cambia "Thread Scheduler"</strong> (Programador de hilos) <strong>a “RPCS3 Scheduler”</strong> (RPCS3 Scheduler) <strong>o “RPCS3 Alternative Scheduler”</strong>(Programador alternativo RPCS3) - <strong>¡SOLO PARA CPUs CON MÁS DE 12 HILOS!</strong> Puede ayudar con la distribución de procesos para ayudar con rendimiento.</li>
+<li><strong>Cambia el “<code>SPU Block Size</code>”</strong> (Tamaño de bloques del SPU) <strong>a “<code>Mega</code>”</strong> - Junta hilos de SPU para ser más pequeños, requiriendo menos núcleos/hilos. También tardara menos tiempo para iniciar el juego, dependiendo en tu sistema.</li>
+<li><strong>Cambia el “<code>Preferred SPU Threads</code>”</strong> (Hilos preferidos del SPU) <strong>a “<code>1</code>”, “<code>2</code>”, “<code>3</code>”, or “<code>4</code>”</strong> - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. <strong>Empieza con “<code>4</code>” y bájalo si no mejora</strong>.</li>
+</ul>
+<ul>
+<li><strong>Cambia “<code>Thread Scheduler</code>” (Programador de hilos) a “<code>RPCS3 Scheduler</code>”</strong> (Programador RPCS3) <strong>o “<code>RPCS3 Alternative Scheduler</code>”</strong> (Programador alternativo RPCS3). - <strong>¡SOLO PARA CPUs CON MÁS DE 12 HILOS!</strong> Esto puede ayudar con la distribución de procesos para ayudar con rendimiento.</li>
 </ul>
 </li>
 </ul>
+<!-- CPU End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="gpu">
-    <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/gpu.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando Write Color Settings en un cuadro verde con una línea discontinua, ZCULL Accuracy, Resolution Scale, Anisotropic Filtering, Anti-Alising, Framelimit, Output Scaling y VSync resaltados en un cuadro azul con contorno punteado." title="GPU"></p>
+<!-- GPU Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/gpu.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando &quot;Write Color Buffers&quot; en un cuadro verde con una línea discontinua, &quot;Framelimit&quot;, &quot;Anisotropic Filter&quot;, &quot;ZCull Accuracy&quot;, &quot;Output Scaling&quot; y &quot;VSync&quot; resaltados en un cuadro azul con contorno punteado." title="GPU"></p>
 <ul>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
-<li><strong>Activa "Write Color Buffers</strong> (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción.</li>
+<li><strong>Activa “<code>Write Color Buffers</code>”</strong> (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción</li>
 </ul>
 </li>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Activa "VSync"</strong> (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia pero casi no se puede sentir. <strong>¡No uses esto con "Frame Limit" activado!</strong></li>
-<li><strong>Cambia "Frame Limit"</strong>(Limite de fotogramas):
+<li><strong>Activa “<code>VSync</code>”</strong> (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. <strong>No uses esto con “Frame Limit” activado!</strong></li>
+<li><strong>Cambia “<code>Framelimit</code>”</strong> (Limite de fotogramas):
 <ul>
-<li>A "Off" (Desactivado) si quieres tener fotogramas sobre 60. Esto puede introducir agitación en el rendimiento del juego. Usa esta opción si tienes VSync activada.</li>
-<li>"Display" va usar la frecuencia de actualización de tu pantalla.</li>
-<li>Aumentando las fotogramas sobre 60 utiliza muchos más recursos. No es recomendado para sistemas de gama baja.</li>
-<li>Fotogramas sobre 60 pueden causar problemas con la detección de vocales.</li>
-<li>Recomendamos que cambies "Framelimit" a "Off" y actives Vsync en esta pestaña y luego desactives VSync dentro del menú de Rock Band 3 Deluxe <br> <code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos &gt; VSync</code></li>
+<li>Déjalo en “<code>Auto</code>” para que RPCS3 seleccioné la tasa de fotogramas.</li>
+<li>“<code>Off</code>” (Desactivado) es recomendado si estas usando “<code>VSync</code>” o estas usando un limitador de fotogramas externo.</li>
+<li>“<code>120</code>” es recomendado si estas usando un monitor de 144Hz (o mas.)</li>
+<li><strong>¡NO ELIJAS fotogramas bajo de “<code>60</code>”!</strong></li>
+<li>Aumentando las fotogramas sobre “<code>60</code>” utiliza más recursos. No es recomendado para sistemas de gama baja.</li>
+<li>Esta sugerido que desactives “VSync” dentro de Rock Band 3 Deluxe: <code>Menú &gt; Opciones &gt; Configuración Deluxe &gt; Gráficos &gt; VSync</code></li>
 </ul>
 </li>
-<li><strong>Cambia "ZCULL Accuracy"</strong> (Precisión de ZCull) <strong>a "Relaxed"</strong> (Relajada) - Mejora el rendimiento un poco pero puede causar anomalías gráficas.</li>
-<li><strong>Ajusta "Anisotropic Filter"</strong> (filtro anisotrópico) a tu gusto y a lo que puede tu computadora. Ayuda con texturas. No debe de afectar el rendimiento tanto.</li>
-<li><strong>Ajusta "Resolution Scale"</strong> (Nivel de resolución) a tu gusto y a lo que puede tu computadora. Auméntala para obtener gráficos más nítidos.</li>
-<li><strong>Cambia "Output Scaling"</strong> (Algoritmo de resolución) a tu gusto y a lo que puede tu computadora. Esto afecta cómo se va "estirar" la imagen para llegar a la resolución de tu pantalla usando diferentes métodos de interpolación. Puede ayudar a los que tienen su nivel de resolución (mencionado arriba) en 100%.
+<li><strong>Cambia “<code>ZCULL Accuracy</code>”</strong> (Precisión de ZCull) a “<code>Relaxed</code>” (Relajada) - Mejora el rendimiento pero causa que objetos se vean raros en ángulos de cámara distantes.</li>
+<li><strong>Ajusta “<code>Anisotropic Filter</code>”</strong> (Filtro anisotrópico) para que las texturas se miren mas nítidas. No debe de afectar el rendimiento tanto.</li>
+<li><strong>Ajusta “<code>Resolution Scale</code>”</strong> (Nivel de resolución) a tu gusto y a lo que puede tu computadora. Auméntala para obtener gráficos más nítidos. El juego usara esta resolución. Resoluciones bajo de 100% no ayudan con rendimiento.</li>
+<li><strong>Cambia “<code>Output Scaling</code>”</strong> a tu gusto y a lo que puede tu computadora. Esto afecta cómo se va “estirar” la imagen para llegar a la resolución de tu pantalla usando diferentes métodos de interpolación. Puede ayudar a los que tienen su nivel de resolución (mencionado arriba) en 100%.
 <ul>
-<li>"Nearest" (aproximación) es la interpolación mas cruda. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en pixelización.</li>
-<li>Bilinear (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.</li>
-<li>FidelityFX Super Resolution (FSR) usa calculaciones complejas para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
+<li>“<code>Nearest</code>” (aproximación) es la interpolación mas cruda. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en pixelización.</li>
+<li>“<code>Bilinear</code>” (bilineal) es interpolación mas suave. Si la resolución del juego no es exacta a la de tu pantalla, puede resultar en una imagen borrosa.</li>
+<li>“<code>FidelityFX Super Resolution</code>” (FSR) usa un algoritmo complejo para mejorar la imagen cuando se estira a la resolución de tu pantalla. Raramente, puede causar anormalidades en la imagen.
 <ul>
-<li>Puedes usar "RCAS Sharpening Strength" (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.</li>
+<li>Puedes usar “<code>RCAS Sharpening Strength</code>” (fuerza de enfoque) abajo para ajustar cuanta fuerza tiene el efecto.</li>
 </ul>
 </li>
 </ul>
@@ -103,125 +110,131 @@ Esto puede parecer demasiado difícil por la gran cantidad de opciones, pero he 
 </ul>
 </li>
 </ul>
+<!-- GPU End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra Audio Out y Audio Buffer Duration resaltados en cuadros azules con contornos punteados, y Microphone Settings, Microphone Type: Standard, Mic1, Mic2, Mic3 y Mic4 resaltados en un cuadro bronceado con contorno solido" title="Audio"></p>
+<!-- Audio Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra &quot;Audio Out&quot; y &quot;Audio Buffer Duration&quot; resaltados en cuadros azules con contornos punteados, y &quot;Microphone Settings&quot;, &quot;Microphone Type&quot; (&quot;Standard&quot;), &quot;Mic1&quot;, &quot;Mic2&quot;, &quot;Mic3&quot; y &quot;Mic4&quot; resaltados en un cuadro bronceado con contorno solido." title="Audio"></p>
 <ul>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Ajusta el "Audio Buffer Duration"</strong> (duración de búferes de audio) dependiendo de tu sistema. Es mejor bajarlo lo mas posible.
+<li>Ajusta el “Audio Buffer Duration” (duración de búferes de audio) depende de tu sistema.
 <ul>
+<li>Bájale lo mas que puedas antes de que empiezas a escuchar errores con el sonido. Empieza con <code>32 ms</code> y ajusta de ahí.</li>
 <li>Valores bajos resultan en menos latencia pero más consumo de CPU.</li>
 <li>Valores altos resultan en más latencia pero menos consumo de CPU.</li>
 <li>Vocalistas son los más afectados por esto porque latencia alta crea un eco. Los jugadores de instrumentos pueden usar la calibración para compensar.</li>
 <li>Esto se puede cambiar mientras el juego esta abierto pero <strong>requiere recalibración</strong> en los ajustes del sistema de Rock Band 3.</li>
 </ul>
 </li>
-<li><strong>Cambia "Audio Out"</strong> (Salida de audio) <strong>a “XAudio2”</strong> - En ocasiones raras, puede ayudar. <strong>Mayoría de las personas deben de quedarse en Cubeb</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido</li>
+<li><strong>Cambia “<code>Audio Out</code>”</strong> (Salida de audio) a <strong>“<code>XAudio2</code>”</strong> - En ocasiones raras, puede ayudar. <strong>Mayoría de las personas deben de quedarse en “<code>Cubeb</code>”</strong>. Prueba si hace una diferencia porque cambiando a XAudio2 puede causar problemas con el sonido.</li>
 </ul>
 </li>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
 <ul>
-<li><strong>Cambia "Microphone type"</strong> (tipo de micrófono) <strong>a "Standard" o "Rocksmith"</strong>.</li>
-<li>Selecciona tu micrófonos en "Mic1", "Mic2" y "Mic3" para las voces. Si no estas jugando vocales, Mic 1 se usara para el chat de voz.</li>
-<li>Otra vez, tener fotogramas sobre 60 puede causar problemas con la detección de vocales y con la conexión para jugar en linea.</li>
+<li><strong>Cambia “<code>Microphone type</code>”</strong> (tipo de micrófono) <strong>a “<code>Standard</code>” o “<code>Rocksmith</code>”</strong>.</li>
+<li>Selecciona tu micrófonos en “<code>Mic1</code>”, “<code>Mic2</code>” y “<code>Mic3</code>” para las voces. Si no estas jugando vocales, “<code>Mic1</code>” se usara para el chat de voz.</li>
 </ul>
 </li>
 </ul>
+<!-- Audio End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="io">
-<p><strong>Esta sección es para los que están usando teclados USB/MIDI, Guitarras Pro o Baterías MIDI.</strong></p>
+<!-- IO Start -->
+<p><strong>Asegúrate que tu instrumento de MIDI este conectado.</strong><br>
+<strong>Haz la ventana mas grande si no puedes leer las opciones.</strong></p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando &quot;Emulated MIDI Devices&quot;, &quot;device type&quot; y &quot;device selection&quot; resaltados en cuadros bronceados con contornos solidos, y &quot;Pad Handler Mode&quot; y &quot;Keep Pads Connected&quot; en un cuadro azul con contorno punteado." title="I/O"></p>
 <ul>
-<li><strong>Si no estas usando un teclado USB/MIDI, Guitarra Pro o Batería MIDI, puedes brincar de esta sección.</strong></li>
-<li><strong>Si estas usando un Teclado o Guitarra Pro (Mustang) de PlayStation 3 con sus receptores propios,</strong> mira la <a href="https://carlmylo.github.io/rb3-pc/adv_passthrough_es" target="_blank"><strong>[[pagina de conexiones directas]]</strong></a>. </li>
+<li>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Ajuste dependiendo de tu PC</strong>:</p>
+<ul>
+<li><strong>Cambia “<code>Pad Handler Mode</code>”</strong> (Modo de manejar controladores) <strong>a “<code>Multi-threaded</code>”</strong> si tienes una CPU con mas de 12 hilos/núcleos.</li>
 </ul>
-<p><strong>Asegúrate que tu instrumento MIDI este conectado.</strong> Luego, puedes enfocarte en la <strong>pestaña de I/O en RPCS3.</strong><br>
-<strong>Si no puedes leer unas opciones, haz la pantalla mas grande.</strong><br>
-<img src="https://carlmylo.github.io/rb3-pc/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando Emulated MIDI Devices, tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos solidos, y Pad Handler Mode en un cuadro azul con contorno punteado." title="I/O"></p>
+</li>
+<li>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadrado bronceado." title="Cuadrado bronceado">: <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:</p>
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:
-<ul>
-<li>🎹 <strong>Jugadores de teclado: Deja tu "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>en "Keyboard"</strong> (teclado) <strong>y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
-<li>🎸 <strong>Jugadores de Guitarra Pro: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a “Guitar (17 Frets)”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Mustang, o "Guitar (22 Frets)"</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
-<li>🥁 <strong>Jugadores con Baterías MIDI: Cambia el "Emulated MIDI type"</strong> (Tipo de MIDI emulado) <strong>de "Keyboard"</strong> (teclado) <strong>a Drums”</strong> (Bateria), <strong>y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🎹 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es" target="_blank">[Jugadores de teclado]</a>: Deja el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) en “<code>Keyboard</code>” (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🎸 <strong><a href="(https://carlmylo.github.io/rb3-pc/ctrls_protar_midi)%7B:target=%22_blank%22%7D" target="_blank">[Jugadores de Guitarra Pro]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Guitar (17 Frets)</code>”</strong> (guitarra (17 trastes)) <strong>si tienes una guitarra Pro Mustang, o “<code>Guitar (22 Frets)</code>”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
+<li>🥁 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_drums_midi" target="_blank">[Jugadores con Baterías MIDI]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Drums</code>” (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/rb3-pc/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</li>
 </ul>
 </li>
 </ul>
-<p>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/rb3-pc/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</p>
+<!-- IO End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="system">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando Console Language y Keyboard Type resaltados en cafe con una linea blanca solida" title="System"></p>
+<!-- System Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando &quot;Console Language&quot; y &quot;Keyboard Type&quot; resaltados en cafe con una linea blanca solida." title="System"></p>
 <ul>
 <li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para cambiar el lenguaje del juego</strong>:
 <ul>
-<li><strong>Cambia "Console Language"</strong> (Idioma del Sistema) <strong>a Spanish</strong> (Español) - Cambia el idioma de Rock Band 3 a Español</li>
-<li><strong>Cambia "Keyboard Type"</strong> (Tipo de teclado) <strong>a "Spanish Keyboard"</strong> (Teclado Español) - Cambia el teclado virtual a Español.</li>
+<li>Cambia <strong><code>Console Language</code></strong> (Idioma del Sistema) a <strong>“<code>Spanish</code>”</strong> (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.</li>
+<li>Cambia <strong><code>Keyboard Type</code></strong> (Tipo de teclado) a <strong>“<code>Spanish Keyboard</code>”</strong> (Teclado Español) para cambiar el teclado virtual de Ingles a Español.</li>
 </ul>
 </li>
 </ul>
+<!-- System End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/network.png" alt="Una captura de la configuración personalizada de Red de Rock Band 3, mostrando el estado de la red (Conectado) resaltado en un cuadro verde con una línea discontinua, IP/Hosts switches (rb3ps3live.hmxservices.com=45.33.44.103), el estado de PSN (RPCN) y Enable UPNP (no marcado) resaltado en azul claro." title="Network"></p>
-<ul>
-<li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
-<ul>
-<li><strong>Cambia Network Status</strong> (estado de red) <strong>a "Connected"</strong> (conectado) <strong>como en la imagen. Si no haces esto, el juego se congelara mientras navegas la biblioteca de canciones.</strong></li>
-</ul>
-</li>
-<li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugar en linea</strong>:</p>
-<ul>
-<li>Activa <strong>“Enable UPNP”</strong> (activar UPnP) <strong>o reenvía el puerto 9103 (UDP) en tu cortafuegos</strong> No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.</li>
-<li>Agrega la direccion IP de Rock Band Enhanced.
-<ul>
-<li>Cambia "IP/Hosts switches" a <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+<!-- Network Start -->
+![Una captura de la configuración personalizada de Red de Rock Band 3, mostrando "Network Status (Connected)" resaltado en un cuadro verde con una línea discontinua, "IP/Hosts switches" (rb3ps3live.hmxservices.com=45.33.44.103), "PSN Status" (RPCN) y "Enable UPNP" (no marcado) resaltado en azul claro.](https://carlmylo.github.io/rb3-pc/images/cust/network.png "Network")
+
+* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
+    * **Cambia "`Network Status`"** (estado de red) **a "`Connected`"** (conectado) **como en la imagen. Si la dejas en "`Disconnected`"** (desconectado), **el juego se congelara mientras navegas por la biblioteca de canciones.**
+
+* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Para jugar en linea**: 
+    * Activa **"`Enable UPNP`"** (activar UPnP) o **reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto** porque esto puede causar crasheos.
+    * Para jugar Rock Band 3 en linea, agrega la direccion IP de Rock Band Enhanced.
+        * Cambia "`IP/Hosts switches`" a `rb3ps3live.hmxservices.com=45.33.44.103`
+<!-- Network End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="advanced">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/advanced.png" alt="Una captura de la configuración personalizada avanzada, con Driver Wake-Up Delay (1µ) resaltado en un cuadro verde con una línea discontinua, Exclusive Fullscreen Mode, VBlank Frequency y Maximum Number of SPURS Threads resaltados en cuadros azules con contornos punteados, y Debug Console Mode resaltado en un cuadro bronceado con un contorno solido" title="Advanced"></p>
+<!-- Advanced Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/advanced.png" alt="Una captura de la configuración personalizada avanzada, con &quot;Driver Wake-Up Delay (20µ)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;Exclusive Fullscreen Mode&quot; y &quot;Maximum Number of SPURS Threads&quot; resaltados en cuadros azules con contornos punteados, y &quot;Debug Console Mode&quot; resaltado en un cuadro bronceado con un contorno solido." title="Advanced"></p>
 <ul>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
-<li><strong>Cambia el "Driver Wake-up Delay"</strong> (Retraso de activacion de controlador) <strong>a "20µ" si tu juego se congela luego de algunas canciones. Subelo a "40µ" si sigue pasando.</strong> Si todavía sigue pasando (muy raro),  subele en incrementos de 20 cada vez.</li>
+<li><strong>Cambia el “<code>Driver Wake-up Delay</code>”</strong> (Retraso de activación de controlador) <strong>a “20µ” si tu juego se congela luego de algunas canciones. Subelo a “40µ” si sigue pasando.</strong> Si todavía sigue pasando (muy raro),  auméntalo en incrementos de 20µ.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro bronceado"> <strong>Dependiendo en tu PC</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li><strong>Cambia a "Maximum Number of SPURS Threads"</strong> (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[CPUs de Intel i5 de la cuarta generación]</a>.</li>
+<li><strong>Cambia a “<code>Maximum Number of SPURS Threads</code>”</strong> (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[CPUs de Intel i5 de la cuarta generación]</a>.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Recomendado</strong>:</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado">: <strong>Recomendado</strong>:</p>
 <ul>
-<li><strong>Activa "Debug Console Mode"</strong> (Modo de depuración) - Con esto activado al lado de la función "Large Heap" de Rock Band 3 Deluxe, fácilmente puedes darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/rb3-pc/memory_es" target="_blank">[Haz click aquí para mas información.]</a></li>
-<li><strong>Cambia el "Exclusive Fullscreen Mode</strong> (Modo de exclusividad de pantalla llena) <strong>a "Prefer borderless fullscreen"</strong> (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.</li>
+<li><strong>Activa “<code>Debug Console Mode</code>”</strong> (Modo de depuración) - Activa esto y usa el archivo de alta memoria de Deluxe para darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/rb3-pc/memory_es" target="_blank">[Haz click aquí para mas información.]</a></li>
+<li><strong>Cambia el “<code>Exclusive Fullscreen Mode</code>”</strong> (Modo de exclusividad de pantalla llena) <strong>a “<code>Prefer borderless fullscreen</code>”</strong> (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.</li>
 </ul>
 </li>
 </ul>
+<!-- Advanced End -->
 </div>
 <div role="tabpanel" class="tab-pane" id="emulator">
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/emulator.png" alt="Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando Show trophy popups, Show PPU compilation hint, Show Shader Compilation hint, Start Games in fullscreen mode, y Use native user interface. resaltados en cuadros bronceados con contornos solidos" title="Emulator"></p>
+<!-- Emulator Start -->
+<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/emulator.png" alt="Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando &quot;Show trophy popups&quot;, &quot;Show RPCN popups&quot;, &quot;Show shader compilation hint&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show mouse and keyboard toggle hint&quot;, &quot;Start games in fullscreen mode&quot; y &quot;Use native user interface&quot; resaltados en cuadros bronceados con contornos solidos." title="Emulator"></p>
 <p>Puedes dejar esto como quieras, pero consideraría ajustar estas opciones:</p>
 <ul>
 <li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Opcional</strong>:
 <ul>
-<li><strong>"Show trophy popups"</strong> - (Enseñar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3. Personalmente desactivo esto ya que el juego tiene sus propias notificaciones.</li>
-<li><strong>"Show PPU compilation hint"</strong> - (Enseñar notificaciones de PPUs compilándose) - Esto crea una notificación cuando RPCS3 esta compilando unidades del PPU. Esto solo sale si tienes la opción "Recompiler (LLVM)" activada en la pestaña de CPU.</li>
-<li><strong>"Show shader compilation hint"</strong> - (Enseñar notificaciones de shaders compilándose) - Esto crea una notificación cuando RPCS3 esta compilando shaders. Ya sea si lo dejas activado o no ya es cosa tuya, pero debo decirte que esto es importante. Cuando ejecutas juegos de PS3, tiene que compilar shaders para "trasladar" los Gráficas de una PS3 a un formato que tu PC pueda usar. <strong>El juego seguirá trabándose mientras esto pase</strong> . <strong>Esto pasa en TODOS las PC's.</strong> Cuando termine de compilar un efecto <strong> esto usualmente ya no vuelve a pasar otra vez. La mejor forma de lidiar con esto es</strong> simplemente <strong>jugar al juego normalmente</strong> y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.</li>
-<li><strong>"Start games in Fullscreen mode"</strong> (Empezar juego en pantalla llena) - Obviamente solo cambia el modo de pantalla completa cuando inicias Rock Band 3. Personalmente yo activo esto<./li>
-<li><strong>"Use Native Interface"</strong> - (Usar interfaz nativa) - Desactivar esto hará que se remuevan todas las notificaciones de RPCS3 mientras estás jugando, incluyendo el teclado y fondo mientra el juego cargue. En su lugar, verás una interfaz más antigua. Antes ayudaba antes porque RPCS3 se trababa cuando estabas nombrando algo en el juego con un controlador instrumento. Esto ya no es necesario pero la interfaz nativa si causa problemas con rendimiento en ciertas computadores en los momentos raros que sale.</li>
+<li><strong>"<code>Show trophy popups</code>"</strong> (Mostrar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3.</li>
+<li><strong>"<code>Show RPCN popups</code>"</strong> (Notificaciones de RPCN) - Esto muestra notificaciones cuando tu o tus amigos inicien sesión en linea por RPCN.</li>
+<li><strong>"<code>Show shader compilation hint</code>"</strong> (Mostrar notificaciones de shaders compilándose) - Esto muestra una notificación cuando RPCS3 esta compilando shaders. Cuando juegas en RPCS3, tiene que compilar shaders para “trasladar” los Gráficas de una PS3 a un formato que tu PC pueda usar. <strong>El juego seguirá trabándose mientras esto pase</strong> . <strong>Esto pasa en TODOS las PC’s.</strong> Cuando termine de compilar un efecto, <strong>esto usualmente ya no vuelve a pasar otra vez</strong>. <strong>La mejor forma de lidiar con esto es</strong> simplemente <strong>jugar al juego normalmente</strong> y luego se ira rápidamente. También puedes activar el modo de “Autoplay” y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.</li>
+<li><strong>"<code>Show PPU compilation hint</code>"</strong> (Mostrar notificaciones de PPUs compilándose) - Esto muestra una notificación cuando RPCS3 esta compilando unidades del PPU. Esto solo sale al inicio si tu configuración esta correcta.</li>
+<li><strong>"<code>Show mouse and keyboard toggle hint</code>"</strong> (Mostrar notificaciones al cambiar a ratón y teclado) - Esto muestra notificaciones cuando cambias entre usar el teclado para el juego o para escribir en el teclado virtual dentro del juego.</li>
+<li><strong>"<code>Start games in Fullscreen mode</code>"</strong> (Empezar juego en pantalla llena) - Activa esto para que RPCS3 cambie al modo de pantalla completa cuando inicies Rock Band 3.</li>
+<li><strong>"<code>Use Native Interface</code>"</strong> (Usar interfaz nativa) - Si desactivas esto,  hará que se remuevan todas las notificaciones de RPCS3 mientras estás jugando, incluyendo el teclado y fondo mientra el juego cargue. En su lugar, verás una interfaz más antigua. Ayudar si el juego se trababa cuando estés nombrando algo con ciertos instrumentos.</li>
 </ul>
 </li>
 </ul>
+<!-- Emulator End -->
 </div>
 </div>
 

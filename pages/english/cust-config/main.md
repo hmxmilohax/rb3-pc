@@ -156,10 +156,10 @@ To make things easier, all configuration tweaks have been color coded.
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Recommended</strong>:</p>
 <ul>
-<li>🎹 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_keys_midi">[MIDI Keyboard Players]</a>{:target="_blank"}: Leave your “<code>Emulated MIDI type</code>” on “<code>Keyboard</code>” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
-<li>🎸 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_protar_midi">[MIDI Pro Guitar Players]</a>{:target="_blank"}: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Guitar (17 Frets)</code>” if you have a Mustang Pro Guitar, or “<code>Guitar (22 Frets)</code>” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>🥁 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_drums_midi">[MIDI Pro Drums Players]</a>{:target="_blank"}: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Drums</code>”, then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>Revisit the <a href="https://carlmylo.github.io/rb3-pc/ctrls">[Controllers page]</a> if you need help.</li>
+<li>🎹 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_keys_midi" target="_blank">[MIDI Keyboard Players]</a>: Leave your “<code>Emulated MIDI type</code>” on “<code>Keyboard</code>” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
+<li>🎸 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_protar_midi" target="_blank">[MIDI Pro Guitar Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Guitar (17 Frets)</code>” if you have a Mustang Pro Guitar, or “<code>Guitar (22 Frets)</code>” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>🥁 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_drums_midi" target="_blank">[MIDI Pro Drums Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Drums</code>”, then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>Revisit the <a href="https://carlmylo.github.io/rb3-pc/ctrls" target="_blank">[Controllers page]</a> if you need help.</li>
 </ul>
 </li>
 </ul>
@@ -181,7 +181,7 @@ To make things easier, all configuration tweaks have been color coded.
 <li>You can tick <strong>“<code>Enable UPNP</code>”</strong> or <strong>forward port 9103 (UDP) in your firewall</strong>.</li>
 <li>To play Rock Band 3 online, add Rock Band Enhanced’s Server IP.
 <ul>
-<li>Set “<code>IP/Hosts switches</code>” to <code>rb3ps3live.hmxservices.com=45.33.44.103</code>.</li>
+<li>Set “<code>IP/Hosts switches</code>” to <code>rb3ps3live.hmxservices.com=45.33.44.103</code></li>
 </ul>
 </li>
 </ul>
@@ -202,13 +202,13 @@ To make things easier, all configuration tweaks have been color coded.
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Depending on your computer</strong>:</p>
 <ul>
-<li><strong>Change “<code>Maximum Number of SPURS Threads</code>”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
+<li><strong>Change “<code>Maximum Number of SPURS Threads</code>”</strong> - May improve performance on older systems with less cores and threads <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[like 4th gen Intel i5 CPUs with 4 cores and 4 threads]</a>.</li>
 </ul>
 </li>
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Strongly Suggested</strong>:</p>
 <ul>
-<li><strong>Enable “<code>Debug Console Mode</code>”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/rb3-pc/memory">[Click here for more information.]</a></li>
+<li><strong>Enable “<code>Debug Console Mode</code>”</strong> - Enabling this and “Large Heap” in Rock Band 3 Deluxe will allow Rock Band 3  to have more memory. This means more songs (up to 16000) and increased stability. Everyone should enable this! <a href="https://carlmylo.github.io/rb3-pc/memory" target="_blank">[Click here for more information.]</a></li>
 <li><strong>Change “<code>Exclusive Fullscreen Mode</code>” to “<code>Prefer borderless fullscreen</code>”</strong> to prevent potential crashes and audio desync when changing from Rock Band 3 to another program while in fullscreen.</li>
 </ul>
 </li>
