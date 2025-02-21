@@ -25,7 +25,7 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 The only things left to do are:
 * **[[setting up your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}**
-* **[[setting up a microphone to sing with]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/gs_mics){:target="_blank"}
+* **[[setting up a microphone to sing with]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/gs_mics){:target="_blank"}**
 * **[[creating an RPCN account to play online and use leaderboards]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/rpcn_intro){:target="_blank"}**
 
 <div class="panel-group" id="accordion">

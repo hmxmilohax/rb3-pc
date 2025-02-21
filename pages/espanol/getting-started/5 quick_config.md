@@ -26,8 +26,8 @@ El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo 
 
 Ahora solo falta:
 * **[[configurar tus instrumentos y controles]](https://carlmylo.github.io/rb3-pc/ctrls_es){:target="_blank"}**
-* **[[configurar un micrófono para cantar]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/gs_mics_es){:target="_blank"}**
-* **[[crear una cuenta de RPCN para jugar en linea y ver/subir clasificaciones]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/rpcn_intro_es){:target="_blank"}**
+* **[[configurar un micrófono para cantar]](https://carlmylo.github.io/rb3-pc/gs_mics_es){:target="_blank"}**
+* **[[crear una cuenta de RPCN para jugar en linea y ver/subir clasificaciones]](https://carlmylo.github.io/rb3-pc/rpcn_intro_es){:target="_blank"}**
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
