@@ -119,7 +119,7 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 <li>
 <p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
-<li>Ajusta el “Audio Buffer Duration” (duración de búferes de audio) depende de tu sistema.
+<li><strong>Ajusta “<code>Audio Buffer Duration</code>”</strong> (duración de búferes de audio) depende de tu sistema.
 <ul>
 <li>Bájale lo mas que puedas antes de que empiezas a escuchar errores con el sonido. Empieza con <code>32 ms</code> y ajusta de ahí.</li>
 <li>Valores bajos resultan en menos latencia pero más consumo de CPU.</li>

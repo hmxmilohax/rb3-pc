@@ -1,7 +1,7 @@
 ---
 title: Agregar mas memoria a Rock Band 3
 sidebar: espanol_sidebar
-permalink: adv_himem_es
+permalink: memoria
 folder: espanol
 tags: [avanzado, espanol]
 summary: "Como agregar mas memoria a Rock Band 3."
@@ -14,7 +14,7 @@ Vamos a agregar mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando p
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Si bajaste y estas usando [[un perfil de Configuración Rápida,]](https://carlmylo.github.io/rb3-pc/gs_quick_config_es) ya tienes esto activado y no necesitas hacer nada mas. </b> {{include.content}}</div>
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://carlmylo.github.io/rb3-pc/custom_config_adv_es). ¡¡¡Si no haces esto, tu juego va a parar de funcionar!!! </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://carlmylo.github.io/rb3-pc/custom_config_adv_es){:target="_blank"}. ¡¡¡Si no haces esto, tu juego va a parar de funcionar!!! </b> {{include.content}}</div>
 
 Primero, vas a necesitar [[bajar el archivo que activa memoria adicional. Haz click aquí para bajarlo.]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/memory.zip){:target="_blank"}
 

@@ -12,7 +12,7 @@ weight: 4
 ![Una captura de la configuración personalizada de audio de Rock Band 3, que muestra "Audio Out" y "Audio Buffer Duration" resaltados en cuadros azules con contornos punteados, y "Microphone Settings", "Microphone Type" ("Standard"), "Mic1", "Mic2", "Mic3" y "Mic4" resaltados en un cuadro bronceado con contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/audio.png "Audio")
 
 * ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
-	* Ajusta el "Audio Buffer Duration" (duración de búferes de audio) depende de tu sistema.
+	* **Ajusta "Audio Buffer Duration"** (duración de búferes de audio) depende de tu sistema.
 		* Bájale lo mas que puedas antes de que empiezas a escuchar errores con el sonido. Empieza con `32 ms` y ajusta de ahí. 
 		* Valores bajos resultan en menos latencia pero más consumo de CPU.
 		* Valores altos resultan en más latencia pero menos consumo de CPU.
