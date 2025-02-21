@@ -38,10 +38,10 @@ Sigue las instrucciones y configúralo todo como dice la pagina.
 
 Toma en cuenta:
 * Si vas a jugar con más de un instrumento, _tienes que configurar cada uno en un puerto diferente_ (Player 1, Player 2, etc).
-* **Guitarras, baterías y adaptadores MIDI de Rock Band para el PlayStation 3 no requieren configuración manual. ¡NO LOS CONFIGURES!**
-* Si tu control no se detecta, haz click en "Refresh". Si eso no lo arregla, reinicia RPCS3.
+* **Guitarras y baterías de Rock Band para el PlayStation 3 no requieren configuración manual. ¡NO LOS CONFIGURES!**
+* Si tu control no se detecta, haz click en "`Refresh`". Si eso no lo arregla, reinicia RPCS3.
 
-Cuando termines de configurar algo, **asegúrate hacer click en "Save"** (Guardar.
+Cuando termines de configurar algo, **asegúrate hacer click en "`Save`"** (Guardar).
 
 ## Lista de instrumentos
 

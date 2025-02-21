@@ -40,7 +40,7 @@ After that, **click "Continue."**
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
 ![A screenshot of RPCS3 compiling PPU modules with a progress bar at 1/8th completion.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3fwcomp.png "Compiling PPU modules...")
 
-## Rock Band 3 + Instrument patch
+## Rock Band 3
 
 Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [["PS3 Disc Dumper" is the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
 
@@ -52,11 +52,13 @@ After dragging it in, click "Refresh" in RPCS3.
 
 ## Rock Band 3 Deluxe
 
-Finally, let's [**[*Rock Band 3 Deluxe*]**](https://rb3dx.milohax.org/){:target="_blank"}.
+Finally, let's install Rock Band 3 Deluxe.
 
 This is a must-have mod, which also fixes some critical bugs RPCS3 has with Rock Band 3. On top of that, it adds [**[many great features]**](https://rb3dx.milohax.org/features){:target="_blank"}.
 
 [**[Click here to download Rock Band 3 Deluxe]**](https://rb3dx.milohax.org/downloads){:target="_blank"}.
+
+Download either the `Nightly` or `Beta` version 
 
 [![Rock Band 3 Deluxe's .zip archive in Edge's download tray.](https://carlmylo.github.io/rb3-pc/images/install/rb3dxdl.png)](https://rb3dx.milohax.org/downloads "RB3DX-PS3.zip")
 

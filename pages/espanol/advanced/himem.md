@@ -10,7 +10,7 @@ toc: false
 
 Vamos a agregar mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando porque ayuda la estabilidad y también sube el limite de canciones hasta 16000.
 
-<span style="font-size:x-large;">ADVERTENCIA - LEE ESTO ANTES DE TODO</span>
+<span style="font-size:x-large;">ADVERTENCIAS - LEE ESTO ANTES DE TODO</span>
 
 <div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Si bajaste y estas usando [[un perfil de Configuración Rápida,]](https://carlmylo.github.io/rb3-pc/gs_quick_config_es) ya tienes esto activado y no necesitas hacer nada mas. </b> {{include.content}}</div>
 

@@ -37,9 +37,9 @@ Follow the instructions and match the assignments.
 Pro Tips:
 * If you need to bind multiple instruments, _you must set them on different ports_ (Player 1, Player 2, etc).
 * **PlayStation 3 guitars and drums for the Rock Band series are plug and play and require no additional setup. DO NOT MAP THEM!**
-* If your controller isn't being detected, click "Refresh". If that doesn't solve it, restart RPCS3.
+* If your controller isn't being detected, click "`Refresh`". If that doesn't solve it, restart RPCS3.
 
-Once you've finished configuring, **remember to click "Save".**
+Once you've finished configuring, **remember to click "`Save`".**
 
 ## Instrument List
 

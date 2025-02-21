@@ -9,7 +9,7 @@ series: "Custom Configuration"
 weight: 2
 ---
 
-![A screenshot of Rock Band 3's CPU custom settings, showing SPU XFloat Accuracy, SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/cpu.png "CPU")
+![A screenshot of Rock Band 3's CPU custom settings, showing SPU Block Size, Preferred SPU Threads, and Thread Scheduler highlighted in blue with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/cpu.png "CPU")
 
 * ![A blue square with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Tan Square") **Improved performance, depending on machine**: 
 	* **Change "SPU Block Size" to "Mega"** - Ties smaller SPU compiled together, which can help machines with fewer cores/threads. Drastically speeds up game startup time on certain machines.
