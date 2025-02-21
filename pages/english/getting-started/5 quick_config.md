@@ -12,7 +12,7 @@ weight: 5
 ## Quick Configuration Profiles
 
 Now that the game is in the library, we'll download some files to adjust RPCS3 for the best experience.  
-Below are the quick configuration files. Download whichever is best for your computer.  
+Below are the quick configuration files. Download a whichever is best for your computer.  
 
 * [[Recommended settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
 * [[Minimum settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
@@ -23,7 +23,10 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 ![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/rb3-pc/images/cust/quickconf.gif "Recommended.zip")
 
-You will still have to set up [[your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}. Players who want to use [[microphones]](https://carlmylo.github.io/rb3-pc/custom_config_aud){:target="_blank"} or [[PS3 Mustang Pro Guitars, or ]](https://carlmylo.github.io/rb3-pc/adv_passthrough){:target="_blank"}  will still need to configure those.
+The only things left to do are:
+* **[[setting up your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}**
+* **[[setting up a microphone to sing with]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/gs_mics){:target="_blank"}
+* **[[creating an RPCN account to play online and use leaderboards]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/rpcn_intro){:target="_blank"}**
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
