@@ -27,6 +27,7 @@ Entra la pestaña de "`Audio`".
 Cuando termines, haz click en "`Apply`" y luego "`Save custom configuration`".  
 Ahora puedes abrir Rock Band 3 cantar todo lo que quieras.
 
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Asegúrate que tengas [[algo configurado para controlar el juego]](https://carlmylo.github.io/rb3-pc/ctrls_es#mandos){:target="_blank"}. No puedes elegir que vas a cantar sin esto.</b> {{include.content}}</div>
 
 {% include custom/series_empezando_next.html %}
 

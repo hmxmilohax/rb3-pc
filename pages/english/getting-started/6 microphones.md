@@ -21,9 +21,9 @@ Switch to the "`Audio`" tab.
 
 ![A screenshot of Rock Band 3's Audio custom settings, highlighting "Microphone Settings", "Microphone Type" ("Standard"), "Mic1", "Mic2", "Mic3", and "Mic4" in tan with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/audiom.png "Audio")
 
-* ![A tan square with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Tan Square") **For Vocalists**: 
-	* **Set "`Microphone Type`" to "`Standard`" or "`Rocksmith`"**.
-	* **Select an input device in "`Mic1`", "`Mic2`", and "`Mic3`"** for vocals. If not playing vocals, "`Mic1`" will be used for voice chat.
+* ![A tan square with a solid outline.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Tan Square") **To set microphones up**: 
+	* **Set "`Microphone Type`" to "`Standard`"**.
+	* **Select an input device in "`Mic1`", "`Mic2`", and "`Mic3`"** for vocals. When not playing vocals, "`Mic1`" will be used for voice chat.
 
 When you're done, click "`Apply`" then "`Save custom configuration`".  
 You can now open Rock Band 3 and sing to your heart's content.
