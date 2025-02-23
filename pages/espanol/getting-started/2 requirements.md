@@ -21,20 +21,15 @@ Puedes usar:
 * Guitarras de Rock Band y Guitar Hero (PS2, PS3, PS4, Wii, X360, XBONE) <sup>a
 * Baterías de Rock Band y Guitar Hero (PS3, PS4, Wii, X360, XBONE) <sup>a
 * Un control/teclado de computadora/mando para jugar "Padtar" (guitarra por mando) o para vocales <sup>b
-* Cualquier guitarra o teclado, con salida MIDI, compatible con el adaptador MIDI Pro de Rock Band 3 (solo la versión de PS3) <sup>c
-* Cualquier batería electrónica con salida MIDI compatible con el adaptador MIDI Pro de Rock Band 3 (PS3, Wii, X360) <sup>c
-* Un teclado de Rock Band 3 \[**Inalámbrico**\] (solo la versión de PS3 con receptor propio) <sup>c
-* Un teclado de Rock Band 3 \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB) <sup>d
-* Una guitarra PRO de Rock Band 3 Fender Mustang \[**Inalámbrica**\] (solo la versión de PS3 con receptor propio) <sup>c
-* Una guitarra PRO de Rock Band 3 Fender Mustang \[**Con cable**\] (PS3, Wii, X360 con adaptador de MIDI a USB)
-* Una guitarra PRO Rock Band 3 Squier Stratocaster (PS3, Wii, X360 con adaptador de MIDI a USB)
-* Cualquier teclado MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB) <sup>d
-* Una batería MIDI (conectada por USB o por adaptador MIDI a USB o con MIDI a Roll Limitless) <sup>
+* Guitarras PRO de Rock Band 3 (PS3, Wii, X360 con adaptador de MIDI a USB)
+* Teclados de MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB) <sup>c
+* Baterías de MIDI (conectada por USB o por adaptador MIDI a USB o con MIDI a Roll Limitless) <sup>
 
 <sup>a</sup> <sub>A unos instrumentos no les funciona whammy, ladeo, o el switch de efectos. Lee la pagina de instrumentos para mas información.</sub>  
 <sup>b</sup> <sub>Los mandos se funcionan con auto-strum (rasgueo automático) como en GH1-GH3. Los teclados se pueden configurar para tener rasgueo manual o auto-strum.</sub>  
-<sup>c</sup> <sub>Ciertos instrumentos y receptores de Rock Band para el Wii se pueden convertir a PS3, pero eso es demasiado complejo para incluir en esta guía. Google es tu amigo.</sub>  
-<sup>d</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}</sub>  
+<sup>c</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}</sub>  
+
+¿Quieres una lista mas detallada?
 
 #### Un micrófono
 Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar y usar tres micrófonos al mismo tiempo.

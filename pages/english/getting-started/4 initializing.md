@@ -11,15 +11,15 @@ weight: 4
 
 Now, **go to the folder where you extracted RPCS3.** Keep this folder open in the background. **Open up RPCS3**.  
 **Tick**:
-* "Create desktop shortcut"
-* "Create Start Menu shortcut"
-* "I have read the Quickstart guide"
-* "Do not show again"  
+* "`Create desktop shortcut`"
+* "`Create Start Menu shortcut`"
+* "`I have read the Quickstart guide`"
+* "`Do not show again`"  
 
 **Disable**:
-* "Show at startup"  
+* "`Show at startup`"  
 
-After that, **click "Continue."**  
+After that, **click "`Continue`."**  
 ![A screenshot of RPCS3 welcoming the user to RPCS3, with the mouse cursor hovering over "Continue."](https://carlmylo.github.io/rb3-pc/images/install/rpcs3init.png "Welcome to RPCS3")
 
 ## Firmware
@@ -28,13 +28,13 @@ After that, **click "Continue."**
 
 ![A GIF of PS3UPDAT.PUP being dragged into RPCS3.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
-**Click "Yes"** when the firmware installer prompts you.  
+**Click "`Yes`"** when the firmware installer prompts you.  
 ![A screenshot of RPCS3's Firmware Installer asking the user if they want to install the firmware named "PS3UPDAT.PUP."](https://carlmylo.github.io/rb3-pc/images/install/fwinstall.png "RPCS3 Firmware Installer")
 
 **Let it install.**  
 ![A screenshot of RPCS3's Firmware Installer in the middle of installing firmware version 4.90.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3fw.png "RPCS3 Firmware Installer progress")
 
-**When it finishes, click "OK."**  
+**When it finishes, click "`OK`."**  
 ![A screenshot of RPCS3's Firmware Installer after a successful install of PS3 firmware and LLE modules.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3fwdone.png "Success!")
 
 It will start compiling modules to load the PS3 XMB into the emulator, which may take a few minutes. **You can either let it do its thing or close it.**  
@@ -42,11 +42,11 @@ It will start compiling modules to load the PS3 XMB into the emulator, which may
 
 ## Rock Band 3
 
-Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "games" folder**. Again, you're on your own when it comes to finding a copy. [["PS3 Disc Dumper" is the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
+Next, **open a new file browser window. Now go to the folder where you have your copy of Rock Band 3 stored and drag the folder into RPCS3's "`games`" folder**. Again, you're on your own when it comes to finding a copy. [["PS3 Disc Dumper" is the easiest way]](https://youtu.be/mRxSKxoYt_g){:target="_blank"}.
 
 ![A GIF of the dumped folder of Rock Band 3 being dragged into RPCS3's "games" folder.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-After dragging it in, click "Refresh" in RPCS3.
+After dragging it in, click "`Refresh`" in RPCS3.
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
@@ -66,7 +66,7 @@ Download either the `Nightly` or `Beta` version
 
 ![Rock Band 3 Deluxe's .zip being extracted with 7-Zip.](https://carlmylo.github.io/rb3-pc/images/install/rb3dxext.png "RB3DX-PS3.zip")
 
-**When it finishes extracting, drag the PKG file into RPCS3 and click "Yes"** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
+**When it finishes extracting, drag the PKG file into RPCS3 and click "`Yes`"** on the prompt, just like you did earlier with the PS3UPDAT.PUP file.  
 
 ![A GIF of Rock Band 3 Deluxe's PKG file being dragged into RPCS3.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG file")
 
@@ -76,7 +76,7 @@ If it installed successfully, you should see that the Rock Band 3 icon has chang
 
 ![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "Rename In Game List."
+You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "`Rename In Game List`."
 
 {% include custom/series_getting_started_next.html %}
 
