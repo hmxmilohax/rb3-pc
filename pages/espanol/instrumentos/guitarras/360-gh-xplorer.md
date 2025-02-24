@@ -68,7 +68,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 
 ## Mapeo
 
-¡**BORRA ESTOS BOTONES** o tus solos de guitarra van a auto-rasguear (auto-strum)!  
+¡**BORRA ESTOS BOTONES** o tus solos de guitarra van a auto-rasguear (auto-strum) y el selector de efectos estará atorado en la pantalla!  
 Usa el click derecho para borrar botones.
 
 | **RPCS3** | **Guitarra** |

@@ -14,7 +14,7 @@ toc: false
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>This page is here to warn you that Guitar Configurator is discontinued! </b> {{include.content}}</div>
 
-**Update to [[Santroller]](https://carlmylo.github.io/rb3-pc/ctrls_mod_santroller)**.
+**Update to [[Santroller]](https://carlmylo.github.io/rb3-pc/ctrls_mod_santgtr)**.
 
 It has more features and your current setup is compatible. 
 

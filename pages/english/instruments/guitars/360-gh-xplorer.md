@@ -68,7 +68,7 @@ This is so you can change configuration profiles in case you want to play games 
 
 ## Mappings
 
-**UNMAP THE FOLLOWING** or guitar solos will auto-strum!  
+**UNMAP THE FOLLOWING** or guitar solos will auto-strum and the effects selector will constantly be moving!  
 Use Right Click to unmap a button.
 
 | **RPCS3** | **Guitar** |

@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps4.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rbdrmscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rb4drmscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
