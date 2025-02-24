@@ -86,6 +86,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Batería con Roll Limitless
+      url: /ctrls_mod_rldrums_es
+      output: web
+      type: homepage
+
     - title: Guitar Hero para Xbox 360
       url: /ctrls_ghdrums_360_es
       output: web
@@ -222,11 +227,6 @@ entries:
 
     - title: Riffmaster (con Adafruit Feather)
       url: /ctrls_mod_riffada_es
-      output: web
-      type: homepage
-
-    - title: Batería con Roll Limitless
-      url: /ctrls_mod_rldrums_es
       output: web
       type: homepage
 

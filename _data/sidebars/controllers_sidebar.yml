@@ -111,7 +111,6 @@ entries:
       output: web
       type: homepage
 
-
     - title: Nintendo Wii Guitar Hero (Raphnet)
       url: /ctrls_ghdrums_wii
       output: web
