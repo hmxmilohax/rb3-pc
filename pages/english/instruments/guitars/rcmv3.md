@@ -1,7 +1,7 @@
 ---
 title: RetroCultMods V3 Adapter Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_mod_rcmv3
+permalink: ctrls_modgtr_rcmv3
 folder: instruments
 tags: [guitars, modded, english]
 summary: "How to connect and configure a guitar connected via V3 Wii/USB Adapter RCM on RPCS3."

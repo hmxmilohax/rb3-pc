@@ -1,7 +1,7 @@
 ---
 title: Guitarras modeadas con kits de RetroCultMods
 sidebar: controllers_es_sidebar
-permalink: ctrls_mod_rcmgtr_es
+permalink: ctrls_modgtr_rcmsl_es
 folder: instrumentos
 tags: [modeado, guitarras, espanol]
 summary: "Como configurar tu guitarra modeada con un kit de RetroCultMods en RPCS3."

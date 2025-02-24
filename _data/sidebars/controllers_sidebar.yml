@@ -136,13 +136,18 @@ entries:
       output: web
       type: homepage
 
-    - title: Xbox One Fortnite Festival Guitars
+    - title: Santroller Powered Custom Guitars
+      url: /ctrls_modgtr_san
+      output: web
+      type: homepage
+
+    - title: "Xbox One Rock Band 4/Fortnite Festival"
       url: /ctrls_rb4gtr_xbox
       output: web
       type: homepage
 
-    - title: "Xbox One Rock Band 4 Guitars"
-      url: /ctrls_rb4gtr_xbox
+    - title: "PlayStation 4 Rock Band 4 Guitars"
+      url: /ctrls_rb4gtr_ps4
       output: web
       type: homepage
 
@@ -201,11 +206,6 @@ entries:
       output: web
       type: homepage
 
-    - title: "PlayStation 4 Rock Band 4 Guitars"
-      url: /ctrls_rb4gtr_ps4
-      output: web
-      type: homepage
-
     - title: Unknown Guitar Controller
       url: /ctrls_gtr_gen
       output: web
@@ -220,18 +220,13 @@ entries:
       output: web
       type: homepage
 
-    - title: Santroller Powered Custom Guitars
-      url: /ctrls_mod_santroller
-      output: web
-      type: homepage
-
     - title: RetroCultMods V3 Adapter
-      url: /ctrls_mod_rcmv3
+      url: /ctrls_modgtr_rcmv3
       output: web
       type: homepage
 
     - title: RetroCultMods Kit Guitars
-      url: /ctrls_mod_rcmgtr
+      url: /ctrls_modgtr_rcmsl
       output: web
       type: homepage
 

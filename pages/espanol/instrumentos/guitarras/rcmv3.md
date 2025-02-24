@@ -1,7 +1,7 @@
 ---
 title: Adaptador de Guitarra V3 por RetroCultMods
 sidebar: controllers_es_sidebar
-permalink: ctrls_mod_rcmv3_es
+permalink: ctrls_modgtr_rcmv3_es
 folder: instrumentos
 tags: [modeado, guitarras, espanol]
 summary: "Como configurar tu guitarra conectada con un adaptador de Guitarra V3 por RetroCultMods en RPCS3."

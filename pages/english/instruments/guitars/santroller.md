@@ -1,7 +1,7 @@
 ---
 title: Santroller Powered Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_mod_santgtr
+permalink: ctrls_modgtr_san
 folder: instruments
 tags: [guitars, modded, english]
 summary: "How to connect and configure your guitar using Santroller on RPCS3."

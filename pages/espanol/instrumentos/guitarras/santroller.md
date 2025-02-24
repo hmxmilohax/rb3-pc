@@ -1,7 +1,7 @@
 ---
 title: Guitarras usando Santroller
 sidebar: controllers_es_sidebar
-permalink: ctrls_mod_santgtr_es
+permalink: ctrls_modgtr_san_es
 folder: instrumentos
 tags: [modeado, guitarras, espanol]
 summary: "Como configurar tu guitarra usando Santroller en RPCS3."

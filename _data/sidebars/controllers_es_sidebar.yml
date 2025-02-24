@@ -86,7 +86,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Batería con Roll Limitless
+    - title: Roll Limitless
       url: /ctrls_mod_rldrums_es
       output: web
       type: homepage
@@ -126,13 +126,13 @@ entries:
       output: web
       type: homepage
 
-    - title: Guitarras de Fortnite Festival para Xbox One
+    - title: "Rock Band 4/Fortnite Festival para Xbox One"
       url: /ctrls_rb4gtr_xbox_es
       output: web
       type: homepage
 
-    - title: "Guitarras de Rock Band 4 para Xbox One"
-      url: /ctrls_rb4gtr_xbox_es
+    - title: "Guitarra de Rock Band 4 para PlayStation 4"
+      url: /ctrls_rb4gtr_ps4_es
       output: web
       type: homepage
 
@@ -191,11 +191,6 @@ entries:
       output: web
       type: homepage
 
-    - title: "Guitarra de Rock Band 4 para PlayStation 4"
-      url: /ctrls_rb4gtr_ps4_es
-      output: web
-      type: homepage
-
     - title: Guitarras Desconocidas
       url: /ctrls_gtr_gen_es
       output: web
@@ -211,17 +206,17 @@ entries:
       type: homepage
 
     - title: Guittaras con Santroller
-      url: /ctrls_mod_santroller_es
+      url: /ctrls_modgtr_san_es
       output: web
       type: homepage
 
     - title: Adaptador V3 de RetroCultMods
-      url: /ctrls_mod_rcmv3_es
+      url: /ctrls_modgtr_rcmv3_es
       output: web
       type: homepage
 
     - title: Guitarras con kits de RetroCultMods
-      url: /ctrls_mod_rcmgtr_es
+      url: /ctrls_modgtr_rcmsl_es
       output: web
       type: homepage
 

@@ -1,7 +1,7 @@
 ---
 title: RetroCultMods Kit Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_mod_rcmgtr
+permalink: ctrls_modgtr_rcmsl
 folder: instruments
 tags: [guitars, modded, english]
 summary: "How to connect and configure your guitar modded with a kit from RCM on RPCS3."

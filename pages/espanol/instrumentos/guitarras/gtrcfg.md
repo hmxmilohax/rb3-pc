@@ -14,7 +14,7 @@ toc: false
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>¡¡¡Esta pagina esta aquí solo para advertirte que Guitar Configurator ha sido descontinuado!!! </b> {{include.content}}</div>
 
-**Actualiza a [[Santroller]](https://carlmylo.github.io/rb3-pc/ctrls_mod_santgtr_es)**.
+**Actualiza a [[Santroller]](https://carlmylo.github.io/rb3-pc/ctrls_modgtr_san_es)**.
 
 Tiene mas funciones, es compatible con la guitarra que tienes y también tiene traducción en Español. 
 
