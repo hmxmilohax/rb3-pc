@@ -1,10 +1,10 @@
 ---
 title: Guitarras de Guitar Hero para PlayStation 3
 sidebar: controllers_es_sidebar
-permalink: ctrls_ghwtgtr_ps3_es
+permalink: ctrls_ghgtr_ps3_es
 folder: instrumentos
 tags: [ps3-es, guitarras, espanol]
-summary: "Como configurar tu guitarra de GH:World Tour para PC/Mac en RPCS3."
+summary: "Como configurar guitarras de Guitar Hero de PS3 en RPCS3."
 toc: false
 ---
 
@@ -14,6 +14,7 @@ toc: false
 
 ## NOTAS
 
+* **¡La Les Paul de PS3 tiene una conexión inestable con su receptor!**
 * **¡Estas guitarras no tienen ladeo (tilt)!**
 	* Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.

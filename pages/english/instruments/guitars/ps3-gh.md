@@ -1,10 +1,10 @@
 ---
 title: PlayStation 3 Guitar Hero Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_ghwtgtr_ps3
+permalink: ctrls_ghgtr_360_ps3
 folder: instruments
 tags: [ps3, guitars, english]
-summary: "How to setup PS3 Guitar Hero Genericasters on RPCS3."
+summary: "How to setup PS3 Guitar Hero guitars on RPCS3."
 toc: false
 ---
 
@@ -14,6 +14,7 @@ toc: false
 
 ## NOTES
 
+* **PS3 Les Paul guitars are notorious for having horrible connection issues and latency!**
 * **Tilt is busted on this controller!**
     * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
