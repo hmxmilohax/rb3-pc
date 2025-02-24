@@ -79,7 +79,7 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <h4 id="perfil">Perfil</h4>
 <p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z">[Descargar Perfil]</a></p>
