@@ -49,7 +49,7 @@ This is so you can change configuration profiles in case you want to play games 
 
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#default" data-toggle="tab">Default</a></li>
-    <li><a href="#fortnitefest" data-toggle="tab">Autostrum</a></li>
+    <li><a href="#autostrum" data-toggle="tab">Autostrum</a></li>
     <li><a href="#fortnitepro" data-toggle="tab">Manual Strum</a></li>
     <li><a href="#linos-binds" data-toggle="tab">Linos Binds</a></li>
     <li><a href="#ashunprodrums" data-toggle="tab">Ashun Pro Drums</a></li>
