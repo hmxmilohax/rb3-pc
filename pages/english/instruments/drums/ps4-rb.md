@@ -13,7 +13,7 @@ toc: false
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rb4drmscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Pro-Cymbals Expansion do not work!</b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Pro-Cymbals Expansion does not work!</b> {{include.content}}</div>
 
 * Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * Velocity sensitivity doesn't seem to work.

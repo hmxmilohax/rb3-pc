@@ -45,7 +45,7 @@ This is so you can change configuration profiles in case you want to play games 
 </div>
 <!-- Map End -->
 
-## Bindings:
+## Bindings
 
 <ul id="configTabs" class="nav nav-tabs">
     <li class="active"><a href="#default-binds" data-toggle="tab">Default</a></li>
