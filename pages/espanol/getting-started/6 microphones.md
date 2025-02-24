@@ -12,6 +12,8 @@ weight: 6
 ¿Listo para cantar? Con RPCS3, puedes hasta 3 micrófonos para cantar en Rock Band 3. Si tu computadora lo detecta, el juego lo puede usar.
 
 Para empezar a configurar micrófonos, asegúrate que Rock Band 3 no este iniciado.  
+[**[Asegúrate que también instalaste un Perfil de Configuraciones Rápida de la pagina anterior]**](https://carlmylo.github.io/rb3-pc/gs_quick_config_es){:target="_blank"}.  
+
 **Haz click derecho en Rock Band 3** en RPCS3 y luego en **"`Change Custom Configuration`"** (Cambiar configuración personalizada).  
 
 ![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")

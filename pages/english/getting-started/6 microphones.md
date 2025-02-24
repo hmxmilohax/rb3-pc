@@ -1,5 +1,5 @@
 ---
-title: "Setting up a Microphone"
+title: "Setting up Microphones"
 sidebar: english_sidebar
 tags: [getting-started, english]
 summary: "How to set up microphones on RPCS3."
@@ -13,6 +13,8 @@ Ready to sing? RPCS3 lets you set up to 3 microphones to sing with.
 Just about any microphone can be used to sing.
 
 To get started setting up microphones, make sure Rock Band 3 isn't running.  
+[**[Also, make sure you have installed a Quick Configuration Profile from the previous page]**](https://carlmylo.github.io/rb3-pc/gs_quick_config){:target="_blank"}.  
+
 **Right click on Rock Band 3** in RPCS3, then click on “**`Change Custom Configuration`**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")

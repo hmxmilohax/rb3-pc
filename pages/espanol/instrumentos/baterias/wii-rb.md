@@ -75,7 +75,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 | Circle | ![Botón B](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/b.png "Botón B") |
 | Square | ![Botón 1](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/1.png "Botón 1") |
 | Triangle | ![Botón 2](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/2.png "Botón 2") |
-| D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/dpad.png "D-Pad (Cruceta)") |
+| D-Pad | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/dpad.png "D-Pad (Cruceta)") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/home.png "Home") |
 | Start | ![Botón + (Mas)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/plu.png "Botón + (Mas)") |
 | Select | ![Botón - (Menos)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/min.png "Botón - (Menos)") |

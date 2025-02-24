@@ -76,10 +76,10 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#controller-emulation-mode-vigembus">Mapeo avanzado</a>
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
+                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
 <h4 id="perfil">Perfil</h4>

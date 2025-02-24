@@ -8,7 +8,7 @@ tags: [custom-config, english]
 summary: "What to change for Rock Band 3 in RPCS3's Custom Configuration."
 ---
 
-While a Quick Configuration should work in most cases, some things require additional settings, like microphones and MIDI instruments. This involves creating or editing a Custom Configuration for Rock Band 3.
+This page is for advanced users that want to tweak RPCS3's Rock Band 3 Custom Configuration more than the average user. Some of this stuff can get very technical!
 
 <ul id="confeditTabs" class="nav nav-tabs">
     <li class="active"><a href="#changecustomconfig" data-toggle="tab">Changing a Custom Configuration</a></li>

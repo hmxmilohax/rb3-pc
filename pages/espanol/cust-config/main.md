@@ -8,7 +8,7 @@ tags: [conf-pers, espanol]
 summary: "Como crear o editar una configuración personalizada de RPCS3"
 ---
 
-Aunque la configuración rápida es buena para la mayoría de las personas, algunos prefieren hacer sus propios ajustes para sacar el máximo rendimiento de su configuración. Esto involucra crear una configuración personalizada para Rock Band 3.
+Esta pagina es para lo que quieren hacer sus propios ajustes para sacar el máximo rendimiento de su configuración. Esto involucra pasos y ajustes avanzados.
 
 <ul id="confeditTabs" class="nav nav-tabs">
     <li class="active"><a href="#changecustomconfig" data-toggle="tab">Cambiando una configuración personalizada</a></li>

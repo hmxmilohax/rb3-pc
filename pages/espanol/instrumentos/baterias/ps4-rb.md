@@ -68,7 +68,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 | Circle | ![Botón Circle (Circulo)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/o.png "Botón Circle (Circulo)") |
 | Square | ![Botón Square (Cuadro)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/s.png "Botón Square (Cuadro)") |
 | Triangle | ![Botón Triangle (Triangulo)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/t.png "Botón Triangle (Triangulo)") |
-| D-Pad (Cruceta) | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") |
+| D-Pad | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/dp.png "D-Pad (Cruceta)") |
 | Start | ![Botón de Options](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/opt.png "Botón de Options") |
 | Select | ![Botón de Share](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps4/shr.png "Botón de Share") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/home.png "Home") |

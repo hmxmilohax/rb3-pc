@@ -30,13 +30,18 @@ entries:
       output: web
       type: homepage
 
-    - title: User Account
-      url: /gs_user
+    - title: Quick Configuration
+      url: /gs_quick_config
       output: web
       type: homepage
 
-    - title: Quick Configuration
-      url: /gs_quick_config
+    - title: Setting up Microphones
+      url: /gs_mics
+      output: web
+      type: homepage
+
+    - title: User Account
+      url: /gs_user
       output: web
       type: homepage
 
@@ -76,48 +81,43 @@ entries:
       output: web
       type: homepage
 
-    - title: "Xbox One Rock Band 4 Drums"
+    - title: "Xbox One Rock Band 4"
       url: /ctrls_rb4drums_xbox
       output: web
       type: homepage
 
-    - title: Xbox 360 Rock Band Drums
+    - title: Xbox 360 Rock Band
       url: /ctrls_rbdrums_360
       output: web
       type: homepage
 
-    - title: Nintendo Wii Rock Band Drums
+    - title: Nintendo Wii Rock Band
       url: /ctrls_rbdrums_wii
       output: web
       type: homepage
 
-    - title: Xbox 360 Rock Band MIDI Pro Adapter Drums
-      url: /ctrls_mpadrums_360
+    - title: Roll Limitless
+      url: /ctrls_mod_rldrums
       output: web
       type: homepage
 
-    - title: Nintendo Wii Rock Band MIDI Pro Adapter Drums
-      url: /ctrls_mpadrums_wii
-      output: web
-      type: homepage
-
-    - title: Xbox 360 Guitar Hero Drums
+    - title: Xbox 360 Guitar Hero
       url: /ctrls_ghdrums_360
       output: web
       type: homepage
 
-    - title: PlayStation 3 Guitar Hero Drums
+    - title: PlayStation 3 Guitar Hero
       url: /ctrls_ghdrums_ps3
       output: web
       type: homepage
 
 
-    - title: Nintendo Wii Guitar Hero Drums (Raphnet)
+    - title: Nintendo Wii Guitar Hero (Raphnet)
       url: /ctrls_ghdrums_wii
       output: web
       type: homepage
 
-    - title: "PlayStation 4 Rock Band 4 Drums"
+    - title: "PlayStation 4 Rock Band 4"
       url: /ctrls_rb4drums_ps4
       output: web
       type: homepage
@@ -238,11 +238,6 @@ entries:
 
     - title: Riffmaster (via Adafruit Feather)
       url: /ctrls_mod_riffada
-      output: web
-      type: homepage
-
-    - title: Roll Limitless Drums
-      url: /ctrls_mod_rldrums
       output: web
       type: homepage
 
@@ -368,33 +363,52 @@ entries:
       output: web
       type: homepage
 
-  - title: Custom Configuration
+  - title: Advanced Configuration
     output: web
     folderitems:
 
-    - title: How To
+    - title: Intro
       url: /custom_config
       output: web
       type: homepage
 
-  - title: Online
+    - title: What to adjust
+      url: /custom_config#custom-configuration
+      output: web
+      type: homepage
+
+  - title: Advanced
     output: web
     folderitems:
 
-    - title: RPCN - Getting Started
-      url: /rpcn_intro
+    - title: Passthrough Devices
+      url: /adv_passthrough
       output: web
       type: homepage
 
-    - title: RPCN - Managing Friends
-      url: /rpcn_friends
+    - title: Add more memory to Rock Band 3
+      url: /memory
       output: web
-      type: homepage
 
-    - title: GoCentral
-      url: /gocentral
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs
       output: web
-      type: homepage
+
+    - title: Move Game Files
+      url: /adv_movedir
+      output: web
+
+    - title: Discord Rich Presence
+      url: /adv_discordrp
+      output: web
+
+    - title: Improve frame-pacing with RTSS
+      url: /adv_rtss
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
+      output: web
 
   - title: Troubleshooting
     output: web
@@ -432,39 +446,6 @@ entries:
 
     - title: Misc
       url: /trbl_misc
-      output: web
-
-  - title: Advanced
-    output: web
-    folderitems:
-
-    - title: Passthrough Devices
-      url: /adv_passthrough
-      output: web
-      type: homepage
-
-    - title: Add more memory to Rock Band 3
-      url: /memory
-      output: web
-
-    - title: Add Custom Songs to Rock Band 3 Deluxe
-      url: /adv_customsongs
-      output: web
-
-    - title: Move Game Files
-      url: /adv_movedir
-      output: web
-
-    - title: Discord Rich Presence
-      url: /adv_discordrp
-      output: web
-
-    - title: Improve frame-pacing with RTSS
-      url: /adv_rtss
-      output: web
-
-    - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex
       output: web
 
   - title: Conclusion

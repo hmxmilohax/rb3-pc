@@ -30,13 +30,18 @@ entries:
       output: web
       type: homepage
 
-    - title: User Account
-      url: /gs_user
+    - title: Quick Configuration
+      url: /gs_quick_config
       output: web
       type: homepage
 
-    - title: Quick Configuration
-      url: /gs_quick_config
+    - title: Setting up Microphones
+      url: /gs_mics
+      output: web
+      type: homepage
+
+    - title: User Account
+      url: /gs_user
       output: web
       type: homepage
 
@@ -62,10 +67,6 @@ entries:
       url: /ctrls#guitars
       output: web
 
-    - title: Modded Controllers
-      url: /ctrls#modded-instruments
-      output: web
-
     - title: Gamepads
       url: /ctrls#gamepads
       output: web
@@ -86,21 +87,7 @@ entries:
       url: /ctrls#contributing
       output: web
 
-  - title: Custom Configuration
-    output: web
-    folderitems:
-
-    - title: Creating a Custom Configuration
-      url: /custom_config
-      output: web
-      type: homepage
-
-    - title: What to adjust
-      url: /custom_config#custom-configuration
-      output: web
-      type: homepage
-
-  - title: Online
+  - title: Playing Online
     output: web
     folderitems:
 
@@ -118,6 +105,53 @@ entries:
       url: /gocentral
       output: web
       type: homepage
+
+  - title: Advanced Configuration
+    output: web
+    folderitems:
+
+    - title: Intro
+      url: /custom_config
+      output: web
+      type: homepage
+
+    - title: What to adjust
+      url: /custom_config#custom-configuration
+      output: web
+      type: homepage
+
+  - title: Advanced
+    output: web
+    folderitems:
+
+    - title: Passthrough Devices
+      url: /adv_passthrough
+      output: web
+      type: homepage
+
+    - title: Add more memory to Rock Band 3
+      url: /memory
+      output: web
+
+    - title: Add Custom Songs to Rock Band 3 Deluxe
+      url: /adv_customsongs
+      output: web
+
+    - title: Move Game Files
+      url: /adv_movedir
+      output: web
+
+    - title: Discord Rich Presence
+      url: /adv_discordrp
+      output: web
+
+    - title: Improve frame-pacing with RTSS
+      url: /adv_rtss
+      output: web
+
+    - title: Add Custom Textures to Rock Band 3 Deluxe
+      url: /adv_customtex
+      output: web
 
   - title: Troubleshooting
     output: web
@@ -155,39 +189,6 @@ entries:
 
     - title: Misc
       url: /trbl_misc
-      output: web
-
-  - title: Advanced
-    output: web
-    folderitems:
-
-    - title: Passthrough Devices
-      url: /adv_passthrough
-      output: web
-      type: homepage
-
-    - title: Add more memory to Rock Band 3
-      url: /memory
-      output: web
-
-    - title: Add Custom Songs to Rock Band 3 Deluxe
-      url: /adv_customsongs
-      output: web
-
-    - title: Move Game Files
-      url: /adv_movedir
-      output: web
-
-    - title: Discord Rich Presence
-      url: /adv_discordrp
-      output: web
-
-    - title: Improve frame-pacing with RTSS
-      url: /adv_rtss
-      output: web
-
-    - title: Add Custom Textures to Rock Band 3 Deluxe
-      url: /adv_customtex
       output: web
 
   - title: Conclusion
