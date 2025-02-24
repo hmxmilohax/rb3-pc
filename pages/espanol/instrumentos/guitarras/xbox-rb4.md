@@ -70,6 +70,8 @@ Por favor lee la documentación de RB4InstrumentMapper.
 
 Este es el modo recomendado porque no requiere configuración adicional. Solo requiere que elijes la información de control correcta (Handler, Device y Device Class/Type).
 
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxomapping.png" alt="Mapping" title="Mapping"></div>
+
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
                         <div class="panel-heading">
@@ -92,7 +94,6 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 <h4 id="configuracion">Configuración</h4>
-<p>El switch de efectos solo puede ser configurado con la mitad de arriba o de abajo. Recomendamos la mitad de abajo para poder desactivar los efectos.</p>
 
 <table>
 <thead>

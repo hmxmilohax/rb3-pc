@@ -70,7 +70,7 @@ Please refer to RB4InstrumentMapper's documentation.
 
 This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxomapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxomapping.png" alt="Mapeo" title="Mapeo"></div> 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

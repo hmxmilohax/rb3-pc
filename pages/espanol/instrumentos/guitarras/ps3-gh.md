@@ -1,5 +1,5 @@
 ---
-title: Genericasters de GH (World Tour y despues) para PlayStation 3
+title: Guitarras de Guitar Hero para PlayStation 3
 sidebar: controllers_es_sidebar
 permalink: ctrls_ghwtgtr_ps3_es
 folder: instrumentos
@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ghwtcontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ghgtrscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
@@ -80,7 +80,7 @@ Usa el click derecho para borrar botones.
 | D-Pad: Left | ![D-Pad (Cruceta): Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
 | D-Pad: Right | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
 | Right Stick: <br/> Left/Right | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Select | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo Vertical") |
+| Select (No es recomendado) | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo Vertical") |
 | Start | ![Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sel.png "Select") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/home.png "Home") |

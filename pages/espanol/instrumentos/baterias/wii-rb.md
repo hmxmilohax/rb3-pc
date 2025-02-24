@@ -66,6 +66,8 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 | Square | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
 | Triangle | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
 | R3 | Modificador de Platillos |
+| D-Pad: Up | Modificador de Platillo Amarillo |
+| D-Pad: Down | Modificador de Platillo Azul |
 | L3 | Modificador de Parches |
 | L1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | R1 | ![Segundo Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Segundo Pedal/Kick") |
@@ -81,6 +83,34 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 ## Perfil
 
 [[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Rock%20Band%20Drums.7z)
+
+<!-- Profile Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#como-uso-perfiles">¿Como uso perfiles?</a>
+                            </h4>
+                        </div>
+                        <div id="como-uso-perfiles" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>Esto no se recomienda si estas conectando mas de un instrumento a la vez. </b> {{include.content}}</div>
+<p>Después de descargar el perfil,</p>
+<ol>
+<li>Extrae el archivo .7z.</li>
+<li>Arrastra la carpeta <code>input configs</code> a la carpeta <code>configs</code> en la carpeta donde tienes RPCS3.</li>
+</ol>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p>Después de eso, puedes seleccionar el perfil en el menú de <code>Pads</code>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p>La mayoría del tiempo, estos perfiles funcionan sin necesitar configuración adicional. Por si acaso no, cambia el control en <code>Devices</code>, al lado del botón de <code>Refresh</code> hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Profiles End -->
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/drmswiirbmapping.png" alt="Mapeo" title="Mapeo"></div>
 

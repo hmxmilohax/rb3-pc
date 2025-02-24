@@ -63,7 +63,9 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") | 
+| R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") |
+
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -72,9 +74,21 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
                                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#mapeo-avanzado">Mapeo avanzado</a>
                             </h4>
                         </div>
-                        <div id="mapeo-avanzado" class="panel-collapse collapse noCrossRef">
+                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-
+<h4 id="perfil">Perfil</h4>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z">[Descargar Perfil]</a></p>
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>Esto no se recomienda si estas usando mas de un instrumento a la vez. </b> {{include.content}}</div>
+<p>Después de descargar el perfil,</p>
+<ol>
+<li>Extrae el archivo .7z.</li>
+<li>Arrastra la carpeta "<code>input configs</code>" a la carpeta "<code>configs</code>" en la carpeta donde tienes RPCS3.</li>
+</ol>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p>Después de eso, puedes seleccionar el perfil en el menú de "<code>Pads</code>".</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p>La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
+<h4 id="configuracion">Configuración</h4>
 <table>
 <thead>
 <tr>
@@ -160,7 +174,6 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20Kit%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 ### Modo Passthrough
 

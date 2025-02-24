@@ -1,5 +1,5 @@
 ---
-title: PlayStation 3 Guitar Hero Genericaster (World Tour and later) Guitars
+title: PlayStation 3 Guitar Hero Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_ghwtgtr_ps3
 folder: instruments
@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ghwtcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ghgtrscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -80,7 +80,7 @@ Use Right Click to unmap a button.
 | D-Pad: Left | ![D-Pad: Left](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png "D-Pad: Left") |
 | D-Pad: Right | ![D-Pad: Right](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad: Right") |
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Whammy Bar") |
-| Select | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt Vertical") |
+| Select (Not Recommended) | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt Vertical") |
 | Start | ![Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sta.png "Start") |
 | Select | ![Select](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sel.png "Select") |
 | PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/home.png "Home") |

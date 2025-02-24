@@ -90,7 +90,9 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 | **RPCS3** | **XInput** | **Guitar** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") | 
+| R1 | ![Right Stick](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Tilt") |
+
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapping" title="Mapping"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -194,8 +196,6 @@ By default, XInput has most things bound correctly. You only need to remap the f
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
-
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/modrcmkitgtrmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 

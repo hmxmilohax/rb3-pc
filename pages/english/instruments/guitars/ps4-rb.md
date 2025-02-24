@@ -57,8 +57,6 @@ This is so you can change configuration profiles in case you want to play games 
 
 ## Mapping
 
-Older guitars may develop problematic whammy bars which cause issues while mapping. **You may have to Filter Noise to map correctly.**  
-
 By default, XInput has most things bound correctly. You only need to remap the following:
 
 | **RPCS3** | **XInput** | **Guitar** |
@@ -161,6 +159,8 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PS4%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapping" title="Mapping"></div>
+
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -188,7 +188,6 @@ By default, XInput has most things bound correctly. You only need to remap the f
                     </div>
 </div>
 <!-- Profiles End -->
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapping" title="Mapping"></div>
 
 [[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
 

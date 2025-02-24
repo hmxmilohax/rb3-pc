@@ -15,7 +15,7 @@ toc: false
 ## NOTAS
 * Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
 * Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
-* Estas baterias requieren un Adaptador inalámbrico para Windows.  
+* Estas baterias requieren un Adaptador de Xbox inalámbrico para Windows.  
     ![Adaptador inalámbrico para Windows](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")  
 * Funciona **con o sin** platillos PRO.
     * Recuerda configurar cuales platillos tienes conectados dentro de Rock Band 3.
@@ -81,44 +81,21 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
                         </div>
                         <div id="controller-emulation-mode-vigembus" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z" target="_blank">[Descargar Perfil]</a></p>
 <p>Esto no es recomendado porque requiere muchos ajustes manuales. Deberías usar el modo <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
-<p>Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:</p>
+<h4 id="perfil">Perfil</h4>
+<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Drums.7z">[Descargar Perfil]</a></p>
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>Esto no se recomienda si estas usando mas de un instrumento a la vez. </b> {{include.content}}</div>
+<p>Después de descargar el perfil,</p>
+<ol>
+<li>Extrae el archivo .7z.</li>
+<li>Arrastra la carpeta "<code>input configs</code>" a la carpeta "<code>configs</code>" en la carpeta donde tienes RPCS3.</li>
+</ol>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p>Después de eso, puedes seleccionar el perfil en el menú de "<code>Pads</code>".</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p>La mayoría del tiempo, estos perfiles funcionan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
+<h4 id="configuracion">Configuración</h4>
 
-<table>
-<thead>
-<tr>
-<th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>XInput</strong></th>
-<th align="center"><strong>Batería</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/lsc.png" alt="Palanca izquierda presionada" title="Palanca izquierda presionada"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
-</tr>
-<tr>
-<td align="center">L3</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rsc.png" alt="Palanca derecha presionada" title="Palanca derecha presionada"></td>
-<td align="center">Modificador de Parches</td>
-</tr>
-<tr>
-<td align="center">R3</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rb.png" alt="Botón Bumper Derecho" title="Botón Bumper Derecho"></td>
-<td align="center">Modificador de Platillos</td>
-</tr>
-</tbody>
-</table><h3 id="mapeo-avanzado">Mapeo Avanzado</h3>
-<ul>
-<li>Baterías de Rock Band mandan mas de un botón a la vez. Por ejemplo, el Parche Rojo manda "<code>B</code>" y "<code>Palanca izquierda presionada</code>" (que para el emulador es "<code>Circle</code>" y “<code>L3</code>”.) Toma en cuenta que esto se requiere para que funcionen los platillos correctamente.
-<ul>
-<li>Recomendamos que uses un mando de Xbox para mapear todo y después que cambies el XInput Device a tu batería de Rock Band para Xbox 360.</li>
-</ul>
-</li>
-<li>Para mapear mas de una cosa por botón, sostén el Shift (Mayús) y haz click al botón a cual le quieras agregar mas de una cosa.</li>
-</ul>
 <table>
 <thead>
 <tr>
@@ -146,6 +123,14 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <tr>
 <td align="center">R3</td>
 <td align="center">Modificador de Platillos</td>
+</tr>
+<tr>
+<td align="center">D-Pad: Up</td>
+<td align="center">Modificador de Platillo Amarillo</td>
+</tr>
+<tr>
+<td align="center">D-Pad: Up</td>
+<td align="center">Modificador de Platillo Azul</td>
 </tr>
 <tr>
 <td align="center">L3</td>

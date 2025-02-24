@@ -10,15 +10,40 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrswii.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiighgtrscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
-* Si quieres usar este instrumento, necesitas instalar [[**WiitarThing**]](https://github.com/Meowmaritus/WiitarThing){:target="_blank"} y sus dependencias.
+* Necesitas instalar [[**WiitarThing**]](https://github.com/Meowmaritus/WiitarThing){:target="_blank"} y sus dependencias.
 * Esta configuración **requiere un receptor de Bluetooth para conectarse.** Si no computadora no tiene un adaptador de Bluetooth, no va a funcionar.
     * Es recomendado que modifiques tu guitarra para ser cableada con una solución como el [[Kit RGB DIY SIN SOLDADURA para controladores Guitar Hero de RetroCultMods]](https://www.etsy.com/mx/listing/1505287559/kit-rgb-diy-sin-soldadura-para){:target="_blank"}.
 * El sensor de ladeo (Tilt) no funciona correctamente.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#como-mapear-pads">¿Como configuro mi guitarra?</a>
+                            </h4>
+                        </div>
+                        <div id="como-mapear-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
+Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
+<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
+<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
 
 ## Información de Control
 

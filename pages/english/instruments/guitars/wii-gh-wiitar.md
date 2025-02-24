@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrswii.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiighgtrscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 

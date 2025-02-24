@@ -23,7 +23,7 @@ Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Co
 * D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usadas. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
 
-## Instrucciones:
+## Instrucciones
 
 **Si tu batería MIDI tiene un puerto de USB**, solo necesitas **conectarla a tu computadora**.  
 
@@ -43,9 +43,9 @@ Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED 
 
 Decide cual manera es mas conveniente para ti y conecta tu batería MIDI a tu computadora.
 
-Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"`Change Custom Configuration`"** (Cambiar configuración personalizada).  
 
-![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+![Una captura del menú de clic derecho de RPCS3, mostrando "`Change Custom Configuration`" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
 Entra la pestaña de "`I/O`".  
 
@@ -72,7 +72,7 @@ Mapeo Predeterminado:
 | **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir la Hi-Hat |
 
-### Configuración Adicional:
+### Configuración Adicional
 Puedes ajustar varias cosas en el archivo `rb3drums.yml`, que esta colocado en la carpeta llamada `config` dentro de donde tienes RPCS3.
 Abajo esta lo que hace cada opción.
 
@@ -91,7 +91,7 @@ Abajo esta lo que hace cada opción.
 | `Midi CC threshold: 64` | Esto es el punto medio del pedal de Hi-Hat, que separa si esta cerrado o abierto. |
 | `Midi CC invert threshold: false` | Si lo cambias a `true`, invierte el punto de pedal mencionado arriba. |
 
-#### Remapeando:
+#### Remapeando
 Si tu batería tiene partes que necesitan ser cambiadas, puedes usar `Midi id to note override: ""` para corregir notas.
 * Para hacer esto:
 	* Ve al sitio [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}

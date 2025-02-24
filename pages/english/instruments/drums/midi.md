@@ -71,7 +71,7 @@ Default Mapping:
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-### Additional Setup:
+### Additional Setup
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder.
 Below are the defaults and what each option does.

@@ -57,14 +57,14 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 
 ## Mapeo
 
-Guitarras viejas pueden tener problemas con las palancas de whammy que puede crear dificultades cuando las mapeas. **Si pasa, haz click en "Filter Noise" (filtrar ruido) para mapear correctamente.**  
-
 Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo necesitas ajustar esto:
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
 | R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") | 
 | L2 | ![Palanca derecha presionada](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Botón de solos") | 
+
+<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -168,12 +168,6 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
-
-## Perfil
-
-[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z){:target="_blank"}
-
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 [[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
 
