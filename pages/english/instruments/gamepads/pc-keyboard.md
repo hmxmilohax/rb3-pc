@@ -48,15 +48,141 @@ This is so you can change configuration profiles in case you want to play games 
 ## Bindings:
 
 <ul id="configTabs" class="nav nav-tabs">
-    <li class="active"><a href="#fortnitefest" data-toggle="tab">Autostrum</a></li>
+    <li class="active"><a href="#default" data-toggle="tab">Default</a></li>
+    <li><a href="#fortnitefest" data-toggle="tab">Autostrum</a></li>
     <li><a href="#fortnitepro" data-toggle="tab">Manual Strum</a></li>
     <li><a href="#linos-binds" data-toggle="tab">Linos Binds</a></li>
     <li><a href="#ashunprodrums" data-toggle="tab">Ashun Pro Drums</a></li>
-    <li><a href="#default-binds" data-toggle="tab">Default</a></li>
 </ul>
   <div class="tab-content">
 <!-- first tab start -->
-<div role="tabpanel" class="tab-pane active" id="fortnitefest">
+<div role="tabpanel" class="tab-pane active" id="default-binds">
+<!-- tab content start -->
+<h3 id="default-mapping">Default Mapping</h3>
+<p>These are the default keyboard mappings that come with RPCS3.</p>
+<ul>
+<li>This profile is <strong>strictly</strong> for menus and for vocalists that lack a proper controller.</li>
+</ul>
+<h4 id="pad-information">Pad Information</h4>
+
+<table>
+<thead>
+<tr>
+<th align="center">Handlers</th>
+<th align="center">Devices</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Keyboard</td>
+<td align="center">Keyboard</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th align="center">Device Class</th>
+<th align="center">Device Subtype</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Standard (Pad)</td>
+<td align="center">PS3 Controller</td>
+</tr>
+</tbody>
+</table><h4 id="bindings">Bindings</h4>
+
+<table>
+<thead>
+<tr>
+<th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Keyboard</strong></th>
+<th align="center"><strong>Alt Use 1</strong></th>
+<th align="center"><strong>Alt Use 2</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Cross</td>
+<td align="center"><code>X</code></td>
+<td align="center">Select</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Circle</td>
+<td align="center"><code>C</code></td>
+<td align="center">Back</td>
+<td align="center">Mic 3 Volume (Song)</td>
+</tr>
+<tr>
+<td align="center">Square</td>
+<td align="center"><code>Z</code></td>
+<td align="center">Mic 1 Volume (Song)</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Triangle</td>
+<td align="center"><code>V</code></td>
+<td align="center">View More Info (Library)</td>
+<td align="center">Mic 2 Volume (Song)</td>
+</tr>
+<tr>
+<td align="center">D-Pad</td>
+<td align="center"><code>Up</code>, <code>Down</code>, <code>Left</code>, and <code>Right</code></td>
+<td align="center">Navigation</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Left Stick</td>
+<td align="center"><code>W</code>, <code>A</code>, <code>S</code>, and <code>D</code></td>
+<td align="center">Navigation</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">Start</td>
+<td align="center"><code>Return</code></td>
+<td align="center">Options</td>
+<td align="center">Pause (Song)</td>
+</tr>
+<tr>
+<td align="center">Select</td>
+<td align="center"><code>Space</code></td>
+<td align="center">Overdrive</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">L1</td>
+<td align="center"><code>Q</code></td>
+<td align="center">Guide Part Selection (Practice)</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">L2</td>
+<td align="center"><code>R</code></td>
+<td align="center">Vocal Part Selection (Practice)</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">R1</td>
+<td align="center"><code>E</code></td>
+<td align="center">Vocal Track Volume (Song)</td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">R2</td>
+<td align="center"><code>T</code></td>
+<td align="center">Pitch Correction (Song)</td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+<!-- tab content end -->
+</div>
+<!-- first tab end -->
+<!-- next tab start -->
+<div role="tabpanel" class="tab-pane" id="autostrum">
 <!-- tab content start -->
 <h3 id="autostrum">Autostrum</h3>
 <p>A profile heavily inspired by Fortnite Festival’s keyboard scheme. Modified by lunalawl.</p>
@@ -216,7 +342,7 @@ This is so you can change configuration profiles in case you want to play games 
 <div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
-<!-- first tab end -->
+<!-- end tab start -->
 <!-- next tab start -->
 <div role="tabpanel" class="tab-pane" id="fortnitepro">
 <!-- tab content start -->
@@ -613,136 +739,6 @@ This is so you can change configuration profiles in case you want to play games 
 </tr>
 </tbody>
 </table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
-
-
-<!-- tab content end -->
-</div>
-<!-- end tab start -->
-<div role="tabpanel" class="tab-pane" id="default-binds">
-<!-- tab content start -->
-<h3 id="default-mapping">Default Mapping</h3>
-<p>These are the default keyboard mappings that come with RPCS3.</p>
-<ul>
-<li>This profile is <strong>strictly</strong> for menus and for vocalists that lack a proper controller.</li>
-</ul>
-<h4 id="pad-information">Pad Information</h4>
-
-<table>
-<thead>
-<tr>
-<th align="center">Handlers</th>
-<th align="center">Devices</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Keyboard</td>
-<td align="center">Keyboard</td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th align="center">Device Class</th>
-<th align="center">Device Subtype</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Standard (Pad)</td>
-<td align="center">PS3 Controller</td>
-</tr>
-</tbody>
-</table><h4 id="bindings">Bindings</h4>
-
-<table>
-<thead>
-<tr>
-<th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>Keyboard</strong></th>
-<th align="center"><strong>Alt Use 1</strong></th>
-<th align="center"><strong>Alt Use 2</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Cross</td>
-<td align="center"><code>X</code></td>
-<td align="center">Select</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">Circle</td>
-<td align="center"><code>C</code></td>
-<td align="center">Back</td>
-<td align="center">Mic 3 Volume (Song)</td>
-</tr>
-<tr>
-<td align="center">Square</td>
-<td align="center"><code>Z</code></td>
-<td align="center">Mic 1 Volume (Song)</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">Triangle</td>
-<td align="center"><code>V</code></td>
-<td align="center">View More Info (Library)</td>
-<td align="center">Mic 2 Volume (Song)</td>
-</tr>
-<tr>
-<td align="center">D-Pad</td>
-<td align="center"><code>Up</code>, <code>Down</code>, <code>Left</code>, and <code>Right</code></td>
-<td align="center">Navigation</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">Left Stick</td>
-<td align="center"><code>W</code>, <code>A</code>, <code>S</code>, and <code>D</code></td>
-<td align="center">Navigation</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">Start</td>
-<td align="center"><code>Return</code></td>
-<td align="center">Options</td>
-<td align="center">Pause (Song)</td>
-</tr>
-<tr>
-<td align="center">Select</td>
-<td align="center"><code>Space</code></td>
-<td align="center">Overdrive</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">L1</td>
-<td align="center"><code>Q</code></td>
-<td align="center">Guide Part Selection (Practice)</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">L2</td>
-<td align="center"><code>R</code></td>
-<td align="center">Vocal Part Selection (Practice)</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">R1</td>
-<td align="center"><code>E</code></td>
-<td align="center">Vocal Track Volume (Song)</td>
-<td align="center"></td>
-</tr>
-<tr>
-<td align="center">R2</td>
-<td align="center"><code>T</code></td>
-<td align="center">Pitch Correction (Song)</td>
-<td align="center"></td>
-</tr>
-</tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
-<!-- tab content end -->
-</div>
-<!-- end tab start -->
 </div>
 
 ## Profiles
