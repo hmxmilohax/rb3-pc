@@ -1,7 +1,7 @@
 ---
 title: PlayStation 3 Guitar Hero Guitars
 sidebar: controllers_sidebar
-permalink: ctrls_ghgtr_360_ps3
+permalink: ctrls_ghgtr_ps3
 folder: instruments
 tags: [ps3, guitars, english]
 summary: "How to setup PS3 Guitar Hero guitars on RPCS3."

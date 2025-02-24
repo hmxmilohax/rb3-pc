@@ -1,5 +1,5 @@
 ---
-title: Adaptador de Guitarra V3 por RetroCultMods
+title: Guitarras con Adaptador V3 de RetroCultMods
 sidebar: controllers_es_sidebar
 permalink: ctrls_modgtr_rcmv3_es
 folder: instrumentos

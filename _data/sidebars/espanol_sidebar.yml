@@ -66,7 +66,7 @@ entries:
       url: /ctrls_es#mandos
       output: web
 
-    - title: Teclados
+    - title: Teclados MIDI
       url: /ctrls_es#teclado
       output: web
 
@@ -158,7 +158,7 @@ entries:
       type: homepage
 
     - title: Objetos Bugeados
-      url: /trbl_teleprob_es
+      url: /teleportacion
       output: web
       type: homepage
 

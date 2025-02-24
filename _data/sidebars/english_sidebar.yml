@@ -71,7 +71,7 @@ entries:
       url: /ctrls#gamepads
       output: web
 
-    - title: Keyboards
+    - title: MIDI Keyboards
       url: /ctrls#keyboards
       output: web
 
@@ -163,7 +163,7 @@ entries:
       type: homepage
 
     - title: Teleporting Items
-      url: /trbl_teleprob
+      url: /teleporting
       output: web
       type: homepage
 
