@@ -80,7 +80,7 @@ This is so you can change configuration profiles in case you want to play games 
 
 ## Profile
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z)
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums%20(Raphnet).7z)
 
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">

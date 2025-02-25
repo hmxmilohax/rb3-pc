@@ -84,7 +84,7 @@ Use Right Click to unmap a button.
 
 ## Profile
 
-[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
+[[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar%20(Raphnet).7z){:target="_blank"}
 
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">

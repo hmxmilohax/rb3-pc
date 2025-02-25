@@ -83,7 +83,7 @@ Usa el click derecho para borrar botones.
 
 ## Perfil
 
-[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar.7z){:target="_blank"}
+[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Les%20Paul%20Guitar%20(Raphnet).7z){:target="_blank"}
 
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">

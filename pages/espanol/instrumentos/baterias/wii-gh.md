@@ -80,7 +80,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 
 ## Perfil
 
-[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums.7z)
+[[Descargar Perfil]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Wii%20Guitar%20Hero%20Drums%20(Raphnet).7z)
 
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">
