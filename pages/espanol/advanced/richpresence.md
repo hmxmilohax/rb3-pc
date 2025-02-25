@@ -87,6 +87,6 @@ Si hiciste todo correcto, debe de decirte que se conecto a Discord (Connected to
 Si el archivo no abre correctamente, verifica que tengas Python como la aplicación predeterminada para archivos `.py`.  
 ![Una captura mostrando cual aplicación predeterminada esta configurada para abrir archivos .py](https://rb3pc.milohax.org/images/xtra/rpc/pydefaultes.png "Aplicación predeterminada para archivos .py")
 
-Si estas en el [[Discord de Milohax]](https://discord.gg/milohax), puedes usar el comando de `!actividad` para ver información, como estadísticas de "Wrapped/Tu año en Rock Band" y como configurarla para Xbox 360.
+Si estas en el [[Discord de MiloHax]](https://discord.gg/milohax), puedes usar el comando de `!actividad` para ver información, como estadísticas de "Wrapped/Tu año en Rock Band" y como configurarla para Xbox 360.
 
 {% include links.html %}

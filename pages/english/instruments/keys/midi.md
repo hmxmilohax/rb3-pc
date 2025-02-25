@@ -13,9 +13,9 @@ toc: false
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/midikeyscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
 * It is suggested to have a keyboard with **at least 37 keys** or 25 keys and 11 drum pads.
 * Your MIDI keyboard needs to:
 	* **be set to MIDI Channel 1.**

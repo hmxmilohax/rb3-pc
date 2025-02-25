@@ -12,17 +12,18 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* **NO mapeés este instrumento por el menú de "Pads".**
 * Tu batería MIDI necesita:
 	* **estar en canal de MIDI 10.**
 	* **estar configurada a el mapeo de GM.**  
 Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
 * D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usadas. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
-## Instrucciones:
+## Instrucciones
 
 **Si tu batería MIDI tiene un puerto de USB**, solo necesitas **conectarla a tu computadora**.  
 
@@ -42,17 +43,17 @@ Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED 
 
 Decide cual manera es mas conveniente para ti y conecta tu batería MIDI a tu computadora.
 
-Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Change Custom Configuration"** (Cambiar configuración personalizada).  
+Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"`Change Custom Configuration`"** (Cambiar configuración personalizada).  
 
-![Una captura del menú de clic derecho de RPCS3, mostrando "Change Custom Configuration" (Cambiar configuración personalizada) resaltado.](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+![Una captura del menú de clic derecho de RPCS3, mostrando "`Change Custom Configuration`" (Cambiar configuración personalizada) resaltado.](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
-Entra la pestaña de I/O.  
+Entra la pestaña de "`I/O`".  
 
 ![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://rb3pc.milohax.org/images/cust/iod.png "I/O")
 * ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/smalltan.png "Un cuadrado bronceado.") : 
-	* 🥁 **Cambia el "Emulated MIDI type"** (Tipo de MIDI emulado) **de "Keyboard"** (teclado) **a "Drums"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
+	* 🥁 **Cambia el "`Emulated MIDI type`"** (Tipo de MIDI emulado) **de "`Keyboard`"** (teclado) **a "`Drums`"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
-## Mapeo:
+## Mapeo
 Mapeo Predeterminado:
 * `START`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a la snare (caja).
 * `SELECT`: Cierra la Hi-Hat tres veces rápidamente y luego pégale a el snare rim (aro de la caja).
@@ -71,7 +72,7 @@ Mapeo Predeterminado:
 | **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir la Hi-Hat |
 
-### Configuración Adicional:
+### Configuración Adicional
 Puedes ajustar varias cosas en el archivo `rb3drums.yml`, que esta colocado en la carpeta llamada `config` dentro de donde tienes RPCS3.
 Abajo esta lo que hace cada opción.
 
@@ -90,7 +91,7 @@ Abajo esta lo que hace cada opción.
 | `Midi CC threshold: 64` | Esto es el punto medio del pedal de Hi-Hat, que separa si esta cerrado o abierto. |
 | `Midi CC invert threshold: false` | Si lo cambias a `true`, invierte el punto de pedal mencionado arriba. |
 
-#### Remapeando:
+#### Remapeando
 Si tu batería tiene partes que necesitan ser cambiadas, puedes usar `Midi id to note override: ""` para corregir notas.
 * Para hacer esto:
 	* Ve al sitio [MIDI Monitor](https://www.midimonitor.com/){:target="_blank"}

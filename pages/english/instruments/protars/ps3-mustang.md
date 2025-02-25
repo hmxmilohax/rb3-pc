@@ -13,10 +13,10 @@ toc: false
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rbprotar.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
 * It's strongly suggested you connect your Pro Guitar with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/adv_passthrough){:target="_blank"}
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
 * This is meant for players that have their PRO Guitars connected via a MIDI to USB interface.
 
@@ -26,11 +26,12 @@ toc: false
 
 | Verified <br> MIDI to USB interfaces |
 |:------------------:|
-| **M-Audio** <br> Midisport Uno |
-| **Roland** <br> UM-ONE mk2 |
 | **Focusrite** <br> Scarlett (4i4 and higher) [3rd Gen] |
+| **M-Audio** <br> Midisport Uno |
+| **MOTU** <br> M2/M4 |
+| **Roland** <br> UM-ONE mk2 |
 
-## Instructions:
+## Instructions
 
 Since you can't use the dongle, you will need to connect Rock Band 3 Pro Guitar via the MIDI port on the bottom.
 

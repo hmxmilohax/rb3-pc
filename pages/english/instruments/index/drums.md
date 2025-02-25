@@ -1,0 +1,31 @@
+---
+title: Drums
+sidebar: english_sidebar
+permalink: ctrls_drums
+folder: english
+tags: [controllers, drums, english]
+summary: "A list of verified drums you can use in Rock Band 3 in RPCS3."
+series: "Instruments"
+weight: 1
+toc: false
+---
+
+| Picture | Name | Platform | Compatibility | Configuration |
+|---------|------|----------|---------------|---------------|
+|[![MIDI Drums](https://rb3pc.milohax.org/images/instruments/list/drmmidi.png)](https://rb3pc.milohax.org/ctrls_drums_midi "MIDI Drums")  | MIDI Drums | ![MIDI Drums](https://rb3pc.milohax.org/images/instruments/plat/midi.png) | ![Okay Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/okay.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_drums_midi) |
+|![Rock Band Drums with cymbals](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)  | Rock Band Drums (with or without cymbals) | ![PlayStation 3](https://rb3pc.milohax.org/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) | Plug and play! |
+|![Rock Band MIDI Pro Adapter Drums](https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png)  | PlayStation 3 Rock Band MIDI Pro Adapter Drums | ![PlayStation 3](https://rb3pc.milohax.org/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/adv_passthrough){:target="_blank"} |
+|[![Rock Band Drums 4 with cymbals](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/ctrls_rb4drums_xbox "Xbox One Rock Band 4 Drums") | Rock Band Drums 4 (with or without cymbals) | ![Xbox One](https://rb3pc.milohax.org/images/instruments/plat/xbx.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rb4drums_xbox) |
+|[![Rock Band Drums with cymbals](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/ctrls_rbdrums_360 "Xbox 360 Rock Band Drums") | Rock Band Drums (with or without cymbals) | ![Xbox 360](https://rb3pc.milohax.org/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rbdrums_360) |
+|[![Rock Band Drums with cymbals](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/ctrls_rbdrums_wii "Nintendo Wii Rock Band Drums") | Rock Band Drums (with or without cymbals) | ![Nintendo Wii](https://rb3pc.milohax.org/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rbdrums_wii) |
+|[![Rock Band MIDI Pro Adapter Drums](https://rb3pc.milohax.org/images/instruments/list/drmmpa360.png)](https://rb3pc.milohax.org/ctrls_rbdrums_360 "Xbox 360 Rock Band Drums") | Xbox 360 Rock Band MIDI Pro Adapter Drums | ![Xbox 360](https://rb3pc.milohax.org/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rbdrums_360) |
+|[![Rock Band MIDI Pro Adapter Drums](https://rb3pc.milohax.org/images/instruments/list/drmmpawii.png)](https://rb3pc.milohax.org/ctrls_rbdrums_wii "Nintendo Rock Band Drums") | Nintendo Wii Rock Band MIDI Pro Adapter Drums | ![Nintendo](https://rb3pc.milohax.org/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rbdrums_wii) |
+|[![Roll Limitless Drums](https://rb3pc.milohax.org/images/instruments/list/drmroll.png)](https://rb3pc.milohax.org/ctrls_mod_rldrums "Roll Limitless Drums") | Roll Limitless Drums | ![MIDI](https://rb3pc.milohax.org/images/instruments/plat/midi.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_mod_rldrums) |
+|[![Guitar Hero Drums](https://rb3pc.milohax.org/images/instruments/list/drmgh.png)](https://rb3pc.milohax.org/ctrls_ghdrums_360 "Xbox 360 Guitar Hero Drums") | Guitar Hero Drums | ![Xbox 360](https://rb3pc.milohax.org/images/instruments/plat/360.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_ghdrums_360) |
+|[![Guitar Hero Drums](https://rb3pc.milohax.org/images/instruments/list/drmgh.png)](https://rb3pc.milohax.org/ctrls_ghdrums_ps3 "PlayStation 3 Guitar Hero Drums") | Guitar Hero Drums | ![PlayStation 3](https://rb3pc.milohax.org/images/instruments/plat/ps3.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_ghdrums_ps3) |
+|[![Guitar Hero Drums](https://rb3pc.milohax.org/images/instruments/list/drmgh.png)](https://rb3pc.milohax.org/ctrls_ghdrums_wii "Nintendo Wii Guitar Hero Drums") | Guitar Hero Drums (Raphnet) | ![Nintendo](https://rb3pc.milohax.org/images/instruments/plat/wii.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_ghdrums_wii) |
+|[![Rock Band Drums 4 with cymbals](https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png)](https://rb3pc.milohax.org/ctrls_rb4drums_ps4 "Xbox One Rock Band 4 Drums") | Rock Band Drums 4 (without cymbals) | ![PlayStation 4](https://rb3pc.milohax.org/images/instruments/plat/ps4.png) | ![Bad Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/bad.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_rb4drums_ps4) |
+|[![Unknown Drums](https://rb3pc.milohax.org/images/instruments/list/drrmyst.png)](https://rb3pc.milohax.org/ctrls_drums_gen "Unknown Drums") | Unknown Drums | ![Unknown Platform](https://rb3pc.milohax.org/images/instruments/plat/myst.png) | N/A |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_drums_gen) |
+
+
+{% include links.html %}

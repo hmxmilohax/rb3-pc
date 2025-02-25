@@ -2,11 +2,11 @@
 
 entries:
 - title: sidebar
-  product: Guide
+  product: PS3 Customs
   version: 
   folders:
 
-  - title: Converting Customs
+  - title: Adding Customs
     output: web
     folderitems:
 

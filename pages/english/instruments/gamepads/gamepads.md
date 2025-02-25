@@ -19,16 +19,38 @@ toc: false
 	- You can also rebind your controller within Deluxe.  
 	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I set up gamepad up?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/gamepadlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping an Xbox Controller"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## Pad Information
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
-### Guitars/Bass/Keys
+### Default Guitars/Bass/Keys
 
-| **RPCS3**          | **Rock Band** |
-|:------------------:|:---------------------:|
+| **RPCS3** | **Rock Band** |
+|:---------:|:-------------:|
 | L2 | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") |
 | L1 | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") |
 | R1 | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") |
@@ -37,10 +59,10 @@ toc: false
 | Left Stick | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") |
 | Select | Overdrive |
 
-### Drums 
+### Default Drums 
 
-| **RPCS3**    | **Rock Band Drums** |
-|:--------:|:-------------------:|
+| **RPCS3** | **Rock Band Drums** |
+|:---------:|:-------------------:|
 | L2 | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") |
 | L1 | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") |
 | R1 | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") |
@@ -50,7 +72,7 @@ toc: false
 ### Vocals
 
 | **PlayStation (DS3)** | **Use** | **Alt Use** |
-|:---------------------:|:-------------------------------:|:-------------------:|
+|:---------------------:|:-------:|:-----------:|
 | Left Stick: <br> Up/Down/Left/Right | Navigation | |
 | D-Pad: <br> Up/Down/Left/Right | Navigation | |
 | Cross | Select | |

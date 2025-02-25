@@ -13,10 +13,10 @@ toc: false
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/ps3rbkeyscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
 * It's strongly suggested you connect the keyboard with the dongle, if you have it. [[Click here for instructions on how to set that up.]](https://rb3pc.milohax.org/adv_passthrough){:target="_blank"}
-* **Do NOT map this instrument via Gamepad Configuration.**
-* There is no binding file.
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.

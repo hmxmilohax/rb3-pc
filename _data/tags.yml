@@ -3,47 +3,47 @@
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
   - english
-  - getting-started
+  - espanol
+  - advanced
+  - avanzado
+  - conf-pers
   - custom-config
   - customs
   - customs-es
-  - controllers
-  - drums
-  - guitars
-  - gamepads
-  - midi
-  - modded
-  - pc
-  - ps2
-  - ps3
-  - ps4
-  - ps5
-  - switch
-  - wii
-  - xbox-360
-  - xbox-one
-  - online
-  - advanced
-  - troubleshooting
-  - espanol
-  - empezando
-  - conf-pers
   - controles
-  - baterias
-  - guitarras
-  - mandos
-  - midi-es
-  - modeado
-  - pc-es
-  - ps2-es
-  - ps3-es
-  - ps4-es
-  - ps5-es
-  - switch-es
-  - wii-es
-  - xbox-360-es
-  - xbox-one-es
+  - controllers
+  - empezando
+  - getting-started
   - jugando-en-linea
-  - avanzado
+  - online
   - resolviendo-problemas
+  - troubleshooting
+  - drums
+  - baterias
+  - gamepads
+  - guitarras
+  - guitars
+  - mandos
+  - midi
+  - midi-es
+  - modded
+  - modeado
+  - pc
+  - pc-es
+  - ps2
+  - ps2-es
+  - ps3
+  - ps3-es
+  - ps4
+  - ps4-es
+  - ps5
+  - ps5-es
+  - switch
+  - switch-es
+  - wii
+  - wii-es
+  - xbox-360
+  - xbox-360-es
+  - xbox-one
+  - xbox-one-es
 # 

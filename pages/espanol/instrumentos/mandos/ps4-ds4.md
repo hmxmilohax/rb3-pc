@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/ps4ds4controller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Mandos DualShock 4 de PlayStation 4 pueden ser conectados por USB o por Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 * No existe un perfil porque la configuración es por defecto.
@@ -21,14 +21,14 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | DualShock 4 | DS4 Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
 ## Guitarra/Bajo/Teclado:

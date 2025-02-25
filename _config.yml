@@ -1,15 +1,15 @@
-repository: hmxmilohax/rb3-pc
+repository: carlmylo/rb3-pc
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Rock Band 3 Deluxe on RPCS3
+topnav_title: MiloHax Guides
 # this appears on the top navigation bar next to the home button
 
-site_title: RB3DX on PC
+site_title: MiloHax Guides
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Milohax
+company_name: MiloHax
 # this appears in the footer
 
 # github_editme_path: hmxmilohax/rb3-pc/blob/main/
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: RB3DX on RPCS3 Guide
+feedback_subject_line: MiloHax Guides
 
 feedback_email: carl@carlmylo.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -88,7 +88,7 @@ description: "A guide for how to play Rock Band 3 on RPCS3."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://hmxmilohax.github.io
+url: https://carlmylo.github.io
 baseurl: /
 
 

@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Guía
+  product: RB3DX en RPCS3
   version: 
   folders:
 
@@ -30,13 +30,18 @@ entries:
       output: web
       type: homepage
 
-    - title: Cuenta De Usuario
-      url: /gs_user_es
+    - title: Configuración Rápida
+      url: /gs_quick_config_es
       output: web
       type: homepage
 
-    - title: Configuración Rápida
-      url: /gs_quick_config_es
+    - title: Configurando Micrófonos
+      url: /gs_mics_es
+      output: web
+      type: homepage
+
+    - title: Cuenta De Usuario
+      url: /gs_user_es
       output: web
       type: homepage
 
@@ -49,10 +54,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Mapeando
-      url: /ctrls_es#mapeando
-      output: web
-
     - title: Baterías
       url: /ctrls_es#baterías
       output: web
@@ -61,15 +62,11 @@ entries:
       url: /ctrls_es#guitarra
       output: web
 
-    - title: Controles Modeados
-      url: /ctrls_es#instrumentos-modeados
-      output: web
-
     - title: Mandos
       url: /ctrls_es#mandos
       output: web
 
-    - title: Teclados
+    - title: Teclados MIDI
       url: /ctrls_es#teclado
       output: web
 
@@ -84,20 +81,6 @@ entries:
     - title: Contribuyendo
       url: /ctrls_es#contribuyendo
       output: web
-
-  - title: Configuración Personalizada
-    output: web
-    folderitems:
-
-    - title: Introducción
-      url: /custom_config_es
-      output: web
-      type: homepage
-
-    - title: Configuración Personalizada
-      url: /custom_config_es#configuración-personalizada
-      output: web
-      type: homepage
 
   - title: Jugando en linea
     output: web
@@ -118,6 +101,53 @@ entries:
       output: web
       type: homepage
 
+  - title: Avanzado
+    output: web
+    folderitems:
+
+    - title: Conexión Directa
+      url: /adv_passthrough_es
+      output: web
+      type: homepage
+
+    - title: Agregar mas memoria
+      url: /memoria
+      output: web
+
+    - title: Agregar canciones
+      url: /adv_customsongs_es
+      output: web
+
+    - title: Mover archivos de el juego
+      url: /adv_movedir_es
+      output: web
+
+    - title: Status en Discord
+      url: /adv_discordrp_es
+      output: web
+
+    - title: Fotogramas Fluidas
+      url: /adv_rtss_es
+      output: web
+
+    - title: Texturas Personalizada
+      url: /adv_customtex_es
+      output: web
+
+  - title: Ajustes Adicionales
+    output: web
+    folderitems:
+
+    - title: Introducción
+      url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Ajustando la Configuración
+      url: /custom_config_es#configuración-personalizada
+      output: web
+      type: homepage
+
   - title: Problemas y soluciones
     output: web
     folderitems:
@@ -128,7 +158,7 @@ entries:
       type: homepage
 
     - title: Objetos Bugeados
-      url: /trbl_teleprob_es
+      url: /teleportacion
       output: web
       type: homepage
 
@@ -154,39 +184,6 @@ entries:
 
     - title: Misc
       url: /trbl_misc_es
-      output: web
-
-  - title: Adicional
-    output: web
-    folderitems:
-
-    - title: Conexión Directa
-      url: /adv_passthrough_es
-      output: web
-      type: homepage
-
-    - title: Agregar mas memoria
-      url: /adv_himem_es
-      output: web
-
-    - title: Agregar canciones
-      url: /adv_customsongs_es
-      output: web
-
-    - title: Mover archivos de el juego
-      url: /adv_movedir_es
-      output: web
-
-    - title: Status en Discord
-      url: /adv_discordrp_es
-      output: web
-
-    - title: Fotogramas Fluidas
-      url: /adv_rtss_es
-      output: web
-
-    - title: Texturas Personalizada
-      url: /adv_customtex_es
       output: web
 
   - title: Conclusion

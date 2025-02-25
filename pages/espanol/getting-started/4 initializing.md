@@ -4,12 +4,26 @@ sidebar: espanol_sidebar
 permalink: gs_init_es
 folder: espanol
 tags: [empezando, espanol]
-summary: "Lo que tienes que hacer con lo que bajaste en la pagina anterior"
+summary: "Lo que tienes que hacer con lo que bajaste en la pagina anterior."
 series: "Empezando"
 weight: 4
 ---
 
-Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta abierta en el fondo. **Marca "I have read the Quickstart guide"** (He leído la guía de inicio rápido) **, "Do not show again"** (No volver a mostrar) **y, al final, haz clic en "Continue"** (Continuar).  
+<p>Ahora, <strong>ve a la carpeta donde extrajiste a RPCS3 y ábrelo.</strong> Deja esta carpeta abierta en el fondo.<br>
+<strong>Activa</strong>:</p>
+<ul>
+<li><a href="#" data-toggle="tooltip" data-original-title="Crear atajo en el escritorio"><code>Create desktop shortcut</code></a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="Crear atajo en el Menu de Inicio"><code>Create Start Menu shortcut</code></a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="He leído la guía de inicio rápido"><code>I have read the Quickstart guide</code></a></li>
+<li><a href="#" data-toggle="tooltip" data-original-title="No mostrar de nuevo"><code>Do not show again</code></a></li>
+</ul>
+<p><strong>Desactiva</strong>:</p>
+<ul>
+<li><a href="#" data-toggle="tooltip" data-original-title="Siempre mostrar al iniciar"><code>Show at startup</code></a></li>
+</ul>
+
+<p>Despues de eso, haz click en <a href="#" data-toggle="tooltip" data-original-title="Continuar"><code>Continue</code></a></p>
+
 ![Una captura de pantalla de RPCS3 dando la bienvenida al usuario.](https://rb3pc.milohax.org/images/install/rpcs3init.png "Welcome to RPCS3 (Bienvenido a RPCS3)")
 
 ## Firmware
@@ -18,13 +32,14 @@ Ahora, **ve a la carpeta donde extrajiste a RPCS3 y ábrelo**. Deja esta carpeta
 
 ![Una GIF de PS3UPDAT.PUP siendo instalado en RPCS3.](https://rb3pc.milohax.org/images/install/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
-**Haz click en "Yes"** (Si) cuando el programa te pregunte si quieres instalar el archivo.  
+<p><strong>Haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a></strong> cuando el programa te pregunte si quieres instalar el archivo.
+
 ![[Una captura del instalador de software del sistema de RPCS3 preguntándole al usuario si quiere instalar la software del sistema llamado "PS3UPDAT.PUP".]](https://rb3pc.milohax.org/images/install/fwinstall.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3)")
 
 **Déjalo instalar.**  
 ![Una captura del instalador del software del sistema de RPCS3 después de una instalación exitosa del software del sistema y los módulos LLE.](https://rb3pc.milohax.org/images/install/rpcs3fw.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3) en acción")
 
-**Cuando termine, haz click en "OK"**  
+**Cuando termine, haz click en "`OK`"**  
 ![Una captura del instalador de firmware de RPCS3 después de una exitosa instalación del firmware de PS3 y los módulos LLE.](https://rb3pc.milohax.org/images/install/rpcs3fwdone.png "Success (Completo)!")
 
 Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto puede tardar unos minutos. **Puedes dejar que haga su trabajo o puedes cerrarlo.**  
@@ -32,11 +47,11 @@ Comenzará a compilar módulos para cargar la XMB de PS3 en el emulador. Esto pu
 
 ## Rock Band 3
 
-Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U){:target="_blank"}  
+Después, **en una pantalla de archivos nueva, ve a la carpeta donde tienes tu copia de Rock Band 3 y muévela a un lado. Arrastra la carpeta de Rock Band 3 a la carpeta llamada "games" adentro de la carpeta de RPCS3**. De nuevo, no puedo darte una link por las reglas de este sitio. [[Yo usé "PS3 Disc Dumper" porque es la manera más fácil.]](https://youtu.be/gwjRJLHEV7U){:target="_blank"}  
 
 ![Un GIF de la carpeta de Rock Band 3 siendo arrastrada a RPCS3, lo que actualiza RPCS3 para mostrar Rock Band 3 en la lista de juegos.](https://rb3pc.milohax.org/images/install/rpcs3rb3dnd.gif "Rock Band 3 [BLUS30463]")
 
-Después de mover la carpeta de Rock Band 3, haz clic en "Refresh" (actualizar) en RPCS3 para actualizar tu biblioteca en RPCS3. Rock Band 3 debe de aparecer en tu biblioteca de juegos.
+<p>Después de mover la carpeta de Rock Band 3, haz clic en <a href="#" data-toggle="tooltip" data-original-title="Actualizar"><code>Refresh</code></a> en RPCS3 para actualizar tu biblioteca en RPCS3. Rock Band 3 debe de aparecer en tu biblioteca de juegos.</p>
 
 ![A GIF of "Refresh" being clicked in RPCS3, which updates it to display Rock Band 3 in the game list.](https://rb3pc.milohax.org/images/install/rpcs3refresh.gif "Rock Band 3 [BLUS30463]")
 
@@ -54,7 +69,7 @@ Cuando se baje, **extrae el archivo**.
 
 ![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://rb3pc.milohax.org/images/install/rb3dxextes.png "Extraer ficheros...")
 
-**Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en "Yes" (Si)**, como con el archivo PS3UPDAT.PUP.  
+<p>Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a>, como con el archivo <code>PS3UPDAT.PUP</code>.
 
 ![Una GIF de el archivo PKG siendo arrastrato en RPCS3.](https://rb3pc.milohax.org/images/install/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG")
 
@@ -64,7 +79,7 @@ Si se instala correctamente, el icono de Rock Band 3 va a cambiar.
 
 ![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](https://rb3pc.milohax.org/images/install/rpcs3rb3dxicon.png "RPCS3 Game List")
 
-Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a "Rename in Gamelist" (Renombrar en lista de juegos).
+<p>Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a <a href="#" data-toggle="tooltip" data-original-title="Renombrar en lista de juegos"><code>Rename in Gamelist</code></a>.</p>
 
 {% include custom/series_empezando_next.html %}
 

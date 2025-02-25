@@ -18,7 +18,7 @@ toc: false
                         <div id="juego-no-inicia" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-<li>Es probable que instalaste el <a href="https://rb3pc.milohax.org/adv_himem_es" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://rb3pc.milohax.org/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Es probable que instalaste el <a href="https://rb3pc.milohax.org/memory_es" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://rb3pc.milohax.org/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Asegúrate que tengas firmware actual.</li>
 <li>Si no fue esto, tienes una copia de Rock Band 3 corrupta.</li>
 </ul>
@@ -64,7 +64,7 @@ toc: false
                         <div id="todo-va-mal" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Revisa nuevamente para asegurarte de que has seguido cada paso correctamente. Esta guía ha sido probada y ha demostrado funcionar para muchas personas con diferentes tipos de sistemas. Si estás absolutamente seguro de haber seguido cada paso correctamente, es muy probable que el archivo del juego que tienes estén dañado en un 90%, 9% de posibilidades de que tu computadora se haya quedado sin espacio en disco, y un 1% que la regaste de otra manera. Si quieres, puedes mandarme un mensaje por <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[el Discord de Milohax]</strong></a>. Hablamos Español.</li>
+<li>Revisa nuevamente para asegurarte de que has seguido cada paso correctamente. Esta guía ha sido probada y ha demostrado funcionar para muchas personas con diferentes tipos de sistemas. Si estás absolutamente seguro de haber seguido cada paso correctamente, es muy probable que el archivo del juego que tienes estén dañado en un 90%, 9% de posibilidades de que tu computadora se haya quedado sin espacio en disco, y un 1% que la regaste de otra manera. Si quieres, puedes mandarme un mensaje por <a href="https://rb3dx.milohax.org/discord" target="_blank"><strong>[el Discord de MiloHax]</strong></a>. Hablamos Español.</li>
 </ul>
                             </div>
                         </div>

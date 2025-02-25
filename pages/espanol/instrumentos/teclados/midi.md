@@ -12,17 +12,17 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/midikeyscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* No existe un perfil para este instrumento.
-* **NO mapeés este instrumento por el menú de "Pads".**
 * Necesitas un teclado  **37 teclas a lo mínimo** o 27 teclas y 11 "pads" de batería.
 * Tu teclado MIDI necesita:
 	* **estar en canal MIDI 1.**
 	* **tener una manera de controlar modulación y tono.**
 * Se puede conectar un pedal de sostén para activar sobrecarga.
 * Se requiere una versión de [[RPCS3 actual]](https://rpcs3.net/download).
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 ## Instrucciones:
 
@@ -52,7 +52,7 @@ Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"Cha
 * ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🎹 **Deja tu “Emulated MIDI type”** (Tipo de MIDI emulado) **en “Keyboard”** (teclado) **y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él.**
 
-### Mapeo:
+### Mapeo
 
 Teclados MIDI tienen mapeo fijo y no puede ser cambiado dentro de RPCS3. Como no tienen botones de PS3,  la primera octava está emulando botones de PS3. Utiliza la siguiente imagen como referencia. Recomendamos poner etiquetas o algo así en tu teclado para recordarte qué hace cada tecla junto con rangos de colores. 
 

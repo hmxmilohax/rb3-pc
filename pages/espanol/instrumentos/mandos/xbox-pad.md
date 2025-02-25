@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/xbxcontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Mandos de Xbox One/Series pueden ser conectados por USB o por Bluetooth/receptor inalámbrico. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora. **Versiones anteriores** de los mandos de Xbox One **requiere un adaptador inalámbrico para Windows**.
 
@@ -26,14 +26,14 @@ toc: false
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
 ## Guitarra/Bajo/Teclado:

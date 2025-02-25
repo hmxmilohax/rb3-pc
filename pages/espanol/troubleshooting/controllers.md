@@ -23,7 +23,7 @@ toc: false
 <li>Re-conecta el control.</li>
 <li>Abre el menú de "Pads" y ciérralo. Esto va a reiniciar tus controles.</li>
 <li>Desactiva "Native Interface" como dijo la guía en la <a href="https://rb3pc.milohax.org/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
-<li>Usa un <a href="https://rb3pc.milohax.org/ctrls_pads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
+<li>Usa un <a href="https://rb3pc.milohax.org/ctrls#gamepads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
 </ul>
                             </div>
                         </div>

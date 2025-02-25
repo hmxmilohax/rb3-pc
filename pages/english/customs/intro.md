@@ -20,9 +20,9 @@ Following the guide will help prevent common issues before they happen. There is
 ### Requirements:
 * A modded PS3 console (with a method of transferring files to it) or the [[RPCS3 emulator]](https://rb3pc.milohax.org/gs_disc){:target="_blank"}
 * [[An installation of Rock Band 3 Deluxe]](https://rb3dx.milohax.org/){:target="_blank"} (Optional but highly recommended)
-* [[Nautilus version 4.8.4 or later]](https://nemosnautilus.com/nautilus/){:target="_blank"} (Previously known as C3 CON Tools/C3Tools)
+* The latest [[Nautilus]](https://nemosnautilus.com/nautilus/){:target="_blank"} (Previously known as C3 CON Tools/C3Tools)
 	* [[Mirror Link]](https://github.com/trojannemo/Nautilus/releases/){:target="_blank"}
-* [[Onyx Music Game Toolkit]](https://github.com/mtolly/onyxite-customs){:target="_blank"}
+* The latest [[Onyx Music Game Toolkit]](https://github.com/mtolly/onyxite-customs){:target="_blank"}
 
 {% include custom/series_customs_next.html %}
 

@@ -32,9 +32,9 @@ toc: false
                         </div>
                         <div id="flying-instruments" class="panel-collapse collapse">
                             <div class="panel-body">
-<ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accessorios."><br>
+<ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accesorios."><br>
 Esto pasa en PlayStation 3 pero es peor en RPCS3.<br>
-Existe un parche que arregla las guitarras y una lista de todo los accesorios que tienen problemas.<br>
+Afortunadamente, hay un parche que arregla todo esto.<br>
 <a href="https://rb3pc.milohax.org/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a></p></ul>
                             </div>
                         </div>

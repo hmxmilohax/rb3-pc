@@ -12,17 +12,18 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/mididrumscontroller.png" alt="Controller" title="Controller"></div>
 
-## NOTES:
+## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* **Do NOT map this instrument via the "Pads" menu.**
 * Your MIDI Drum Kit needs to:
 	* **be set to MIDI Channel 10.**
 	* **be set to standard GM mapping.**  
 These should be default settings but consult the manual for your MIDI Drum Kit to make sure.
 * D-Pad: Left and D-Pad: Right cannot be used. This makes slowing down practice mode and cycling through trainers impossible.
-* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls#gamepads){:target="_blank"}.
 
-## Instructions:
+## Instructions
 
 **If your MIDI Drum Kit has a USB port**, all you need to do is **plug it into your computer**.  
 
@@ -41,13 +42,15 @@ Here's an example of a MIDI to USB interface. Most will come with an LED indicat
 
 Find whichever way is the most convenient for you then connect your MIDI Drum Kit to your computer.
 
-After that, **right click on Rock Band 3** in RPCS3, then click on “**Change Custom Configuration**”.  
+After that, **right click on Rock Band 3** in RPCS3, then click on “**`Change Custom Configuration`**”.  
 
 ![A screenshot of RPCS3's right click menu, showing "Change Custom Configuration" highlighted](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
+After that, go to the "`I/O`" tab.
+
 ![A screenshot of Rock Band 3's I/O custom settings, showing Emulated MIDI Devices, device type, and device selection highlighted in tan with a solid outline.](https://rb3pc.milohax.org/images/cust/iod.png "I/O")
 * ![A tan square with a solid outline](https://rb3pc.milohax.org/images/cust/smalltan.png "Tan Square") : 
-	* 🥁 **Change your "Emulated MIDI type" from "Keyboard" to "Drums", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
+	* 🥁 **Change your "`Emulated MIDI type`" from "`Keyboard`" to "`Drums`", then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it**.
 
 ## Mapping
 Default Mapping:
@@ -68,7 +71,7 @@ Default Mapping:
 | **44** | Hi-Hat Pedal | Hi-Hat Pedal |
 | **CC#4 (Foot controller)** | Hi-Hat Pedal Position | Allows Hi-Hat pedal to be held closed |
 
-### Additional Setup:
+### Additional Setup
 
 You can adjust a variety of options in the `rb3drums.yml` file, located within the `config` folder inside your RPCS3 installation folder.
 Below are the defaults and what each option does.

@@ -13,9 +13,9 @@ toc: false
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/wiirbkeyscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* There is no binding file.
-* **Do NOT map this instrument via Gamepad Configuration.**
 * None of the controller buttons will work as intended as the keyboard will be in MIDI mode.
 * Requires the latest version of [[RPCS3]](https://rpcs3.net/download)
 * RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.
@@ -46,7 +46,7 @@ After that, **right click on Rock Band 3** in RPCS3, then click on “**Change C
 * ![A tan square with a solid outline](https://rb3pc.milohax.org/images/cust/smalltan.png "Tan Square") : 
 	* 🎹 **Leave your "Emulated MIDI type" on "Keyboard" and select your MIDI interface in the drop-down menu next to it.**.
 
-### Additional Information:
+### Additional Information
 
 Since the keyboard controller buttons don't function like they do when connected with a dongle, you will have to shift octaves to access the buttons on the keys.
 

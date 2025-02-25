@@ -22,16 +22,41 @@ toc: false
 	* PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")  
 * If you have a Jaguar guitar, you may need to install a [[firmware update]](https://bit.ly/2UHzonU){:target="_blank"} to connect it to the receiver. [[Click here for more information]](https://bit.ly/2UHzonU){:target="_blank"}.
-* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls_pads){:target="_blank"}.
+* RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls#gamepads){:target="_blank"}.
+
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
+This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
 
 ## Pad Information
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | XInput | XInput Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Guitar | Rock Band |
 
 ## Additional Setup
@@ -45,7 +70,7 @@ Please refer to RB4InstrumentMapper's documentation.
 
 This is the recommended mode and should not require any mapping. You simply need to assign the Handler, Device, and Device Class/Type.
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxomapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxomapping.png" alt="Mapeo" title="Mapeo"></div> 
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -58,8 +83,17 @@ This is the recommended mode and should not require any mapping. You simply need
                             <div class="panel-body">
 <p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/Xbox%20Rock%20Band%20Guitar.7z">[Download Profile]</a></p>
 <p>This is not suggested as it requires lots of manual mapping. You should instead use <strong>ViGEmBus (RPCS3 compatibility)</strong>.</p>
-<p>The effects switch (pickup selector) was only able to be bound to the top half or the bottom half. The bottom half was chosen in the profile so it could be disabled.</p>
-
+<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
+<p>After downloading the profile,</p>
+<ol>
+<li>Extract the .7z file.</li>
+<li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
+</ol>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
+<p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
+<p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
+<h4 id="profile">Bindings</h4>
 <table>
 <thead>
 <tr>
@@ -118,7 +152,7 @@ This is the recommended mode and should not require any mapping. You simply need
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.png" alt="Tilt" title="Tilt"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.gif" alt="Tilt" title="Tilt"></td>
 </tr>
 <tr>
 <td align="center">Start</td>

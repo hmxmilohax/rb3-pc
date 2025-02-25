@@ -12,14 +12,14 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/wiirbkeyscontroller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
-* No existe un perfil para este instrumento.
-* **NO mapeés este instrumento por el menú de "Pads".**
 * Los botones del teclado no van a funcionar normalmente porque esta en modo MIDI.
 * Se puede conectar un pedal de sostén para activar sobrecarga.
 * Se requiere una versión de [[RPCS3 actual]](https://rpcs3.net/download).
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_pads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden causar que el juego se quede atorado. Es recomendado tener otra manera de controlar estos menos, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 ## Instrucciones:
 

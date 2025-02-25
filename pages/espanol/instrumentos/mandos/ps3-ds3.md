@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/ps3ds3controller.png" alt="Control" title="Control"></div>
 
-## NOTAS:
+## NOTAS
 
 * Mandos DualShock 3 de PlayStation 3 pueden ser conectados por USB o por Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 * Esto solo ha sido probado con  **DsHidMini. ¡NO INSTALES A ScpToolKit PORQUE ES OBSOLETO!**
@@ -23,14 +23,14 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
-## Información de Control:
+## Información de Control
 
 | Handlers | Devices |
-|:------------------:|:---------------------:|
+|:--------:|:-------:|
 | DualShock 3 | DS3 Pad |
 
 | Device Class | Device Subtype |
-|:------------------:|:---------------------:|
+|:------------:|:--------------:|
 | Standard (Pad) | PS3 Controller |
 
 ## Guitarra/Bajo/Teclado:

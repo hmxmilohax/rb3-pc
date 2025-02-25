@@ -13,7 +13,7 @@ Before you begin, **make sure your drivers and operating system are up to date**
 
 ## Prerequisites
 
-**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next steps.**
+**Let's start by downloading 7-Zip**, which will open the compressed .7z archives most of these downloads will be stored inside of. **If you already have 7-Zip** or an alternative installed, you can **skip to the next step**.
 
 [**[Click here to go to 7-Zip's download page]**](https://www.7-zip.org/download.html){:target="_blank"}.
 
@@ -37,12 +37,12 @@ Scroll down a bit and download the Windows version.
 
 [![A screenshot of RPCS3's download website, with a cursor hovering over the download button for the Windows version.](https://rb3pc.milohax.org/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
 
-**Once it downloads, extract the .7zip file.**  
+**Once it downloads, extract the .7z file.**  
 ![A screenshot of the right click menu from Windows Explorer highlighting "Extract files..." from the 7-Zip category.](https://rb3pc.milohax.org/images/install/extractrpcs3.png "Extract Files")
 
-I would strongly suggest extracting the files into "C:\\Games\\RPCS3" or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
+We suggest extracting the files into `C:\Games\RPCS3` or a separate internal drive to avoid permissions issues. Also, untick the box that will create a sub-directory, as shown highlighted in the picture. 
 
-**Avoid installing to and running from an external drive or from a synced folder (Dropbox, OneDrive, etc.)**, as this usually leads to an unstable experience.  
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Do not use a USB drive or from a synced folder (Dropbox, OneDrive, etc.), as this usually leads to an unstable experience! </b> {{include.content}}</div>  
 
 ![A screenshot of the Extract window from 7-zip. It shows the "Extract to" as C:\Games\RPCS3 and the box below it unchecked.](https://rb3pc.milohax.org/images/install/extractdir.png "Extract")
 

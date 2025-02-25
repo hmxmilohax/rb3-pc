@@ -16,11 +16,13 @@ To begin with, make sure you have the correct dongle or the MIDI PRO Adapter.
 |:------------------:|:---------------------:|:---------------------:|
 | ![Dongle for the RB3 Mustang Guitar](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recprotar.png "Dongle for the RB3 Mustang Guitar") | ![Dongle for the RB3 Wireless Keyboard](https://rb3pc.milohax.org/images/btns/ctrls/ps3/reckeys.png "Dongle for the RB3 Wireless Keyboard") | ![MIDI PRO Adapter](https://rb3pc.milohax.org/images/btns/ctrls/ps3/recmpa.png "MIDI PRO Adapter")
 
-**Please note that you will need to repeat this process three times for each mode on the MIDI PRO Adapter!**
+**Please note that you will need to repeat this process three times for each mode [D,K,G] on the MIDI PRO Adapter!**
 
 After making sure you have the correct dongle or MIDI PRO Adapter, **close out RPCS3 and plug in the instrument's dongle or MIDI PRO Adapter** to your computer.
 
-Now, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/){:target="_blank"} and **download the latest version, then open it** up.
+## Installing
+
+First, [**\[go to Zadig's website\]**](https://zadig.akeo.ie/){:target="_blank"} and **download the latest version, then open it** up.
 
 Click on **Options** then **List All Devices**.  
 ![A screenshot of Zadig showing "List All Devices" under "Options" highlighted.](https://rb3pc.milohax.org/images/pass/zadiglistall.png "Zadig: Options: List All Devices")
@@ -49,9 +51,26 @@ Turn your controller on and you should see it automatically assign a player numb
 Likewise, in Rock Band 3, you will see the instrument ready to join.  
 ![A screenshot of Rock Band 3 with a Pro Guitar ready to join.](https://rb3pc.milohax.org/images/pass/rb3player.png "Rock Band 3: Pro Guitar ready to join")
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a typing keyboard or a gamepad.</b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>RPCN Menus (for sending or accepting online invites) will cause a softlock. You will need an alternative input method to navigate these menus, such as a [[typing keyboard or a gamepad.]](https://rb3pc.milohax.org/ctrls#gamepads){:target="_blank"} </b> {{include.content}}</div>
 
-{% include callout.html content="<sup>a</sup> Connecting **three or more PlayStation 3 Rock Band instruments** (drums, keyboards, guitars) may cause issues with instrument detection. This **only** happens with PlayStation 3 Rock Band instruments and only if they're all plugged in at the same time." type="warning" %} 
+## Uninstalling
+Applying a Zadig driver on a device will make it only work on applications with passthrough. Thankfully, reverting this is very easy.  
 
+Open the Start menu and search for `Device Manager`. Open it.
+
+![A screenshot of Windows' Start menu, with a result of "Device Manager".](https://rb3pc.milohax.org/images/pass/startdevman.png "Device Manager")
+
+Scroll down until you find the `Universal Serial Bus devices` category.  
+Expand it and right click the instrument you applied the Zadig driver on and then select `Uninstall device`.  
+In this example, it's the Pro Guitar (`Harmonix RB3 Mustang Guitar for PlayStation 3®`).
+
+![A screenshot of Device Manager, with a right click menu that popped up. The cursor is over "Uninstall Device."](https://rb3pc.milohax.org/images/pass/devman.png "Device Manager")
+
+In the next window that pops up, make sure to tick `Attempt to remove the driver for this device.`  
+After that, click `Uninstall` and that's it!  
+
+![A screenshot of the device uninstall prompt. "Attempt to remove the driver for this device" is ticked and the cursor is over "Uninstall."](https://rb3pc.milohax.org/images/pass/devmanun.png "Device Manager")
+
+When you disconnect then reconnect the device, it will revert back to the original driver.
 
 {% include links.html %}

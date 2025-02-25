@@ -12,7 +12,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/swineos.png" alt="Controller" title="Controller"></div>
 
-## NOTES:
+## NOTES
 
 * CRKD NEO S Wave controllers can be connected via USB or wirelessly via Bluetooth. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 * To rebind the controller, use the CRKD app on your phone (iOS/Android).
@@ -20,11 +20,33 @@ toc: false
 	- You can also rebind your controller within Deluxe.  
 	`Menu > Options > Deluxe Settings > Advanced > Controller > Pad Button Remap`
 
-## Bindings:
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I set up gamepad up?</a>
+                            </h4>
+                        </div>
+                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p>Follow the instructions and/or match the assignments below.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/gamepadlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping an Xbox Controller"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
+## Bindings
 These bindings are here in case you need ideas on how to configure your device. You can leave the binding on default and just remap within Deluxe as mentioned above.
 
 ### Default Guitars/Bass/Keys
-* This is the auto of the box experience.
+* This is the out-of-the-box experience.
 
 #### CRKD App Setup
 
@@ -129,7 +151,7 @@ These bindings are here in case you need ideas on how to configure your device. 
 #### Bindings
 
 | **Lane** | **Rock Band** |
-|:------------------:|:---------------------:|
+|:--------:|:-------------:|
 | ![Lane 1](https://rb3pc.milohax.org/images/btns/doohickey/l1.png "Lane 1") | ![Green Fret](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Green Fret") |
 | ![Lane 1](https://rb3pc.milohax.org/images/btns/doohickey/l2.png "Lane 2") | ![Red Fret](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Red Fret") |
 | ![Lane 1](https://rb3pc.milohax.org/images/btns/doohickey/l3.png "Lane 3") | ![Yellow Fret](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Yellow Fret") |
