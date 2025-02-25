@@ -1,6 +1,7 @@
 ---
 title: "Index"
 permalink: index.html
+toc: false
 ---
 
 ## Rock Band + RPCS3
