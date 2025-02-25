@@ -1,9 +1,9 @@
 ---
-title: "All Guitars"
-sidebar: english_sidebar
+title: "Todas los teclados"
+sidebar: espanol_sidebar
 search: exclude
-tagName: guitars
-permalink: tag_guitars
+tagName: teclados
+permalink: tag_teclados
 folder: tags
 toc: false
 ---

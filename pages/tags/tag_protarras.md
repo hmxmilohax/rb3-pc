@@ -1,9 +1,9 @@
 ---
-title: "All Guitars"
-sidebar: english_sidebar
+title: "Todas las Protarras"
+sidebar: espanol_sidebar
 search: exclude
-tagName: guitars
-permalink: tag_guitars
+tagName: protarras
+permalink: tag_protarras
 folder: tags
 toc: false
 ---

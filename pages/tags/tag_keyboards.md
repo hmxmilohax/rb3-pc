@@ -1,9 +1,9 @@
 ---
-title: "All Guitars"
+title: "All Keyboards"
 sidebar: english_sidebar
 search: exclude
-tagName: guitars
-permalink: tag_guitars
+tagName: keyboards
+permalink: tag_keyboards
 folder: tags
 toc: false
 ---

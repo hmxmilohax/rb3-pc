@@ -3,7 +3,7 @@ title: PlayStation 3 Rock Band 3 Fender Mustang Pro Guitar
 sidebar: controllers_sidebar
 permalink: ctrls_protar_ps3
 folder: instruments
-tags: [ps3, midi, english]
+tags: [ps3, midi, protars, english]
 summary: "How to connect and configure PlayStation 3 Mustang Pro Guitars (MIDI) on RPCS3."
 toc: false
 ---

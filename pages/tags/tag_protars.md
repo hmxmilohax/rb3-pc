@@ -1,9 +1,9 @@
 ---
-title: "All Guitars"
+title: "All Protars"
 sidebar: english_sidebar
 search: exclude
-tagName: guitars
-permalink: tag_guitars
+tagName: protars
+permalink: tag_protars
 folder: tags
 toc: false
 ---

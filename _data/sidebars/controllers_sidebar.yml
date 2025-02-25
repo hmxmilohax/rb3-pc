@@ -54,11 +54,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Mapping
-      url: /ctrls#mapping
-      output: web
-      type: homepage
-
     - title: Profiles
       url: /ctrls#using-profiles
       output: web
