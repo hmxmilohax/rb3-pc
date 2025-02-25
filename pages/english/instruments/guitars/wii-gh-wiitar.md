@@ -14,11 +14,10 @@ toc: false
 
 ## NOTES
 
-* Requires installing and running [[**WiitarThing**]](https://github.com/Meowmaritus/WiitarThing){:target="_blank"} along with its dependencies.
+* Requires installing and running [[**WiitarThing**]](https://github.com/TheNathannator/WiitarThing){:target="_blank"} along with its dependencies.
 * This configuration **requires connecting wirelessly via Bluetooth**. You need a Bluetooth receiver to connect to your computer.
-    * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
+    * It's suggested to mod your guitar into a wired one with a solution like [[a V3 adapter by RetroCultMods]](https://shop.retrocultmods.com/products/v3-wii-adapter-for-clone-hero-and-rb4-rock-band-4){:target="_blank"}. a [[Revival Kit from RetroCultMods]](https://shop.retrocultmods.com/products/revival-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}, [[Solderless DIY RGB Kit from RetroCultMods]](https://shop.retrocultmods.com/products/solderless-diy-rgb-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}.
 * **Tilt is busted on this controller!**
-    * It's suggested to mod your guitar into a wired one with a solution like [[RetroCultMods' Solderless DIY RGB Kit]](https://www.etsy.com/listing/1505287559/solderless-diy-rgb-kit-for-guitar-hero){:target="_blank"}.
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads){:target="_blank"}.
 
 <!-- Map Start -->
