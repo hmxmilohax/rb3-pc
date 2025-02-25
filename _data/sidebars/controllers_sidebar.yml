@@ -187,7 +187,7 @@ entries:
       type: homepage
 
     - title: Wii Guitar Hero (WiitarThing)
-      url: /ctrls_ghwtr_wii
+      url: /ctrls_ghwtrgtr_wii
       output: web
       type: homepage
 
