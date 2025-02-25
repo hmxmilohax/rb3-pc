@@ -8,9 +8,9 @@ summary: "Como configurar teclados de PC en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/pc.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/pckeyboardcontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/pckeyboardcontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
@@ -152,7 +152,7 @@ toc: false
 <td align="center"></td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- first tab end -->
@@ -210,35 +210,35 @@ toc: false
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>F</code> y <code>Q</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 <td align="center">Selección de Parte de Guía (Práctica)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
 <td align="center"><code>D</code> y <code>R</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 <td align="center">Selección de Parte Vocal (Práctica)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>E</code> y <code>J</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 <td align="center">Volumen de Pista Vocal (Canción)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R2</td>
 <td align="center"><code>K</code> y <code>T</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 <td align="center">Corrección de Tono (Canción)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>L</code> y <code>X</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 <td align="center">Select</td>
 <td align="center"></td>
 </tr>
@@ -266,7 +266,7 @@ toc: false
 <tr>
 <td align="center">Left Stick: Up</td>
 <td align="center"><code>W</code> y <code>Mayús Izquierda</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 <td align="center">Navegación</td>
 <td align="center"></td>
 </tr>
@@ -313,8 +313,8 @@ toc: false
 <td align="center">Pausa (Canción)</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -370,37 +370,37 @@ toc: false
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>1</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
 <td align="center"><code>2</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>3</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>4</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>5</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Up</td>
 <td align="center"><code>L</code> y <code>Arriba</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Down</td>
 <td align="center"><code>P</code> y <code>Izquierda</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Rasgueo hacia abajo" title="Rasgueo hacia abajo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo hacia abajo" title="Rasgueo hacia abajo"></td>
 </tr>
 <tr>
 <td align="center"><code>W</code></td>
@@ -425,7 +425,7 @@ toc: false
 <tr>
 <td align="center">Right Stick: Right</td>
 <td align="center"><code>;</code> y <code>Abajo</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
@@ -433,7 +433,7 @@ toc: false
 <td align="center">Sobrecarga</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -492,40 +492,40 @@ toc: false
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>2</code>, <code>8</code>, <code>A</code> y <code>W</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
 <td align="center">Selección de Parte de Guía (Práctica)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
 <td align="center"><code>1</code>, <code>7</code>, <code>Q</code> y <code>Espacio</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 <td align="center">Selección de Parte Vocal (Práctica)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>3</code>, <code>9</code>, <code>E</code> y <code>S</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yp.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
 <td align="center">Volumen de Pista Vocal (Canción)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R2</td>
 <td align="center"><code>0</code>, <code>4</code>, <code>D</code> y <code>R</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
 <td align="center">Corrección de Tono (Canción)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>-</code>, <code>5</code>, <code>F</code> y <code>T</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
 <td align="center">Select</td>
 <td align="center"></td>
 </tr>
@@ -594,8 +594,8 @@ toc: false
 <td align="center"></td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -650,47 +650,47 @@ toc: false
 <tr>
 <td align="center">Circle</td>
 <td align="center"><code>A</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>S</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yp.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>O</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>P</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>W</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yc.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yc.png" alt="Platillo Amarillo" title="Platillo Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>0</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bc.png" alt="Platillo Azul" title="Platillo Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bc.png" alt="Platillo Azul" title="Platillo Azul"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>-</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gc.png" alt="Platillo Verde" title="Platillo Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gc.png" alt="Platillo Verde" title="Platillo Verde"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>,</code> y <code>Espacio</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>C</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">L3</td>
@@ -713,7 +713,7 @@ toc: false
 <td align="center">Modificador de Platillo Azul</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 </div>
 </div>
 
@@ -738,9 +738,9 @@ toc: false
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta <code>input configs</code> a la carpeta <code>configs</code> en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de <code>Pads</code>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles funcionan sin necesitar configuración adicional. Por si acaso no, cambia el control en <code>Devices</code>, al lado del botón de <code>Refresh</code> hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 </ul>
                             </div>
@@ -749,7 +749,7 @@ toc: false
 </div>
 <!-- Profiles End -->
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi)
 

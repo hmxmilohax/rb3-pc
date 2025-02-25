@@ -9,15 +9,15 @@ toc: false
 ---
 
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps3.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/ghdrmscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/ghdrmscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
 * La detección de velocidad (intensidad) no funciona.
 * Los colores de notas no son iguales a los parches de este control.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -31,12 +31,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
 <p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
 Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
 </ul>
                             </div>
                         </div>
@@ -60,21 +60,21 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 
 | **RPCS3** | **Batería de Guitar Hero** |
 |:--------:|:-----------------:|
-| Cross | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/gp.png "Parche Verde") |
-| Circle | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/rp.png "Parche Rojo") |
-| Square | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/bp.png "Parche Azul") |
-| Triangle | ![Platillo Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/yc.png "Platillo Amarillo") |
-| R1 | ![Platillo Naranja](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/oc.png "Platillo Naranja") |
-| L1 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/kp.png "Pedal/Kick") |
-| Cross | ![Botón Cross (Cruz)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") |
-| Circle | ![Botón Circle (Circulo)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/o.png "Botón Circle (Circulo)") |
-| Square | ![Botón Square (Cuadro)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/s.png "Botón Square (Cuadro)") |
-| Triangle | ![Botón Triangle (Triangulo)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/t.png "Botón Triangle (Triangulo)") |
-| D-Pad | ![D-Pad (Cruceta)](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") |
-| Left Stick | ![Palanca Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") |
-| Start | ![Botón Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sta.png "Botón Start") |
-| Select | ![Botón Select](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/sel.png "Botón Select") |
-| PS Button | ![Botón Home](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/ps3/home.png "Botón Home") |
+| Cross | ![Parche Verde](https://rb3pc.milohax.org/images/btns/drms/gh/gp.png "Parche Verde") |
+| Circle | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/gh/rp.png "Parche Rojo") |
+| Square | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/gh/bp.png "Parche Azul") |
+| Triangle | ![Platillo Amarillo](https://rb3pc.milohax.org/images/btns/drms/gh/yc.png "Platillo Amarillo") |
+| R1 | ![Platillo Naranja](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Platillo Naranja") |
+| L1 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/gh/kp.png "Pedal/Kick") |
+| Cross | ![Botón Cross (Cruz)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/x.png "Botón Cross (Cruz)") |
+| Circle | ![Botón Circle (Circulo)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/o.png "Botón Circle (Circulo)") |
+| Square | ![Botón Square (Cuadro)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/s.png "Botón Square (Cuadro)") |
+| Triangle | ![Botón Triangle (Triangulo)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/t.png "Botón Triangle (Triangulo)") |
+| D-Pad | ![D-Pad (Cruceta)](https://rb3pc.milohax.org/images/btns/ctrls/ps3/dp.png "D-Pad (Cruceta)") |
+| Left Stick | ![Palanca Izquierda](https://rb3pc.milohax.org/images/btns/ctrls/ps3/ls.png "Palanca Izquierda") |
+| Start | ![Botón Start](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sta.png "Botón Start") |
+| Select | ![Botón Select](https://rb3pc.milohax.org/images/btns/ctrls/ps3/sel.png "Botón Select") |
+| PS Button | ![Botón Home](https://rb3pc.milohax.org/images/btns/ctrls/ps3/home.png "Botón Home") |
 
 ## Perfil
 
@@ -97,9 +97,9 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta <code>input configs</code> a la carpeta <code>configs</code> en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de <code>Pads</code>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles funcionan sin necesitar configuración adicional. Por si acaso no, cambia el control en <code>Devices</code>, al lado del botón de <code>Refresh</code> hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 </ul>
                             </div>
@@ -108,8 +108,8 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 </div>
 <!-- Profiles End -->
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/drmsps3ghmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsps3ghmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}

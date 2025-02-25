@@ -15,19 +15,19 @@ toc: false
 Ahora que el juego esta en la biblioteca de RPCS3, vamos a descargar unos archivos para mejorar la experiencia y rendimiento.  
 Abajo están los archivos para instalar una configuración rápida. Descarga lo que queda bien con tu computadora.
 
-* [[Configuración recomendada]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://carlmylo.github.io/rb3-pc/gs_reqs_es#una-computadora){:target="_blank"}.
-* [[Configuración mínima]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://carlmylo.github.io/rb3-pc/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración recomendada]](https://rb3pc.milohax.org/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+* [[Configuración mínima]](https://rb3pc.milohax.org/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
 
 ## Como Aplicar El Perfil
 Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
 El ejemplo abajo enseña la configuración recomendada (recommended.zip) siendo instalada.
 
-![Una animación de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://carlmylo.github.io/rb3-pc/images/cust/quickconf.gif "Recommended.zip")
+![Una animación de "config" y "dev_hdd0" de "recommended.zip" siendo arrastrado a la carpeta de RPCS3.](https://rb3pc.milohax.org/images/cust/quickconf.gif "Recommended.zip")
 
 Ahora solo falta:
-* **[[configurar tus instrumentos y controles]](https://carlmylo.github.io/rb3-pc/ctrls_es){:target="_blank"}**
-* **[[configurar un micrófono para cantar]](https://carlmylo.github.io/rb3-pc/gs_mics_es){:target="_blank"}**
-* **[[crear una cuenta de RPCN para jugar en linea y ver/subir clasificaciones]](https://carlmylo.github.io/rb3-pc/rpcn_intro_es){:target="_blank"}**
+* **[[configurar tus instrumentos y controles]](https://rb3pc.milohax.org/ctrls_es){:target="_blank"}**
+* **[[configurar un micrófono para cantar]](https://rb3pc.milohax.org/gs_mics_es){:target="_blank"}**
+* **[[crear una cuenta de RPCN para jugar en linea y ver/subir clasificaciones]](https://rb3pc.milohax.org/rpcn_intro_es){:target="_blank"}**
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

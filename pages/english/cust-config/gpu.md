@@ -9,12 +9,12 @@ series: "Custom Configuration"
 weight: 3
 ---
 
-![A screenshot of Rock Band 3's GPU custom settings, highlighting "Write Color Buffers" highlighted in green with a dotted outline, "Framelimit", "Anisotropic Filter", "ZCull Accuracy", "Output Scaling", and "VSync" highlighted in blue with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/gpu.png "GPU")
+![A screenshot of Rock Band 3's GPU custom settings, highlighting "Write Color Buffers" highlighted in green with a dotted outline, "Framelimit", "Anisotropic Filter", "ZCull Accuracy", "Output Scaling", and "VSync" highlighted in blue with a dotted outline.](https://rb3pc.milohax.org/images/cust/gpu.png "GPU")
 
-* ![A green square with a dashed outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
+* ![A green square with a dashed outline.](https://rb3pc.milohax.org/images/cust/smallgreen.png "Green Square") **REQUIRED**: 
 	* **Enable "Write Color Buffers"** - Characters will have severe graphical bugs without this.
 
-* ![A blue square with a dotted outline.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Blue Square") **Adjust depending on graphics card**: 
+* ![A blue square with a dotted outline.](https://rb3pc.milohax.org/images/cust/smallblue.png "Blue Square") **Adjust depending on graphics card**: 
 	* **Enable "`VSync`"** - Reduces screen tearing and may lead to a more stable framerate. Slightly increases input latency. **Do not enable this with the frame limiter**.
 	* **Change "`Framelimit`"**
 		* Leave it on "`Auto`" to let RPCS3 set a frame rate.

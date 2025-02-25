@@ -8,14 +8,14 @@ summary: "Como configurar Xplorers de Guitar Hero para Xbox 360 en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/360.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/xplorercontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/xplorercontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
 * Esta guitarra requiere configuración avanzada.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -29,12 +29,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
 <p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
 Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
 </ul>
                             </div>
                         </div>
@@ -56,7 +56,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 
 * Para la mejor experiencia::
 	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos” y ábrelo.  
-	![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://carlmylo.github.io/rb3-pc/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
+	![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
 	2. Selecciona a “Guitar Hero X-plorer” y entra a “Propiedades”.
 	3. Entra a la pestaña de “Configuración”.
 	4. Sostén la guitarra en un angulo de 45 grados.
@@ -80,21 +80,21 @@ Usa el click derecho para borrar botones.
 
 | **RPCS3** | **Guitarra** |
 |:---------:|:----------:|
-| Cross | ![Traste Verde](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Traste Verde") |
-| Circle | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") |
-| Square | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") |
-| Triangle | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") |
-| L1 | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") |
-| D-Pad: Up | ![Rasgueo para arriba](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
-| D-Pad: Down | ![Rasgueo para abajo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
-| D-Pad: Left | ![D-Pad (Cruceta): Izquierda](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
-| D-Pad: Right | ![D-Pad (Cruceta): Derecha](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
-| Right Stick: <br/> Left/Right | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") |
-| Right Stick: Down | ![Switch de efectos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png "Switch de efectos") |
-| R1 | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") |
-| Start | ![Start](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/start.png "Start") |
-| Select | ![Back](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/back.png "Back") |
-| PS Button | ![Home](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/home.png "Home") |
+| Cross | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
+| Circle | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
+| Square | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
+| Triangle | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
+| L1 | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
+| D-Pad: Up | ![Rasgueo para arriba](https://rb3pc.milohax.org/images/btns/gtrs/sbu.png "Rasgueo para arriba") |
+| D-Pad: Down | ![Rasgueo para abajo](https://rb3pc.milohax.org/images/btns/gtrs/sbd.png "Rasgueo para abajo") |
+| D-Pad: Left | ![D-Pad (Cruceta): Izquierda](https://rb3pc.milohax.org/images/btns/gtrs/dpl.png "D-Pad (Cruceta): Izquierda") |
+| D-Pad: Right | ![D-Pad (Cruceta): Derecha](https://rb3pc.milohax.org/images/btns/gtrs/dpr.png "D-Pad (Cruceta): Derecha") |
+| Right Stick: <br/> Left/Right | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
+| Right Stick: Down | ![Switch de efectos](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Switch de efectos") |
+| R1 | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.gif "Ladeo") |
+| Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/360/start.png "Start") |
+| Select | ![Back](https://rb3pc.milohax.org/images/btns/ctrls/360/back.png "Back") |
+| PS Button | ![Home](https://rb3pc.milohax.org/images/btns/ctrls/360/home.png "Home") |
 
 ## Perfil
 
@@ -117,9 +117,9 @@ Usa el click derecho para borrar botones.
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta <code>input configs</code> a la carpeta <code>configs</code> en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de <code>Pads</code>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles funcionan sin necesitar configuración adicional. Por si acaso no, cambia el control en <code>Devices</code>, al lado del botón de <code>Refresh</code> hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 </ul>
                             </div>
@@ -128,8 +128,8 @@ Usa el click derecho para borrar botones.
 </div>
 <!-- Profiles End -->
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtr360ghxpmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtr360ghxpmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} y [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}

@@ -27,7 +27,7 @@ Puedes usar:
 
 <sup>a</sup> <sub>A unos instrumentos no les funciona whammy, ladeo, o el switch de efectos. Lee la pagina de instrumentos para mas información.</sub>  
 <sup>b</sup> <sub>Los mandos se funcionan con auto-strum (rasgueo automático) como en GH1-GH3. Los teclados se pueden configurar para tener rasgueo manual o auto-strum.</sub>  
-<sup>c</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es){:target="_blank"}</sub>  
+<sup>c</sup> <sub>Es posible conectar teclados con MIDI que tengan menos de 37 teclas, pero no es recomendado. [[Haz click aquí para mas información.]](https://rb3pc.milohax.org/ctrls_keys_midi_es){:target="_blank"}</sub>  
 
 ¿Quieres una lista mas detallada?
 

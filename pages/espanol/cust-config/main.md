@@ -17,15 +17,15 @@ Esta pagina es para lo que quieren hacer sus propios ajustes para sacar el máxi
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="changecustomconfig">
 <p>Si quieres cambiar una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong><code>Change Custom Configuration</code></strong>” (Cambiar Configuración Personalizada)<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Change Custom Configuration&quot; (Cambiar configuración personalizada) resaltado" title="Change Custom Configuration"></p></div>
+<img src="https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Change Custom Configuration&quot; (Cambiar configuración personalizada) resaltado" title="Change Custom Configuration"></p></div>
 <div role="tabpanel" class="tab-pane" id="createcustomconfig">
 <p>Si no tienes una configuración personalizada, <strong>haz click derecho en Rock Band 3</strong> en RPCS3, luego presiona “<strong><code>Create Custom Configuration From Default Settings</code></strong>” (Crear configuración personalizada basada en la configuración por defecto)<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfig.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Create Custom Configuration From Default Settings&quot; resaltado" title="Create Custom Configuration From Default Settings"></p></div>
+<img src="https://rb3pc.milohax.org/images/cust/rpcs3customconfig.png" alt="Una captura del menú de clic derecho de RPCS3, mostrando &quot;Create Custom Configuration From Default Settings&quot; resaltado" title="Create Custom Configuration From Default Settings"></p></div>
 </div>
 
 **¡Recuerda de hacer click en "`Apply`"** (Aplicar) **y luego "`Save custom configuration`"** (Guardar configuración personalizada) **después de hacer ajustes!**
 Toma en cuenta que vas a necesitar reiniciar el juego para aplicar mayoría de estos ajustes.  
-![Una captura de la configuración personalizada de Rock Band 3 dentro de RPCS3 con el ratón sobre "Save custom configuration".](https://carlmylo.github.io/rb3-pc/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
+![Una captura de la configuración personalizada de Rock Band 3 dentro de RPCS3 con el ratón sobre "Save custom configuration".](https://rb3pc.milohax.org/images/cust/save.png "Settings: [BLUS30463] Rock Band 3")
 
 ## Guía de Colores
 
@@ -34,9 +34,9 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 
 | COLOR | SIGNIFICADO |
 |---|---|
-| ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/rb3-pc/images/cust/biggreen.png "Cuadro verde") | **REQUERIDO** |
-| ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/bigblue.png "Cuadro azul") | **Para Rendimiento** |
-| ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/bigtan.png "Cuadro bronceado") | **Recomendado** |
+| ![Un cuadro verde con una línea discontinua.](https://rb3pc.milohax.org/images/cust/biggreen.png "Cuadro verde") | **REQUERIDO** |
+| ![Un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/cust/bigblue.png "Cuadro azul") | **Para Rendimiento** |
+| ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/bigtan.png "Cuadro bronceado") | **Recomendado** |
 
 <br/>
 
@@ -55,9 +55,9 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="cpu">
 <!-- CPU Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/cpu.png" alt="Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU Block Size, Thread Scheduler y Preferred SPU Threads resaltados en cuadros azules con contornos punteados." title="CPU"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/cpu.png" alt="Una captura de la configuración personalizada de CPU para Rock Band 3, mostrando SPU Block Size, Thread Scheduler y Preferred SPU Threads resaltados en cuadros azules con contornos punteados." title="CPU"></p>
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Rendimiento mejorado, dependiendo en tu sistema</strong>:
+<li><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Rendimiento mejorado, dependiendo en tu sistema</strong>:
 <ul>
 <li><strong>Cambia el “<code>SPU Block Size</code>”</strong> (Tamaño de bloques del SPU) <strong>a “<code>Mega</code>”</strong> - Junta hilos de SPU para ser más pequeños, requiriendo menos núcleos/hilos. También tardara menos tiempo para iniciar el juego, dependiendo en tu sistema.</li>
 <li><strong>Cambia el “<code>Preferred SPU Threads</code>”</strong> (Hilos preferidos del SPU) <strong>a “<code>1</code>”, “<code>2</code>”, “<code>3</code>”, or “<code>4</code>”</strong> - Puede ayudar a prevenir inestabilidades causadas por sobrecargas de la CPU. <strong>Empieza con “<code>4</code>” y bájalo si no mejora</strong>.</li>
@@ -71,16 +71,16 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="gpu">
 <!-- GPU Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/gpu.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando &quot;Write Color Buffers&quot; en un cuadro verde con una línea discontinua, &quot;Framelimit&quot;, &quot;Anisotropic Filter&quot;, &quot;ZCull Accuracy&quot;, &quot;Output Scaling&quot; y &quot;VSync&quot; resaltados en un cuadro azul con contorno punteado." title="GPU"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/gpu.png" alt="Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando &quot;Write Color Buffers&quot; en un cuadro verde con una línea discontinua, &quot;Framelimit&quot;, &quot;Anisotropic Filter&quot;, &quot;ZCull Accuracy&quot;, &quot;Output Scaling&quot; y &quot;VSync&quot; resaltados en un cuadro azul con contorno punteado." title="GPU"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
 <li><strong>Activa “<code>Write Color Buffers</code>”</strong> (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Activa “<code>VSync</code>”</strong> (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. <strong>No uses esto con “Frame Limit” activado!</strong></li>
 <li><strong>Cambia “<code>Framelimit</code>”</strong> (Limite de fotogramas):
@@ -114,10 +114,10 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="audio">
 <!-- Audio Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra &quot;Audio Out&quot; y &quot;Audio Buffer Duration&quot; resaltados en cuadros azules con contornos punteados, y &quot;Microphone Settings&quot;, &quot;Microphone Type&quot; (&quot;Standard&quot;), &quot;Mic1&quot;, &quot;Mic2&quot;, &quot;Mic3&quot; y &quot;Mic4&quot; resaltados en un cuadro bronceado con contorno solido." title="Audio"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/audio.png" alt="Una captura de la configuración personalizada de audio de Rock Band 3, que muestra &quot;Audio Out&quot; y &quot;Audio Buffer Duration&quot; resaltados en cuadros azules con contornos punteados, y &quot;Microphone Settings&quot;, &quot;Microphone Type&quot; (&quot;Standard&quot;), &quot;Mic1&quot;, &quot;Mic2&quot;, &quot;Mic3&quot; y &quot;Mic4&quot; resaltados en un cuadro bronceado con contorno solido." title="Audio"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Ajusta “<code>Audio Buffer Duration</code>”</strong> (duración de búferes de audio) depende de tu sistema.
 <ul>
@@ -132,7 +132,7 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para Vocalistas</strong>:</p>
 <ul>
 <li><strong>Cambia “<code>Microphone type</code>”</strong> (tipo de micrófono) <strong>a “<code>Standard</code>” o “<code>Rocksmith</code>”</strong>.</li>
 <li>Selecciona tu micrófonos en “<code>Mic1</code>”, “<code>Mic2</code>” y “<code>Mic3</code>” para las voces. Si no estas jugando vocales, “<code>Mic1</code>” se usara para el chat de voz.</li>
@@ -145,21 +145,21 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 <!-- IO Start -->
 <p><strong>Asegúrate que tu instrumento de MIDI este conectado.</strong><br>
 <strong>Haz la ventana mas grande si no puedes leer las opciones.</strong></p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando &quot;Emulated MIDI Devices&quot;, &quot;device type&quot; y &quot;device selection&quot; resaltados en cuadros bronceados con contornos solidos, y &quot;Pad Handler Mode&quot; y &quot;Keep Pads Connected&quot; en un cuadro azul con contorno punteado." title="I/O"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando &quot;Emulated MIDI Devices&quot;, &quot;device type&quot; y &quot;device selection&quot; resaltados en cuadros bronceados con contornos solidos, y &quot;Pad Handler Mode&quot; y &quot;Keep Pads Connected&quot; en un cuadro azul con contorno punteado." title="I/O"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Ajuste dependiendo de tu PC</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Ajuste dependiendo de tu PC</strong>:</p>
 <ul>
 <li><strong>Cambia “<code>Pad Handler Mode</code>”</strong> (Modo de manejar controladores) <strong>a “<code>Multi-threaded</code>”</strong> si tienes una CPU con mas de 12 hilos/núcleos.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadrado bronceado." title="Cuadrado bronceado">: <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadrado bronceado." title="Cuadrado bronceado">: <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:</p>
 <ul>
-<li>🎹 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_keys_midi_es" target="_blank">[Jugadores de teclado]</a>: Deja el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) en “<code>Keyboard</code>” (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
-<li>🎸 <strong><a href="(https://carlmylo.github.io/rb3-pc/ctrls_protar_midi)%7B:target=%22_blank%22%7D" target="_blank">[Jugadores de Guitarra Pro]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Guitar (17 Frets)</code>”</strong> (guitarra (17 trastes)) <strong>si tienes una guitarra Pro Mustang, o “<code>Guitar (22 Frets)</code>”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
-<li>🥁 <strong><a href="https://carlmylo.github.io/rb3-pc/ctrls_drums_midi" target="_blank">[Jugadores con Baterías MIDI]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Drums</code>” (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
-<li>Si necesitas mas ayuda, dale otra visita a la <a href="https://carlmylo.github.io/rb3-pc/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</li>
+<li>🎹 <strong><a href="https://rb3pc.milohax.org/ctrls_keys_midi_es" target="_blank">[Jugadores de teclado]</a>: Deja el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) en “<code>Keyboard</code>” (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🎸 <strong><a href="(https://rb3pc.milohax.org/ctrls_protar_midi)%7B:target=%22_blank%22%7D" target="_blank">[Jugadores de Guitarra Pro]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Guitar (17 Frets)</code>”</strong> (guitarra (17 trastes)) <strong>si tienes una guitarra Pro Mustang, o “<code>Guitar (22 Frets)</code>”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
+<li>🥁 <strong><a href="https://rb3pc.milohax.org/ctrls_drums_midi" target="_blank">[Jugadores con Baterías MIDI]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Drums</code>” (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>Si necesitas mas ayuda, dale otra visita a la <a href="https://rb3pc.milohax.org/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</li>
 </ul>
 </li>
 </ul>
@@ -167,9 +167,9 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="system">
 <!-- System Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando &quot;Console Language&quot; y &quot;Keyboard Type&quot; resaltados en cafe con una linea blanca solida." title="System"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/system.png" alt="Una captura de la configuración personalizada del sistema de Rock Band 3, mostrando &quot;Console Language&quot; y &quot;Keyboard Type&quot; resaltados en cafe con una linea blanca solida." title="System"></p>
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para cambiar el lenguaje del juego</strong>:
+<li><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para cambiar el lenguaje del juego</strong>:
 <ul>
 <li>Cambia <strong><code>Console Language</code></strong> (Idioma del Sistema) a <strong>“<code>Spanish</code>”</strong> (Español) para cambiar el idioma de Rock Band 3 de Ingles a Español.</li>
 <li>Cambia <strong><code>Keyboard Type</code></strong> (Tipo de teclado) a <strong>“<code>Spanish Keyboard</code>”</strong> (Teclado Español) para cambiar el teclado virtual de Ingles a Español.</li>
@@ -180,16 +180,16 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="network">
 <!-- Network Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/network.png" alt="Una captura de la configuración personalizada de Red de Rock Band 3, mostrando &quot;Network Status (Connected)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;IP/Hosts switches&quot; (rb3ps3live.hmxservices.com=45.33.44.103), &quot;PSN Status&quot; (RPCN) y &quot;Enable UPNP&quot; (no marcado) resaltado en azul claro." title="Network"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/network.png" alt="Una captura de la configuración personalizada de Red de Rock Band 3, mostrando &quot;Network Status (Connected)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;IP/Hosts switches&quot; (rb3ps3live.hmxservices.com=45.33.44.103), &quot;PSN Status&quot; (RPCN) y &quot;Enable UPNP&quot; (no marcado) resaltado en azul claro." title="Network"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
 <li><strong>Cambia “<code>Network Status</code>”</strong> (estado de red) <strong>a “<code>Connected</code>”</strong> (conectado) <strong>como en la imagen. Si la dejas en “<code>Disconnected</code>”</strong> (desconectado), <strong>el juego se congelara mientras navegas por la biblioteca de canciones.</strong></li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugar en linea</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Para jugar en linea</strong>:</p>
 <ul>
 <li>Activa <strong>“<code>Enable UPNP</code>”</strong> (activar UPnP) o <strong>reenvía el puerto 9103 (UDP) en tu cortafuegos. No actives UPNP mientras reenvías el puerto</strong> porque esto puede causar crasheos.</li>
 <li>Para jugar Rock Band 3 en linea, agrega la direccion IP de Rock Band Enhanced.
@@ -204,24 +204,24 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="advanced">
 <!-- Advanced Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/advanced.png" alt="Una captura de la configuración personalizada avanzada, con &quot;Driver Wake-Up Delay (20µ)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;Exclusive Fullscreen Mode&quot; y &quot;Maximum Number of SPURS Threads&quot; resaltados en cuadros azules con contornos punteados, y &quot;Debug Console Mode&quot; resaltado en un cuadro bronceado con un contorno solido." title="Advanced"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/advanced.png" alt="Una captura de la configuración personalizada avanzada, con &quot;Driver Wake-Up Delay (20µ)&quot; resaltado en un cuadro verde con una línea discontinua, &quot;Exclusive Fullscreen Mode&quot; y &quot;Maximum Number of SPURS Threads&quot; resaltados en cuadros azules con contornos punteados, y &quot;Debug Console Mode&quot; resaltado en un cuadro bronceado con un contorno solido." title="Advanced"></p>
 <ul>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallgreen.png" alt="Un cuadro verde con una línea discontinua." title="Cuadro verde"> <strong>REQUERIDO</strong>:</p>
 <ul>
 <li><strong>Cambia el “<code>Driver Wake-up Delay</code>”</strong> (Retraso de activación de controlador) <strong>a “20µ” si tu juego se congela luego de algunas canciones. Subelo a “40µ” si sigue pasando.</strong> Si todavía sigue pasando (muy raro),  auméntalo en incrementos de 20µ.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Dependiendo en tu PC</strong>:</p>
 <ul>
 <li><strong>Cambia a “<code>Maximum Number of SPURS Threads</code>”</strong> (Máximo numero de hilos de SPURS) - Puede ayudar el rendimiento de computadoras con CPU de 4 núcleos/hilos, como <a href="https://github.com/hmxmilohax/rb3-pc/issues/12#issue-1955946005" target="_blank">[CPUs de Intel i5 de la cuarta generación]</a>.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado">: <strong>Recomendado</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado">: <strong>Recomendado</strong>:</p>
 <ul>
-<li><strong>Activa “<code>Debug Console Mode</code>”</strong> (Modo de depuración) - Activa esto y usa el archivo de alta memoria de Deluxe para darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://carlmylo.github.io/rb3-pc/memory_es" target="_blank">[Haz click aquí para mas información.]</a></li>
+<li><strong>Activa “<code>Debug Console Mode</code>”</strong> (Modo de depuración) - Activa esto y usa el archivo de alta memoria de Deluxe para darle mas memoria a Rock Band 3. Esto ayuda con la estabilidad y te deja instalar hasta 16000 canciones. Es recomendado que todos tengan esto activado. <a href="https://rb3pc.milohax.org/memory_es" target="_blank">[Haz click aquí para mas información.]</a></li>
 <li><strong>Cambia el “<code>Exclusive Fullscreen Mode</code>”</strong> (Modo de exclusividad de pantalla llena) <strong>a “<code>Prefer borderless fullscreen</code>”</strong> (preferir pantalla llena sin bordos) para prevenir posibles crasheos o desincronización al cambiar la prioridad del programa.</li>
 </ul>
 </li>
@@ -230,10 +230,10 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 </div>
 <div role="tabpanel" class="tab-pane" id="emulator">
 <!-- Emulator Start -->
-<p><img src="https://carlmylo.github.io/rb3-pc/images/cust/emulator.png" alt="Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando &quot;Show trophy popups&quot;, &quot;Show RPCN popups&quot;, &quot;Show shader compilation hint&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show mouse and keyboard toggle hint&quot;, &quot;Start games in fullscreen mode&quot; y &quot;Use native user interface&quot; resaltados en cuadros bronceados con contornos solidos." title="Emulator"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/emulator.png" alt="Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando &quot;Show trophy popups&quot;, &quot;Show RPCN popups&quot;, &quot;Show shader compilation hint&quot;, &quot;Show PPU compilation hint&quot;, &quot;Show mouse and keyboard toggle hint&quot;, &quot;Start games in fullscreen mode&quot; y &quot;Use native user interface&quot; resaltados en cuadros bronceados con contornos solidos." title="Emulator"></p>
 <p>Puedes dejar esto como quieras, pero consideraría ajustar estas opciones:</p>
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Opcional</strong>:
+<li><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadro bronceado con un contorno solido." title="Cuadro bronceado"> <strong>Opcional</strong>:
 <ul>
 <li><strong>"<code>Show trophy popups</code>"</strong> (Mostrar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3.</li>
 <li><strong>"<code>Show RPCN popups</code>"</strong> (Notificaciones de RPCN) - Esto muestra notificaciones cuando tu o tus amigos inicien sesión en linea por RPCN.</li>

@@ -8,20 +8,20 @@ summary: "Como configurar tu batería de Rock Band 4 para Xbox One en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/xbx.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rb4drmscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rb4drmscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 * Requiere que descargues y instales [[**RB4InstrummentMapper**]](https://github.com/TheNathannator/RB4InstrumentMapper/blob/main/README.es.md/){:target="_blank"} con ViGEmBus.
 * Usuarios de **Linux** pueden instalar los [[controladores de kernel de `xone`]](https://github.com/dlundqvist/xone) para usar periféricos de Xbox One. Toma nota que esta pagina y sus instrucciones están en Ingles.
 * Estas baterias requieren un Adaptador de Xbox inalámbrico para Windows.  
-    ![Adaptador inalámbrico para Windows](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")  
+    ![Adaptador inalámbrico para Windows](https://rb3pc.milohax.org/images/btns/ctrls/xbox/receiver.png "Adaptador inalámbrico para Windows")  
 * Funciona **con o sin** platillos PRO.
     * Recuerda configurar cuales platillos tienes conectados dentro de Rock Band 3.
         * `Menu > Opciones > Opciones de Batería`
 * La detección de velocidad (intensidad) no funciona.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -35,12 +35,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
 <p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
 Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
 </ul>
                             </div>
                         </div>
@@ -70,7 +70,7 @@ Por favor lee la documentación de RB4InstrumentMapper.
 
 Este es el modo recomendado porque no requiere configuración adicional. Solo requiere que elijes la información de control correcta (Handler, Device y Device Class/Type).
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/drmsxomapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsxomapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -90,9 +90,9 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta "<code>input configs</code>" a la carpeta "<code>configs</code>" en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de "<code>Pads</code>".</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles funcionan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 <h4 id="configuracion">Configuración</h4>
 
@@ -106,19 +106,19 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 <tbody>
 <tr>
 <td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gp.png" alt="Parche Verde" title="Parche Verde"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/rp.png" alt="Parche Rojo" title="Parche Rojo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bp.png" alt="Parche Azul" title="Parche Azul"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Parche Amarillo" title="Parche Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yp.png" alt="Parche Amarillo" title="Parche Amarillo"></td>
 </tr>
 <tr>
 <td align="center">R3</td>
@@ -138,39 +138,39 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Pedal/Kick" title="Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Segundo Pedal/Kick" title="Segundo Pedal/Kick"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/a.png" alt="Botón A" title="Botón A"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/a.png" alt="Botón A" title="Botón A"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/b.png" alt="Botón B" title="Botón B"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/b.png" alt="Botón B" title="Botón B"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/x.png" alt="Botón X" title="Botón X"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/x.png" alt="Botón X" title="Botón X"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/y.png" alt="Botón Y" title="Botón Y"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/y.png" alt="Botón Y" title="Botón Y"></td>
 </tr>
 <tr>
 <td align="center">D-Pad</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png" alt="D-Pad (Cruceta)" title="D-Pad (Cruceta)"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png" alt="D-Pad (Cruceta)" title="D-Pad (Cruceta)"></td>
 </tr>
 <tr>
 <td align="center">PS Button</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/home.png" alt="Home" title="Home"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
 </table>
-<p><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/drmsxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div></p>
+<p><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/drmsxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div></p>
                             </div>
                         </div>
                     </div>
@@ -178,6 +178,6 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)

@@ -17,7 +17,7 @@ Antes de empezar con la instalación, **asegúrate que tus controladores y siste
 
 [**[Haz clic aquí para ir a la página de descarga de 7-Zip]**](https://7zip-es.updatestar.com/){:target="_blank"}.
 
-[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](https://carlmylo.github.io/rb3-pc/images/install/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com"){:target="_blank"}
+[![Una captura de la pagina para descargar 7-Zip, con el cursor sobre el instalador .exe de 64 bits.](https://rb3pc.milohax.org/images/install/7zipes.png)](https://7zip-es.updatestar.com/ "7zip-es.updatestar.com"){:target="_blank"}
 
 **Ahora**, **vamos a instalar Microsoft Visual C++ 2019 Redistributable**, porque es necesario para RPCS3. La mayoría de computadoras ya lo tienen, pero no está mal estar seguro.
 
@@ -25,7 +25,7 @@ Antes de empezar con la instalación, **asegúrate que tus controladores y siste
 
 **Cuando se descargue**, ábrelo y instálalo (Install). 
 
-[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](https://carlmylo.github.io/rb3-pc/images/install/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130"){:target="_blank"}
+[![Una Captura del instalador del Microsoft Visual C++ 2019 Redistributable, con las condiciones y opción para instalar.](https://rb3pc.milohax.org/images/install/mvcpp.png)](https://aka.ms/vs/17/release/vc_redist.x64.exe "Microsoft Visual C++ 2015-22 Redistributable (x64) 14.3833130"){:target="_blank"}
 
 ## RPCS3
 
@@ -35,17 +35,17 @@ Antes de empezar con la instalación, **asegúrate que tus controladores y siste
 
 Baja un poco y descarga la versión para Windows.
 
-[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](https://carlmylo.github.io/rb3-pc/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
+[![Una captura del sitio de descarga para RPCS3, con el cursor en la versión de Windows.](https://rb3pc.milohax.org/images/install/rpcs3dl.png)](https://rpcs3.net/download "RPCS3 - Download"){:target="_blank"}
 
 **Cuando se descargue, extrae el archivo .7zip.**  
 
-![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://carlmylo.github.io/rb3-pc/images/install/extractrpcs3es.png "Extraer ficheros...")
+![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://rb3pc.milohax.org/images/install/extractrpcs3es.png "Extraer ficheros...")
 
 Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicional para evitar problemas de permisos. También desactiva la opción para crear un subdirectorio, como en la imagen.
 
 **Evita instalar y lanzar Rock Band 3 de un disco externo o una carpeta sincronizada (Dropbox, OneDrive, etc.)**, porque pueden causar inestabilidad y otros problemas.  
 
-![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](https://carlmylo.github.io/rb3-pc/images/install/extractdires.png "Extract")
+![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](https://rb3pc.milohax.org/images/install/extractdires.png "Extract")
 
 ## Firmware
 
@@ -53,7 +53,7 @@ Cuando se extraiga, [**[descarga el software del sistema de PlayStation 3 del si
 
 _**Si estás utilizando un navegador Chromium como Chrome o Edge, ASEGÚRATE DE HACER click DERECHO Y "Guardar enlace como..." o tu descarga PUEDE FALLAR.**_
 
-[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](https://carlmylo.github.io/rb3-pc/images/install/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3"){:target="_blank"}
+[![Una captura de la página "Cómo actualizar el software del sistema de la consola PS3" de Sony con la subcategoría "Actualización por computadora" expandida.](https://rb3pc.milohax.org/images/install/fwpagees.png)](https://www.playstation.com/support/hardware/ps3/system-software/ "Cómo actualizar el software del sistema de la consola PS3"){:target="_blank"}
 
 {% include custom/series_empezando_next.html %}
 

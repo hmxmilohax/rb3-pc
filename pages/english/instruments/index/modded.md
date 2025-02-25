@@ -10,6 +10,6 @@ toc: false
 
 | Picture | Name | Platform | Compatibility | Configuration |
 |--|--|--|--|--|
-|[![PDP Riffmaster (Adafruit Feather)](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrriff.png)](https://carlmylo.github.io/rb3-pc/ctrls_mod_riffada "PDP Riffmaster") | PDP Riffmaster (via Adafruit Feather) | ![Santroller](https://carlmylo.github.io/rb3-pc/images/instruments/plat/santroller.png) | ![Great Compatibility Symbol](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[CLICK HERE]](https://carlmylo.github.io/rb3-pc/ctrls_mod_riffada) |
+|[![PDP Riffmaster (Adafruit Feather)](https://rb3pc.milohax.org/images/instruments/list/gtrriff.png)](https://rb3pc.milohax.org/ctrls_mod_riffada "PDP Riffmaster") | PDP Riffmaster (via Adafruit Feather) | ![Santroller](https://rb3pc.milohax.org/images/instruments/plat/santroller.png) | ![Great Compatibility Symbol](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[CLICK HERE]](https://rb3pc.milohax.org/ctrls_mod_riffada) |
 
 {% include links.html %}

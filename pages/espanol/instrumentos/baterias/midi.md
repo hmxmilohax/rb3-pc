@@ -8,12 +8,12 @@ summary: "Como configurar una batería MIDI en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/midi.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/mididrumscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
 <div align="center"> <b>¡NO mapeés este instrumento por el menú de "Pads"!</b></div>
 
 * Tu batería MIDI necesita:
@@ -21,36 +21,36 @@ toc: false
 	* **estar configurada a el mapeo de GM.**  
 Esto debe de ser lo que viene por defecto con mayoría de las baterías MIDI. Consulta el manual de tu batería para estar seguro.
 * D-Pad (Cruceta): Izquierda y D-Pad (Cruceta): Derecha no funcionan y no pueden ser usadas. Por esto, no vas a poder ajustar la velocidad de modo de practica o navegar por los entrenadores.
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) causan que el juego se quede atorado. Necesitas tener otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 ## Instrucciones
 
 **Si tu batería MIDI tiene un puerto de USB**, solo necesitas **conectarla a tu computadora**.  
 
->![Una imagen del cerebro de la batería MIDI, mostrando un puerto de USB](https://carlmylo.github.io/rb3-pc/images/midi/usbdrums.png "Batería de MIDI USB")  
+>![Una imagen del cerebro de la batería MIDI, mostrando un puerto de USB](https://rb3pc.milohax.org/images/midi/usbdrums.png "Batería de MIDI USB")  
 
 **Si tu batería MIDI solo tiene una salida de MIDI, vas a necesitar un adaptador de MIDI a USB**.  
 
->![Una imagen del cerebro de la batería MIDI, mostrando un puerto MIDI estilo DIN de cinco pines.](https://carlmylo.github.io/rb3-pc/images/midi/mididrums.png "Batería de MIDI")  
+>![Una imagen del cerebro de la batería MIDI, mostrando un puerto MIDI estilo DIN de cinco pines.](https://rb3pc.milohax.org/images/midi/mididrums.png "Batería de MIDI")  
 
 Aquí esta un ejemplo de un adaptador de MIDI a USB. Mayoría tiene una luz LED integrada para mostrar activad. **Para verificar que esta todo enchufado correctamente, debes de ver "MIDI In" parpadeando cuando le pegues a un parche**. 
 
->![Una imagen de una interfaz de MIDI a USB.](https://carlmylo.github.io/rb3-pc/images/midi/miditousb.png "Interfaz de MIDI a USB")  
+>![Una imagen de una interfaz de MIDI a USB.](https://rb3pc.milohax.org/images/midi/miditousb.png "Interfaz de MIDI a USB")  
 
 **Si tienes una interfaz de audio, puede ser que ya tengas un puerto de MIDI** para tu computadora, ya que unas interfaces tienen puertos de MIDIs integrados. Por ejemplo, esta Scarlett tiene conexiones MIDI por detrás.  
 
->![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://carlmylo.github.io/rb3-pc/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
+>![Una imagen del posterior de una Focusrite Scarlett, mostrando un puerto de USB y un salida/entrada MIDI por puerto DIN de cinco pines.](https://rb3pc.milohax.org/images/midi/midifs.png "Salida/Entrada MIDI de Focusrite Scarlett") 
 
 Decide cual manera es mas conveniente para ti y conecta tu batería MIDI a tu computadora.
 
 Después de eso, **haz click derecho en Rock Band 3** en RPCS3 y luego en **"`Change Custom Configuration`"** (Cambiar configuración personalizada).  
 
-![Una captura del menú de clic derecho de RPCS3, mostrando "`Change Custom Configuration`" (Cambiar configuración personalizada) resaltado.](https://carlmylo.github.io/rb3-pc/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
+![Una captura del menú de clic derecho de RPCS3, mostrando "`Change Custom Configuration`" (Cambiar configuración personalizada) resaltado.](https://rb3pc.milohax.org/images/cust/rpcs3customconfigchange.png "Change Custom Configuration")
 
 Entra la pestaña de "`I/O`".  
 
-![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://carlmylo.github.io/rb3-pc/images/cust/iod.png "I/O")
-* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Un cuadrado bronceado.") : 
+![Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando "Emulated MIDI Devices", tipo de dispositivo y selección de dispositivos resaltados en cuadros bronceados con contornos sólidos.](https://rb3pc.milohax.org/images/cust/iod.png "I/O")
+* ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/smalltan.png "Un cuadrado bronceado.") : 
 	* 🥁 **Cambia el "`Emulated MIDI type`"** (Tipo de MIDI emulado) **de "`Keyboard`"** (teclado) **a "`Drums`"** (batería), **y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 
 ## Mapeo
@@ -61,14 +61,14 @@ Mapeo Predeterminado:
 
 | **Numero de nota MIDI** | **Parte de batería** | **Acción en Rock Band** |
 |:--------:|:-------------------:|:-----------------:|
-| **38**, 31, 34, 37, 39, 40 | Snare/Tarola | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
-| **48**, 50 | Tom Alto | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
-| **45**, 50 | Tom Bajo | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
-| **41**, 43 | Tom de piso | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
-| **22**, 26, 42, 46, 54 | Hi-Hat/Contras | ![Platillo Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yc.png "Platillo Amarillo") |
-| **51**, 53, 56, 59 | Platillo Ride/de Ritmo | ![Platillo Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bc.png "Platillo Azul") |
-| **49**, 52, 55, 57 | Platillo Crash/Remate | ![Platillo Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gc.png "Platillo Verde") |
-| **33**, 35, 36 | Pedal/Kick | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| **38**, 31, 34, 37, 39, 40 | Snare/Tarola | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Parche Rojo") |
+| **48**, 50 | Tom Alto | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| **45**, 50 | Tom Bajo | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Parche Azul") |
+| **41**, 43 | Tom de piso | ![Parche Verde](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Parche Verde") |
+| **22**, 26, 42, 46, 54 | Hi-Hat/Contras | ![Platillo Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yc.png "Platillo Amarillo") |
+| **51**, 53, 56, 59 | Platillo Ride/de Ritmo | ![Platillo Azul](https://rb3pc.milohax.org/images/btns/drms/rb/bc.png "Platillo Azul") |
+| **49**, 52, 55, 57 | Platillo Crash/Remate | ![Platillo Verde](https://rb3pc.milohax.org/images/btns/drms/rb/gc.png "Platillo Verde") |
+| **33**, 35, 36 | Pedal/Kick | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
 | **44** | Pedal de Hi-Hat | Pedal de Hi-Hat |
 | **CC#4 (Control de pie)** | Posición del pedal de Hi-Hat | Deja cerrar/abrir la Hi-Hat |
 
@@ -117,7 +117,7 @@ Ejemplos de cambios comunes:
 * Quieres usar tu Hi-Hat cerrada para amarillo y Hi-Hat abierta para azul.
 	* `Midi id to note override: "46=Ride"`
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Investigación por [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}  
 Implementado por [[nswarm]](https://github.com/nswarm){:target="_blank"}

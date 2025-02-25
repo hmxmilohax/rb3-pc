@@ -9,12 +9,12 @@ series: "Configuración Personalizada"
 weight: 3
 ---
 
-![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Buffers" en un cuadro verde con una línea discontinua, "Framelimit", "Anisotropic Filter", "ZCull Accuracy", "Output Scaling" y "VSync" resaltados en un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/gpu.png "GPU")
+![Una captura de la configuración personalizada de la GPU de Rock Band 3, resaltando "Write Color Buffers" en un cuadro verde con una línea discontinua, "Framelimit", "Anisotropic Filter", "ZCull Accuracy", "Output Scaling" y "VSync" resaltados en un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/cust/gpu.png "GPU")
 
-* ![Un cuadro verde con una línea discontinua.](https://carlmylo.github.io/rb3-pc/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
+* ![Un cuadro verde con una línea discontinua.](https://rb3pc.milohax.org/images/cust/smallgreen.png "Cuadro verde") **REQUERIDO**: 
 	* **Activa "`Write Color Buffers`"** (Ingresar búferes de colores) - Los personajes tendrán rendimiento corrupto sin esta opción
 
-* ![Un cuadro azul con contorno punteado.](https://carlmylo.github.io/rb3-pc/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
+* ![Un cuadro azul con contorno punteado.](https://rb3pc.milohax.org/images/cust/smallblue.png "Cuadro azul") **Dependiendo en tu PC**: 
 	* **Activa "`VSync`"** (Sincronización vertical) - Reduce el efecto de rasgado de pantalla y da fotogramas mas estables. Incrementa la latencia ligeramente. **No uses esto con "Frame Limit" activado!**
 	* **Cambia "`Framelimit`"** (Limite de fotogramas):
 		* Déjalo en "`Auto`" para que RPCS3 seleccioné la tasa de fotogramas.

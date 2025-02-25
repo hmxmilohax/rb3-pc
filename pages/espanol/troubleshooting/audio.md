@@ -18,7 +18,7 @@ toc: false
                         <div id="mic-eco" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Bajale a la <strong>"Audio Buffer Duration"</strong> en la <a href="https://carlmylo.github.io/rb3-pc/custom_config_aud_es" target="_blank">[pestana de Audio en la configuración personalizada]</a> para Rock Band 3.</li>
+<li>Bajale a la <strong>"Audio Buffer Duration"</strong> en la <a href="https://rb3pc.milohax.org/custom_config_aud_es" target="_blank">[pestana de Audio en la configuración personalizada]</a> para Rock Band 3.</li>
 <li>Desactiva la Corrección de Tono dentro de Rock Band 3.
 <ul>
 <li>Puedes hacer esto en el <code>Menú &gt; Opciones &gt; Opciones de Voz &gt; Corrección de Tono</code></li>
@@ -41,7 +41,7 @@ toc: false
 <li><a href="https://blog-conocimientoadictivo.blogspot.com/2023/07/renombrar-los-dispositivos-de-audio-en.html" target="_blank">[Cambia el nombre tu micrófono]</a> a algo como “Mic 1” en los ajustes de Windows. Acentos pueden causar problemas con RPCS3.</li>
 <li>Asegúrate que estés activando el micrófono en la configuración personalizada de Rock Band 3 y no la global.
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/trbl/audio/custnotglobal_es.png" alt="Una captura del menu despegable de RPCS3, monstrando &quot;Change Custom Configuration resaltado" title="RPCS3"></li>
+<li><img src="https://rb3pc.milohax.org/images/trbl/audio/custnotglobal_es.png" alt="Una captura del menu despegable de RPCS3, monstrando &quot;Change Custom Configuration resaltado" title="RPCS3"></li>
 </ul>
 </li>
 </ul>

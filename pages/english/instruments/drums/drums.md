@@ -9,9 +9,9 @@ toc: false
 ---
 
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/myst.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/myst.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/mystcontrollers.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/mystcontrollers.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -29,12 +29,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
 <p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
 This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Follow the instructions and/or match the assignments below.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
 </ul>
                             </div>
                         </div>
@@ -56,18 +56,18 @@ This is so you can change configuration profiles in case you want to play games 
 
 | **RPCS3** | **Rock Band Drums** | **Guitar Hero Drums** |
 |:---------:|:-------------------:|:---------------------:|
-| Cross | ![Green Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/gp.png "Green Pad") |
-| Circle | ![Red Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/rp.png "Red Pad") |
-| Square | ![Blue Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/bp.png "Blue Pad") |
-| Triangle | ![Yellow Pad](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/yc.png "Yellow Cymbal") |
-| L1 | ![Foot Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/kp.png "Foot Pedal") |
-| D-Pad | ![D-Pad](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/dp.png "D-Pad") |
-| R1 | ![Second Foot Pedal](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://carlmylo.github.io/rb3-pc/images/btns/drms/gh/oc.png "Orange Cymbal") |
+| Cross | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Green Pad") | ![Green Pad](https://rb3pc.milohax.org/images/btns/drms/gh/gp.png "Green Pad") |
+| Circle | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Red Pad") | ![Red Pad](https://rb3pc.milohax.org/images/btns/drms/gh/rp.png "Red Pad") |
+| Square | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Blue Pad") | ![Blue Pad](https://rb3pc.milohax.org/images/btns/drms/gh/bp.png "Blue Pad") |
+| Triangle | ![Yellow Pad](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Yellow Pad") | ![Yellow Cymbal](https://rb3pc.milohax.org/images/btns/drms/gh/yc.png "Yellow Cymbal") |
+| L1 | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Foot Pedal") | ![Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/gh/kp.png "Foot Pedal") |
+| D-Pad | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad") | ![D-Pad](https://rb3pc.milohax.org/images/btns/ctrls/xbox/dp.png "D-Pad") |
+| R1 | ![Second Foot Pedal](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Second Foot Pedal") | ![Orange Cymbal](https://rb3pc.milohax.org/images/btns/drms/gh/oc.png "Orange Cymbal") |
 | R3 | Cymbal Modifier | |
 | D-Pad: Up | Yellow Cymbal Modifier | |
 | D-Pad: Down | Blue Cymbal Modifier | |
 | L3 | Pad Modifier | |
 
-[[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[TheNathannator]](https://ko-fi.com/thenathannator){:target="_blank"} via the [[PlasticBand]](https://github.com/TheNathannator/PlasticBand){:target="_blank"} project.

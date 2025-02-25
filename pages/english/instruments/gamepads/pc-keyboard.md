@@ -8,9 +8,9 @@ summary: "How to setup PC Keyboards on RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/pckeyboardcontroller.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/pckeyboardcontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 
@@ -32,12 +32,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
 <p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
 This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Follow the instructions and/or match the assignments below.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
 </ul>
                             </div>
                         </div>
@@ -177,7 +177,7 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center"></td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbdefmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- first tab end -->
@@ -235,35 +235,35 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>F</code>, and <code>Q</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
 <td align="center">Guide Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
 <td align="center"><code>D</code>, and <code>R</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
 <td align="center">Vocal Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>E</code>, and <code>J</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
 <td align="center">Vocal Track Volume (Song)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R2</td>
 <td align="center"><code>K</code>, and <code>T</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
 <td align="center">Pitch Correction (Song)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>L</code>, and <code>X</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
 <td align="center">Select</td>
 <td align="center"></td>
 </tr>
@@ -291,7 +291,7 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">Left Stick: Up</td>
 <td align="center"><code>W</code>, and <code>Left Shift</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
 <td align="center">Navigation</td>
 <td align="center"></td>
 </tr>
@@ -338,8 +338,8 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Pause (Song)</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -395,37 +395,37 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>1</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
 <td align="center"><code>2</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>3</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>4</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>5</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Up</td>
 <td align="center"><code>L</code>, and <code>Up Arrow</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Down</td>
 <td align="center"><code>P</code>, and <code>Left Arrow</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
 </tr>
 <tr>
 <td align="center"><code>W</code></td>
@@ -450,7 +450,7 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">Right Stick: Right</td>
 <td align="center"><code>;</code>, and <code>Down Arrow</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
@@ -458,7 +458,7 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Overdrive</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfpromapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -517,40 +517,40 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>2</code>, <code>8</code>, <code>A</code>, and <code>W</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
 <td align="center">Guide Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
 <td align="center"><code>1</code>, <code>7</code>, <code>Q</code>, and <code>SPACE</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
 <td align="center">Vocal Part Selection (Practice)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>3</code>, <code>9</code>, <code>E</code>, and <code>S</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
 <td align="center">Vocal Track Volume (Song)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">R2</td>
 <td align="center"><code>0</code>, <code>4</code>, <code>D</code>, and <code>R</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
 <td align="center">Pitch Correction (Song)</td>
 <td align="center"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>-</code>, <code>5</code>, <code>F</code>, and <code>T</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
 <td align="center">Select</td>
 <td align="center"></td>
 </tr>
@@ -619,8 +619,8 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center"></td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbghdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -675,47 +675,47 @@ This is so you can change configuration profiles in case you want to play games 
 <tr>
 <td align="center">Circle</td>
 <td align="center"><code>A</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/rp.png" alt="Red Pad" title="Red Pad"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>S</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yp.png" alt="Yellow Pad" title="Yellow Pad"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>O</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bp.png" alt="Blue Pad" title="Blue Pad"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>P</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gp.png" alt="Green Pad" title="Green Pad"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
 <td align="center"><code>W</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yc.png" alt="Yellow Cymbal" title="Yellow Cymbal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/yc.png" alt="Yellow Cymbal" title="Yellow Cymbal"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
 <td align="center"><code>0</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bc.png" alt="Blue Cymbal" title="Blue Cymbal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/bc.png" alt="Blue Cymbal" title="Blue Cymbal"></td>
 </tr>
 <tr>
 <td align="center">Cross</td>
 <td align="center"><code>-</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gc.png" alt="Green Cymbal" title="Green Cymbal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/gc.png" alt="Green Cymbal" title="Green Cymbal"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
 <td align="center"><code>,</code> and <code>Space</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
 <td align="center"><code>C</code></td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/drms/rb/kp.png" alt="Foot Pedal" title="Foot Pedal"></td>
 </tr>
 <tr>
 <td align="center">L3</td>
@@ -738,7 +738,7 @@ This is so you can change configuration profiles in case you want to play games 
 <td align="center">Blue Cymbal Modifier</td>
 </tr>
 </tbody>
-</table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
+</table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 </div>
 </div>
 
@@ -763,9 +763,9 @@ This is so you can change configuration profiles in case you want to play games 
 <li>Extract the .7z file.</li>
 <li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
 <p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
 <p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
 </ul>
                             </div>
@@ -774,7 +774,7 @@ This is so you can change configuration profiles in case you want to play games 
 </div>
 <!-- Profiles End -->
 
-[[Back to Controllers]](https://carlmylo.github.io/rb3-pc/ctrls#instrument-list)
+[[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [[Linos]](https://www.youtube.com/@LinosMelendi)
 

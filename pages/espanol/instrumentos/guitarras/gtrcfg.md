@@ -8,14 +8,14 @@ summary: "Como configurar tu guitarra usando Guitar Configurator en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/lgc.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/lgc.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rcmgtrs.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rcmgtrs.png" alt="Control" title="Control"></div>
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>¡¡¡Esta pagina esta aquí solo para advertirte que Guitar Configurator ha sido descontinuado!!! </b> {{include.content}}</div>
 
-**Actualiza a [[Santroller]](https://carlmylo.github.io/rb3-pc/ctrls_modgtr_san_es)**.
+**Actualiza a [[Santroller]](https://rb3pc.milohax.org/ctrls_modgtr_san_es)**.
 
 Tiene mas funciones, es compatible con la guitarra que tienes y también tiene traducción en Español. 
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)

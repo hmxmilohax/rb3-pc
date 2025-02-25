@@ -8,9 +8,9 @@ summary: "Como configurar guitarras de Guitar Hero con WiitarThing para Wii en R
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/wii.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/wiighgtrscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/wiighgtrscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
@@ -18,7 +18,7 @@ toc: false
 * Esta configuración **requiere un receptor de Bluetooth para conectarse.** Si no computadora no tiene un adaptador de Bluetooth, no va a funcionar.
     * Es recomendado que conviertas tu guitarra para ser cableada con una solución como el [[adaptador V3 por RetroCultMods]](https://www.etsy.com//listing/1536358024){:target="_blank"}, un [KIT REVIVAL de RetroCultMods]](https://www.etsy.com/listing/1830743563){:target="_blank"} [[Kit RGB DIY de RetroCultMods]](https://www.etsy.com/listing/1505287559){:target="_blank"}.
 * **El sensor de ladeo (Tilt) no funciona correctamente.**
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -32,12 +32,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
 <p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
 Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
 </ul>
                             </div>
                         </div>
@@ -66,17 +66,17 @@ Usa el click derecho para borrar botones.
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| L2 | ![Gatillo Izquierdo](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | Botón de solos |
+| L2 | ![Gatillo Izquierdo](https://rb3pc.milohax.org/images/btns/ctrls/360/lt.png "Gatillo Izquierdo") | Botón de solos |
 
 ¡**Cambia esto** o los trastes amarillos y azules estarán invertidos!
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| Square | ![Botón Y](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/y.png "Botón Y") | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") | 
-| Triangle | ![Botón X](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/x.png "Botón X") | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") |
+| Square | ![Botón Y](https://rb3pc.milohax.org/images/btns/ctrls/360/y.png "Botón Y") | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") | 
+| Triangle | ![Botón X](https://rb3pc.milohax.org/images/btns/ctrls/360/x.png "Botón X") | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
 
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrwiiwtarmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrwiiwtarmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -95,9 +95,9 @@ Usa el click derecho para borrar botones.
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta "<code>input configs</code>" a la carpeta "<code>configs</code>" en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de "<code>Pads</code>".</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 <h4 id="configuracion">Configuración</h4>
 <table>
@@ -111,63 +111,63 @@ Usa el click derecho para borrar botones.
 <tbody>
 <tr>
 <td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Up</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Down</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Left</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Right</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
 </tr>
 <tr>
 <td align="center">Right Stick: <br> Left/Right</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo Vertical"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo Vertical"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo Horizontal"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo Horizontal"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/plu.png" alt="Botón + (Mas)" title="Botón + (Mas)"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/wii/plu.png" alt="Botón + (Mas)" title="Botón + (Mas)"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/back.png" alt="min" title="Botón - (Menos)"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/wii/back.png" alt="min" title="Botón - (Menos)"></td>
 </tr>
 <tr>
 <td align="center">PS Button</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/wii/home.png" alt="Home" title="Home"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/wii/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
 </table>
@@ -178,6 +178,6 @@ Usa el click derecho para borrar botones.
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [diogodiogo2]

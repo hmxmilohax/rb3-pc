@@ -8,6 +8,6 @@ summary: "Como agregar mas canciones Rock Band 3."
 toc: false
 ---
 
-[[Haz click aquí para ir a la guía de como agregar canciones custom a Rock Band 3.]](https://carlmylo.github.io/rb3-pc/customs_intro_es){:target="_blank"}
+[[Haz click aquí para ir a la guía de como agregar canciones custom a Rock Band 3.]](https://rb3pc.milohax.org/customs_intro_es){:target="_blank"}
 
 {% include links.html %}

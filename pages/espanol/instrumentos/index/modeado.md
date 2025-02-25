@@ -11,7 +11,7 @@ toc: false
 | Imagen | Nombre | Sistema | Reseña | Configuración |
 |--------|--------|---------|--------|---------------|
 
-|[![Guitarra Riffmaster (por Adafruit Feather)](https://carlmylo.github.io/rb3-pc/images/instruments/list/gtrriff.png)](https://carlmylo.github.io/rb3-pc/ctrls_mod_riffada_es "PDP Riffmaster") | PDP Riffmaster (por Adafruit Feather) | ![Santroller](https://carlmylo.github.io/rb3-pc/images/instruments/plat/santroller.png) | ![Compatibilidad buena](https://carlmylo.github.io/rb3-pc/images/instruments/compat/great.png) |[[VER MAS]](https://carlmylo.github.io/rb3-pc/ctrls_mod_riffada_es) |
+|[![Guitarra Riffmaster (por Adafruit Feather)](https://rb3pc.milohax.org/images/instruments/list/gtrriff.png)](https://rb3pc.milohax.org/ctrls_mod_riffada_es "PDP Riffmaster") | PDP Riffmaster (por Adafruit Feather) | ![Santroller](https://rb3pc.milohax.org/images/instruments/plat/santroller.png) | ![Compatibilidad buena](https://rb3pc.milohax.org/images/instruments/compat/great.png) |[[VER MAS]](https://rb3pc.milohax.org/ctrls_mod_riffada_es) |
 
 
 {% include links.html %}

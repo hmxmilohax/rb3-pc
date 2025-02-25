@@ -8,17 +8,17 @@ summary: "Como configurar tu guitarra de Rock Band 4/Fortnite Festival para PS4 
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/ps4.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/rb4gtrscontroller.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rb4gtrscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
 * Requiere que descargues y instales [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} con ViGEmBus.
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
-	![Receptor de PDP Riffmaster](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
-* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://carlmylo.github.io/rb3-pc/ctrls#gamepads_es){:target="_blank"}.
+	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
+* Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -32,12 +32,12 @@ toc: false
                             <div class="panel-body">
 <ul>
 <p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
 <p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
 Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
-<img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
 </ul>
                             </div>
                         </div>
@@ -61,10 +61,10 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 | **RPCS3** | **XInput** | **Guitarra** |
 |:--------:|:-----------:|:-----------:|
-| R1 | ![Palanca izquierda](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif "Ladeo") | 
-| L2 | ![Palanca derecha presionada](https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png "Botón de solos") | 
+| R1 | ![Palanca izquierda](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.gif "Ladeo") | 
+| L2 | ![Palanca derecha presionada](https://rb3pc.milohax.org/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | 
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -83,9 +83,9 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <li>Extrae el archivo .7z.</li>
 <li>Arrastra la carpeta "<code>input configs</code>" a la carpeta "<code>configs</code>" en la carpeta donde tienes RPCS3.</li>
 </ol>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="Una animación de alguien arrastrando el perfil para las guitarras de Rock Band para Wii a su carpeta de RPCS3." title="Instalando un perfil del Repo de Instrumentos"></p>
 <p>Después de eso, puedes seleccionar el perfil en el menú de "<code>Pads</code>".</p>
-<p><img src="https://carlmylo.github.io/rb3-pc/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="Una captura de Gamepad Settings dentro de RPCS3, con el cursor sobre un perfil." title="Gamepad Settings"></p>
 <p>La mayoría del tiempo, estos perfiles jalan sin configuración adicional. Por si acaso no, trata de cambiar el control en "<code>Devices</code>", al lado del botón de "<code>Refresh</code>" hasta que funcione. Puedes cambiar esto mientras el juego esté abierto.</p>
 <h4 id="configuracion">Configuración</h4>
 <table>
@@ -98,67 +98,67 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 <tbody>
 <tr>
 <td align="center">Cross</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Traste Verde" title="Traste Verde"></td>
 </tr>
 <tr>
 <td align="center">Circle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Traste Rojo" title="Traste Rojo"></td>
 </tr>
 <tr>
 <td align="center">Square</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Traste Amarillo" title="Traste Amarillo"></td>
 </tr>
 <tr>
 <td align="center">Triangle</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Traste Azul" title="Traste Azul"></td>
 </tr>
 <tr>
 <td align="center">L1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Traste Naranja" title="Traste Naranja"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Up</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Rasgueo para arriba" title="Rasgueo para arriba"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Down</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Rasgueo para abajo" title="Rasgueo para abajo"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Left</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad (Cruceta): Izquierda" title="D-Pad (Cruceta): Izquierda"></td>
 </tr>
 <tr>
 <td align="center">D-Pad: Right</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad (Cruceta): Derecha" title="D-Pad (Cruceta): Derecha"></td>
 </tr>
 <tr>
 <td align="center">Right Stick: <br> Left/Right</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Palanca de whammy" title="Palanca de whammy"></td>
 </tr>
 <tr>
 <td align="center">Right Stick: <br> Up/Down</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/fx.png" alt="Switch de efectos" title="Switch de efectos"></td>
 </tr>
 <tr>
 <td align="center">L2</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Botón de solos" title="Botón de solos"></td>
 </tr>
 <tr>
 <td align="center">R1</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.gif" alt="Ladeo" title="Ladeo"></td>
 </tr>
 <tr>
 <td align="center">Start</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/start.png" alt="Start" title="Start"></td>
 </tr>
 <tr>
 <td align="center">Select</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/back.png" alt="Back" title="Back"></td>
 </tr>
 <tr>
 <td align="center">PS Button</td>
-<td align="center"><img src="https://carlmylo.github.io/rb3-pc/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
+<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
 </tr>
 </tbody>
 </table>
@@ -169,6 +169,6 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 </div>
 <!-- /.panel-group -->
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} y [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}

@@ -18,7 +18,7 @@ toc: false
                         <div id="bibl-traba" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-Ctm. Se te olvido poner “Network Status” a “Connected” en la <a href="https://carlmylo.github.io/rb3-pc/custom_config_net" target="_blank">[pestaña “Network” al hacer la configuración personalizada]</a> para Rock Band 3, como te dijo la guía.
+Ctm. Se te olvido poner “Network Status” a “Connected” en la <a href="https://rb3pc.milohax.org/custom_config_net" target="_blank">[pestaña “Network” al hacer la configuración personalizada]</a> para Rock Band 3, como te dijo la guía.
 </ul>
                             </div>
                         </div>

@@ -9,11 +9,11 @@ series: "Configuración Personalizada"
 weight: 9
 ---
 
-![Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando "Show trophy popups", "Show RPCN popups", "Show shader compilation hint", "Show PPU compilation hint", "Show mouse and keyboard toggle hint", "Start games in fullscreen mode" y "Use native user interface" resaltados en cuadros bronceados con contornos solidos.](https://carlmylo.github.io/rb3-pc/images/cust/emulator.png "Emulator")
+![Una captura de la configuración personalizada del emulador de Rock Band 3, mostrando "Show trophy popups", "Show RPCN popups", "Show shader compilation hint", "Show PPU compilation hint", "Show mouse and keyboard toggle hint", "Start games in fullscreen mode" y "Use native user interface" resaltados en cuadros bronceados con contornos solidos.](https://rb3pc.milohax.org/images/cust/emulator.png "Emulator")
 
 Puedes dejar esto como quieras, pero consideraría ajustar estas opciones:
 
-* ![Un cuadro bronceado con un contorno solido.](https://carlmylo.github.io/rb3-pc/images/cust/smalltan.png "Cuadro bronceado") **Opcional**: 
+* ![Un cuadro bronceado con un contorno solido.](https://rb3pc.milohax.org/images/cust/smalltan.png "Cuadro bronceado") **Opcional**: 
 	* **"`Show trophy popups`"** (Mostrar notificaciones de trofeos) - Simula la notificación de trofeos de la PS3.
 	* **"`Show RPCN popups`"** (Notificaciones de RPCN) - Esto muestra notificaciones cuando tu o tus amigos inicien sesión en linea por RPCN.
 	* **"`Show shader compilation hint`"** (Mostrar notificaciones de shaders compilándose) - Esto muestra una notificación cuando RPCS3 esta compilando shaders. Cuando juegas en RPCS3, tiene que compilar shaders para "trasladar" los Gráficas de una PS3 a un formato que tu PC pueda usar. **El juego seguirá trabándose mientras esto pase** . **Esto pasa en TODOS las PC's.** Cuando termine de compilar un efecto, **esto usualmente ya no vuelve a pasar otra vez**. **La mejor forma de lidiar con esto es** simplemente **jugar al juego normalmente** y luego se ira rápidamente. También puedes activar el modo de "Autoplay" y dejar que el juego toque unas canciones hasta que pare de trabarse tanto.

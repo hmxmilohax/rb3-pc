@@ -8,9 +8,9 @@ summary: "Mapeo general para mandos desconocidos en RPCS3."
 toc: false
 ---
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/plat/myst.png" alt="Sistema" title="Sistema"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/myst.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/cont/mystcontrollers.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/mystcontrollers.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 
@@ -33,23 +33,23 @@ toc: false
 
 | **RPCS3**          | **Rock Band** |
 |:------------------:|:---------------------:|
-| L2 | ![Traste Verde](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/gf.png "Traste Verde") |
-| L1 | ![Traste Rojo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/rf.png "Traste Rojo") |
-| R1 | ![Traste Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/yf.png "Traste Amarillo") |
-| R2 | ![Traste Azul](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/bf.png "Traste Azul") |
-| Cross | ![Traste Naranja](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/of.png "Traste Naranja") |
-| Left Stick | ![Palanca de whammy](https://carlmylo.github.io/rb3-pc/images/btns/gtrs/wb.png "Palanca de whammy") |
+| L2 | ![Traste Verde](https://rb3pc.milohax.org/images/btns/gtrs/gf.png "Traste Verde") |
+| L1 | ![Traste Rojo](https://rb3pc.milohax.org/images/btns/gtrs/rf.png "Traste Rojo") |
+| R1 | ![Traste Amarillo](https://rb3pc.milohax.org/images/btns/gtrs/yf.png "Traste Amarillo") |
+| R2 | ![Traste Azul](https://rb3pc.milohax.org/images/btns/gtrs/bf.png "Traste Azul") |
+| Cross | ![Traste Naranja](https://rb3pc.milohax.org/images/btns/gtrs/of.png "Traste Naranja") |
+| Left Stick | ![Palanca de whammy](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Palanca de whammy") |
 | Select | Sobrecarga |
 
 ### Batería: 
 
 | **RPCS3**    | **Batería de Rock Band** |
 |:--------:|:-------------------:|
-| L2 | ![Pedal/Kick](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/kp.png "Pedal/Kick") |
-| L1 | ![Parche Rojo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/rp.png "Parche Rojo") |
-| R1 | ![Parche Amarillo](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/yp.png "Parche Amarillo") |
-| R2 | ![Parche Azul](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/bp.png "Parche Azul") |
-| Cross | ![Parche Verde](https://carlmylo.github.io/rb3-pc/images/btns/drms/rb/gp.png "Parche Verde") |
+| L2 | ![Pedal/Kick](https://rb3pc.milohax.org/images/btns/drms/rb/kp.png "Pedal/Kick") |
+| L1 | ![Parche Rojo](https://rb3pc.milohax.org/images/btns/drms/rb/rp.png "Parche Rojo") |
+| R1 | ![Parche Amarillo](https://rb3pc.milohax.org/images/btns/drms/rb/yp.png "Parche Amarillo") |
+| R2 | ![Parche Azul](https://rb3pc.milohax.org/images/btns/drms/rb/bp.png "Parche Azul") |
+| Cross | ![Parche Verde](https://rb3pc.milohax.org/images/btns/drms/rb/gp.png "Parche Verde") |
 
 ### Vocales:
 
@@ -68,6 +68,6 @@ toc: false
 | R1 | Volumen de Pista Vocal (Canción) | |
 | R2 | Corrección de Tono (Canción) | |
 
-<div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/mystmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/mystmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-[[Regresar a la lista de instrumentos]](https://carlmylo.github.io/rb3-pc/ctrls_es#lista-de-instrumentos)
+[[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)

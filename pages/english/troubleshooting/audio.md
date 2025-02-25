@@ -18,7 +18,7 @@ toc: false
                         <div id="mic-echo" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
-<li>Lower the <strong>Audio Buffer Duration</strong> slider in the <a href="https://carlmylo.github.io/rb3-pc/custom_config_aud" target="_blank">[Audio tab when setting up a Custom Configuration]</a> for Rock Band 3.</li>
+<li>Lower the <strong>Audio Buffer Duration</strong> slider in the <a href="https://rb3pc.milohax.org/custom_config_aud" target="_blank">[Audio tab when setting up a Custom Configuration]</a> for Rock Band 3.</li>
 <li>Deactivate pitch correction in Rock Band 3.
 <ul>
 <li>To do this, go to <code>Menu &gt; Options &gt; Vocal Options &gt; Pitch Correction</code></li>
@@ -41,7 +41,7 @@ toc: false
 <li><a href="https://www.majorgeeks.com/content/page/how_to_rename_your_sound_input_or_output_devices.html" target="_blank">[Rename your microphone]</a> to something else like “Mic 1” in Windows’ settings. Accents may cause issues with RPCS3.</li>
 <li>Make sure you’re setting the microphone in Rock Band 3’s Custom Configuration and not RPCS3’s Global Custom Configuration.
 <ul>
-<li><img src="https://carlmylo.github.io/rb3-pc/images/trbl/audio/custnotglobal.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration highlighted" title="RPCS3"></li>
+<li><img src="https://rb3pc.milohax.org/images/trbl/audio/custnotglobal.png" alt="A screenshot of RPCS3's right click menu, showing &quot;Change Custom Configuration highlighted" title="RPCS3"></li>
 </ul>
 </li>
 </ul>

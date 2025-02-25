@@ -25,7 +25,7 @@ You can use:
 
 <sup>a</sup> <sub>Some instrument controllers are missing features like tilt or effect switches. Refer to the instrument section for more information.</sub>  
 <sup>b</sup> <sub>Controllers have auto-strum, like GH1-GH3. Keyboards can be setup to be both auto-strum or manual strum.</sub>  
-<sup>c</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://carlmylo.github.io/rb3-pc/ctrls_keys_midi){:target="_blank"}</sub>  
+<sup>c</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/ctrls_keys_midi){:target="_blank"}</sub>  
 
 Want a more thorough list?
 

@@ -14,19 +14,19 @@ weight: 5
 Now that the game is in the library, we'll download some files to adjust RPCS3 for the best experience.  
 Below are the quick configuration files. Download a whichever is best for your computer.  
 
-* [[Recommended settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
-* [[Minimum settings]](https://carlmylo.github.io/rb3-pc/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://carlmylo.github.io/rb3-pc/gs_reqs#a-computer){:target="_blank"}.
+* [[Recommended settings]](https://rb3pc.milohax.org/downloads/customconfigs/recommended.zip){:target="_blank"} - These are the settings used for the recommended specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
+* [[Minimum settings]](https://rb3pc.milohax.org/downloads/customconfigs/minimum.zip){:target="_blank"} - These are the settings used for the minimum specs listed in [[requirements]](https://rb3pc.milohax.org/gs_reqs#a-computer){:target="_blank"}.
 
 ## Applying A Profile
 To use these, **click on the settings you want to download then extract the ZIP archives in the folder where you extracted RPCS3**. It should combine folders automatically if you did it right.  
 In the GIF example below, the "Recommended" requirements settings archive (recommended.zip) was downloaded and its contents were moved into RPCS3's folder.
 
-![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://carlmylo.github.io/rb3-pc/images/cust/quickconf.gif "Recommended.zip")
+![A GIF of "config" and "dev_hdd0" from "recommended.zip" being moved into its proper location in RPCS3's folder.](https://rb3pc.milohax.org/images/cust/quickconf.gif "Recommended.zip")
 
 The only things left to do are:
-* **[[setting up your instruments and controllers]](https://carlmylo.github.io/rb3-pc/ctrls){:target="_blank"}**
-* **[[setting up a microphone to sing with]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/gs_mics){:target="_blank"}**
-* **[[creating an RPCN account to play online and use leaderboards]](https://carlmylo.github.io/rb3-pc/https://carlmylo.github.io/rb3-pc/rpcn_intro){:target="_blank"}**
+* **[[setting up your instruments and controllers]](https://rb3pc.milohax.org/ctrls){:target="_blank"}**
+* **[[setting up a microphone to sing with]](https://rb3pc.milohax.org/https://rb3pc.milohax.org/gs_mics){:target="_blank"}**
+* **[[creating an RPCN account to play online and use leaderboards]](https://rb3pc.milohax.org/https://rb3pc.milohax.org/rpcn_intro){:target="_blank"}**
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
