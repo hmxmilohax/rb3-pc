@@ -740,6 +740,7 @@ This is so you can change configuration profiles in case you want to play games 
 </tbody>
 </table><div align="center"> <img src="https://carlmylo.github.io/rb3-pc/images/instruments/maps/padpckbpdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 </div>
+</div>
 
 ## Profiles
 

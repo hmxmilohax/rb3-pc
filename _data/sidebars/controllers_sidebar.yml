@@ -126,7 +126,6 @@ entries:
       output: web
       type: homepage
 
-
   - title: Guitars
     output: web
     folderitems:
@@ -333,20 +332,6 @@ entries:
       output: web
       type: homepage
 
-  - title: Advanced Configuration
-    output: web
-    folderitems:
-
-    - title: Intro
-      url: /custom_config
-      output: web
-      type: homepage
-
-    - title: What to adjust
-      url: /custom_config#custom-configuration
-      output: web
-      type: homepage
-
   - title: Advanced
     output: web
     folderitems:
@@ -379,6 +364,20 @@ entries:
     - title: Add Custom Textures to Rock Band 3 Deluxe
       url: /adv_customtex
       output: web
+
+  - title: Extra Configuration
+    output: web
+    folderitems:
+
+    - title: Intro
+      url: /custom_config
+      output: web
+      type: homepage
+
+    - title: What to adjust
+      url: /custom_config#custom-configuration
+      output: web
+      type: homepage
 
   - title: Troubleshooting
     output: web

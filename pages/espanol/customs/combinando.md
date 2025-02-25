@@ -79,8 +79,8 @@ Si vas a instalar el paquete a un PS3 por FTP, elije cualquier carpeta que te co
 <img src="https://carlmylo.github.io/rb3-pc/images/xtra/customs/savefolderes.png" alt="Una captura de un explorador de archivos. La carpeta de &quot;dev_hdd0&quot; esta elegida y el cursor esta sobre &quot;Select folder.&quot;" title="Select Folder"></p>
 <p>Cuando termines, tendrás las canciones en la carpeta, listas para jugar, si estas en emulador.<br>
 Si estas en PS3, tendrás que copiar la carpeta por FTP a <code>dev_hdd0/game/BLUS30463/USRDIR</code>.
-Hasta puedes actualizar tu colección musical mientras estés dentro del juego con RB3DX. Dentro de Rock Band 3, ve a:<br>
-<code>Opciones &gt; Extras &gt; Actualizar Colección Musical</code> para cargar las canciones nuevas.<br>
+Hasta puedes actualizar tu colección musical mientras estés dentro del juego con RB3DX. Dentro de Rock Band 3, ve a:</p>
+<p><code>Opciones &gt; Extras &gt; Actualizar Colección Musical</code> para cargar las canciones nuevas.</p>
 <img src="https://carlmylo.github.io/rb3-pc/images/xtra/customs/onyxcreatedrpcs3mergees.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
 
 </div>

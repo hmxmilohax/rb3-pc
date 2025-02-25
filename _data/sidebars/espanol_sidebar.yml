@@ -101,21 +101,7 @@ entries:
       output: web
       type: homepage
 
-  - title: Configuración Avanzada
-    output: web
-    folderitems:
-
-    - title: Introducción
-      url: /custom_config_es
-      output: web
-      type: homepage
-
-    - title: Ajustando la Configuración
-      url: /custom_config_es#configuración-personalizada
-      output: web
-      type: homepage
-
-  - title: Adicional
+  - title: Avanzado
     output: web
     folderitems:
 
@@ -147,6 +133,20 @@ entries:
     - title: Texturas Personalizada
       url: /adv_customtex_es
       output: web
+
+  - title: Ajustes Adicionales
+    output: web
+    folderitems:
+
+    - title: Introducción
+      url: /custom_config_es
+      output: web
+      type: homepage
+
+    - title: Ajustando la Configuración
+      url: /custom_config_es#configuración-personalizada
+      output: web
+      type: homepage
 
   - title: Problemas y soluciones
     output: web
