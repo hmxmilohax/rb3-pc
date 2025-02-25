@@ -91,7 +91,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Rock Band
+    - title: Wii Rock Band
       url: /ctrls_rbdrums_wii
       output: web
       type: homepage
@@ -111,7 +111,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Guitar Hero (Raphnet)
+    - title: Wii Guitar Hero (Raphnet)
       url: /ctrls_ghdrums_wii
       output: web
       type: homepage
@@ -166,7 +166,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Rock Band
+    - title: Wii Rock Band
       url: /ctrls_rbgtr_wii
       output: web
       type: homepage
@@ -260,7 +260,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Switch Pro
+    - title: Switch Pro
       url: /ctrls_pad_switch
       output: web
       type: homepage
@@ -299,7 +299,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Wii Rock Band Wireless Keyboard
+    - title: Wii Rock Band Wireless Keyboard
       url: /ctrls_keys_wii
       output: web
       type: homepage
@@ -323,7 +323,7 @@ entries:
       output: web
       type: homepage
   
-    - title: Nintendo Wii Fender Mustang
+    - title: Wii Fender Mustang
       url: /ctrls_protar_wii
       output: web
       type: homepage

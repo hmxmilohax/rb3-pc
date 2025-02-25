@@ -250,7 +250,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Nintendo Switch Pro
+    - title: Switch Pro
       url: /ctrls_pad_switch_es
       output: web
       type: homepage
@@ -289,7 +289,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Rock Band para Nintendo Wii
+    - title: Rock Band para Wii
       url: /ctrls_keys_wii_es
       output: web
       type: homepage
@@ -313,7 +313,7 @@ entries:
       output: web
       type: homepage
   
-    - title: Fender Mustang para Nintendo Wii
+    - title: Fender Mustang para Wii
       url: /ctrls_protar_wii_es
       output: web
       type: homepage
