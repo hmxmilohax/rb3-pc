@@ -289,17 +289,17 @@ entries:
       output: web
       type: homepage
 
-    - title: PlayStation 3 Rock Band Wireless Keyboard
+    - title: PlayStation 3 Rock Band Keyboard
       url: /ctrls_keys_ps3
       output: web
       type: homepage
 
-    - title: Xbox 360 Rock Band Wireless Keyboard
+    - title: Xbox 360 Rock Band Keyboard
       url: /ctrls_keys_360
       output: web
       type: homepage
 
-    - title: Wii Rock Band Wireless Keyboard
+    - title: Wii Rock Band Keyboard
       url: /ctrls_keys_wii
       output: web
       type: homepage
