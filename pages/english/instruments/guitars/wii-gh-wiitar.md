@@ -1,7 +1,7 @@
 ---
 title: Nintendo Wii Guitar Hero Guitars (WiitarThing)
 sidebar: controllers_sidebar
-permalink: ctrls_ghwtr_wii
+permalink: ctrls_ghwtrgtr_wii
 folder: instruments
 tags: [wii, guitars, english]
 summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3."

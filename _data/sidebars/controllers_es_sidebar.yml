@@ -172,7 +172,7 @@ entries:
       type: homepage
 
     - title: Guitar Hero para Wii (Raphnet)
-      url: /ctrls_ghlpgtr_wii_es
+      url: /ctrls_ghraphgtr_wii_es
       output: web
       type: homepage
 

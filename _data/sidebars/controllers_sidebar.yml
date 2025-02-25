@@ -182,7 +182,7 @@ entries:
       type: homepage
 
     - title: Wii Guitar Hero Les Paul (Raphnet)
-      url: /ctrls_ghlpgtr_wii
+      url: /ctrls_ghraphgtr_wii
       output: web
       type: homepage
 
