@@ -28,10 +28,8 @@ toc: false
 ![A screenshot of WiitarThing with a cursor hovering over the red "SYNC" button.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarsyncbut.png "WiitarThing v2.7.0.5")
 
 3. Press either the red `SYNC` button on the back of your Wii Remote<sup>a</sup> or press both `1+2` at the same time<sup>b</sup>. You may have to try this a few times.  
-
 <sup>a</sup>  
 ![A Wii Remote with the 1 and 2 buttons being highlighted.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesync12.gif "Wii Remote")  
-
 <sup>b</sup>  
 ![A Wii Remote with the "SYNC" button the back being highlighted.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesyncbut.gif "Wii Remote")
 

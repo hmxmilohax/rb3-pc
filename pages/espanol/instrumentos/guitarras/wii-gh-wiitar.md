@@ -16,7 +16,7 @@ toc: false
 
 * Necesitas instalar [[**WiitarThing**]](https://github.com/TheNathannator/WiitarThing){:target="_blank"} y sus dependencias.
 * Esta configuración **requiere un receptor de Bluetooth para conectarse.** Si no computadora no tiene un adaptador de Bluetooth, no va a funcionar.
-    * Es recomendado que conviertas tu guitarra para ser cableada con una solución como el [[adaptador V3 por RetroCultMods]](https://www.etsy.com//listing/1536358024){:target="_blank"}, un [KIT REVIVAL de RetroCultMods]](https://www.etsy.com/listing/1830743563){:target="_blank"} [[Kit RGB DIY de RetroCultMods]](https://www.etsy.com/listing/1505287559){:target="_blank"}.
+    * Es recomendado que conviertas tu guitarra para ser cableada con una solución como el [[adaptador V3 por RetroCultMods]](https://www.etsy.com//listing/1536358024){:target="_blank"}, un [[KIT REVIVAL de RetroCultMods]](https://www.etsy.com/listing/1830743563){:target="_blank"} [[Kit RGB DIY de RetroCultMods]](https://www.etsy.com/listing/1505287559){:target="_blank"}.
 * **El sensor de ladeo (Tilt) no funciona correctamente.**
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
@@ -27,13 +27,11 @@ toc: false
 2. Presiona el botón de **`[SYNC]`** en la parte izquierda hacia arriba.  
 ![Una captura de WiitarThing con el cursor sobre el botón rojo de "SYNC".](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarsyncbut.png "WiitarThing v2.7.0.5")
 
-3. Presiona el botón rojo de `SYNC` atras de tu control de Wii<sup>a</sup> o presiona `1+2`<sup>b</sup> al mismo tiempo. Es posible que necesitaras intentar esto varias veces.
-
+3. Presiona el botón rojo de `SYNC` atras de tu control de Wii<sup>a</sup> o presiona `1+2`<sup>b</sup> al mismo tiempo. Es posible que necesitaras intentar esto varias veces.  
 <sup>a</sup>  
 ![Un control de Wii con los botones de 1 y 2 siendo resaltado.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesync12.gif "Control de Wii")  
-
 <sup>b</sup>  
-![Un control de Wii con el botón de "SYNC" de atrás siendo resaltado.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesyncbut.gif "Control de Wii")
+![Un control de Wii con el botón de "SYNC" de atrás siendo resaltado.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesyncbut.gif "Control de Wii")  
 
 4. Cuando se sincronice, haz click en **`[CONNECT]`**.  
 ![Una captura de WiitarThing con el cursor sobre el botón rojo de "CONNECT".](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarconnectbut.png "WiitarThing v2.7.0.5")
