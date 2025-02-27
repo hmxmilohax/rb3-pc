@@ -32,7 +32,7 @@ weight: 4
 
 ![Una GIF de PS3UPDAT.PUP siendo instalado en RPCS3.](https://rb3pc.milohax.org/images/install/rpcs3fwdnd.gif "PST3UPDAT.PUP")
 
-<p><strong>Haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a></strong> cuando el programa te pregunte si quieres instalar el archivo.
+<p><strong>Haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a></strong> cuando el programa te pregunte si quieres instalar el archivo.</p>
 
 ![[Una captura del instalador de software del sistema de RPCS3 preguntándole al usuario si quiere instalar la software del sistema llamado "PS3UPDAT.PUP".]](https://rb3pc.milohax.org/images/install/fwinstall.png "RPCS3 Firmware Installer (Instalador de software del sistema de RPCS3)")
 
@@ -69,7 +69,7 @@ Cuando se baje, **extrae el archivo**.
 
 ![Una captura del menú contextual de Windows con el cursor en "Extraer ficheros...") en la categoría de 7-Zip.](https://rb3pc.milohax.org/images/install/rb3dxextes.png "Extraer ficheros...")
 
-<p>Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a>, como con el archivo <code>PS3UPDAT.PUP</code>.
+<p>Cuando termine de extraer, arrastra el archivo PKG a RPCS3 y haz click en <a href="#" data-toggle="tooltip" data-original-title="Si"><code>Yes</code></a>, como con el archivo <code>PS3UPDAT.PUP</code>.</p>
 
 ![Una GIF de el archivo PKG siendo arrastrato en RPCS3.](https://rb3pc.milohax.org/images/install/rpcs3rb3dxdnd.gif "Rock Band 3 Deluxe PKG")
 

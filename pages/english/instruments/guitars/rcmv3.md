@@ -196,9 +196,9 @@ By default, XInput has most things bound correctly. You only need to remap the f
 </div>
 <!-- /.panel-group -->
 
-### Modo Passthrough
+### Passthrough Mode
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, la herramienta de RetroCultMods no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te dejara conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, we don't have documentation for hotplug with this adapter, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of docuemtnation, you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
