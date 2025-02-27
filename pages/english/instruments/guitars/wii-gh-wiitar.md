@@ -4,7 +4,7 @@ sidebar: controllers_sidebar
 permalink: ctrls_ghwtrgtr_wii
 folder: instruments
 tags: [wii, guitars, english]
-summary: "How to setup Nintendo Wii Guitar Hero guitars on RPCS3."
+summary: "How to setup Nintendo Wii Guitar Hero guitars using WiitarThing on RPCS3."
 toc: false
 ---
 
@@ -16,9 +16,29 @@ toc: false
 
 * Requires installing and running [[**WiitarThing**]](https://github.com/TheNathannator/WiitarThing){:target="_blank"} along with its dependencies.
 * This configuration **requires connecting wirelessly via Bluetooth**. You need a Bluetooth receiver to connect to your computer.
-    * It's suggested to mod your guitar into a wired one with a solution like [[a V3 adapter by RetroCultMods]](https://shop.retrocultmods.com/products/v3-wii-adapter-for-clone-hero-and-rb4-rock-band-4){:target="_blank"}. a [[Revival Kit from RetroCultMods]](https://shop.retrocultmods.com/products/revival-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}, [[Solderless DIY RGB Kit from RetroCultMods]](https://shop.retrocultmods.com/products/solderless-diy-rgb-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}.
+    * It's suggested to mod your guitar into a wired one with a solution like [[a V3 adapter by RetroCultMods]](https://shop.retrocultmods.com/products/v3-wii-adapter-for-clone-hero-and-rb4-rock-band-4){:target="_blank"}. a [[Revival Kit from RetroCultMods]](https://shop.retrocultmods.com/products/revival-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}, or a [[Solderless DIY RGB Kit from RetroCultMods]](https://shop.retrocultmods.com/products/solderless-diy-rgb-kit-for-guitar-hero-controllers-by-retrocultmods){:target="_blank"}.
 * **Tilt is busted on this controller!**
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls#gamepads){:target="_blank"}.
+
+## Initial Setup
+
+1. After installing [[WiitarThing]](https://github.com/TheNathannator/WiitarThing/releases){:target="_blank"} along with [[ViGEmBus]](https://github.com/nefarius/ViGEmBus/releases){:target="_blank"}, open it up.
+
+2. Press the **`[SYNC]`** button at the top left.  
+![A screenshot of WiitarThing with a cursor hovering over the red "SYNC" button.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarsyncbut.png "WiitarThing v2.7.0.5")
+
+3. Press either the red `SYNC` button on the back of your Wii Remote<sup>a</sup> or press both `1+2` at the same time<sup>b</sup>. You may have to try this a few times.  
+
+<sup>a</sup>  
+![A Wii Remote with the 1 and 2 buttons being highlighted.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesync12.gif "Wii Remote")  
+
+<sup>b</sup>  
+![A Wii Remote with the "SYNC" button the back being highlighted.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesyncbut.gif "Wii Remote")
+
+4. Once it's synced, click **`[CONNECT]`**.  
+![A screenshot of WiitarThing with a cursor hovering over the "CONNECT" button.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarconnectbut.png "WiitarThing v2.7.0.5")
+
+5. Open RPCS3's `Pads` menu.
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
@@ -178,4 +198,4 @@ Guitar Hero controllers tend to misbehave and **refuse to map sometimes. If you 
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Mapped by [diogodiogo2]
+Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

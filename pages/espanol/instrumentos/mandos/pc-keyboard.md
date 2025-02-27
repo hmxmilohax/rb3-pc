@@ -20,6 +20,31 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#como-mapear-pads">¿Como configuro mi teclado?</a>
+                            </h4>
+                        </div>
+                        <div id="como-mapear-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p>Recomendamos crear una configuración nueva con el botón de <code>Add Configuration</code> hacia arriba y a la derecha de pantalla de <code>Pads</code>.<br>
+Esto es por si juegas otros juegos en RPCS3.<br>
+<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
+<p>Sigue las instrucciones y/o copia el mapeo de la lista para tu instrumento.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando la Höfner de Rock Band"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## Mapeo
 
 <ul id="configTabs" class="nav nav-tabs">
@@ -314,7 +339,6 @@ toc: false
 </tr>
 </tbody>
 </table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -361,8 +385,8 @@ toc: false
 <table>
 <thead>
 <tr>
-<th align="center"><strong>Teclado</strong></th>
 <th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Teclado</strong></th>
 <th align="center"><strong>Guitarra/Bajo/Teclado</strong></th>
 </tr>
 </thead>
@@ -480,8 +504,8 @@ toc: false
 <table>
 <thead>
 <tr>
-<th align="center"><strong>Teclado</strong></th>
 <th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Teclado</strong></th>
 <th align="center"><strong>Guitarra/Bajo/Teclado</strong></th>
 <th align="center"><strong>Batería</strong></th>
 <th align="center"><strong>Uso</strong></th>

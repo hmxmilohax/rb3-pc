@@ -20,6 +20,26 @@ toc: false
 * **El sensor de ladeo (Tilt) no funciona correctamente.**
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
+## Configuración Inicial
+
+1. Después de instalar [[WiitarThing]](https://github.com/TheNathannator/WiitarThing/releases){:target="_blank"} con [[ViGEmBus]](https://github.com/nefarius/ViGEmBus/releases){:target="_blank"}, abre WiitarThing.
+
+2. Presiona el botón de **`[SYNC]`** en la parte izquierda hacia arriba.  
+![Una captura de WiitarThing con el cursor sobre el botón rojo de "SYNC".](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarsyncbut.png "WiitarThing v2.7.0.5")
+
+3. Presiona el botón rojo de `SYNC` atras de tu control de Wii<sup>a</sup> o presiona `1+2`<sup>b</sup> al mismo tiempo. Es posible que necesitaras intentar esto varias veces.
+
+<sup>a</sup>  
+![Un control de Wii con los botones de 1 y 2 siendo resaltado.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesync12.gif "Control de Wii")  
+
+<sup>b</sup>  
+![Un control de Wii con el botón de "SYNC" de atrás siendo resaltado.](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiimotesyncbut.gif "Control de Wii")
+
+4. Cuando se sincronice, haz click en **`[CONNECT]`**.  
+![Una captura de WiitarThing con el cursor sobre el botón rojo de "CONNECT".](https://rb3pc.milohax.org/images/instruments/xtra/wiitar/wiitarconnectbut.png "WiitarThing v2.7.0.5")
+
+5. Abre el menú de `Pads` en RPCS3.
+
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
@@ -180,4 +200,4 @@ Usa el click derecho para borrar botones.
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Mapeado por [diogodiogo2]
+Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}

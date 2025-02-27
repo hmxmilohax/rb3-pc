@@ -34,7 +34,7 @@ toc: false
 <p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
 <p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
 <p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
-This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
+This is so you can change configuration profiles in case you want to play other games.<br>
 <img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
 <p>Follow the instructions and/or match the assignments below.</p>
 <p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
@@ -339,7 +339,6 @@ This is so you can change configuration profiles in case you want to play games 
 </tr>
 </tbody>
 </table><div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfmapping.png" alt="Mapping" title="Mapping"></div>
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/padpckbfnfdrmsmapping.png" alt="Mapping" title="Mapping"></div>
 <!-- tab content end -->
 </div>
 <!-- end tab start -->
@@ -386,8 +385,8 @@ This is so you can change configuration profiles in case you want to play games 
 <table>
 <thead>
 <tr>
-<th align="center"><strong>Keyboard</strong></th>
 <th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Keyboard</strong></th>
 <th align="center"><strong>Guitars/Bass/Keys</strong></th>
 </tr>
 </thead>
@@ -505,8 +504,8 @@ This is so you can change configuration profiles in case you want to play games 
 <table>
 <thead>
 <tr>
-<th align="center"><strong>Keyboard</strong></th>
 <th align="center"><strong>RPCS3</strong></th>
+<th align="center"><strong>Keyboard</strong></th>
 <th align="center"><strong>Guitars/Bass/Keys</strong></th>
 <th align="center"><strong>Drums</strong></th>
 <th align="center"><strong>Alt Use 1</strong></th>
