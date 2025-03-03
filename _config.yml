@@ -1,4 +1,4 @@
-repository: hmxmilohax/rb3-pc
+repository: carlmylo/rb3-pc
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -88,7 +88,7 @@ description: "A guide for how to play Rock Band 3 on RPCS3."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://hmxmilohax.github.io
+url: https://carlmylo.github.io
 baseurl: /
 
 
