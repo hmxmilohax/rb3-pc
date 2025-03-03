@@ -76,6 +76,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Santroller
+      url: /ctrls_moddrum_san
+      output: web
+      type: homepage
+
     - title: "Xbox One Rock Band 4"
       url: /ctrls_rb4drums_xbox
       output: web
@@ -283,6 +288,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Santroller
+      url: /ctrls_modkeys_san
+      output: web
+      type: homepage
+
     - title: PlayStation 3 Rock Band Keyboard
       url: /ctrls_keys_ps3
       output: web
@@ -307,6 +317,11 @@ entries:
       output: web
       type: homepage
   
+    - title: Santroller
+      url: /ctrls_modprotar_san
+      output: web
+      type: homepage
+
     - title: PlayStation 3 Fender Mustang
       url: /ctrls_protar_ps3
       output: web
