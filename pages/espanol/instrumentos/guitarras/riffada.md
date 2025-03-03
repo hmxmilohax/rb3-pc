@@ -185,10 +185,6 @@ Después de eso, va a la sección de "`Entradas de Host por USB`" y Habilita `D-
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/360rbgtrsmapping.png" alt="Mapeo" title="Mapeo"></div>
 
-### Modo Passthrough
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, RPCS3 no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te deja conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
-
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
 Investigación por [jnackmclain](https://github.com/jnackmclain)

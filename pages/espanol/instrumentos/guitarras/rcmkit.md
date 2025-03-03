@@ -177,7 +177,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 ### Modo Passthrough
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, RPCS3 no tiene soporte de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te deja conectar la guitarra sin tener que mapear nada pero, como RPCS3 no tiene soporte de "hotplugging" (PS3/Emulador), tendrás que iniciar el juego dos veces. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Por ahora, no tenemos documentación para la herramienta de RetroCultMods de "hotplugging" (cambio en caliente). Esto significa que vas a tener que tener la guitarra conectada antes de abrir RPCS3. El modo Passthrough te dejara conectar la guitarra sin tener que mapear nada pero, como no tenemos documentación sobre esto, no podemos ayudar con esto. Por esto, no es recomendable usar modo Passthrough. </b> {{include.content}}</div>
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 

@@ -54,11 +54,6 @@ entries:
       output: web
       type: homepage
 
-    - title: Mapping
-      url: /ctrls#mapping
-      output: web
-      type: homepage
-
     - title: Profiles
       url: /ctrls#using-profiles
       output: web
@@ -78,6 +73,11 @@ entries:
 
     - title: MIDI Drums
       url: /ctrls_drums_midi
+      output: web
+      type: homepage
+
+    - title: Santroller
+      url: /ctrls_moddrum_san
       output: web
       type: homepage
 
@@ -288,6 +288,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Santroller
+      url: /ctrls_modkeys_san
+      output: web
+      type: homepage
+
     - title: PlayStation 3 Rock Band Keyboard
       url: /ctrls_keys_ps3
       output: web
@@ -312,6 +317,11 @@ entries:
       output: web
       type: homepage
   
+    - title: Santroller
+      url: /ctrls_modprotar_san
+      output: web
+      type: homepage
+
     - title: PlayStation 3 Fender Mustang
       url: /ctrls_protar_ps3
       output: web

@@ -3,7 +3,7 @@ title: Nintendo Wii Rock Band 3 Fender Mustang Pro Guitar
 sidebar: controllers_sidebar
 permalink: ctrls_protar_wii
 folder: instruments
-tags: [wii, midi, english]
+tags: [wii, midi, protars, english]
 summary: "How to connect and configure Nintendo Wii Mustang Pro Guitars (MIDI) on RPCS3."
 toc: false
 ---

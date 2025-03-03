@@ -9,3 +9,4 @@ vendor/
 .psd
 _config.yml
 .github/workflows/jekyll-gh-pages.yml
+_config.yml

@@ -216,10 +216,6 @@ After that, go to the "`Usb Host Inputs`" section and enable the original button
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modfeatherriffmapping.png" alt="Mapping" title="Mapping"></div>
 
-### Passthrough Mode
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, RPCS3 does not support hotplugging, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of hotplugging (PS3/Emulator preset), you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
-
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
 Research by [jnackmclain](https://github.com/jnackmclain)

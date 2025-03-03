@@ -14,7 +14,9 @@ toc: false
 
 ## NOTES
 
-* Requires installing and running [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} along with its dependencies.
+* Requires installing and running [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} along with ViGEmBus.
+    * It's suggested to plug the guitars in before launching Clipper for the best experience.
+    * If you need more than one PlayStation 4 Rock Band guitar connected, simply open up another instance of Clipper.
 * Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
@@ -159,7 +161,7 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 [[Download Profile]](https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/PS4%20Rock%20Band%20Guitar.7z){:target="_blank"}
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapping" title="Mapping"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrps4rbmapping.png" alt="Mapping" title="Mapping"></div>
 
 <!-- Profile Start -->
 <div class="panel-group" id="accordion">

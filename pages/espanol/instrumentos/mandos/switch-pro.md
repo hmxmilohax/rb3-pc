@@ -23,6 +23,28 @@ toc: false
 	- También puedes cambiar el mapeo dentro del juego por Deluxe.  
 	`Menú > Opciones > Configuración Deluxe > Avanzado > Controlador > Re-Mapeo de Control`
 
+<!-- Map Start -->
+<div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#como-mapear-pads">¿Como configuro mi mando?</a>
+                            </h4>
+                        </div>
+                        <div id="como-mapear-pads" class="panel-collapse collapse noCrossRef">
+                            <div class="panel-body">
+<ul>
+<p><strong>Haz click en el icono de Pads hacia arriba de RPCS3</strong>.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="Una captura de RPCS3, mostrando el cursor sobre el icono de Pads." title="Pads"></p>
+<p>Sigue las instrucciones y/o copia el mapeo de la lista para tu mando.</p>
+<p><img src="https://rb3pc.milohax.org/images/instruments/gamepadlegend.png" alt="Una imagen mostrando como puedes usar una pagina de instrumentos para configurar a RPCS3." title="Mapeando un mando"></p>
+</ul>
+                            </div>
+                        </div>
+                    </div>
+</div>
+<!-- Map End -->
+
 ## Información de Control
 
 | Handlers | Devices |

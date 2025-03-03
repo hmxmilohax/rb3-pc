@@ -15,6 +15,8 @@ toc: false
 ## NOTAS
 
 * Requiere que descargues y instales [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} con ViGEmBus.
+    * Es recomendado conectar las guitarras antes de abrir clipper.
+    * Si necesitas usar mas de una guitarra de Rock Band para PlayStation 4, simplemente abre otro clipper.
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")
@@ -64,7 +66,7 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 | R1 | ![Palanca izquierda](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Palanca izquierda") | ![Ladeo](https://rb3pc.milohax.org/images/btns/gtrs/ts.gif "Ladeo") | 
 | L2 | ![Palanca derecha presionada](https://rb3pc.milohax.org/images/btns/ctrls/360/rsc.png "Palanca derecha presionada") | ![Botón de solos](https://rb3pc.milohax.org/images/btns/gtrs/solo.png "Botón de solos") | 
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrxboxrbmapping.png" alt="Mapeo" title="Mapeo"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/gtrps4rbmapping.png" alt="Mapeo" title="Mapeo"></div>
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">

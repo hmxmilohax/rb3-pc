@@ -2,7 +2,7 @@
 title: "All Guitars"
 sidebar: english_sidebar
 search: exclude
-tagName: drums
+tagName: guitars
 permalink: tag_guitars
 folder: tags
 toc: false

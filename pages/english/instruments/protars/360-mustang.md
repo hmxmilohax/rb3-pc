@@ -3,7 +3,7 @@ title: Xbox 360 Rock Band 3 Fender Mustang Pro Guitar
 sidebar: controllers_sidebar
 permalink: ctrls_protar_360
 folder: instruments
-tags: [xbox-360, midi, english]
+tags: [xbox-360, midi, protars, english]
 summary: "How to connect and configure Xbox 360 Mustang Pro Guitars (MIDI) on RPCS3."
 toc: false
 ---

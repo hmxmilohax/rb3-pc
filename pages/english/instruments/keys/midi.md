@@ -3,7 +3,7 @@ title: MIDI Keyboard
 sidebar: controllers_sidebar
 permalink: ctrls_keys_midi
 folder: instruments
-tags: [midi, english]
+tags: [midi, keyboards, english]
 summary: "How to connect and configure a MIDI Keyboard on RPCS3."
 toc: false
 ---

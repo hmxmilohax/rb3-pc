@@ -3,7 +3,7 @@ title: Rock Band 3 Pro Guitars
 sidebar: controllers_sidebar
 permalink: ctrls_protar_midi
 folder: instruments
-tags: [midi, english]
+tags: [midi, protars, english]
 summary: "How to connect and configure Rock Band 3 Pro Guitars on RPCS3."
 toc: false
 ---

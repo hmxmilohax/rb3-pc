@@ -25,8 +25,8 @@ In the GIF example below, the "Recommended" requirements settings archive (recom
 
 The only things left to do are:
 * **[[setting up your instruments and controllers]](https://rb3pc.milohax.org/ctrls){:target="_blank"}**
-* **[[setting up a microphone to sing with]](https://rb3pc.milohax.org/https://rb3pc.milohax.org/gs_mics){:target="_blank"}**
-* **[[creating an RPCN account to play online and use leaderboards]](https://rb3pc.milohax.org/https://rb3pc.milohax.org/rpcn_intro){:target="_blank"}**
+* **[[setting up a microphone to sing with]](https://rb3pc.milohax.org/gs_mics){:target="_blank"}**
+* **[[creating an RPCN account to play online and use leaderboards]](https://rb3pc.milohax.org/rpcn_intro){:target="_blank"}**
 
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
