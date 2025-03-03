@@ -21,6 +21,7 @@ Puedes usar:
 * Guitarras de Rock Band y Guitar Hero (PS2, PS3, PS4, Wii, X360, XBONE) <sup>a
 * Baterías de Rock Band y Guitar Hero (PS3, PS4, Wii, X360, XBONE) <sup>a
 * Un control/teclado de computadora/mando para jugar "Padtar" (guitarra por mando) o para vocales <sup>b
+* Varios instrumentos usando Santroller
 * Guitarras PRO de Rock Band 3 (PS3, Wii, X360 con adaptador de MIDI a USB)
 * Teclados de MIDI (**con 37 teclas a lo mínimo** conectado por USB o por adaptador MIDI a USB) <sup>c
 * Baterías de MIDI (conectada por USB o por adaptador MIDI a USB o con MIDI a Roll Limitless) <sup>

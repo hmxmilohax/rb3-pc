@@ -26,15 +26,16 @@ Si todavía no has hecho la configuración de Santroller, hazlo.
 
 Asegúrate de [[descargar la versión actual de Santroller]](https://github.com/santroller/santroller/releases/latest){:target="_blank"}.
 
-En la pantalla de inicio de Santroller, elije el Dispositivo y Tipo de Entrada depende de que tipo de modificación tienes. En las capturas, fue un "`Raspberry Pi Pico`" y "`Directamente Cableado`".  
-Después de que termine, haz click en `Configurar`.
+En la pantalla de inicio de Santroller, elije el "`Dispositivo a programar`", "`Método de Conexión`" y "`Control a Emular`" depende de que tipo de modificación tienes. En las capturas, fue un "`Raspberry Pi Pico`", "`Adaptador USB`" y "`Guitarra de Rock Band`".  
+Después de eso, haz click en `Configurar`.
 
-![Una captura de la pantalla inicial de Santroller. "Dispositivo Seleccionado" esta en Raspberry Pi Pico y "Tipo de Entrado" esta en Directamente cableado.](https://rb3pc.milohax.org/images/instruments/xtra/san/initsanes.png "Santroller - Inicio")
+![Una captura de la pantalla inicial de Santroller. "Dispositivo a programar" esta en Raspberry Pi Pico y "Tipo de Entrado" esta en Directamente cableado.](https://rb3pc.milohax.org/images/instruments/xtra/san/initgtres.png "Santroller - Inicio")
 
-En Ajustes de Control, cambia la configuración a esto:
-* Usar 'Passthrough' por USB con RPCS3: Habilitado
+Haz estos cambios a "`Ajustes de Control`":
+* Cambia "`Control a Emular`" a "`Guitarra de Rock Band`"
+* Activa "`Usar 'Passthrough' por USB con RPCS3`"
 
-![Una captura de los Ajustes de Control, dentro de Santroller.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsanes.png "Santroller: Ajustes de Control")
+![Una captura de los Ajustes de Control, dentro de Santroller.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetgtres.png "Santroller: Ajustes de Control")
 
 Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en Santroller.
 
@@ -43,6 +44,8 @@ Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en S
 ![Una captura de Santroller, con el cursor sobre Guardar Ajustes.](https://rb3pc.milohax.org/images/instruments/xtra/san/savesanes.png "Santroller")
 
 Cuando termines, cierra Santroller.
+
+¡Ahora puedes abrir Rock Band 3!
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>¡¡¡Asegúrate que Santroller no este abierto cuando inicies Rock Band 3!!! Si esta abierto Santroller cuando inicies Rock Band 3, ¡el modo 'Passthrough' no se activara y tu guitarra no funcionara! </b> {{include.content}}</div>
 

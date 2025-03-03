@@ -19,6 +19,7 @@ You can use:
 * Rock Band and Guitar Hero Guitars (PS2, PS3, PS4, Wii, X360, XBONE) <sup>a
 * Rock Band and Guitar Hero Drums (PS3, PS4, Wii, X360, XBONE) <sup>a
 * Standard controllers/computer keyboards for "Padtar" or vocals <sup>b
+* Many instruments using Santroller software
 * Rock Band 3 PRO Guitars (PS3, Wii, X360 via MIDI to USB adapter)
 * MIDI Keyboards (**37 keys minimum recommended** via USB or MIDI to USB adapter) <sup>c 
 * MIDI Drum Kits (via USB or MIDI to USB adapter, or via MIDI to Roll Limitless)

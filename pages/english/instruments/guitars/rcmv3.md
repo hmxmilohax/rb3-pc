@@ -12,195 +12,44 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/wiighgtrscontroller.png" alt="Controller" title="Controller"></div>
 
-<!-- Map Start -->
-<div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-to-map-pads">How do I map my guitar?</a>
-                            </h4>
-                        </div>
-                        <div id="how-to-map-pads" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body">
-<ul>
-<p><strong>Click on the Pads icon at the top of RPCS3</strong>.</p>
-<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3pad.png" alt="A screenshot of RPCS3, showing the cursor over the Pads menu." title="Pads"></p>
-<p>It’s suggested to create a new configuration by clicking <code>Add Configuration</code> at the top right of the <code>Pads</code> window.<br>
-This is so you can change configuration profiles in case you want to play games that don’t use instruments.<br>
-<img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofadd.png" alt="A screenshot of the top right of RPCS3's Pads window. &quot;Add Configuration&quot; is being clicked on by the mouse cursor." title="Add Configuration"></p>
-<p>Follow the instructions and/or match the assignments below.</p>
-<p><img src="https://rb3pc.milohax.org/images/instruments/padlegend.png" alt="A picture showing how the instrument page and RPCS3 can be used as a mapping reference." title="Mapping the Rock Band Hofner"></p>
-</ul>
-                            </div>
-                        </div>
-                    </div>
-</div>
-<!-- Map End -->
-
 ## NOTES
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
+<div align="center"> <b>Do NOT map this instrument via the "Pads" menu!</b></div>
 
-* **This is specifically for the** [**[V3 Wii/USB Adapter WITH TILT by RetroCultMods]**](https://shop.retrocultmods.com/products/v3-wii-adapter-for-clone-hero-and-rb4-rock-band-4)**!** Please consult your sales receipt to confirm that it is indeed a V3 Wii/USB Guitar Adapter WITH TILT by RetroCultMods.
-	* You can use this page for reference for V1 and V2 Wii Adapters, but you won't have tilt.
-
-## Pad Information
-
-| Handlers | Devices |
-|:--------:|:-------:|
-| XInput | XInput Pad |
-
-| Device Class | Device Subtype |
-|:------------:|:--------------:|
-| Guitar | Rock Band |
+* **This is specifically for the** [**[V3 Wii/USB Adapter WITH TILT by RetroCultMods]**](https://shop.retrocultmods.com/products/v3-wii-adapter-for-clone-hero-and-rb4-rock-band-4){:target="_blank"}**!** Please consult your sales receipt to confirm that it is indeed a V3 Wii/USB Guitar Adapter WITH TILT by RetroCultMods.
+    * You can use this page for reference for V1 and V2 Wii Adapters, but you won't have tilt.
 
 ## Setup
 
-If you haven't initlized your V3 Adapter yet, start up RetroCultMod's Programming Tool.
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Before starting, make sure you stop Rock Band 3's emulation in RPCS3.</b> {{include.content}}</div>
 
-In the start screen, select your Device. It will usually show up as "`Raspberry Pi Pico`".  
-After that, select "`Wii Adapter`" or "`USB Adapter`" as your `Device Type` depending on what you have connected.  
-Then finally, set `Device Variant` to `RCM Wii Guitar Adapter - Default`. Rock Band 3 on RPCS3 doesn't need need Auth, Slider, or Joystick support.  
-After that, click on `Erase and configure` and wait for the progress bar to finish.
+Before starting, be sure to [[download the latest version of RCM Programming Tool]](https://retrocultmods.com/programming-tool/){:target="_blank"}.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to Raspberry Pi Pico, "Device Type" is set to "Wii Adapter", and Device Variant is set to "RCM Wii Guitar Adapter - Default."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/initv3.png "RetroCultMods Programming Tool")
+Start up up RCM Programming Tool.
 
-After that, or if you already have an initialized controller, click on `Configure`.
+In the start screen, select your Device. It will usually show up as "`V3 Adapter - Guitar (PS2/Emulation)`".  
+After that, click on `Configure` and wait for the progress bar to finish.
 
-![A screenshot of RetroCultMods Programming Tool. "Selected Device" is set to "RCM Wii Guitar Adapter - Default" and the mouse is hovering over "Configure."](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevv3.png "RetroCultMods Programming Tool")
+![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/san/initsan.png "Santroller: Initialize")
 
-In Controller Settings, set your configuration to the following:
-* Swap Switch Face Buttons: (Depends on your guitar)
-* Windows Controller Mode: XInput
-* Use USB Passthrough with RPCS3: Disabled
-* Map Select D-Pad Left on Xbox One/Series: Disabled
-* Tilt: Enabled
-* Map joystick to Dpad: Enabled
+In `Controller Settings`, change the following:
+* Enable `Use USB Passthrough with RPCS3`
 
-![A screenshot of RetroCultMods Programming Tool. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/conset.png "RetroCultMods Programming Tool")
+![A screenshot of Santroller's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsan.png "Santroller: Controller Settings")
 
-It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the `Wii Extension Inputs` and calibrate it.
+It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
-**MAKE SURE YOU CLICK ON "`Save Setting"`" before closing the program or you will lose progress!**
+**MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of RetroCultMods Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcm/savev3.png "RetroCultMods Programming Tool")
+![A screenshot of Santroller. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savesan.png "Santroller")
 
-## Mappings
+When you're done, close Santroller.
 
-By default, XInput has most things bound correctly. You only need to remap the following:
+You can now launch Rock Band 3!
 
-| **RPCS3** | **XInput** | **Guitar** |
-|:--------:|:-----------:|:-----------:|
-| R1 | ![Right Stick](https://rb3pc.milohax.org/images/btns/ctrls/360/rs.png "Right Stick") | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.gif "Tilt") | 
-
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/modrcmv3gtrmapping.png" alt="Mapping" title="Mapping"></div>
-
-<div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#advanced-mapping">Advanced Mapping</a>
-                            </h4>
-                        </div>
-                        <div id="advanced-mapping" class="panel-collapse collapse noCrossRef">
-                            <div class="panel-body">
-<h4 id="profile">Profile</h4>
-<p><a href="https://github.com/hmxmilohax/rb3-pc/raw/refs/heads/main/downloads/instrument-repo/RCM%20V3%20Adapter%20Guitar.7z">[Download Profile]</a></p>
-<div class="alert alert-info"><i class="fa fa-info-circle"></i> <b>This is not recommended if you're using multiple controllers at once. </b> {{include.content}}</div>
-<p>After downloading the profile,</p>
-<ol>
-<li>Extract the .7z file.</li>
-<li>Drag the <code>input configs</code> folder into the <code>configs</code> folder where you have RPCS3 in.</li>
-</ol>
-<p><img src="https://rb3pc.milohax.org/images/instruments/instrepoinstall.gif" alt="A GIF of a user dragging the Wii Rock Band Guitar configuration into their RPCS3 folder." title="Installing a configuration from the Instrument Repo"></p>
-<p>After that, you can select the profile in the <strong>“Pads”</strong> menu.</p>
-<p><img src="https://rb3pc.milohax.org/images/instruments/rpcs3padprofile.png" alt="A screenshot of RPCS3's Gamepad Settings, showing the cursor over a profile." title="Gamepad Settings"></p>
-<p>Most of the time, these controller profiles should work out of the box. If they don’t, try changing the controller listed in “<code>Devices</code>”, next to the “<code>Refresh</code>” button until it receives an input. You can edit this while the game is running.</p>
-<h4 id="profile">Bindings</h4>
-<table>
-<thead>
-<tr>
-<th align="center"><strong>RPCS3</strong></th>
-<th align="center"><strong>Guitar</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">Cross</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/gf.png" alt="Green Fret" title="Green Fret"></td>
-</tr>
-<tr>
-<td align="center">Circle</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/rf.png" alt="Red Fret" title="Red Fret"></td>
-</tr>
-<tr>
-<td align="center">Square</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/yf.png" alt="Yellow Fret" title="Yellow Fret"></td>
-</tr>
-<tr>
-<td align="center">Triangle</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/bf.png" alt="Blue Fret" title="Blue Fret"></td>
-</tr>
-<tr>
-<td align="center">L1</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/of.png" alt="Orange Fret" title="Orange Fret"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Up</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbu.png" alt="Strumbar Up" title="Strumbar Up"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Down</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/sbd.png" alt="Strumbar Down" title="Strumbar Down"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Left</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpl.png" alt="D-Pad: Left" title="D-Pad: Left"></td>
-</tr>
-<tr>
-<td align="center">D-Pad: Right</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/dpr.png" alt="D-Pad: Right" title="D-Pad: Right"></td>
-</tr>
-<tr>
-<td align="center">Right Stick: <br> Left/Right</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/wb.png" alt="Whammy Bar" title="Whammy Bar"></td>
-</tr>
-<tr>
-<td align="center">Right Stick: <br> Up <em>or</em> Down</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/fx.png" alt="Effects Switch" title="Effects Switch"></td>
-</tr>
-<tr>
-<td align="center">L2</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/solo.png" alt="Solo Buttons" title="Solo Buttons"></td>
-</tr>
-<tr>
-<td align="center">R1</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/gtrs/ts.gif" alt="Tilt" title="Tilt"></td>
-</tr>
-<tr>
-<td align="center">Start</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/start.png" alt="Plus" title="Start"></td>
-</tr>
-<tr>
-<td align="center">Select</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/back.png" alt="Minus" title="Back"></td>
-</tr>
-<tr>
-<td align="center">PS Button</td>
-<td align="center"><img src="https://rb3pc.milohax.org/images/btns/ctrls/360/home.png" alt="Home" title="Home"></td>
-</tr>
-</tbody>
-</table>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-</div>
-<!-- /.panel-group -->
-
-### Passthrough Mode
-
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>As of writing this, we don't have documentation for hotplug with this adapter, which means you cannot plug your guitar in AFTER starting RPCS3. Passthrough Mode lets you use your guitar without needing to bind anything but due to the lack of docuemtnation, you need to start the game up twice. Therefore, this mode is currently not recommended. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Make sure Santroller is closed before starting Rock Band 3!!! Having Santroller open while launching Rock Band 3 will cause passthrough to fail, which means your guitar will not connect!!! </b> {{include.content}}</div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption)  
-Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures
+Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption), [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, and [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
+Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures.
