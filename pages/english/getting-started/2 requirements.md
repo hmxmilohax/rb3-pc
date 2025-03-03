@@ -49,15 +49,15 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" alt="A red triangle." title="Red Triangle"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" style="max-width: 100%; height: auto;" alt="A red triangle." title="Red Triangle"></td>
 <td><strong>Bad Compatibility</strong></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="An orange triangle." title="Orange Circle"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="An orange triangle." title="Orange Circle"></td>
 <td><strong>Okay Compatibility</strong></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="An green square." title="Green Square"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="An green square." title="Green Square"></td>
 <td><strong>Great Compatibility</strong></td>
 </tr>
 </tbody>
@@ -74,88 +74,88 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmidi.png" alt="MIDI Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmidi.png" style="max-width: 100%; height: auto;" alt="MIDI Drums">]</td>
 <td>MIDI Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" alt="MIDI Drums"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" style="max-width: 100%; height: auto;" alt="MIDI Drums"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" alt="Rock Band Drums with cymbals"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" style="max-width: 100%; height: auto;" alt="Rock Band Drums with cymbals"></td>
 <td>Rock Band Drums (with or without cymbals)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" alt="Rock Band MIDI Pro Adapter Drums"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" style="max-width: 100%; height: auto;" alt="Rock Band MIDI Pro Adapter Drums"></td>
 <td>PlayStation 3 Rock Band MIDI Pro Adapter Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmsan.png" alt="Santroller Powered Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmsan.png" style="max-width: 100%; height: auto;" alt="Santroller Powered Drums">]</td>
 <td>Santroller Powered Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Santroller"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" style="max-width: 100%; height: auto;" alt="Santroller"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" alt="Rock Band Drums 4 with cymbals">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" style="max-width: 100%; height: auto;" alt="Rock Band Drums 4 with cymbals">]</td>
 <td>Rock Band Drums 4 (with or without cymbals)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox One"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox One"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" alt="Rock Band Drums with cymbals">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" style="max-width: 100%; height: auto;" alt="Rock Band Drums with cymbals">]</td>
 <td>Rock Band Drums (with or without cymbals)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" alt="Rock Band Drums with cymbals">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" style="max-width: 100%; height: auto;" alt="Rock Band Drums with cymbals">]</td>
 <td>Rock Band Drums (with or without cymbals)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpa360.png" alt="Rock Band MIDI Pro Adapter Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpa360.png" style="max-width: 100%; height: auto;" alt="Rock Band MIDI Pro Adapter Drums">]</td>
 <td>Xbox 360 Rock Band MIDI Pro Adapter Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpawii.png" alt="Rock Band MIDI Pro Adapter Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpawii.png" style="max-width: 100%; height: auto;" alt="Rock Band MIDI Pro Adapter Drums">]</td>
 <td>Nintendo Wii Rock Band MIDI Pro Adapter Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmroll.png" alt="Roll Limitless Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmroll.png" style="max-width: 100%; height: auto;" alt="Roll Limitless Drums">]</td>
 <td>Roll Limitless Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" alt="MIDI"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" style="max-width: 100%; height: auto;" alt="MIDI"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" alt="Guitar Hero Drums">]</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 <td></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" alt="Guitar Hero Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Drums">]</td>
 <td>Guitar Hero Drums</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" alt="Guitar Hero Drums">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Drums">]</td>
 <td>Guitar Hero Drums (Raphnet)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" alt="Rock Band Drums 4 with cymbals">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmrbpro.png" style="max-width: 100%; height: auto;" alt="Rock Band Drums 4 with cymbals">]</td>
 <td>Rock Band Drums 4 (without cymbals)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="PlayStation 4"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" alt="Bad Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" style="max-width: 100%; height: auto;" alt="PlayStation 4"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" style="max-width: 100%; height: auto;" alt="Bad Compatibility Symbol"></td>
 </tr>
 </tbody>
 </table><h3 id="guitars">Guitars</h3>
@@ -171,250 +171,250 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" alt="Rock Band Stratocaster"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" style="max-width: 100%; height: auto;" alt="Rock Band Stratocaster"></td>
 <td>Rock Band Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" alt="Rock Band Precision Bass"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" style="max-width: 100%; height: auto;" alt="Rock Band Precision Bass"></td>
 <td>Rock Band Precision Bass</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" alt="The Beatles: Rock Band Höfner"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Höfner"></td>
 <td>Rock Band Höfner</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" alt="The Beatles: Rock Band Gretsch"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Gretsch"></td>
 <td>Rock Band Gretsch</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" alt="The Beatles: Rock Band Rickenbacker"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Rickenbacker"></td>
 <td>Rock Band Rickenbacker</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrsan.png" alt="Santroller Powered Guitars">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrsan.png" style="max-width: 100%; height: auto;" alt="Santroller Powered Guitars">]</td>
 <td>Santroller Powered Guitars</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Santroller"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" style="max-width: 100%; height: auto;" alt="Santroller"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtradapt.png" alt="RetroCultMods V3 Adapter Guitars">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtradapt.png" style="max-width: 100%; height: auto;" alt="RetroCultMods V3 Adapter Guitars">]</td>
 <td>RetroCultMods V3 Adapter Guitars</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" alt="RetroCultMods"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" style="max-width: 100%; height: auto;" alt="RetroCultMods"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrslk.png" alt="RetroCultMods Kit Guitars">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrslk.png" style="max-width: 100%; height: auto;" alt="RetroCultMods Kit Guitars">]</td>
 <td>RetroCultMods Kit Guitars</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" alt="RetroCultMods"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/rcm.png" style="max-width: 100%; height: auto;" alt="RetroCultMods"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrriff.png" alt="PDP Riffmaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrriff.png" style="max-width: 100%; height: auto;" alt="PDP Riffmaster">]</td>
 <td>PDP Riffmaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox One"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox One"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb4.png" alt="Rock Band 4 Stratocaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb4.png" style="max-width: 100%; height: auto;" alt="Rock Band 4 Stratocaster">]</td>
 <td>Rock Band 4 Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox One"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox One"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrjag.png" alt="Rock Band 4 Jaguar">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrjag.png" style="max-width: 100%; height: auto;" alt="Rock Band 4 Jaguar">]</td>
 <td>Rock Band 4 Jaguar</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox One"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox One"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrriff.png" alt="PDP Riffmaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrriff.png" style="max-width: 100%; height: auto;" alt="PDP Riffmaster">]</td>
 <td>PDP Riffmaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="PlayStation 4"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" style="max-width: 100%; height: auto;" alt="PlayStation 4"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb4.png" alt="Rock Band 4 Stratocaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb4.png" style="max-width: 100%; height: auto;" alt="Rock Band 4 Stratocaster">]</td>
 <td>Rock Band 4 Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="PlayStation 4"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" style="max-width: 100%; height: auto;" alt="PlayStation 4"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrjag.png" alt="Rock Band 4 Jaguar">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrjag.png" style="max-width: 100%; height: auto;" alt="Rock Band 4 Jaguar">]</td>
 <td>Rock Band 4 Jaguar</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="PlayStation 4"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" style="max-width: 100%; height: auto;" alt="PlayStation 4"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" alt="Rock Band Stratocaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" style="max-width: 100%; height: auto;" alt="Rock Band Stratocaster">]</td>
 <td>Rock Band Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" alt="Rock Band Precision Bass">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" style="max-width: 100%; height: auto;" alt="Rock Band Precision Bass">]</td>
 <td>Rock Band Precision Bass</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" alt="The Beatles: Rock Band Höfner">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Höfner">]</td>
 <td>Rock Band Höfner</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" alt="The Beatles: Rock Band Gretsch">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Gretsch">]</td>
 <td>Rock Band Gretsch</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" alt="The Beatles: Rock Band Rickenbacker">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Rickenbacker">]</td>
 <td>Rock Band Rickenbacker</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" alt="Rock Band Stratocaster">]]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" style="max-width: 100%; height: auto;" alt="Rock Band Stratocaster">]]</td>
 <td>Rock Band Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" alt="Rock Band Precision Bass">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrpbass.png" style="max-width: 100%; height: auto;" alt="Rock Band Precision Bass">]</td>
 <td>Rock Band Precision Bass</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" alt="The Beatles: Rock Band Höfner">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrhof.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Höfner">]</td>
 <td>Rock Band Höfner</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" alt="The Beatles: Rock Band Gretsch">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgret.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Gretsch">]</td>
 <td>Rock Band Gretsch</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" alt="The Beatles: Rock Band Rickenbacker">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrick.png" style="max-width: 100%; height: auto;" alt="The Beatles: Rock Band Rickenbacker">]</td>
 <td>Rock Band Rickenbacker</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlp.png" alt="Guitar Hero Les Paul">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlp.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Les Paul">]</td>
 <td>Guitar Hero Les Paul</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" alt="Guitar Hero World Tour">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour">]</td>
 <td>Guitar Hero World Tour</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5.png" alt="Guitar Hero 5">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5.png" style="max-width: 100%; height: auto;" alt="Guitar Hero 5">]</td>
 <td>Guitar Hero 5</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwor.png" alt="Guitar Hero Warriors of Rock">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwor.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Warriors of Rock">]</td>
 <td>Guitar Hero Warriors of Rock</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrxpl.png" alt="Guitar Hero Xplorer">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrxpl.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Xplorer">]</td>
 <td>Guitar Hero Xplorer</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" alt="Guitar Hero World Tour">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour">]</td>
 <td>Guitar Hero World Tour</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5.png" alt="Guitar Hero 5">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5.png" style="max-width: 100%; height: auto;" alt="Guitar Hero 5">]</td>
 <td>Guitar Hero 5</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwor.png" alt="Guitar Hero Warriors of Rock">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwor.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Warriors of Rock">]</td>
 <td>Guitar Hero Warriors of Rock</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlpwii.png" alt="Guitar Hero Les Paul">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlpwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Les Paul">]</td>
 <td>Guitar Hero Les Paul (Raphnet)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlpwii.png" alt="Guitar Hero Les Paul">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlpwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Les Paul">]</td>
 <td>Guitar Hero Les Paul (WiitarThing)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwtwii.png" alt="Guitar Hero World Tour">](</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwtwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour">](</td>
 <td>Guitar Hero World Tour (WiitarThing)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5wii.png" alt="Guitar Hero 5">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgh5wii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero 5">]</td>
 <td>Guitar Hero 5 (WiitarThing)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrworwii.png" alt="Guitar Hero Warriors of Rock">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrworwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Warriors of Rock">]</td>
 <td>Guitar Hero Warriors of Rock (WiitarThing)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgc.png" alt="Guitar Configurator (Obsolete)">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrgc.png" style="max-width: 100%; height: auto;" alt="Guitar Configurator (Obsolete)">]</td>
 <td>Guitar Configurator (Obsolete)</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/lgc.png" alt="Guitar Configurator"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/lgc.png" style="max-width: 100%; height: auto;" alt="Guitar Configurator"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrsg.png" alt="Guitar Hero Gibson SG">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrsg.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Gibson SG">]</td>
 <td>Guitar Hero Gibson SG</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps2.png" alt="PlayStation 2"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps2.png" style="max-width: 100%; height: auto;" alt="PlayStation 2"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlp.png" alt="Guitar Hero Les Paul">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrlp.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Les Paul">]</td>
 <td>Guitar Hero Les Paul</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" alt="Bad Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" style="max-width: 100%; height: auto;" alt="Bad Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" alt="Guitar Hero World Tour">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwt.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour">]</td>
 <td>Guitar Hero World Tour</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" alt="PC"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" alt="Bad Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" style="max-width: 100%; height: auto;" alt="PC"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/bad.png" style="max-width: 100%; height: auto;" alt="Bad Compatibility Symbol"></td>
 </tr>
 </tbody>
 </table><h3 id="gamepads">Gamepads</h3>
@@ -430,64 +430,64 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padxbo.png" alt="Xbox One Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padxbo.png" style="max-width: 100%; height: auto;" alt="Xbox One Controller">]</td>
 <td>Xbox One Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox One"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox One"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padxbs.png" alt="Xbox Series Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padxbs.png" style="max-width: 100%; height: auto;" alt="Xbox Series Controller">]</td>
 <td>Xbox Series Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" alt="Xbox Series"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/xbx.png" style="max-width: 100%; height: auto;" alt="Xbox Series"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/pad360.png" alt="Xbox 360 Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/pad360.png" style="max-width: 100%; height: auto;" alt="Xbox 360 Controller">]</td>
 <td>Xbox 360 Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padkey.png" alt="PC Keyboard">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padkey.png" style="max-width: 100%; height: auto;" alt="PC Keyboard">]</td>
 <td>PC Keyboard</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" alt="PC"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/pc.png" style="max-width: 100%; height: auto;" alt="PC"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds.png" alt="DualSense Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds.png" style="max-width: 100%; height: auto;" alt="DualSense Controller">]</td>
 <td>DualSense Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps5.png" alt="PlayStation 5"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps5.png" style="max-width: 100%; height: auto;" alt="PlayStation 5"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds4.png" alt="DualShock 4 Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds4.png" style="max-width: 100%; height: auto;" alt="DualShock 4 Controller">]</td>
 <td>DualShock 4 Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" alt="PlayStation 4"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps4.png" style="max-width: 100%; height: auto;" alt="PlayStation 4"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds3.png" alt="DualShock 3 Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds3.png" style="max-width: 100%; height: auto;" alt="DualShock 3 Controller">]</td>
 <td>DualShock 3 Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds2.png" alt="DualShock 2 Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padds2.png" style="max-width: 100%; height: auto;" alt="DualShock 2 Controller">]</td>
 <td>DualShock 2 Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps2.png" alt="PlayStation 2"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps2.png" style="max-width: 100%; height: auto;" alt="PlayStation 2"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padswipro.png" alt="Nintendo Switch Pro Controller">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padswipro.png" style="max-width: 100%; height: auto;" alt="Nintendo Switch Pro Controller">]</td>
 <td>Nintendo Switch Pro Controller</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" alt="Nintendo Switch"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" style="max-width: 100%; height: auto;" alt="Nintendo Switch"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/padswineos.png" alt="Nintendo Switch CRKD NEO S Wave">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/padswineos.png" style="max-width: 100%; height: auto;" alt="Nintendo Switch CRKD NEO S Wave">]</td>
 <td>Nintendo Switch CRKD NEO S Wave</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" alt="Nintendo Switch"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" style="max-width: 100%; height: auto;" alt="Nintendo Switch"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 </tbody>
 </table><h3 id="keyboards">Keyboards</h3>
@@ -503,46 +503,46 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" alt="Rock Band MIDI Pro Adapter"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" style="max-width: 100%; height: auto;" alt="Rock Band MIDI Pro Adapter"></td>
 <td>PlayStation 3 Rock Band MIDI Pro Adapter</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" alt="PlayStation 3 Rock Band Wireless Keyboard with dongle"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" style="max-width: 100%; height: auto;" alt="PlayStation 3 Rock Band Wireless Keyboard with dongle"></td>
 <td>Rock Band Wireless Keyboard <strong>(with dongle)</strong></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/promidi.png" alt="MIDI Keyboard">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/promidi.png" style="max-width: 100%; height: auto;" alt="MIDI Keyboard">]</td>
 <td>MIDI Keyboard</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" alt="MIDI"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" style="max-width: 100%; height: auto;" alt="MIDI"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prosank.png" alt="Santroller Powered Keyboards">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prosank.png" style="max-width: 100%; height: auto;" alt="Santroller Powered Keyboards">]</td>
 <td>Santroller Powered Keyboards</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Santroller"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" style="max-width: 100%; height: auto;" alt="Santroller"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" alt="PlayStation 3 Rock Band Wireless Keyboard without dongle">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" style="max-width: 100%; height: auto;" alt="PlayStation 3 Rock Band Wireless Keyboard without dongle">]</td>
 <td>Rock Band Wireless Keyboard <strong>(without dongle)</strong></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" alt="Xbox 360 Rock Band Wireless Keyboard">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" style="max-width: 100%; height: auto;" alt="Xbox 360 Rock Band Wireless Keyboard">]</td>
 <td>Rock Band Wireless Keyboard</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" alt="PlayStation 3 Rock Band Wireless Keyboard">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prokeys.png" style="max-width: 100%; height: auto;" alt="PlayStation 3 Rock Band Wireless Keyboard">]</td>
 <td>Rock Band Wireless Keyboard</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" alt="Okay Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 </tbody>
 </table><h3 id="pro-guitars">Pro Guitars</h3>
@@ -558,46 +558,46 @@ You can use:
 </thead>
 <tbody>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" alt="Rock Band MIDI Pro Adapter"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" style="max-width: 100%; height: auto;" alt="Rock Band MIDI Pro Adapter"></td>
 <td>PlayStation 3 Rock Band MIDI Pro Adapter</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" alt="PlayStation 3 Fender Mustang with dongle">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" style="max-width: 100%; height: auto;" alt="PlayStation 3 Fender Mustang with dongle">]</td>
 <td>Fender Mustang <strong>(with dongle)</strong></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prosang.png" alt="Santroller Powered Pro Guitars">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prosang.png" style="max-width: 100%; height: auto;" alt="Santroller Powered Pro Guitars">]</td>
 <td>Santroller Powered Pro Guitars</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Santroller"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" style="max-width: 100%; height: auto;" alt="Santroller"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" alt="PlayStation 3 Fender Mustang without dongle">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" style="max-width: 100%; height: auto;" alt="PlayStation 3 Fender Mustang without dongle">]</td>
 <td>Fender Mustang <strong>(without dongle)</strong></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" alt="PlayStation 3"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" alt="Xbox 360 Fender Mustang">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" style="max-width: 100%; height: auto;" alt="Xbox 360 Fender Mustang">]</td>
 <td>Fender Mustang</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" alt="Xbox 360"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" alt="Nintendo Wii Fender Mustang">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/promust.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii Fender Mustang">]</td>
 <td>Fender Mustang</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" alt="Nintendo Wii"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/prostrat.png" alt="Squier Stratocaster">]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/prostrat.png" style="max-width: 100%; height: auto;" alt="Squier Stratocaster">]</td>
 <td>Squier Stratocaster</td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" alt="MIDI"></td>
-<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" alt="Great Compatibility Symbol"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/plat/midi.png" style="max-width: 100%; height: auto;" alt="MIDI"></td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 </tbody>
 </table>
