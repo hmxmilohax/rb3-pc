@@ -29,7 +29,7 @@ You can use:
 <sup>c</sup> <sub>Connecting keyboards via MIDI with less than 37 keys is possible but not recommended. [[Click here for more information.]](https://rb3pc.milohax.org/ctrls_keys_midi){:target="_blank"}</sub>  
 
 <!-- Instrument List Start -->
-<div class="panel-group" id="accordion">
+<div class="panel-group" id="accordion" style="width: 100%; overflow-x: auto;">
                     <div class="panel panel-default">
                         <div class="panel-heading">
                             <h4 class="panel-title">
@@ -40,7 +40,7 @@ You can use:
                             <div class="panel-body">
 <ul>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>SHAPE</th>
@@ -63,7 +63,7 @@ You can use:
 </tbody>
 </table><h3 id="drums">Drums</h3>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>Picture</th>
@@ -160,7 +160,7 @@ You can use:
 </tbody>
 </table><h3 id="guitars">Guitars</h3>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>Picture</th>
@@ -419,7 +419,7 @@ You can use:
 </tbody>
 </table><h3 id="gamepads">Gamepads</h3>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>Picture</th>
@@ -492,7 +492,7 @@ You can use:
 </tbody>
 </table><h3 id="keyboards">Keyboards</h3>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>Picture</th>
@@ -547,7 +547,7 @@ You can use:
 </tbody>
 </table><h3 id="pro-guitars">Pro Guitars</h3>
 
-<table>
+<table style="width: 100%; table-layout: fixed; word-wrap: break-word;">
 <thead>
 <tr>
 <th>Picture</th>
