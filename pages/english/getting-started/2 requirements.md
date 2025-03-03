@@ -138,7 +138,6 @@ You can use:
 <td>Guitar Hero Drums</td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/plat/360.png" style="max-width: 100%; height: auto;" alt="Xbox 360"></td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
-<td></td>
 </tr>
 <tr>
 <td><img src="https://rb3pc.milohax.org/images/instruments/list/drmgh.png" style="max-width: 100%; height: auto;" alt="Guitar Hero Drums"></td>
@@ -376,7 +375,7 @@ You can use:
 <td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwtwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour">](</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrwtwii.png" style="max-width: 100%; height: auto;" alt="Guitar Hero World Tour"></td>
 <td>Guitar Hero World Tour (WiitarThing)</td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/compat/okay.png" style="max-width: 100%; height: auto;" alt="Okay Compatibility Symbol"></td>
