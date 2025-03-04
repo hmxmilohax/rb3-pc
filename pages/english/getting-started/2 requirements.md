@@ -606,7 +606,7 @@ You can use:
                         </div>
                     </div>
 </div>
-<!-- Instrument List Start -->
+<!-- Instrument List End -->
 
 #### A microphone
 If your computer can see it, you can probably use it. Up to three mics can be used at the same time.
