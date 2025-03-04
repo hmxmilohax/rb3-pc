@@ -43,7 +43,7 @@ Baja un poco y descarga la versión para Windows.
 
 Recomiendo que extraigas todo a "C:\\Juegos\\RPCS3" o en un disco interno adicional para evitar problemas de permisos. También desactiva la opción para crear un subdirectorio, como en la imagen.
 
-**Evita instalar y lanzar Rock Band 3 de un disco externo o una carpeta sincronizada (Dropbox, OneDrive, etc.)**, porque pueden causar inestabilidad y otros problemas.  
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>¡Evita instalar y lanzar Rock Band 3 de un disco externo o una carpeta sincronizada (Dropbox, OneDrive, etc.), porque pueden causar inestabilidad y otros problemas! </b> {{include.content}}</div>  
 
 ![Una captura de la ventana de extracción de 7-zip. Muestra "Extract to" (Extrae archivos...) como C:\Games\RPCS3 y el cuadro debajo de ella desmarcada.](https://rb3pc.milohax.org/images/install/extractdires.png "Extract")
 

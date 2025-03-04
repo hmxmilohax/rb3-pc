@@ -36,6 +36,8 @@ table > thead > tr > th {
 }
 
 table {
+    margin-left: auto;
+    margin-right: auto;
     width: 90%;
     color: #fff;
 }

@@ -597,7 +597,7 @@ Puedes usar:
 
 
 #### Un micrófono
-Si to computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar y usar tres micrófonos al mismo tiempo.
+Si tu computadora lo detecta, es muy probable que lo puedas usar. Puedes conectar y usar tres micrófonos al mismo tiempo.
 
 #### Una computadora
 Pos obvio.
