@@ -38,12 +38,19 @@ table > thead > tr > th {
 table {
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
     color: #fff;
 }
 
 table > tbody > tr:nth-of-type(odd) {
     background-color: #282828;
+}
+
+th, td {
+    word-wrap: break-word;
+    white-space: normal;
 }
 
 table > thead > tr > th,
