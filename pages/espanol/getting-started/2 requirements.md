@@ -602,8 +602,9 @@ Si tu computadora lo detecta, es muy probable que lo puedas usar. Puedes conecta
 #### Una computadora
 Pos obvio.
 
-| **Mínimo** | **Recomendado** |
-|--|--|
+{:.left-align-table}
+| **Mínimo**   | **Recomendado**   |
+|--------------|-------------------|
 | `SO:` <br>Windows 10 | `SO:` <br>Windows 10 or higher |
 | `Procesador:` <br>Intel Core i5-4460 <br>(o equivalente con AVX2) | `Processor:` <br>AMD Ryzen 5 2600 <br>(o equivalente), o mejor |
 | `Memoria:` <br>8 GBs | `Memoria:` <br>16 GBs o mas |
