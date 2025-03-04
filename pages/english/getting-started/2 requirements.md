@@ -614,8 +614,9 @@ If your computer can see it, you can probably use it. Up to three mics can be us
 #### A computer
 But of course.
 
-| **Minimum** | **Recommended** |
-|--|--|
+{:.left-align-table}
+| **Minimum**   | **Recommended**   |
+|---------------|-------------------|
 | `OS:` <br>Windows 10 | `OS:` <br>Windows 10 or higher |
 | `Processor:` <br>Intel Core i5-4460 <br>(or equivalent CPU with AVX2) | `Processor:` <br>AMD Ryzen 5 2600 <br>(or equivalent), or better |
 | `Memory:` <br>8 GBs | `Memory:` <br>16 GBs or higher |

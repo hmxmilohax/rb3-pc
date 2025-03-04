@@ -69,6 +69,11 @@ th, td {
     text-align: center;
 }
 
+.left-align-table td, 
+.left-align-table th {
+    text-align: left;]
+}
+
 blockquote {
     border-left: 5px solid #eeeeee40
 }
