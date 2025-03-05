@@ -28,26 +28,26 @@ Before starting, be sure to [[download the latest version of RCM Programming Too
 Start up up RCM Programming Tool.
 
 In the start screen, select your Device. It will usually show up as "`V3 Adapter - Guitar (PS2/Emulation)`".  
-After that, click on `Configure` and wait for the progress bar to finish.
+After that, click on "`Configure`" and wait for the progress bar to finish.
 
-![A screenshot of Santroller's first screen. "Selected Device" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/san/initsan.png "Santroller: Initialize")
+![A screenshot of RCM Programming Tool's first screen. "`Selected Device`" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/san/seldevv3.png "RCM Programming Tool: Initialize")
 
-In `Controller Settings`, change the following:
-* Enable `Use USB Passthrough with RPCS3`
+In "`Controller Settings`", change the following:
+* Enable "`Use USB Passthrough with RPCS3`"
 
-![A screenshot of Santroller's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetsan.png "Santroller: Controller Settings")
+![A screenshot of RCM Programming Tool's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/conset.png "RCM Programming Tool: Controller Settings")
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
 **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of Santroller. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savesan.png "Santroller")
+![A screenshot of RCM Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savev3.png "RCM Programming Tool")
 
-When you're done, close Santroller.
+When you're done, close RCM Programming Tool.
 
 You can now launch Rock Band 3!
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Make sure Santroller is closed before starting Rock Band 3!!! Having Santroller open while launching Rock Band 3 will cause passthrough to fail, which means your guitar will not connect!!! </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Make sure RCM Programming Tool is closed before starting Rock Band 3!!! Having RCM Programming Tool open while launching Rock Band 3 will cause passthrough to fail, which means your guitar will not connect!!! </b> {{include.content}}</div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 

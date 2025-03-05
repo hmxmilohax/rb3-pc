@@ -626,6 +626,7 @@ But of course.
 
 * You can check [[RPCS3's page for suggested specifications here]](https://rpcs3.net/quickstart#supported_devices_pcs){:target="_blank"} although they may be a bit exaggerated for this game.
 * **Laptop users** should check [[the RPCS3 website]](https://rpcs3.net/quickstart#supported_devices_laptops){:target="_blank"} for requirements.
+
 #### [[7-Zip]](https://www.7-zip.org/download.html){:target="_blank"} or [[NanaZip]](https://apps.microsoft.com/detail/9n8g7tscl18r){:target="_blank"} if you're on Windows 11.
 (or WinRAR if you hate yourself) to extract archives.
 

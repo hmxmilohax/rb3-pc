@@ -110,11 +110,11 @@ entries:
       output: web
       type: homepage
 
-    - title: Add more memory to Rock Band 3
+    - title: High Memory
       url: /memory
       output: web
 
-    - title: Add Custom Songs to Rock Band 3 Deluxe
+    - title: Adding Customs
       url: /adv_customsongs
       output: web
 
@@ -126,11 +126,11 @@ entries:
       url: /adv_discordrp
       output: web
 
-    - title: Improve frame-pacing with RTSS
+    - title: RTSS
       url: /adv_rtss
       output: web
 
-    - title: Add Custom Textures to Rock Band 3 Deluxe
+    - title: Custom Textures
       url: /adv_customtex
       output: web
 

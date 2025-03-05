@@ -51,7 +51,7 @@ Enciende tu controlador y deberías ver que automáticamente se le asigna un nú
 Del mismo modo, en Rock Band 3, verás el instrumento listo para unirse.  
 ![Una captura de Rock Band 3 con una Guitarra Pro lista para unirse.](https://rb3pc.milohax.org/images/pass/rb3player.png "Rock Band 3: Guitarra Pro lista para unirse")
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Necesitas configurar algo adicional para controlar estos menús, [[como un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_es#mandos){:target="_blank"}.</b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Necesitas configurar algo adicional para controlar estos menús, [[como un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls_es#mandos){:target="_blank"}. </b> {{include.content}}</div>
 
 ## Desinstalando
 

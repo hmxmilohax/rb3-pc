@@ -347,7 +347,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Agregar mas memoria
+    - title: Agregar memoria
       url: /memoria
       output: web
 
@@ -363,11 +363,11 @@ entries:
       url: /adv_discordrp_es
       output: web
 
-    - title: Fotogramas Fluidas
+    - title: RTSS
       url: /adv_rtss_es
       output: web
 
-    - title: Texturas Personalizada
+    - title: Texturas Personalizadas
       url: /adv_customtex_es
       output: web
 
