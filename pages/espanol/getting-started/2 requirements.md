@@ -85,8 +85,8 @@ Puedes usar:
 <td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" style="max-width: 100%; height: auto;" alt="Adaptador MIDI Pro de Batería de Rock Band"></td>
-<td>PlayStation 3 Adaptador MIDI Pro de Batería de Rock Band</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/drmmpaps3.png" style="max-width: 100%; height: auto;" alt="Batería por adaptador MIDI Pro para PlayStation 3"></td>
+<td>Batería por adaptador MIDI Pro para PlayStation 3</td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/plat/ps3.png" style="max-width: 100%; height: auto;" alt="PlayStation 3"></td>
 </tr>
 <tr>

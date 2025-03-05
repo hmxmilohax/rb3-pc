@@ -285,7 +285,7 @@ You can use:
 <td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
 </tr>
 <tr>
-<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" style="max-width: 100%; height: auto;" alt="Rock Band Stratocaster">]]</td>
+<td><img src="https://rb3pc.milohax.org/images/instruments/list/gtrrb2.png" style="max-width: 100%; height: auto;" alt="Rock Band Stratocaster"></td>
 <td>Rock Band Stratocaster</td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/plat/wii.png" style="max-width: 100%; height: auto;" alt="Nintendo Wii"></td>
 <td><img src="https://rb3pc.milohax.org/images/instruments/compat/great.png" style="max-width: 100%; height: auto;" alt="Great Compatibility Symbol"></td>
