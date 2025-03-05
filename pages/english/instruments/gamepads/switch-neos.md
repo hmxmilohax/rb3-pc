@@ -4,13 +4,13 @@ sidebar: controllers_sidebar
 permalink: ctrls_pad_doohickey
 folder: instruments
 tags: [switch, gamepads, english]
-summary: "How to setup Nintendo Switch Pro Controller gamepads on RPCS3."
+summary: "How to setup CRKD NEO S doohickeys with on RPCS3."
 toc: false
 ---
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/swineos.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/swineoscontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 

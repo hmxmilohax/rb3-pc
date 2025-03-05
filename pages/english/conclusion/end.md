@@ -29,6 +29,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 ## Special Thanks
 
 * [[Dark]](https://dark.ski/){:target="_blank"}, [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"}, [[lunalawl]](https://github.com/lunalawl){:target="_blank"}, [[Hughtobasic]](https://www.youtube.com/@thisisRK){:target="_blank"}, [[ihatecompvir]](https://www.youtube.com/@ihatecompvir1591){:target="_blank"}, and [[LysiX]](https://www.youtube.com/@LysiX){:target="_blank"} for technical information regarding RPCS3 and/or Rock Band 3.
+* [[sanjay9000]](https://github.com/sanjay900){:target="_blank"} for improving passthrough and hotplugging on RPCS3.
 * [[SonicSBL]](https://github.com/SonicSBL){:target="_blank"} for starting the 360 to PS3 customs guide and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for continuing it.
 * [[lunalawl]](https://github.com/lunalawl){:target="_blank"} for helping improve new users' experiences and helping a ton with guide flow.
 * [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Lynxeption]](https://www.twitch.tv/lynxeption){:target="_blank"}, [[Le Fish]](https://ko-fi.com/lefishe){:target="_blank"}, and [[Aloquendiar]](https://www.twitch.tv/aloquendiar){:target="_blank"} for helping with the Spanish version.
@@ -36,6 +37,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 * [[qfoxb]](https://github.com/qfoxb){:target="_blank"}, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva){:target="_blank"}, and 1osks for testing and reporting results.
 * [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"}, and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for helping set up scenarios for tutorial pictures.
 * [[RPCS3 Wiki]](https://wiki.rpcs3.net/index.php?title=Main_Page){:target="_blank"} for initial information on controllers and USB passthrough.
+* [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} for being helping test just about most instruments listed in the controller page.
 * [[TheNathannator's]](https://github.com/TheNathannator){:target="_blank"} [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand){:target="_blank"} for even better documentation on controllers.
 * [[The YARG team]]((https://yarg.in/)) for inspiring the new version of the guide's instrument documentation.
 * You, for reading this far into the guide. I hope your day went well.

@@ -35,7 +35,7 @@ toc: false
 <ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/flyinst.png" alt="A screenshot of Rock Band 3, with a character's hat teleporting off of his head."><br>
 This is an issue that happens on real hardware (PS3) but is MUCH worse on RPCS3.<br>
 Thankfully, there is a patch to fix all of this!<br>
-<a href="https://rb3pc.milohax.org/trbl_teleprob" target="_blank">[Click here for more information]</a>.</p></ul>
+<a href="https://rb3pc.milohax.org/teleporting" target="_blank">[Click here for more information]</a>.</p></ul>
                             </div>
                         </div>
                     </div>

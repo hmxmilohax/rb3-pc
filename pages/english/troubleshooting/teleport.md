@@ -30,4 +30,4 @@ After that, drag the `PS3_GAME` folder from the `rb3_ps3_guitar_glitch_fix` fold
 
 That's it!
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>If your game becomes unstable after installing, enable High Memory Mode! <a href="https://rb3pc.milohax.org/memory" target="_blank">[Click here for more info.]</a> </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>If your game becomes unstable after installing, enable High Memory Mode! <a href="https://rb3pc.milohax.org/memory" target="_blank">[Click here for more info]</a>. </b> {{include.content}}</div>

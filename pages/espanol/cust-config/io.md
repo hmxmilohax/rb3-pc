@@ -19,8 +19,8 @@ weight: 5
 
 * ![Un cuadrado bronceado.](https://rb3pc.milohax.org/images/cust/smalltan.png "Cuadrado bronceado"): **Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI**:
 	* 🎹 **[[Jugadores de teclado]](https://rb3pc.milohax.org/ctrls_keys_midi_es){:target="_blank"}: Deja el "`Emulated MIDI type`" (Tipo de MIDI emulado) en "`Keyboard`" (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él**.
-	* 🎸 **[[Jugadores de Guitarra Pro]]((https://rb3pc.milohax.org/ctrls_protar_midi){:target="_blank"}): Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Guitar (17 Frets)`"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o "`Guitar (22 Frets)`"** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él**.
-	* 🥁 **[[Jugadores con Baterías MIDI]](https://rb3pc.milohax.org/ctrls_drums_midi){:target="_blank"}: Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Drums`" (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
+	* 🎸 **[[Jugadores de Guitarra Pro]](https://rb3pc.milohax.org/ctrls_protar_midi_es){:target="_blank"}: Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Guitar (17 Frets)`"** (guitarra (17 trastes)) **si tienes una guitarra Pro Mustang, o "`Guitar (22 Frets)`"** (guitarra (22 trastes)) **si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él**.
+	* 🥁 **[[Jugadores con Baterías MIDI]](https://rb3pc.milohax.org/ctrls_drums_midi_es){:target="_blank"}: Cambia el "`Emulated MIDI type`" (Tipo de MIDI emulado) de "`Keyboard`" (teclado) a "`Drums`" (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él**.
 	* Si necesitas mas ayuda, dale otra visita a la [[pagina de instrumentos]](https://rb3pc.milohax.org/ctrls_es){:target="_blank"}.
 
 <br/>

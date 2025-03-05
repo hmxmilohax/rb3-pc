@@ -12,7 +12,7 @@ Vamos a agregar mas memoria a Rock Band 3 en RPCS3. Esto esta muy recomendando p
 
 <span style="font-size:x-large;">ADVERTENCIAS - LEE ESTO ANTES DE TODO</span>
 
-<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Si bajaste y estas usando [[un perfil de Configuración Rápida,]](https://rb3pc.milohax.org/gs_quick_config_es) ya tienes esto activado y no necesitas hacer nada mas. </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Si bajaste y estas usando [[un perfil de Configuración Rápida]](https://rb3pc.milohax.org/gs_quick_config_es), ya tienes esto activado y no necesitas hacer nada mas. </b> {{include.content}}</div>
 
 <div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Necesitas [[activar Debug Console Mode en la pestaña "Advanced" en la configuración personalizada para Rock Band 3]](https://rb3pc.milohax.org/custom_config_adv_es){:target="_blank"}. ¡¡¡Si no haces esto, tu juego va a parar de funcionar!!! </b> {{include.content}}</div>
 

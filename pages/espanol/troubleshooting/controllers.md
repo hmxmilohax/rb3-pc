@@ -21,7 +21,8 @@ toc: false
 <ul>
 <li>Trata de mover la palanca de whammy o el switch de efectos en tu guitarra.</li>
 <li>Re-conecta el control.</li>
-<li>Abre el menú de "Pads" y ciérralo. Esto va a reiniciar tus controles.</li>
+<li>Abre el menú de "Pads" y haz click en "Save". Esto va a reiniciar tus controles.</li>
+<li>Activa "Keep Pads Connected" como dijo la guía en la <a href="https://rb3pc.milohax.org/custom_config_io_es" target="_blank">[pestaña de I/O en la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Desactiva "Native Interface" como dijo la guía en la <a href="https://rb3pc.milohax.org/custom_config_emu_es" target="_blank">[pestaña de Emulator en la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Usa un <a href="https://rb3pc.milohax.org/ctrls#gamepads_es" target="_blank">[mando o teclado]</a> para cualquier cosa que requiera el teclado virtual.</li>
 </ul>
@@ -51,7 +52,7 @@ toc: false
                         </div>
                         <div id="ps3-rb-dos-instrumentos" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                Creaste una <a href="https://rb3pc.milohax.org/ctrls_es#mapeando" target="_blank">[configuración de controles personalizada]</a> para un control de Rock Band para PS3, eso que necesitas hacer eso porque tiene conexión directa. Borra la configuración y todo debe de estar bien.
+                                Creaste una <a href="https://rb3pc.milohax.org/ctrls_es" target="_blank">[configuración de controles personalizada]</a> para un control de Rock Band para PS3, eso que necesitas hacer eso porque tiene conexión directa. Borra la configuración y todo debe de estar bien.
                             </div>
                         </div>
                     </div>

@@ -4,7 +4,7 @@ sidebar: espanol_sidebar
 permalink: trbl_common_es
 folder: espanol
 tags: [resolviendo-problemas, espanol]
-summary: "Como resolver problemas de sonido comunes."
+summary: "Como resolver problemas comunes."
 toc: false
 ---
 
@@ -35,7 +35,7 @@ toc: false
 <ul><p><img src="https://rb3pc.milohax.org/images/trbl/common/flyinst.png" alt="Una captura de Rock Band 3 con un personaje que tiene problemas con sus accesorios."><br>
 Esto pasa en PlayStation 3 pero es peor en RPCS3.<br>
 Afortunadamente, hay un parche que arregla todo esto.<br>
-<a href="https://rb3pc.milohax.org/trbl_teleprob_es" target="_blank">[Haz click para mas información.]</a></p></ul>
+<a href="https://rb3pc.milohax.org/teleportacion" target="_blank">[Haz click para mas información.]</a></p></ul>
                             </div>
                         </div>
                     </div>
