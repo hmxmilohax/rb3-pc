@@ -30,4 +30,4 @@ Después de eso, arrastra la carpeta de `PS3_GAME`, que estaba adentro de la car
 
 ¡Eso es todo!
 
-<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Si el juego se vuelve inestable, ¡activa el modo de memoria expandida! <a href="https://rb3pc.milohax.org/memoria" target="_blank">[Haz click para mas información.]</a> </b> {{include.content}}</div>
+<div markdown="span" class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>Si el juego se vuelve inestable, ¡activa el modo de memoria expandida! <a href="https://rb3pc.milohax.org/memoria" target="_blank">[Haz click para mas información]</a>. </b> {{include.content}}</div>

@@ -4,13 +4,13 @@ sidebar: controllers_es_sidebar
 permalink: ctrls_pad_doohickey_es
 folder: instrumentos
 tags: [switch-es, mandos, espanol]
-summary: "Como configurar mandos Pro de Switch en RPCS3."
+summary: "Como configurar mandos CRKD NEO S en RPCS3."
 toc: false
 ---
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/switch.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/swineos.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/swineoscontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 

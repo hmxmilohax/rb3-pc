@@ -52,7 +52,7 @@ toc: false
                         </div>
                         <div id="my-ps3-rock-band-instrument-controller-shows-up-as-two-controlle" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
-                                You did <a href="https://rb3pc.milohax.org/ctrls#mapping" target="_blank">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
+                                You did <a href="https://rb3pc.milohax.org/ctrls" target="_blank">[controller configuration]</a> for a PS3 Rock Band controller, which usually isn’t needed due to passthrough. Just unbind the controller and it should be fine.
                             </div>
                         </div>
                     </div>

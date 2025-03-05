@@ -29,15 +29,24 @@ ul#results-container a {
 }
 /*search end*/
 
+.table-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    max-width: 90%;
+    border-collapse: collapse;
+    color: #fff;
+}
+
 table > thead > tr > th {
     background-color: #060606;
     color: #e1e1e1;
     text-align: center;
-}
-
-table {
-    width: 90%;
-    color: #fff;
 }
 
 table > tbody > tr:nth-of-type(odd) {
@@ -52,6 +61,17 @@ table > tbody > tr > td,
 table > tfoot > tr > td {
     border: 1px solid #ddd;
     vertical-align: middle;
+}
+
+th, td {
+    word-wrap: break-word;
+    white-space: normal;
+    text-align: center;
+}
+
+.left-align-table td, 
+.left-align-table th {
+    text-align: left;]
 }
 
 blockquote {

@@ -75,7 +75,7 @@ To make things easier, all configuration tweaks have been color coded.
 <li>
 <p><img src="https://rb3pc.milohax.org/images/cust/smallgreen.png" alt="A green square with a dashed outline." title="Green Square"> <strong>REQUIRED</strong>:</p>
 <ul>
-<li><strong>Enable “Write Color Buffers”</strong> - Characters will have severe graphical bugs without this.</li>
+<li><strong>Enable “<code>Write Color Buffers</code>”</strong> - Characters will have severe graphical bugs without this.</li>
 </ul>
 </li>
 <li>

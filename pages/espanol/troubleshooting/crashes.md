@@ -18,7 +18,7 @@ toc: false
                         <div id="juego-no-inicia" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                <ul>
-<li>Es probable que instalaste el <a href="https://rb3pc.milohax.org/memory_es" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://rb3pc.milohax.org/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
+<li>Es probable que instalaste el <a href="https://rb3pc.milohax.org/memoria" target="_blank"><strong>[archivo de memoria adicional]</strong></a> y se te olvido activar “Debug Console Mode” en la <a href="https://rb3pc.milohax.org/custom_config_adv_es" target="_blank">[pestaña de Advanced dentro de la configuración personalizada de Rock Band 3]</a>.</li>
 <li>Asegúrate que tengas firmware actual.</li>
 <li>Si no fue esto, tienes una copia de Rock Band 3 corrupta.</li>
 </ul>
@@ -48,6 +48,7 @@ toc: false
                         <div id="deluxe-crasheo-en-video" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
 <ul>
+<li>Trata de descargar e instalar la firmware de PS3 de nuevo.</li>
 <li>Descarga Rock Band 3 Deluxe otra vez. Es posible que Github corrompió tu descarga.</li>
 <li>Si estas actualizando de una versión antigua de Deluxe, es posible que tengas archivos de Rock Band 3 Deluxe incompatibles. Tienes que ir a los archivos de Rock Band 3 en <code>dev_hdd0\game\BLUS30463\USRDIR</code> para borrar los archivos <code>.dta</code>, menos el archivo de <code>dx_high_memory.dta</code>.</li>
 </ul>

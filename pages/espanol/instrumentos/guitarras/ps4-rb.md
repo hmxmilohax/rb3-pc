@@ -15,6 +15,8 @@ toc: false
 ## NOTAS
 
 * Requiere que descargues y instales [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} con ViGEmBus.
+    * Es recomendado conectar las guitarras antes de abrir clipper.
+    * Si necesitas usar mas de una guitarra de Rock Band para PlayStation 4, simplemente abre otro clipper.
 * La latencia de las Jaguars y las Stratocasters es muy variable. Puede ser difícil calibrar por esto.
 * La PDP Riffmaster requiere su receptor propio.  
 	![Receptor de PDP Riffmaster](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "Receptor de PDP Riffmaster")

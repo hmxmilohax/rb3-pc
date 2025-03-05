@@ -71,6 +71,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Santroller
+      url: /ctrls_moddrum_san_es
+      output: web
+      type: homepage
+
     - title: "Rock Band 4 para Xbox One"
       url: /ctrls_rb4drums_xbox_es
       output: web
@@ -279,6 +284,11 @@ entries:
       output: web
       type: homepage
 
+    - title: Santroller
+      url: /ctrls_modkeys_san_es
+      output: web
+      type: homepage
+
     - title: Rock Band para PlayStation 3
       url: /ctrls_keys_ps3_es
       output: web
@@ -303,6 +313,11 @@ entries:
       output: web
       type: homepage
   
+    - title: Santroller
+      url: /ctrls_modprotar_san_es
+      output: web
+      type: homepage
+
     - title: Fender Mustang para PlayStation 3
       url: /ctrls_protar_ps3_es
       output: web
@@ -332,7 +347,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Agregar mas memoria
+    - title: Agregar memoria
       url: /memoria
       output: web
 
@@ -348,11 +363,11 @@ entries:
       url: /adv_discordrp_es
       output: web
 
-    - title: Fotogramas Fluidas
+    - title: RTSS
       url: /adv_rtss_es
       output: web
 
-    - title: Texturas Personalizada
+    - title: Texturas Personalizadas
       url: /adv_customtex_es
       output: web
 
