@@ -55,21 +55,29 @@ This is so you can change configuration profiles in case you want to play games 
 ### Initial Setup
 
 * For the best experience:
-	1. Go to the Start menu and look for "Set up USB game controllers," then open it.  
+	1. Go to the Start menu and look for "`Set up USB game controllers`," then open it.  
 	![A screenshot of Windows showing the search results of joy.cpl.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl.png "Set up USB game controllers")
-	2. Right click on "Guitar Hero X-plorer"
-	3. Go to the Settings tab.
-	4. Hold the guitar at a 45 degree angle. This is halfway between a neck at level and full tilt.
-	5. While holding the guitar at this angle, click "Calibrate."
-	6. Click "Next" on the D-Pad screen with no buttons held.
-	7. On the next screen, press the whammy all the way in then release it, then click "Next."
-	8. On the next screen, move the guitar to full tilt position, then click "Next."
-	9. In RPCS3's Gamepad Configuration, set deadzones on the Left and Right Stick to None.
+	2. Select "`Guitar Hero X-plorer`" then click on "`Properties`".  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy1.png "Game Controllers")
+	3. Go to the Settings tab.  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy2.png "Game Controllers")
+	4. Hold the guitar at a 45 degree angle. This is halfway between a neck at level and full tilt.  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr45.png "Game Controllers")
+	5. While holding the guitar at this angle, click "Calibrate."  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy3.png "Game Controllers")
+	6. Click "Next" on the D-Pad screen with no buttons held.  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy5.png "Game Controllers")
+	7. On the next screen, press the whammy all the way in then release it, then click "Next."  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy6.png "Game Controllers")
+	8. On the next screen, move the guitar to full tilt position, then click "Next."  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr90.png "Game Controllers")  
+    ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy7.png "Game Controllers")
 
 ## Mappings
 
-**UNMAP THE FOLLOWING** or guitar solos will auto-strum and the effects selector will constantly be moving!  
-Use Right Click to unmap a button.
+* **UNMAP THE FOLLOWING** or guitar solos will auto-strum and the effects selector will constantly be moving!  
+    * Use Right Click to unmap a button.
+* Set the deadzones for left and right sticks to the lowest possible level.
 
 | **RPCS3** | **Guitar** |
 |:--------:|:-----------:|
@@ -132,4 +140,5 @@ Use Right Click to unmap a button.
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}
+Mapped by [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} and [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}  
+Screenshots by [[Ashun]](https://www.twitch.tv/ashun_)

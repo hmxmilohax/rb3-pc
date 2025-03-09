@@ -29,18 +29,18 @@ Inicia "RCM Programming Tool"
 En la pantalla de inicio de "RCM Programming Tool", cambia el "`Dispositivo Seleccionado`" al kit de estas usando. En este ejemplo, es la "`Solderless Kit`", así que "`Solderless Kit - PS2/Emulator`" fue elegido.  
 Después de eso, haz click en `Configurar`.
 
-![Una captura de la pantalla inicial de RCM Programming Tool. "Dispositivo a programar" esta en Raspberry Pi Pico y "Tipo de Entrado" esta en Directamente cableado.](https://rb3pc.milohax.org/images/instruments/xtra/san/seldevsles.png "RCM Programming Tool - Inicio")
+![Una captura de la pantalla inicial de RCM Programming Tool. "Dispositivo a programar" esta en Raspberry Pi Pico y "Tipo de Entrado" esta en Directamente cableado.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevsles.png "RCM Programming Tool - Inicio")
 
 Haz estos cambios a "`Ajustes de Control`":
 * Activa "`Usar 'Passthrough' por USB con RPCS3`"
 
-![Una captura de los Ajustes de Control, dentro de RCM Programming Tool.](https://rb3pc.milohax.org/images/instruments/xtra/san/consetes.png "RCM Programming Tool: Ajustes de Control")
+![Una captura de los Ajustes de Control, dentro de RCM Programming Tool.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/consetes.png "RCM Programming Tool: Ajustes de Control")
 
 Es sugerido que también calibres tu palanca de whammy. Esta mas para abajo en RCM Programming Tool.
 
 **¡ASEGÚRATE DE HACER CLICK EN "`Guardar Ajustes`" ANTES DE CERRAR EL PROGRAMA O PERDERÁS TUS CAMBIOS!**
 
-![Una captura de RCM Programming Tool, con el cursor sobre Guardar Ajustes.](https://rb3pc.milohax.org/images/instruments/xtra/san/savesles.png "RCM Programming Tool")
+![Una captura de RCM Programming Tool, con el cursor sobre Guardar Ajustes.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/savesles.png "RCM Programming Tool")
 
 Cuando termines, cierra RCM Programming Tool.
 

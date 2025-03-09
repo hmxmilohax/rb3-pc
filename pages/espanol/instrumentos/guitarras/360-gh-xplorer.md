@@ -57,19 +57,27 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 * Para la mejor experiencia::
 	1. Ve al menú principal de Windows y busca “Propiedades del controlador de juegos” y ábrelo.  
 	![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl_es.png "Configurar dispositivos de juego USB")
-	2. Selecciona a “Guitar Hero X-plorer” y entra a “Propiedades”.
-	3. Entra a la pestaña de “Configuración”.
-	4. Sostén la guitarra en un angulo de 45 grados.
-	5. Mientras la estas sosteniendo así, entra a “Calibración”
-	6. Haz click “Siguiente” en la pantalla de D-Pad sin presionar un botón.
-	7. En la pantalla siguiente, presiona la palanca whammy hacia adentro completamente y déjala ir y haz click en “Siguiente.”
-	8. En la pantalla siguiente, apunta la guitarra hacia arriba, como si estuvieras activando sobrecarga/Star Power y haz click a “Siguiente.”
-	9. En la Gamepad Configuration (configuración de controles), ajusta las zonas muertas de las palancas (Analog Stick Deadzone) a el valor mínimo para la palanca izquierda y derecha.
+	2. Elige a “Guitar Hero X-plorer” y haz click en “`Propiedades`”.  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy1es.png "Configurar dispositivos de juego USB")
+	3. Entra a la pestaña de “`Configuración`”.  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy2es.png "Configurar dispositivos de juego USB")
+	4. Sostén la guitarra en un angulo de 45 grados.  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr45.png "Configurar dispositivos de juego USB")
+	5. Mientras la estas sosteniendo así, entra a “`Calibración`”  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy3es.png "Configurar dispositivos de juego USB")
+	6. Haz click “`Siguiente`” en la pantalla de D-Pad sin presionar un botón.  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy5es.png "Configurar dispositivos de juego USB")
+	7. En la pantalla siguiente, presiona la palanca whammy hacia adentro completamente y déjala ir y haz click en “`Siguiente`.”  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy6es.png "Configurar dispositivos de juego USB")
+	8. En la pantalla siguiente, apunta la guitarra hacia arriba, como si estuvieras activando sobrecarga/Star Power y haz click a “`Siguiente`.”  
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr90.png "Configurar dispositivos de juego USB")
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy7es.png "Configurar dispositivos de juego USB")
 
 ## Mapeo
 
-¡**BORRA ESTOS BOTONES** o tus solos de guitarra van a auto-rasguear (auto-strum) y el selector de efectos estará atorado en la pantalla!  
-Usa el click derecho para borrar botones.
+* ¡**BORRA ESTOS BOTONES** o tus solos de guitarra van a auto-rasguear (auto-strum) y el selector de efectos estará atorado en la pantalla!  
+    * Usa el click derecho para borrar botones.
+* Cambia el nivel de "Deadzone" para "Left Stick" y "Right Stick" a lo mas bajo posible.
 
 | **RPCS3** | **Guitarra** |
 |:--------:|:-----------:|
@@ -132,4 +140,5 @@ Usa el click derecho para borrar botones.
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Mapeado por [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} y [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}
+Mapeado por [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} y [[KrazzyKlown]](https://www.youtube.com/@KrazzyKlown){:target="_blank"}  
+Capturas por [[Ashun]](https://www.twitch.tv/ashun_)

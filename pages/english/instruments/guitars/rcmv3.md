@@ -30,18 +30,18 @@ Start up up RCM Programming Tool.
 In the start screen, select your Device. It will usually show up as "`V3 Adapter - Guitar (PS2/Emulation)`".  
 After that, click on "`Configure`" and wait for the progress bar to finish.
 
-![A screenshot of RCM Programming Tool's first screen. "`Selected Device`" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/san/seldevv3.png "RCM Programming Tool: Initialize")
+![A screenshot of RCM Programming Tool's first screen. "`Selected Device`" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevv3.png "RCM Programming Tool: Initialize")
 
 In "`Controller Settings`", change the following:
 * Enable "`Use USB Passthrough with RPCS3`"
 
-![A screenshot of RCM Programming Tool's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/san/conset.png "RCM Programming Tool: Controller Settings")
+![A screenshot of RCM Programming Tool's Controller Settings. The settings reflect exactly what is above.](https://rb3pc.milohax.org/images/instruments/xtra/rcm/conset.png "RCM Programming Tool: Controller Settings")
 
 It's also suggested you calibrate your Whammy to have the best experience. Scroll down to the Whammy section and calibrate it.
 
 **MAKE SURE YOU CLICK ON "`Save Settings`" before closing the program or you will lose progress!**
 
-![A screenshot of RCM Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/san/savev3.png "RCM Programming Tool")
+![A screenshot of RCM Programming Tool. The cursor is hovering over "Save Settings".](https://rb3pc.milohax.org/images/instruments/xtra/rcm/savev3.png "RCM Programming Tool")
 
 When you're done, close RCM Programming Tool.
 
