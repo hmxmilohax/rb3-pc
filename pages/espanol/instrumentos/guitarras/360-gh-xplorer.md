@@ -70,7 +70,7 @@ Esto es por si juegas otros juegos en RPCS3 que no usen instrumentos.<br>
 	7. En la pantalla siguiente, presiona la palanca whammy hacia adentro completamente y déjala ir y haz click en “`Siguiente`.”  
     ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy6es.png "Configurar dispositivos de juego USB")
 	8. En la pantalla siguiente, apunta la guitarra hacia arriba, como si estuvieras activando sobrecarga/Star Power y haz click a “`Siguiente`.”  
-    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr90.png "Configurar dispositivos de juego USB")
+    ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr90.png "Configurar dispositivos de juego USB")  
     ![Una captura de Windows mostrando el panel de control para configurar dispositivos de juego USB.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy7es.png "Configurar dispositivos de juego USB")
 
 ## Mapeo
