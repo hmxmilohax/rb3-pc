@@ -59,17 +59,17 @@ This is so you can change configuration profiles in case you want to play games 
 	![A screenshot of Windows showing the search results of joy.cpl.](https://rb3pc.milohax.org/images/instruments/xtra/gen/joycpl.png "Set up USB game controllers")
 	2. Select "`Guitar Hero X-plorer`" then click on "`Properties`".  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy1.png "Game Controllers")
-	3. Go to the Settings tab.  
+	3. Go to the "`Settings`" tab.  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy2.png "Game Controllers")
 	4. Hold the guitar at a 45 degree angle. This is halfway between a neck at level and full tilt.  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr45.png "Game Controllers")
-	5. While holding the guitar at this angle, click "Calibrate."  
+	5. While holding the guitar at this angle, click "`Calibrate`."  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy3.png "Game Controllers")
-	6. Click "Next" on the D-Pad screen with no buttons held.  
+	6. Click "`Next`" on the D-Pad screen with no buttons held.  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy5.png "Game Controllers")
-	7. On the next screen, press the whammy all the way in then release it, then click "Next."  
+	7. On the next screen, press the whammy all the way in then release it, then click "`Next`."  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy6.png "Game Controllers")
-	8. On the next screen, move the guitar to full tilt position, then click "Next."  
+	8. On the next screen, move the guitar to full tilt position, then click "`Next`."  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/gtr90.png "Game Controllers")  
     ![A screenshot of Windows's Game Controllers Setup.](https://rb3pc.milohax.org/images/instruments/xtra/xplorer/joy7.png "Game Controllers")
 
