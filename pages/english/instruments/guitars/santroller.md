@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Platform" title="Platform"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rcmgtrs.png" alt="Controller" title="Controller"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/sancontroller.png" alt="Controller" title="Controller"></div>
 
 ## NOTES
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="Do not map this controller!" title="Do not map!"></div>
