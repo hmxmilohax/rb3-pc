@@ -75,6 +75,14 @@ Cuando se baje, **extrae el archivo**.
 
 ![Una captura de Decrypter/Installer de RPCS3 preguntando si el usuario desea instalar el archivo de paquete de Rock Band 3 Deluxe.](https://rb3pc.milohax.org/images/install/rpcs3pkg.png "PKG Decrypter/ Installer (Descifrador/Instalador)")
 
+<p>La mejor manera de confirmar que se instalo correctamente es activar <a href="#" data-toggle="tooltip" data-original-title="Preferir iconos de datos del juego"><code>Prefer Game Data Icon</code></a> dentro del menú de <a href="#" data-toggle="tooltip" data-original-title="Ver > Iconos de lista del juegos"><code>View > Game List Icons</code></a></p>
+
+![Una captura de la librería de RPCS3, activando "Prefer Game Data Icon".](https://rb3pc.milohax.org/images/install/rpcs3gamedataicon.png "RPCS3 Game List")
+
+Si se instalo correctamente, el icono de Rock Band 3 va a cambiar.
+
+![Una captura de la librería de RPCS3, enseñando el icono de Rock Band 3 usando un icono nuevo de Rock Band 3 Deluxe.](https://rb3pc.milohax.org/images/install/rpcs3rb3dxicon.png "RPCS3 Game List")
+
 <p>Puedes renombrar el juego a "Rock Band 3 Deluxe" si quieres. Solo necesitas hacer click derecho en "Rock Band 3" y selecciona a <a href="#" data-toggle="tooltip" data-original-title="Renombrar en lista de juegos"><code>Rename in Gamelist</code></a>.</p>
 
 {% include custom/series_empezando_next.html %}

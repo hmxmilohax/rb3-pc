@@ -72,6 +72,14 @@ Download either the `Nightly` or `Beta` version
 
 ![A screenshot of RPCS3's Decrypter/ Installer asking if the user wants to install the Rock Band 3 Deluxe package file.](https://rb3pc.milohax.org/images/install/rpcs3pkg.png "PKG Decrypter/ Installer")
 
+The best way to check if Rock Band 3 Deluxe installed correctly is to enable `Prefer Game Data Icons` under `View > Game List Icons`.
+
+![A screenshot of RPCS3, showing a cursor over "Prefer Game Data Icons"](https://rb3pc.milohax.org/images/install/rpcs3gamedataicon.png "RPCS3 Game List")
+
+If it installed successfully, you should see that the Rock Band 3 icon has changed.
+
+![A screenshot of RPCS3's game library, showing an updated icon for Rock Band 3. It's now using the Rock Band 3 Deluxe icon.](https://rb3pc.milohax.org/images/install/rpcs3rb3dxicon.png "RPCS3 Game List")
+
 You can also rename the game in the list to "Rock Band 3 Deluxe" if you wish. To do this, right-click on "Rock Band 3" and select "`Rename In Game List`."
 
 {% include custom/series_getting_started_next.html %}
