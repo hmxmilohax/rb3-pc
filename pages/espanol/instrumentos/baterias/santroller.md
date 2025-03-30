@@ -10,7 +10,7 @@ toc: false
 
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/plat/santroller.png" alt="Sistema" title="Sistema"></div>
 
-<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/rcmgtrs.png" alt="Control" title="Control"></div>
+<div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/cont/sancontroller.png" alt="Control" title="Control"></div>
 
 ## NOTAS
 <div align="center"> <img src="https://rb3pc.milohax.org/images/instruments/maps/rpcs3nomap.png" alt="¡NO mapeés este instrumento!" title="¡No uses Pads!"></div>
