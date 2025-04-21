@@ -12,7 +12,7 @@ You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why n
 
 ## MiloHax
 
-[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMiloHax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "MiloHax"){:target="_blank"}
+[![Rock Band 3 Deluxe Logo](https://milohax.org/images/milohax.webp)](https://milohax.org/ "MiloHax"){:target="_blank"}
 
 MiloHax is a community centered around modding and preserving the legacy of Harmonix's video games. They've been involved in everything from [[hunting down and preserving prototype copies]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilation]](https://decomp.milohax.org/#/about){:target="_blank"}, to being involved in helping emulators such as RPCS3 or shadPS4 improve how they run Harmonix games. 
 
