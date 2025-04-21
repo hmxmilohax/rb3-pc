@@ -12,7 +12,7 @@ You now (hopefully) have set up Rock Band 3 on your PC. While you're here, why n
 
 ## MiloHax
 
-[![Rock Band 3 Deluxe Logo](https://raw.githubusercontent.com/HMXMiloHax/MiloHax-Site/main/docs/images/milohax.png)](https://milohax.org/ "MiloHax"){:target="_blank"}
+[![Rock Band 3 Deluxe Logo](https://milohax.org/images/milohax.webp)](https://milohax.org/ "MiloHax"){:target="_blank"}
 
 MiloHax is a community centered around modding and preserving the legacy of Harmonix's video games. They've been involved in everything from [[hunting down and preserving prototype copies]](https://hiddenpalace.org/Rock_Band_3_(Jan_19,_2010)){:target="_blank"}, [[decompilation]](https://decomp.milohax.org/#/about){:target="_blank"}, to being involved in helping emulators such as RPCS3 or shadPS4 improve how they run Harmonix games. 
 
@@ -37,7 +37,7 @@ You can [**\[join RBEnhanced's Discord here\]**](https://discord.gg/6rRUWXPYwb){
 * [[qfoxb]](https://github.com/qfoxb){:target="_blank"}, [[SlothDemon]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[Jnack]](https://www.youtube.com/@jnackmclain){:target="_blank"} (tested for nearly 50 hours lmao), [knvtva](https://github.com/knvtva){:target="_blank"}, and 1osks for testing and reporting results.
 * [[SlothDemon1991]](https://www.youtube.com/@SlothDemon1991){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, [[GamerPerson22]](https://www.youtube.com/channel/UCC5SlXPlnlGwBG7w6mvfx8g){:target="_blank"}, [[Trish]](https://www.youtube.com/channel/UCle3t7q9UeU0npc3FklcjCg){:target="_blank"}, [[ItzSlicedcorn/Vivian]](https://www.twitch.tv/itzslicedcorn){:target="_blank"}, and [[Linos]](https://www.youtube.com/@LinosMelendi){:target="_blank"} for helping set up scenarios for tutorial pictures.
 * [[RPCS3 Wiki]](https://wiki.rpcs3.net/index.php?title=Main_Page){:target="_blank"} for initial information on controllers and USB passthrough.
-* [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} for being helping test just about most instruments listed in the controller page.
+* [[gonakil1ya]](https://gonakillya.neocities.org/){:target="_blank"} for being helping test just about most instruments listed in the controller page.
 * [[TheNathannator's]](https://github.com/TheNathannator){:target="_blank"} [[PlasticBand GitHub]](https://github.com/TheNathannator/PlasticBand){:target="_blank"} for even better documentation on controllers.
 * [[The YARG team]]((https://yarg.in/)) for inspiring the new version of the guide's instrument documentation.
 * You, for reading this far into the guide. I hope your day went well.
