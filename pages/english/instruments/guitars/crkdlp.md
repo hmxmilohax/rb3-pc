@@ -18,4 +18,4 @@ This is a placeholder page that will be updated when this guitar releases.
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Research by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
+Research by [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"}
