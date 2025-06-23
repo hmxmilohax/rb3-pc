@@ -193,4 +193,4 @@ By default, XInput has most things bound correctly. You only need to remap the f
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} and [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}
+Mapped by [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"} and [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}
