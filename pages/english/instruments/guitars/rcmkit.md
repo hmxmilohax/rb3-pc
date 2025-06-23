@@ -50,5 +50,5 @@ You can now launch Rock Band 3!
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption), [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}, and [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
+Research by [[Lynxeption]](https://www.youtube.com/@Lynxeption), [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"}, and [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
 Special thanks to [[@amphobius]](https://twitter.com/amphobius) for additional pictures.
