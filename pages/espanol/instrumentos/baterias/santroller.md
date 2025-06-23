@@ -49,5 +49,5 @@ Cuando termines, cierra Santroller.
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Investigado [[Lynxeption]](https://www.youtube.com/@Lynxeption){:target="_blank"}, [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} y [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
+Investigado [[Lynxeption]](https://www.youtube.com/@Lynxeption){:target="_blank"}, [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"} y [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
 Gracias a [[@amphobius]](https://twitter.com/amphobius) por capturas adicionales.
