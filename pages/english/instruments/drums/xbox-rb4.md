@@ -213,4 +213,4 @@ This is the recommended mode and should not require any mapping. You simply need
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
 
-Mapped by [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapped by [[gonakil1ya]](https://gonakillya.neocities.org)
