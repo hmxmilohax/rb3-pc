@@ -27,7 +27,7 @@ Before starting, be sure to [[download the latest version of RCM Programming Too
 
 Start up up RCM Programming Tool.
 
-In the start screen, select your Device. It will usually show up as "`V3 Adapter - Guitar (PS2/Emulation)`".  
+In the start screen, select your Device. It will usually show up as "`V3 Adapter - RB Guitar`".  
 After that, click on "`Configure`" and wait for the progress bar to finish.
 
 ![A screenshot of RCM Programming Tool's first screen. "`Selected Device`" is set to Raspberry Pi Pico and Input Type is set to "Directly Wired".](https://rb3pc.milohax.org/images/instruments/xtra/rcm/seldevv3.png "RCM Programming Tool: Initialize")
