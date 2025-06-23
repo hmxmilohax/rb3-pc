@@ -173,4 +173,4 @@ Por defecto, XInput tiene mayoría de las cosas configuradas correctamente. Solo
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} y [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}
+Mapeado por [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"} y [[LysiX]](https://www.youtube.com/channel/UC1RaK6pSok879gogdeBlszw){:target="_blank"}
