@@ -50,5 +50,5 @@ Cuando termines, cierra RCM Programming Tool.
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Investigado por [Lynxeption]](https://www.youtube.com/@Lynxeption), [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"} y [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
+Investigado por [Lynxeption]](https://www.youtube.com/@Lynxeption), [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"} y [[SquidBoy425 (Team Oceanman)]](https://www.youtube.com/@teamOceanman343/videos){:target="_blank"}.  
 Gracias a [[@amphobius]](https://twitter.com/amphobius) por capturas adicionales.

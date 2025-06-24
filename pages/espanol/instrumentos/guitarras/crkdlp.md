@@ -18,4 +18,4 @@ Esta es una pagina temporaria que sera actualizada cuando salga esta guitarra.
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Investigado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya){:target="_blank"}
+Investigado por [[gonakil1ya]](https://gonakillya.neocities.org){:target="_blank"}

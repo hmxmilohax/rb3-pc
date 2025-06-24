@@ -180,4 +180,4 @@ Este es el modo recomendado porque no requiere configuración adicional. Solo re
 
 [[Regresar a la lista de instrumentos]](https://rb3pc.milohax.org/ctrls_es#lista-de-instrumentos)
 
-Mapeado por [[gonakil1ya]](https://linktr.ee/Gonakil1ya)
+Mapeado por [[gonakil1ya]](https://gonakillya.neocities.org)
