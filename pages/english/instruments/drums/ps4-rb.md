@@ -131,7 +131,6 @@ You simply need to assign the Handler, Device, and Device Class/Type.
                             <div class="panel-body">
                                 <p>If you refuse to set up Python, you won’t have access to cymbals and it will provide an overall worse experience.</p>
 <h2 id="pad-information">Pad Information</h2>
-
 <table>
 <thead>
 <tr>
@@ -227,6 +226,7 @@ You simply need to assign the Handler, Device, and Device Class/Type.
                             </div>
                         </div>
                     <!-- /.panel -->
+</div>
 </div>
 
 [[Back to Controllers]](https://rb3pc.milohax.org/ctrls#instrument-list)
