@@ -66,8 +66,8 @@ First, we're going to download the latest version of [[Python 3]](https://www.py
 
 Once it finishes downloading, open the installer.  
 In the installer:  
-* Activate `Add python.exe to PATH`
-* Click `Install now`  
+1. Activate `Add python.exe to PATH`
+2. Click `Install now`  
 ![A screenshot of Python's installer. "Add python.exe to PATH" and "Install now" are highlighted in tan with a dotted black outline.](https://rb3pc.milohax.org/images/xtra/rpc/pyinstall.png "Python 3.12.6")
 
 Now, go to [[Minatsuki's Github page]](https://github.com/yanagiragi/Minatsuki) and download the code ZIP.
@@ -131,6 +131,7 @@ You simply need to assign the Handler, Device, and Device Class/Type.
                             <div class="panel-body">
                                 <p>If you refuse to set up Python, you won’t have access to cymbals and it will provide an overall worse experience.</p>
 <h2 id="pad-information">Pad Information</h2>
+
 <table>
 <thead>
 <tr>
