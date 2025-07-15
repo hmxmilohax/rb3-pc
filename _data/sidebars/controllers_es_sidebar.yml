@@ -81,6 +81,11 @@ entries:
       output: web
       type: homepage
 
+    - title: "Rock Band 4 para PlayStation 4"
+      url: /ctrls_rb4drums_ps4_es
+      output: web
+      type: homepage
+
     - title: Rock Band para Xbox 360
       url: /ctrls_rbdrums_360_es
       output: web
@@ -108,11 +113,6 @@ entries:
 
     - title: Guitar Hero para Wii (Raphnet)
       url: /ctrls_ghdrums_wii_es
-      output: web
-      type: homepage
-
-    - title: "Rock Band 4 para PlayStation 4"
-      url: /ctrls_rb4drums_ps4_es
       output: web
       type: homepage
 

@@ -86,6 +86,11 @@ entries:
       output: web
       type: homepage
 
+    - title: "PlayStation 4 Rock Band 4"
+      url: /ctrls_rb4drums_ps4
+      output: web
+      type: homepage
+
     - title: Xbox 360 Rock Band
       url: /ctrls_rbdrums_360
       output: web
@@ -113,11 +118,6 @@ entries:
 
     - title: Wii Guitar Hero (Raphnet)
       url: /ctrls_ghdrums_wii
-      output: web
-      type: homepage
-
-    - title: "PlayStation 4 Rock Band 4"
-      url: /ctrls_rb4drums_ps4
       output: web
       type: homepage
 
