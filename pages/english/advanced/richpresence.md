@@ -26,7 +26,7 @@ Now, you'll need to download the latest version of [[Python 3]](https://www.pyth
 
 [[Click here to go to the download page for Python 3]](https://www.python.org/downloads/){:target="_blank"}.
 
-![A screenshot of Python download website. A cursor hovers over "Download Python 3.12.6.](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png "Python 3.12.6")
+[![A screenshot of Python download website. A cursor hovers over "Download Python 3.12.6.](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png)](https://www.python.org/downloads/ "Python 3.12.6"){:target="_blank"}
 
 Once it finishes downloading, open the installer.  
 In the installer:  

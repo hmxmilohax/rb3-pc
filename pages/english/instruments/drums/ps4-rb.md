@@ -14,7 +14,7 @@ toc: false
 
 ## NOTES
 
-* Requires installing and running the latest [Minatsuki](https://github.com/yanagiragi/Minatsuki/archive/refs/heads/main.zip) and [Minatsuki-Pro-Drums-Plus](https://github.com/stefman69/Minatsuki-Pro-Drums-Plus) files.
+* Requires installing and running the latest [Minatsuki](https://github.com/yanagiragi/Minatsuki/){:target="_blank"} and [Minatsuki-Pro-Drums-Plus](https://github.com/stefman69/Minatsuki-Pro-Drums-Plus){:target="_blank"} files.
 * You need a Bluetooth receiver to connect these drums to your computer.
     * Latency may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * Works **with or without** the Pro Cymbal expansions.
@@ -60,9 +60,9 @@ This is so you can change configuration profiles in case you want to play games 
 ### Initial Setup
 First, we're going to download the latest version of [[Python 3]](https://www.python.org/downloads/){:target="_blank"}.
 
-[[Click here to go to the download page for Python 3]](https://www.python.org/downloads/){:target="_blank"}.
+[![Click here to go to the download page for Python 3]](https://www.python.org/downloads/){:target="_blank"}.
 
-![A screenshot of Python download website. A cursor hovers over "Download Python 3.12.6.](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png "Python 3.12.6")
+[![A screenshot of Python download website. A cursor hovers over "Download Python 3.12.6.](https://rb3pc.milohax.org/images/xtra/rpc/pydl.png)](https://www.python.org/downloads){:target="_blank"} "Python 3.12.6")
 
 Once it finishes downloading, open the installer.  
 In the installer:  
@@ -70,21 +70,21 @@ In the installer:
 2. Click `Install now`  
 ![A screenshot of Python's installer. "Add python.exe to PATH" and "Install now" are highlighted in tan with a dotted black outline.](https://rb3pc.milohax.org/images/xtra/rpc/pyinstall.png "Python 3.12.6")
 
-Now, go to [[Minatsuki's Github page]](https://github.com/yanagiragi/Minatsuki) and download the code ZIP.
+Now, go to [[Minatsuki's Github page]](https://github.com/yanagiragi/Minatsuki){:target="_blank"} and download the code ZIP.
 
-![A screenshot of Minatsuki's Github page. The green "Code" button was clicked and the cursor is over the "Download ZIP" option.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina1.png "Github: Minatsuki")
+[![A screenshot of Minatsuki's Github page. The green "Code" button was clicked and the cursor is over the "Download ZIP" option.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina1.png)](https://github.com/yanagiragi/Minatsuki/archive/refs/heads/main.zip "Github: Minatsuki"){:target="_blank"}
 
 Extract the `.zip` file into a folder.  
-Now go to [[Minatsuki-Pro-Drums-Plus' Github page]](https://github.com/stefman69/Minatsuki-Pro-Drums-Plus) and download the code ZIP.
+Now go to [[Minatsuki-Pro-Drums-Plus' Github page]](https://github.com/stefman69/Minatsuki-Pro-Drums-Plus){:target="_blank"} and download the code ZIP.
 
-![A screenshot of Minatsuki-Pro-Drums-Plus' Github page. The green "Code" button was clicked and the cursor is over the "Download ZIP" option.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina2.png "Github: Minatsuki-Pro-Drums-Plus")
+[![A screenshot of Minatsuki-Pro-Drums-Plus' Github page. The green "Code" button was clicked and the cursor is over the "Download ZIP" option.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina2.png)](https://github.com/stefman69/Minatsuki-Pro-Drums-Plus/archive/refs/heads/main.zip "Github: Minatsuki-Pro-Drums-Plus"){:target="_blank"}
 
 Combine Minatsuki-Pro-Drums-Plus' files with the Minatsuki files.  
-After that, click on the address bar at the top and type in `cmd` then press Enter.
+After that, click on the address bar at the top of the File Explorer, type in `cmd` then press Enter.
 
 ![A screenshot of a folder that contains the combined files of Minatsuki and Minatsuki-Pro-Drums-Plus. The address bar has been clicked and it says "cmd".](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina3.png "Explorer: Minatsuki")
 
-In the command line, type in in `pip install -r requirements.txt` then press Enter.
+In the command line, type in `pip install -r requirements.txt` then press Enter.
 
 ![A screenshot of a Windows command line. The command 'pip install -r requirements.txt' was typed in and entered and it downloaded.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina4.png "cmd: pywinusb")
 
@@ -92,7 +92,7 @@ After it installs, type in `pip install vgamepad` then press Enter.
 
 ![A screenshot of a Windows command line. The command 'pip install vgamepad' was typed in and entered and it downloaded.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/mina5.png "cmd: vgamepad")
 
-You may have to install ViGEm Bus. You can download that from [[here]](https://vigembusdriver.com/download/).
+You may have to install ViGEm Bus. You can download that from [[here]](https://vigembusdriver.com/download/){:target="_blank"}.
 
 ### Usage
 Synchronize your drums to your computer's Bluetooth receiver.
@@ -103,15 +103,11 @@ Double click the `main_xinput.py` file.
 
 ![A screenshot of a Windows Explorer. It shows the cursor over 'main_xinput.py' and it is highlighted.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/ps42.png "main_xinput")
 
-When the command line window opens, type in the number of your drum kit and press Enter. Sometimes, it might show up as multiple inputs but it's fine. Just pick one.
+When the command line window opens, type in the number of your drum kit and press Enter. Sometimes, it might show up as multiple inputs but it's fine. Just pick one and press Enter.
 
-![A screenshot of a command line running the 'main_xinput.py' script. It the Rock Band 4 kit drum kit along with other controllers in the selection. The Rock Band kit's number was selected and Enter was pressed.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/ps43.png "main_xinput")
+![A screenshot of a command line running the 'main_xinput.py' script. It shows the Rock Band 4 kit drum kit along with other controllers in the selection. The Rock Band kit's number was selected and Enter was pressed.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/ps43.png "main_xinput")
 
 Minimize this command line window. Make sure it stays running in the background.
-
-
-
-
 
 ## Mapping
 
