@@ -81,6 +81,11 @@ entries:
       output: web
       type: homepage
 
+    - title: "CRKD Les Paul (MP)"
+      url: /ctrls_crkdgtr_lp_mp
+      output: web
+      type: homepage
+
     - title: "Xbox One Rock Band 4"
       url: /ctrls_rb4drums_xbox
       output: web

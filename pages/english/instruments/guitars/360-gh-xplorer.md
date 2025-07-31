@@ -100,8 +100,8 @@ This is so you can change configuration profiles in case you want to play games 
 | Right Stick: <br/> Left/Right | ![Whammy Bar](https://rb3pc.milohax.org/images/btns/gtrs/wb.png "Whammy Bar") |
 | Right Stick: Down | ![Effects Switch](https://rb3pc.milohax.org/images/btns/gtrs/fx.png "Effects Switch") |
 | R1 | ![Tilt](https://rb3pc.milohax.org/images/btns/gtrs/ts.gif "Tilt") |
-| Start | ![Plus](https://rb3pc.milohax.org/images/btns/ctrls/360/start.png "Start") |
-| Select | ![Minus](https://rb3pc.milohax.org/images/btns/ctrls/360/back.png "Back") |
+| Start | ![Start](https://rb3pc.milohax.org/images/btns/ctrls/360/start.png "Start") |
+| Select | ![Back](https://rb3pc.milohax.org/images/btns/ctrls/360/back.png "Back") |
 | PS Button | ![Home](https://rb3pc.milohax.org/images/btns/ctrls/360/home.png "Home") |
 
 ## Profile
