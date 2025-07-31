@@ -56,7 +56,7 @@ toc: false
 
 #### Configuración de la app de CRKD:
 
-![Una captura de la aplicación de CRKD. La guitarra esta configurada para PC y esta puesta en Mode 1, cual es la configuración por defecto. Disable DPad esta desactivado.](https://rb3pc.milohax.org/images/instruments/xtra/crkdlp/custom.jpg "CRKD CTRL")
+![Una captura de la aplicación de CRKD. La guitarra esta configurada para PC y esta puesta en Mode 1, cual es la configuración por defecto. Disable DPad esta desactivado.](https://rb3pc.milohax.org/images/instruments/xtra/crkdlp/default.jpg "CRKD CTRL")
 
 #### Mapeo
 

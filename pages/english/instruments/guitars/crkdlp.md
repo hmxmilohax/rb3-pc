@@ -56,7 +56,7 @@ toc: false
 
 #### CRKD App Setup
 
-![A screenshot of the CRKD CTRL application. The guitar is configured for PC and it's set to Mode 1, which is the default mapping. Disable DPad is Off.](https://rb3pc.milohax.org/images/instruments/xtra/doohickey/default.jpg "CRKD CTRL")
+![A screenshot of the CRKD CTRL application. The guitar is configured for PC and it's set to Mode 1, which is the default mapping. Disable DPad is Off.](https://rb3pc.milohax.org/images/instruments/xtra/crkdlp/default.jpg "CRKD CTRL")
 
 #### Mapping
 
