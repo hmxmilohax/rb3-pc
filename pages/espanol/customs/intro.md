@@ -18,8 +18,7 @@ La guía va cubrir varios pasos para evitar problemas antes de que pasen. Tambi�
 * Crasheos causadas por calidad
 
 ### Requisitos:
-* Una consola PS3 con HEN o CFW (con una manera de meterle archivos) o [[el emulador RPCS3
-]](https://rb3pc.milohax.org/gs_disc_es/){:target="_blank"}
+* Una consola PS3 con HEN o CFW (con una manera de meterle archivos) o [[el emulador RPCS3]](https://rb3pc.milohax.org/gs_disc_es/){:target="_blank"}.
 * [[Una instalación de Rock Band 3 Deluxe]](https://rb3dx.milohax.org/index_es.html){:target="_blank"}
 * Una version de [[Nautilus]](https://nemosnautilus.com/nautilus/){:target="_blank"} actual (antes conocido como C3 CON Tools)
 	* [[Enlace alternativo]](https://github.com/trojannemo/Nautilus/releases/){:target="_blank"}

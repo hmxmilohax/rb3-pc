@@ -62,14 +62,14 @@ Abajo a la izquierda, asegúrate que `Encrypt .mid.edat` este activado, y elije 
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutfoldermergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Folders (PS3)&quot; y &quot;Encrypted .mid.edat&quot; esta activado." title="Quick Convert">
 <h4>6.</h4>
 <p><em>(Opcional pero recomendado)</em><br>
-Con estos métodos, el PKG va crear una carpeta con un nombre generado automáticamente. Por defecto, va a salir como <code>OxxxxxSongName</code>, con <code>SongName</code> siendo el nombre de la primera canción.<br>
-Recomendamos cambiar la opción de <code>Combine into one new USRDIR subfolder per pack</code> por la de <code>Custom USRDIR subfolder</code> y ponerle el nombre que tu quieras.<br>
+Por defecto, Onyx va a generar una carpeta con un nombre basado en la primera (o unica) canción en el paquete, como <code>OxxxxxSongName</code>.<br>
+Es recomendando usar un nombre personalizado. Simplemente, cambia la opción de <code>Combine into one new USRDIR subfolder per pack</code> a la de <code>Custom USRDIR subfolder</code> y entra el nombre que tu quieras.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3mergees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor esta sobre &quot;Custom USRDIR subfolder&quot; en vez de &quot;Keep original USRDIR subfolders&quot;." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepackes.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. El paquete fue nombrado &quot;paquete_de_customs.&quot;" title="Quick Convert"></p>
 <h4>7.</h4>
 <p><em>(Opcional pero recomendado)</em><br>
 Como estas creando una carpeta con archivos sueltos, puedes tener carpetas mas grandes que el tamaño que viene por defecto en Onyx (4000 MiB o 4.1 GBs). Puedes usar esto para crear carpetas mas grandes que 4GB.<br>
-Simplemente, entra un numero alto como <code>99999</code> en la parte abajo a la izquierda.<br>
+Simplemente, entra cualquier en la parte abajo a la izquierda.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxmakepackfilesizees.png" alt="Una captura de la pantalla de Quick Convert dentro de Onyx. &quot;Max Pack Size (MiB)&quot; esta puesto en &quot;99999&quot;." title="Quick Convert"></p>
 <h4>8.</h4>
 <p>Abajo va ver un un botón verde que dice <code>Make pack</code> o <code>Start</code> si elegiste la opción de <code>Make Songs</code><br>
@@ -79,8 +79,6 @@ Si vas a instalar el paquete a un PS3 por FTP, elije cualquier carpeta que te co
 <img src="https://rb3pc.milohax.org/images/xtra/customs/savefolderes.png" alt="Una captura de un explorador de archivos. La carpeta de &quot;dev_hdd0&quot; esta elegida y el cursor esta sobre &quot;Select folder.&quot;" title="Select Folder"></p>
 <p>Cuando termines, tendrás las canciones en la carpeta, listas para jugar, si estas en emulador.<br>
 Si estas en PS3, tendrás que copiar la carpeta por FTP a <code>dev_hdd0/game/BLUS30463/USRDIR</code>.
-Hasta puedes actualizar tu colección musical mientras estés dentro del juego con RB3DX. Dentro de Rock Band 3, ve a:</p>
-<p><code>Opciones &gt; Extras &gt; Actualizar Colección Musical</code> para cargar las canciones nuevas.</p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxcreatedrpcs3mergees.png" alt="Una captura de Onyx con su pantalla de nombrar el paquete. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert"></p>
 
 </div>

@@ -15,7 +15,7 @@ entries:
       output: web
       type: homepage
 
-    - title: "Xbox 360 CONs to PS3/RPCS3 Format"
+    - title: "Xbox 360 CONs to PS3/RPCS3 format"
       url: /customs_360toPS3
       output: web
       type: homepage
@@ -25,8 +25,13 @@ entries:
       output: web
       type: homepage
 
-    - title: "Merging Song Folders"
+    - title: "Merging song folders"
       url: /customs_merging
+      output: web
+      type: homepage
+
+    - title: "Deleting songs from packs"
+      url: /customs_deleting
       output: web
       type: homepage
 
