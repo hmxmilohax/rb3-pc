@@ -74,8 +74,6 @@ If you're going to be installing to a PS3 via FTP, select the most convenient fo
 <img src="https://rb3pc.milohax.org/images/xtra/customs/savefolder.png" alt="A screenshot of a file browser window. A location is set and the cursor is over &quot;Select Folder.&quot;" title="Select Folder"></p>
 <h4 id="section-1">10.</h4>
 <p>It should successfully convert and auto-install into your RPCS3 directory, ready to play.<br>
-If using RB3DX, you can even do this while the game is running. Within RB3, select:<br>
-<code>Options &gt; Extras &gt; Refresh Library</code> to reload your song list.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
 </div>
 <div role="tabpanel" class="tab-pane" id="pkg">

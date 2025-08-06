@@ -80,8 +80,6 @@ Si vas a instalar el paquete a un PS3 por FTP, elije cualquier carpeta que te co
 <h4 id="section-1">10.</h4>
 <p>Cuando termines, tendrás las canciones en la carpeta, listas para jugar, si estas en emulador.<br>
 Si estas en PS3, tendrás que copiar la carpeta por FTP a <code>dev_hdd0/game/BLUS30463/USRDIR</code>.
-Hasta puedes actualizar tu colección musical mientras estés dentro del juego con RB3DX. Dentro de Rock Band 3, ve a:<br>
-<code>Opciones &gt; Extras &gt; Actualizar Colección Musical</code> para cargar las canciones nuevas.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxbatchfinish.png" alt="A screenshot of Onyx's Batch Recompile Task tab. It is showing an in-progress conversion." title="Batch Recompile"></p>
 
 </div>

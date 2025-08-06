@@ -76,11 +76,6 @@ entries:
       output: web
       type: homepage
 
-    - title: "CRKD Les Paul (MP)"
-      url: /ctrls_crkdgtr_lp_mp_es
-      output: web
-      type: homepage
-
     - title: "Rock Band 4 para Xbox One"
       url: /ctrls_rb4drums_xbox_es
       output: web
@@ -148,6 +143,11 @@ entries:
 
     - title: Kit de RetroCultMods
       url: /ctrls_modgtr_rcmsl_es
+      output: web
+      type: homepage
+
+    - title: "CRKD Les Paul (MP)"
+      url: /ctrls_crkdgtr_lp_mp_es
       output: web
       type: homepage
 

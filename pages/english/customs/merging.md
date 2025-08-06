@@ -62,8 +62,8 @@ At the bottom left, make sure `Encrypt .mid.edat` is enabled, then select betwee
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutfoldermerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Folders (PS3)&quot; and &quot;Encrypted .mid.edat&quot; has been enabled." title="Quick Convert">
 <h4>6.</h4>
 <p><em>(Optional but highly recommended)</em><br>
-With these methods, the USRDIR subfolder will have an auto-generated name. It'll be <code>OxxxxxSongName</code>, with the <code>SongName</code> being the first song in the pack.<br>
-If you want to find the folder easily, it's recommended to select <code>Custom USRDIR subfolder</code> instead of <code>Combine into one new USRDIR subfolder per pack</code> and entering the name of your choice.<br>
+By default, Onyx will generate a folder with a name based on the first (or only) song in the pack, like <code>OxxxxxSongName</code>.<br>
+It's suggested to enter a custom name. Simply change <code>Combine into one new USRDIR subfolder per pack</code> to <code>Custom USRDIR subfolder</code>.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamerpcs3merge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert">
 <h4>7.</h4>
@@ -87,8 +87,8 @@ If using RB3DX, you can even do this while the game is running. Within RB3, sele
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxoutpkgmerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;PS3 (PS3)&quot; and &quot;Encrypted .mid.edat&quot; has been enabled." title="Quick Convert">
 <h4>6.</h4>
 <p><em>(Optional but highly recommended)</em><br>
-With these methods, the USRDIR subfolder will have an auto-generated name. It'll be <code>OxxxxxSongName</code>, with the <code>SongName</code> being the first song in the pack.<br>
-If you want to find the folder easily, it's recommended to select <code>Custom USRDIR subfolder</code> instead of <code>Combine into one new USRDIR subfolder per pack</code> and entering the name of your choice.<br>
+By default, Onyx will generate a PKG that outputs a folder with a name based on the first (or only) song in the pack, like <code>OxxxxxSongName</code>.<br>
+It's suggested to enter a custom name. Simply change <code>Combine into one new USRDIR subfolder per pack</code> to <code>Custom USRDIR subfolder</code>.<br>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxfoldernamepkgmerge.png" alt="A screenshot of Onyx's Quick Convert screen. The cursor is selecting &quot;Custom USRDIR subfolder&quot; where &quot;Keep original USRDIR subfolders&quot; once was." title="Quick Convert"></p>
 <img src="https://rb3pc.milohax.org/images/xtra/customs/onyxnamepack.png" alt="A screenshot of Onyx's USRDIR naming popup. The pack has been named &quot;my_custom_pack.&quot;" title="Quick Convert">
 <h4>7.</h4>

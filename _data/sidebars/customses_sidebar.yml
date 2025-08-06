@@ -25,12 +25,17 @@ entries:
       output: web
       type: homepage
 
-    - title: "Combinando Carpetas de Customs"
+    - title: "Combinando carpetas de Customs"
       url: /customs_merging_es
       output: web
       type: homepage
 
-    - title: Problemas y Soluciones
+    - title: "Eliminando canciones de paquetes"
+      url: /customs_deleting_es
+      output: web
+      type: homepage
+
+    - title: Problemas y soluciones
       url: /customs_troubleshooting_es
       output: web
       type: homepage
