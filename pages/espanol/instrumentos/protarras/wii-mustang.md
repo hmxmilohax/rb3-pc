@@ -25,10 +25,13 @@ toc: false
 
 | Interfaces de MIDI a USB <br> verificadas |
 |:------------------:|
+| **CME** <br> C2MIDI Pro |
+| **CME** <br> U2MIDI Pro |
 | **Focusrite** <br> Scarlett (4i4 o mejor) [Gen 3a] |
 | **M-Audio** <br> Midisport Uno |
 | **MOTU** <br> M2/M4 |
 | **Roland** <br> UM-ONE mk2 |
+| **SSL** <br> +2 MKII |
 
 ## Instrucciones
 

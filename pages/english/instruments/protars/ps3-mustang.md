@@ -26,10 +26,13 @@ toc: false
 
 | Verified <br> MIDI to USB interfaces |
 |:------------------:|
+| **CME** <br> C2MIDI Pro |
+| **CME** <br> U2MIDI Pro |
 | **Focusrite** <br> Scarlett (4i4 and higher) [3rd Gen] |
 | **M-Audio** <br> Midisport Uno |
 | **MOTU** <br> M2/M4 |
 | **Roland** <br> UM-ONE mk2 |
+| **SSL** <br> +2 MKII |
 
 ## Instructions
 
