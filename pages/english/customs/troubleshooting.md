@@ -19,14 +19,7 @@ You can solve this issue by correcting the IDs with Nautilus.
 
 ### Fixing IDs Before Installing
 
-1\. Open Nautilus and select `Batch DTA Processor`.   
-![A screenshot of Nautilus. A cursor hovers over "Batch Processor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomebatchproc.png "Nautilus")
-
-2\. Drag and drop any CON in your folder of customs you want to install then click `Begin` to start processing the entire folder.  
-**Make sure that `Automatically change alphanumeric songs IDs to unique numeric IDs` is enabled!**  
-![A GIF of Nautilus' Batch DTA Processor. Songs are being dragged then dropped into it then, after "Begin" is click, it starts processing.](https://rb3pc.milohax.org/images/xtra/customs/nautilusbatchfix.gif "Batch DTA Processor")
-
-3\. After it's done, you can close out `Batch DTA Processor` and go back to step 4 of [[the main tutorial]](https://rb3pc.milohax.org/customs_360toPS3#4){:target="_blank"}.
+1\. Simply follow the [[the main Xbox 360 to PS3 guide]](https://rb3pc.milohax.org/customs_360toPS3#4){:target="_blank"}. It preemptively takes care of this issue.
 
 ### Fixing IDs of Installed Songs
 

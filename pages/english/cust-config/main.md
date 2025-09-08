@@ -144,22 +144,23 @@ To make things easier, all configuration tweaks have been color coded.
 <!-- IO Start -->
 <p><strong>Make sure your MIDI instrument is connected.</strong><br>
 <strong>YOU MAY HAVE TO MAKE THE WINDOW WIDER TO READ THE OPTIONS!</strong></p>
-<p><img src="https://rb3pc.milohax.org/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing &quot;Emulated MIDI Devices&quot;, &quot;device type&quot;, and &quot;device selection&quot; highlighted in tan with a solid outline, and &quot;Pad Handler Mode&quot; and &quot;Keep Pads Connected&quot; highlighted in blue with a dotted outline." title="I/O"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/io.png" alt="A screenshot of Rock Band 3's I/O custom settings, showing &quot;Keyboard Handler&quot;, Emulated MIDI Devices&quot;, &quot;device type&quot;, and &quot;device selection&quot; highlighted in tan with a solid outline, and &quot;Pad Handler Mode&quot; and &quot;Keep Pads Connected&quot; highlighted in blue with a dotted outline." title="I/O" target="_blank" rel="noopener noreferrer"></p>
 <ul>
 <li>
-<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square"> <strong>Performance Tweaks</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="A blue square with a dotted outline." title="Tan Square" target="_blank" rel="noopener noreferrer"> <strong>Performance Tweaks</strong>:</p>
 <ul>
 <li><strong>Change “<code>Pad Handler Mode</code>” to “<code>Multi-threaded</code>”</strong> - May help with thread distribution, which improves performance.</li>
 <li><strong>Enable “<code>Keep Pads Connected</code>”</strong> - This can help fix a problem with certain instrument controllers softlocking the game when RPCS3 interfaces, such as the RPCN invites, come up.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square"> <strong>Recommended</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="A tan square with a solid outline." title="Tan Square" target="_blank" rel="noopener noreferrer"> <strong>Recommended</strong>:</p>
 <ul>
-<li>🎹 <strong><a href="https://rb3pc.milohax.org/ctrls_keys_midi" target="_blank">[MIDI Keyboard Players]</a>: Leave your “<code>Emulated MIDI type</code>” on “<code>Keyboard</code>” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
-<li>🎸 <strong><a href="https://rb3pc.milohax.org/ctrls_protar_midi" target="_blank">[MIDI Pro Guitar Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Guitar (17 Frets)</code>” if you have a Mustang Pro Guitar, or “<code>Guitar (22 Frets)</code>” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>🥁 <strong><a href="https://rb3pc.milohax.org/ctrls_drums_midi" target="_blank">[MIDI Pro Drums Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Drums</code>”, then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
-<li>Revisit the <a href="https://rb3pc.milohax.org/ctrls" target="_blank">[Controllers page]</a> if you need help.</li>
+<li><strong>Change “<code>Keyboard Handler</code>” to “<code>Basic</code>”</strong> to use features such as searching in the song library on Rock Band 3 Deluxe.</li>
+<li>🎹 <strong><a href="https://rb3pc.milohax.org/ctrls_keys_midi" target="_blank" rel="noopener noreferrer">[MIDI Keyboard Players]</a>: Leave your “<code>Emulated MIDI type</code>” on “<code>Keyboard</code>” and select your keyboard or MIDI interface in the drop-down menu next to it</strong>.</li>
+<li>🎸 <strong><a href="https://rb3pc.milohax.org/ctrls_protar_midi" target="_blank" rel="noopener noreferrer">[MIDI Pro Guitar Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Guitar (17 Frets)</code>” if you have a Mustang Pro Guitar, or “<code>Guitar (22 Frets)</code>” if you have a Squier Pro Guitar, then select your MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>🥁 <strong><a href="https://rb3pc.milohax.org/ctrls_drums_midi" target="_blank" rel="noopener noreferrer">[MIDI Pro Drums Players]</a>: Change your “<code>Emulated MIDI type</code>” from “<code>Keyboard</code>” to “<code>Drums</code>”, then select your MIDI Drum Kit or MIDI to USB interface in the drop-down menu next to it</strong>.</li>
+<li>Revisit the <a href="https://rb3pc.milohax.org/ctrls" target="_blank" rel="noopener noreferrer">[Controllers page]</a> if you need help.</li>
 </ul>
 </li>
 </ul>

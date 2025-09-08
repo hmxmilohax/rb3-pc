@@ -21,15 +21,7 @@ Puedes resolver este problema con Nautilus.
 
 ### Arreglar los IDs antes de instalar
 
-1\. Abre Nautilus y elije `Batch DTA Processor`.   
-![Una captura de Nautilus. El cursor esta sobre "Batch Processor."](https://rb3pc.milohax.org/images/xtra/customs/nautilushomebatchproc.png "Nautilus")
-
-2\. Arrastra cualquier archivo CON de tu carpeta a Nautilus y **asegúrate que `Automatically change alphanumeric song IDs` esté activado.**  
-Haz click en `Begin` para procesar todos los archivos CON seleccionados.  
-Cuando termine, cierra `Batch Processor`.  
-![Una animación de Nautilus' Batch DTA Processor. Las canciones son arrastradas a la pantalla y luego empiezan a hacer procesadas después de presionar "Begin."](https://rb3pc.milohax.org/images/xtra/customs/nautilusbatchfix.gif "Batch DTA Processor")
-
-3\. Cuando termine, puedes cerrar `Batch Processor` y continuar con la cuarta parte del [[tutorial principal]](https://rb3pc.milohax.org/customs_360toPS3_es#4){:target="_blank"}.
+1\. Simplemente sigue el [[tutorial de Xbox 360 a PS3]](https://rb3pc.milohax.org/customs_360toPS3_es){:target="_blank"}. Esta diseñado para evitar que pase esto.
 
 ### Arreglando IDs de customs que ya están instaladas
 

@@ -16,7 +16,9 @@ Ahora que el juego esta en la biblioteca de RPCS3, vamos a descargar unos archiv
 Abajo están los archivos para instalar una configuración rápida. Descarga lo que queda bien con tu computadora.
 
 * [[Configuración recomendada]](https://rb3pc.milohax.org/downloads/customconfigs/recommended_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos recomendados](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+    * [[Configuración recomendada (Ingles)]](https://rb3pc.milohax.org/downloads/customconfigs/recommended.zip){:target="_blank"} - Lo mismo que arriba pero el juego estará en Ingles.
 * [[Configuración mínima]](https://rb3pc.milohax.org/downloads/customconfigs/minimum_es.zip){:target="_blank"} - Esta configuración es para computadoras que son igual (o mejor) que [los requisitos mínimos](https://rb3pc.milohax.org/gs_reqs_es#una-computadora){:target="_blank"}.
+    * [[Configuración mínima (Ingles)]](https://rb3pc.milohax.org/downloads/customconfigs/minimum.zip){:target="_blank"} - Lo mismo que arriba pero el juego estará en Ingles.
 
 ## Como Aplicar El Perfil
 Para usar estos archivos, **haz click en las configuración que quieres bajar y luego extrae los archivos en la carpeta donde esta RPCS3**. Las carpetas se combinaran si lo hiciste bien.
@@ -139,6 +141,10 @@ Ahora solo falta:
                     <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
+
+## Configuración de baja gama experimental
+* [[Configuración de baja gama]](https://rb3pc.milohax.org/downloads/customconfigs/potato_es.zip){:target="_blank"} - Esta configuración es la misma que la mínima pero usa OpenGL, diseñada para computadoras que tengan gráficas integradas. Combina esta configuración con fondos negros y sin escenarios para ver si tu computadora puede con Rock Band 3 en RPCS3. **¡No se recomienda al menos que quieras probar!**
+    * [[Configuración de baja gama (Ingles)]](https://rb3pc.milohax.org/downloads/customconfigs/potato.zip){:target="_blank"} - Lo mismo que arriba pero el juego estará en Ingles.
 
 {% include custom/series_empezando_next.html %}
 

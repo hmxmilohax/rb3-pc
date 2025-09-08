@@ -129,6 +129,9 @@ The only things left to do are:
 </div>
 <!-- /.panel-group -->
 
+## Experimental Low End Configuration
+* [[Potato Settings]](https://rb3pc.milohax.org/downloads/customconfigs/potato.zip){:target="_blank"} - The same as the minimum configuration but using OpenGL, meant for computers with integrated graphics. Double this up with black backgrounds and your potato might boot Rock Band 3 on RPCS3. **This is not recommended!**
+
 {% include custom/series_getting_started_next.html %}
 
 {% include links.html %}

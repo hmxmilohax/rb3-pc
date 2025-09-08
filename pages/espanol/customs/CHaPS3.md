@@ -12,7 +12,7 @@ toc: false
 
 <span style="font-size:x-large;">ADVERTENCIA - LEE ESTO ANTES DE TODO</span>
 
-¡Solo has esto como **último recurso** y si las canciones que quieres solo existen para juegos que son clones (Clone Hero/YARG). Si la canción originalmente existió en un formato para Rock Band (de manera oficial o por custom), **usa esa versión antes de todo y lee la guía principal**.
+¡Solo has esto como **último recurso** y si las canciones que quieres solo existen para juegos que son clones (Clone Hero/YARG). Si la canción originalmente existió en un formato para Rock Band (de manera oficial o por custom), **usa esa versión antes de todo y lee [[la guía principal]](https://rb3pc.milohax.org/customs_CHtoPS3_es)**.
 
 Toma esto en cuenta porque **si no lo haces, la canción va a perder muchos datos**, como:
 * Incompatibilidad con mejoras/actualizaciones por Rock Band 3 Deluxe

@@ -145,21 +145,22 @@ Para hacer todo mas facil, todos los ajustes han sido colorados.
 <!-- IO Start -->
 <p><strong>Asegúrate que tu instrumento de MIDI este conectado.</strong><br>
 <strong>Haz la ventana mas grande si no puedes leer las opciones.</strong></p>
-<p><img src="https://rb3pc.milohax.org/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando &quot;Emulated MIDI Devices&quot;, &quot;device type&quot; y &quot;device selection&quot; resaltados en cuadros bronceados con contornos solidos, y &quot;Pad Handler Mode&quot; y &quot;Keep Pads Connected&quot; en un cuadro azul con contorno punteado." title="I/O"></p>
+<p><img src="https://rb3pc.milohax.org/images/cust/io.png" alt="Una captura de la configuración personalizada de I/O de Rock Band 3, mostrando &quot;Pad Handler&quot;, Emulated MIDI Devices&quot;, &quot;device type&quot; y &quot;device selection&quot; resaltados en cuadros bronceados con contornos solidos, y &quot;Pad Handler Mode&quot; y &quot;Keep Pads Connected&quot; en un cuadro azul con contorno punteado." title="I/O" target="_blank" rel="noopener noreferrer"></p>
 <ul>
 <li>
-<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul"> <strong>Ajuste dependiendo de tu PC</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smallblue.png" alt="Un cuadro azul con contorno punteado." title="Cuadro azul" target="_blank" rel="noopener noreferrer"> <strong>Ajuste dependiendo de tu PC</strong>:</p>
 <ul>
 <li><strong>Cambia “<code>Pad Handler Mode</code>”</strong> (Modo de manejar controladores) <strong>a “<code>Multi-threaded</code>”</strong> si tienes una CPU con mas de 12 hilos/núcleos.</li>
 </ul>
 </li>
 <li>
-<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadrado bronceado." title="Cuadrado bronceado">: <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:</p>
+<p><img src="https://rb3pc.milohax.org/images/cust/smalltan.png" alt="Un cuadrado bronceado." title="Cuadrado bronceado" target="_blank" rel="noopener noreferrer">: <strong>Para jugadores de teclados MIDI, guitarra Pro, y baterías MIDI</strong>:</p>
 <ul>
-<li>🎹 <strong><a href="https://rb3pc.milohax.org/ctrls_keys_midi_es" target="_blank">[Jugadores de teclado]</a>: Deja el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) en “<code>Keyboard</code>” (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
-<li>🎸 <strong><a href="https://rb3pc.milohax.org/ctrls_protar_midi_es" target="_blank">[Jugadores de Guitarra Pro]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Guitar (17 Frets)</code>”</strong> (guitarra (17 trastes)) <strong>si tienes una guitarra Pro Mustang, o “<code>Guitar (22 Frets)</code>”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
-<li>🥁 <strong><a href="https://rb3pc.milohax.org/ctrls_drums_midi_es" target="_blank">[Jugadores con Baterías MIDI]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Drums</code>” (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
-<li>Si necesitas mas ayuda, dale otra visita a la <a href="https://rb3pc.milohax.org/ctrls_es" target="_blank">[pagina de instrumentos]</a>.</li>
+<li>🎹 <strong>Cambia “<code>Keyboard Handler</code>” a “<code>Basic</code>”</strong> para poder buscar con dentro de la colección de música en Rock Band 3 Deluxe.</li>
+<li>🎹 <strong><a href="https://rb3pc.milohax.org/ctrls_keys_midi_es" target="_blank" rel="noopener noreferrer">[Jugadores de teclado]</a>: Deja el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) en “<code>Keyboard</code>” (teclado) y selecciona tu teclado o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>🎸 <strong><a href="https://rb3pc.milohax.org/ctrls_protar_midi_es" target="_blank" rel="noopener noreferrer">[Jugadores de Guitarra Pro]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Guitar (17 Frets)</code>”</strong> (guitarra (17 trastes)) <strong>si tienes una guitarra Pro Mustang, o “<code>Guitar (22 Frets)</code>”</strong> (guitarra (22 trastes)) <strong>si tienes una guitarra Pro Squier, luego selecciona tu interfaz MIDI a USB en el menú desplegable junto a él</strong>.</li>
+<li>🥁 <strong><a href="https://rb3pc.milohax.org/ctrls_drums_midi_es" target="_blank" rel="noopener noreferrer">[Jugadores con Baterías MIDI]</a>: Cambia el “<code>Emulated MIDI type</code>” (Tipo de MIDI emulado) de “<code>Keyboard</code>” (teclado) a “<code>Drums</code>” (batería), y selecciona tu batería o interfaz MIDI en el menú desplegable junto a él</strong>.</li>
+<li>Si necesitas mas ayuda, dale otra visita a la <a href="https://rb3pc.milohax.org/ctrls_es" target="_blank" rel="noopener noreferrer">[pagina de instrumentos]</a>.</li>
 </ul>
 </li>
 </ul>

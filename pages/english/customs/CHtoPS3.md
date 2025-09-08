@@ -12,7 +12,7 @@ toc: false
 
 <span style="font-size:x-large;">DISCLAIMER - READ BEFORE CONTINUING</span>
 
-Do this as a **last resort** if the charts you want to convert were specifically made for PC clone games (Clone Hero/YARG). If the chart originally existed in RB format, whether it be official DLC or customs, **get that first and follow the main guide at the top!**
+Do this as a **last resort** if the charts you want to convert were specifically made for PC clone games (Clone Hero/YARG). If the chart originally existed in RB format, whether it be official DLC or customs, **get that first and follow [[the Xbox 360 to PS3 guide]](https://rb3pc.milohax.org/customs_CHtoPS3)!**
 
 **Failure to do so will result in lost metadata** associated with the original song package, including:
 * Incompatibility with any song upgrades in RB3DX
