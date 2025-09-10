@@ -49,9 +49,12 @@ Abajo de la primera línea de botones grises, haz click en el primer menú y lue
 ![Una captura de la pantalla de Quick Convert dentro de Onyx. El cursor presiono "Make songs: produced a single file for each song" y despues elije "Make packs: combine songs up to a maximum file size."](https://rb3pc.milohax.org/images/xtra/customs/onyxmakepacksmergees.png "Quick Convert")
 
 #### 5.
-Abajo a la izquierda, asegúrate que `Encrypt .mid.edat` este activado, y elije entre `PKG (PS3)` o `Folders (PS3)`. 
-* `Folders (PS3)` compila las canciones a un carpeta sin crear un archivo PKG. Esta opción es recomendada si usas RPCS3 o un PS3 con FTP. Es **mucho mas** rápido que hacer PKGs. También puedes crear carpetas mas grandes que 4 GBs.
-* `PKG (PS3)` compila un archivo PKG. Esto solo es recomendado si tienes un PS3 con cual tienes que usar una memoria USB para agregar canciones.
+Abajo a la izquierda:
+* Elige entre dejar `Encrypt mid.edat` activado o desactivado.
+  * ¡Mantén esto activo **solo si vas a compartir un paquete!** Usuarios de Deluxe no necesitan esto activado. Es mas rápido si los desactivas.
+* Elige entre `PKG (PS3)` o `Folders (PS3)`
+  * `Folders (PS3)` compila las canciones a un carpeta sin crear un archivo PKG. Esta opción es recomendada si usas RPCS3 o un PS3 con FTP. Es **mucho mas** rápido que hacer PKGs y puedes hacer carpetas que pesan mas de 4GB (4000 MiB).
+  * `PKG (PS3)` compila un archivo PKG. Esto solo es recomendado si tienes un PS3 con cual tienes que usar una memoria USB para agregar canciones.
 
 <ul id="profileTabs" class="nav nav-tabs">
     <li class="active"><a href="#folders" data-toggle="tab">Folders (PS3)</a></li>

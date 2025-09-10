@@ -49,9 +49,12 @@ Below the first row of gray buttons, click the first menu and select `Make Packs
 ![A screenshot of Onyx's Quick Convert screen. "Make songs: produced a single file for each song" has been clicked and the cursor is over "Make packs: combine songs up to a maximum file size."](https://rb3pc.milohax.org/images/xtra/customs/onyxmakepacksmerge.png "Quick Convert")
 
 #### 5.
-At the bottom left, make sure `Encrypt .mid.edat` is enabled, then select between either `PKG (PS3)` or `Folders (PS3)`.  
-* `Folders (PS3)` is recommended for RPCS3 users and PS3 users who know how to use FTP. It is **much** faster than PKG creation. You can also bypass the 4GB folder limit.
-* `PKG (PS3)` is only recommended for PS3 users who can only use USB flash drives to add more songs.
+At the bottom left:
+* Choose between keeping `Encrypt .mid.edat` enabled or disabled.
+  * You should **only keep this on if you're sharing a package**. Rock Band 3 Deluxe users don't need activated. It's much faster with it disabled.
+* Select between either `PKG (PS3)` or `Folders (PS3)`.  
+  * `Folders (PS3)` is recommended for **RPCS3 users and PS3 users** who know how to use FTP. It is **much** faster than PKG creation and can bypass the 4GB (4000 MiB) max pack size.
+  * `PKG (PS3)` is only recommended for PS3 users who can only use USB flash drives to add more songs.
 
 <ul id="profileTabs" class="nav nav-tabs">
     <li class="active"><a href="#folders" data-toggle="tab">Folders (PS3)</a></li>
