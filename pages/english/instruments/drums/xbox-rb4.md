@@ -23,6 +23,14 @@ toc: false
         * `Menu > Options > Drum Options`
 * RPCN Menus (for sending or accepting online invites) may cause a softlock. You may need an alternative input method to navigate these menus, such as [[a typing keyboard or a gamepad]](https://rb3pc.milohax.org/ctrls#gamepads){:target="_blank"}.
 
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>Having issues with your Xbox One instrument?</b> {{include.content}}</div>
+
+1. Go to `Start` > `Settings`  > `Apps` > `Installed apps`
+2. Look for `Microsoft GameInput` and uninstall the latest version.  
+Please note that it may reinstall itself after a reboot. We are looking for better solutions.  
+
+![Microsoft GameInput, being evil and being installed without the user's consent.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/gameinput.png "Installed apps")  
+
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
