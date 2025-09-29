@@ -10,11 +10,21 @@
 	* Disable All: Disable all backgrounds, because you're boring or a sweat (or your computer can't handle them).
 	* Menu Menu: Select the background for the main hub menu.
 	* Music Library: Select the background for the music library.
+	* Practice Mode:
+	* Song Transitions:
 * Select Venue: Select what venue you'll be playing in. You can disable it if you want to be boring.
-* Music Videos: Enable the psychedelic music video venues. Can help out with memory usage on consoles.
-* Rotate Venues: Swaps the venue per song while in a setlist.
-* Random Backup Band: Swaps the randomized stand-in characters after each setlist.
-* Track Theme: Customize the highway and make it look as cool as you want.
+* Graphics:
+	* Flashing Lights:
+	* Venue FPS
+	* Camera Shake
+	* Post Processing:
+		* Motion Blur
+		* Depth of Field
+		* Film Grain
+	* Advanced:
+		* VSync
+		* Self Shadows
+		* Detail Level
 ## Graphics
 * Venue FPS: Sets the FPS of the animated backgrounds while performing. Some stylistic effects may ignore this.
 * VSync: Disable Rock Band 3's built in vertical sync, which is terrible. Disable it here and enable VSync in RPCS3.
