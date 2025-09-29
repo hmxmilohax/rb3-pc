@@ -24,6 +24,14 @@ toc: false
 * Si tienes una Fender Jaugar, es posible que vas a necesitar instalar una [[actualización de firmware]](https://bit.ly/2UHzonU){:target="_blank"} para conectarla al receptor. [[Haz click aqui para mas información.]](https://bit.ly/2UHzonU){:target="_blank"}.
 * Menús de RPCN (para aceptar y mandar invitaciones para jugar en linea) pueden dejar el juego atorado. Recomendamos que tengas otra manera de controlar estos menús, como [[un teclado de PC o un mando estándar]](https://rb3pc.milohax.org/ctrls#gamepads_es){:target="_blank"}.
 
+<div markdown="span" class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>¿Tienes problemas conectando tu instrumento para Xbox One?</b> {{include.content}}</div>
+
+1. Ve a `Inicio` > `Configuración`  > `Aplicaciones` > `Aplicaciones instaladas`  
+2. Busca `Microsoft GameInput` y desinstala la versión mas actual.  
+Toma en cuenta que se puede reinstalar después de un reinicio. Estamos buscando soluciones mejores.  
+
+![Microsoft GameInput en la lista de aplicaciones instaladas, siendo mala y rompiendo instrumentos.](https://rb3pc.milohax.org/images/instruments/xtra/rb4/gameinput.png "Aplicaciones instaladas")  
+
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
                     <div class="panel panel-default">
