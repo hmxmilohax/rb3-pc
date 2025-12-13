@@ -16,7 +16,6 @@ toc: false
 
 * Requires installing and running [[**clipper**]](https://github.com/Rosalie241/clipper/){:target="_blank"} along with ViGEmBus.
     * It's suggested to plug the guitars in before launching Clipper for the best experience.
-    * If you need more than one PlayStation 4 Rock Band guitar connected, simply open up another instance of Clipper.
 * Latency on Jaguars and Stratocasters may be an issue depending on your Bluetooth receiver. This may make it difficult to calibrate.
 * PDP Riffmaster guitars require their respective dongle.  
 	![PDP Riffmaster Wireless Receiver](https://rb3pc.milohax.org/images/btns/ctrls/xbox/riffrec.png "PDP Riffmaster Wireless Receiver")
