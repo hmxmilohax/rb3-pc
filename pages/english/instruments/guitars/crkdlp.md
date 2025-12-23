@@ -17,6 +17,7 @@ toc: false
 * CRKD Les Paul guitars can be connected wirelessly via its respective dongle, Bluetooth, and wired via USB. For Bluetooth, you need a Bluetooth receiver to connect to your computer.
 	* Dongle or wired USB are the recommended methods.
 * To rebind your guitar, use the CRKD app on your phone (iOS/Android).
+* The guitar subtype is set to Rock Band which means tilt will work but flanger FX WILL BE FORCED
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">

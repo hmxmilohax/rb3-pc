@@ -17,6 +17,7 @@ toc: false
 * Guitarras CRKD Les Pauls pueden ser conectadas por USB o su propio receptor receptor inalámbrico o Bluetooth. Para Bluetooth, necesitas un receptor de Bluetooth para tu computadora.
 	* Receptor inalámbrico o cable de USB son los métodos recomendados.
 * Para cambiar la configuración de tu guitarra, necesitas usar la aplicación de CRKD en tu teléfono (iOS/Android).
+* La clase de guitarra está configurada en Rock Band, lo que significa que tilt funcionará, pero flanger FX SERÁ FORZADO
 
 <!-- Map Start -->
 <div class="panel-group" id="accordion">
