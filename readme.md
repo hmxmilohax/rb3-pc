@@ -1,11 +1,7 @@
 ## ⚠️STOP!⚠️
-
-This is the Github page meant for maintainers and contributors of this guide.
-
-If you want to view the guide, visit [[rb3pc.milohax.org]](https://rb3pc.milohax.org) instead.
+This project has been retired! Please visit the new guide [[here]](https://guides.milohax.org/en/)!  
+If you wish to contribute to the new guide, please [[click here]](https://github.com/hmxmilohax/guides).
 
 ## ⚠️!ALTO!⚠️
-
-Esta es la pagina de Github para mantenedores y contribuyentes de la guía.
-
-Si quieres leer la guía, mejor visita [[rb3pc.milohax.org]](https://rb3pc.milohax.org).
+!Este proyecto ha sido retirado retirado! Puedes visitar la nueva guía [[aquí]](https://guides.milohax.org/en/)!  
+Si quieres contribuir a la nueva guía, entra a [[este repositorio]](https://github.com/hmxmilohax/guides).
